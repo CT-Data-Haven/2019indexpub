@@ -1,0 +1,63 @@
+indicator	response
+satisfied_w_area	Yes,No,Don't know,Refused
+local_govt_responsive	Excellent,Good,Fair,Poor,Don't know enough about it in order to say,Refused
+police_approval	Excellent,Good,Fair,Poor,Don't know enough about it in order to say,Refused
+suitable_employment	Excellent,Good,Fair,Poor,Don't know enough about it in order to say,Refused
+good_to_raise_kids	Excellent,Good,Fair,Poor,Don't know enough about it in order to say,Refused
+good_cond_of_parks	Excellent,Good,Fair,Poor,Don't know enough about it in order to say,Refused
+influence_over_local_govt	Great influence,Moderate influence,A little influence,No influence at all,Don't know,Refused
+access_to_car	Very often,Fairly often,Sometimes,Almost never,Never at all,Don't know,Refused
+evicted	Yes,No,Don't know,Refused
+received_evict_notice	Yes,No,Don't know,Refused
+locations_in_walking_dist	Strongly agree,Somewhat agree,Somewhat disagree,Strongly disagree,Don't know,Refused
+safe_sidewalks	Strongly agree,Somewhat agree,Somewhat disagree,Strongly disagree,Don't know,Refused
+safe_biking	Strongly agree,Somewhat agree,Somewhat disagree,Strongly disagree,Don't know,Refused
+rec_facilities_avail	Strongly agree,Somewhat agree,Somewhat disagree,Strongly disagree,Don't know,Refused
+unsafe_walking_at_night	Strongly agree,Somewhat agree,Somewhat disagree,Strongly disagree,Don't know,Refused
+trust_neighbors	Strongly agree,Somewhat agree,Somewhat disagree,Strongly disagree,Don't know,Refused
+youth_have_role_models	Strongly agree,Somewhat agree,Somewhat disagree,Strongly disagree,Don't know,Refused
+neighbors_improving_area	Strongly agree,Somewhat agree,Somewhat disagree,Strongly disagree,Don't know,Refused
+would_save_fire_station	Very likely,Somewhat likely,Not very likely,Not at all likely,Don't know,Refused
+youth_likely_graduate_hs	Almost certain,Very likely,A toss up,Not very likely,Not at all likely,Don't know,Refused
+youth_likely_job_w_opportunity	Almost certain,Very likely,A toss up,Not very likely,Not at all likely,Don't know,Refused
+youth_likely_in_gang	Almost certain,Very likely,A toss up,Not very likely,Not at all likely,Don't know,Refused
+youth_likely_abuse_drugs_alc	Almost certain,Very likely,A toss up,Not very likely,Not at all likely,Don't know,Refused
+youth_likely_felony	Almost certain,Very likely,A toss up,Not very likely,Not at all likely,Don't know,Refused
+very_good_self_rate_health	Excellent,Very good,Good,Fair,Poor,Don't know,Refused
+life_satisfaction	Not at all satisfied,Only a little bit satisfied,Somewhat satisfied,Mostly satisfied,Completely satisfied,Don't know,Refused
+happy	Not at all,Only a little bit,Somewhat,Mostly,Completely,Don't know,Refused
+anxious	Not at all,Only a little bit,Somewhat,Mostly,Completely,Don't know,Refused
+diabetes	Yes,No,Don't know,Refused
+asthma1	Yes,No,Don't know,Refused
+asthma2	Yes,No,Don't know,Refused
+have_health_insurance	Yes,No,Don't know,Refused
+didnt_get_med_care	Yes,No,Don't know,Refused
+postponed_med_care	Yes,No,Don't know,Refused
+couldnt_afford_rx	Yes,No,Don't know,Refused
+altered_rx	Yes,No,Don't know,Refused
+med_home1	Yes,No,Don't know,Refused
+med_home2	More than one,None at all,Don't know,Refused
+visited_er	None,1 to 2,3 or more,Don't know,Refused
+dental_visit_past_yr	Within the last 6 months,More than 6 months but less than a year,More than a year but less than two years,More than two years ago,Never have gone to a dentist,Don't know,Refused
+receive_emotional_support	Always,Usually,Sometimes,Rarely,Never,Don't know,Refused
+depression	Not at all,Several days,More than half the days,Nearly every day,Don't know,Refused
+smoke1	Yes,No,Don't know,Refused
+smoke2	Every day,Some days,Not at all,Don't know,Refused
+heavy_drinking	None,One to five,Six to ten,More than ten,Don't know,Refused
+know_someone_abusing_opioids	No,Yes, one person,Yes, 2 to 4 people,Yes, 5 or more people,Don't know,Refused
+know_someone_died_opioids	No,Yes, one person,Yes, 2 to 4 people,Yes, 5 or more people,Don't know,Refused
+financial_insecurity	Living comfortably,Doing alright,Just getting by,Finding it difficult,Finding it very difficult,Don't know,Refused
+less_than_2mo_savings	Less than a month,At least one month but less than 2,At least 2 months but less than 6,At least 6 months but less than a year,At least a year but less than 2 years,Two years or more,Don't know,Refused
+in_debt	Something left over,Break even,Be in debt,Don't know,Refused
+underemp1	Yes,No, but would like to work,No, retired,No, homemaker,No, full time student,No, disabled,No, other,Refused
+underemp2	Full time,Part time,Other,Refused
+underemp3	By choice,Rather have a full time job,Refused
+food_insecurity	Yes,No,Don't know,Refused
+housing_insecurity	Yes,No,Don't know,Refused
+utility_insecurity	Yes,No,Don't know,Refused
+no_bank_account	Yes,No,Don't know,Refused
+discrim_in_workplace	Yes,No,Don't know,Refused
+discrim_by_police	Yes,No,Don't know,Refused
+discrim_getting_service	Yes,No,Don't know,Refused
+discrim_in_housing	Yes,No,Don't know,Refused
+discrim_in_healthcare	Yes,No,Don't know,Refused
