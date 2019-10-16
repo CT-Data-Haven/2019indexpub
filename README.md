@@ -3,4 +3,4 @@ Public releases of data from DataHaven's 2019 Community Index reports
 
 ## Format:
 
-(Fill this in)
+See [notes](./notes.md)

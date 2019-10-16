@@ -22,7 +22,8 @@ lvls_to_total <- cws_read %>%
 cws18 <- cws_read %>%
   map(mutate, category = fct_recode(category, !!!lvls_to_total)) %>%
   map(mutate, group = if_else(category == "Total", "Total", as.character(group)) %>%
-        as_factor())
+        as_factor()) %>%
+  map(~filter(., !str_detect(response, "^Summary:")))
 
 weights18 <- suppressWarnings(map(named_paths, clean_weights)) %>%
   map(mutate, year = survey_year)

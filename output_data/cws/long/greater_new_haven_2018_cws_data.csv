@@ -192,56 +192,48 @@ Q17A,Connecticut,Connecticut,Somewhat disagree,0.17,2018
 Q17A,Connecticut,Connecticut,Strongly disagree,0.29,2018
 Q17A,Connecticut,Connecticut,Don't know,0.01,2018
 Q17A,Connecticut,Connecticut,Refused,0,2018
-Q17A,Connecticut,Connecticut,Summary: Strongly/Somewhat agree,0.53,2018
 Q17B,Connecticut,Connecticut,Strongly agree,0.35,2018
 Q17B,Connecticut,Connecticut,Somewhat agree,0.25,2018
 Q17B,Connecticut,Connecticut,Somewhat disagree,0.12,2018
 Q17B,Connecticut,Connecticut,Strongly disagree,0.27,2018
 Q17B,Connecticut,Connecticut,Don't know,0.01,2018
 Q17B,Connecticut,Connecticut,Refused,0,2018
-Q17B,Connecticut,Connecticut,Summary: Strongly/Somewhat agree,0.6,2018
 Q17C,Connecticut,Connecticut,Strongly agree,0.31,2018
 Q17C,Connecticut,Connecticut,Somewhat agree,0.31,2018
 Q17C,Connecticut,Connecticut,Somewhat disagree,0.16,2018
 Q17C,Connecticut,Connecticut,Strongly disagree,0.21,2018
 Q17C,Connecticut,Connecticut,Don't know,0.02,2018
 Q17C,Connecticut,Connecticut,Refused,0,2018
-Q17C,Connecticut,Connecticut,Summary: Strongly/Somewhat agree,0.62,2018
 Q17E,Connecticut,Connecticut,Strongly agree,0.36,2018
 Q17E,Connecticut,Connecticut,Somewhat agree,0.33,2018
 Q17E,Connecticut,Connecticut,Somewhat disagree,0.13,2018
 Q17E,Connecticut,Connecticut,Strongly disagree,0.17,2018
 Q17E,Connecticut,Connecticut,Don't know,0.01,2018
 Q17E,Connecticut,Connecticut,Refused,0,2018
-Q17E,Connecticut,Connecticut,Summary: Strongly/Somewhat agree,0.69,2018
 Q17F,Connecticut,Connecticut,Strongly agree,0.14,2018
 Q17F,Connecticut,Connecticut,Somewhat agree,0.15,2018
 Q17F,Connecticut,Connecticut,Somewhat disagree,0.2,2018
 Q17F,Connecticut,Connecticut,Strongly disagree,0.49,2018
 Q17F,Connecticut,Connecticut,Don't know,0.01,2018
 Q17F,Connecticut,Connecticut,Refused,0,2018
-Q17F,Connecticut,Connecticut,Summary: Strongly/Somewhat agree,0.29000000000000004,2018
 Q17G,Connecticut,Connecticut,Strongly agree,0.47,2018
 Q17G,Connecticut,Connecticut,Somewhat agree,0.36,2018
 Q17G,Connecticut,Connecticut,Somewhat disagree,0.08,2018
 Q17G,Connecticut,Connecticut,Strongly disagree,0.06,2018
 Q17G,Connecticut,Connecticut,Don't know,0.02,2018
 Q17G,Connecticut,Connecticut,Refused,0,2018
-Q17G,Connecticut,Connecticut,Summary: Strongly/Somewhat agree,0.83,2018
 Q17H,Connecticut,Connecticut,Strongly agree,0.32,2018
 Q17H,Connecticut,Connecticut,Somewhat agree,0.41,2018
 Q17H,Connecticut,Connecticut,Somewhat disagree,0.13,2018
 Q17H,Connecticut,Connecticut,Strongly disagree,0.08,2018
 Q17H,Connecticut,Connecticut,Don't know,0.07,2018
 Q17H,Connecticut,Connecticut,Refused,0,2018
-Q17H,Connecticut,Connecticut,Summary: Strongly/Somewhat agree,0.73,2018
 Q17I,Connecticut,Connecticut,Strongly agree,0.32,2018
 Q17I,Connecticut,Connecticut,Somewhat agree,0.42,2018
 Q17I,Connecticut,Connecticut,Somewhat disagree,0.14,2018
 Q17I,Connecticut,Connecticut,Strongly disagree,0.07,2018
 Q17I,Connecticut,Connecticut,Don't know,0.04,2018
 Q17I,Connecticut,Connecticut,Refused,0,2018
-Q17I,Connecticut,Connecticut,Summary: Strongly/Somewhat agree,0.74,2018
 Q18,Connecticut,Connecticut,Very likely,0.51,2018
 Q18,Connecticut,Connecticut,Somewhat likely,0.29,2018
 Q18,Connecticut,Connecticut,Not very likely,0.09,2018
@@ -255,7 +247,6 @@ LIFECA,Connecticut,Connecticut,Not very likely,0.02,2018
 LIFECA,Connecticut,Connecticut,Not at all likely,0.01,2018
 LIFECA,Connecticut,Connecticut,Don't know,0.02,2018
 LIFECA,Connecticut,Connecticut,Refused,0,2018
-LIFECA,Connecticut,Connecticut,Summary: Almost certain/Very likely,0.8600000000000001,2018
 LIFECB,Connecticut,Connecticut,Almost certain,0.16,2018
 LIFECB,Connecticut,Connecticut,Very likely,0.41,2018
 LIFECB,Connecticut,Connecticut,A toss up,0.25,2018
@@ -263,7 +254,6 @@ LIFECB,Connecticut,Connecticut,Not very likely,0.11,2018
 LIFECB,Connecticut,Connecticut,Not at all likely,0.03,2018
 LIFECB,Connecticut,Connecticut,Don't know,0.04,2018
 LIFECB,Connecticut,Connecticut,Refused,0,2018
-LIFECB,Connecticut,Connecticut,Summary: Almost certain/Very likely,0.57,2018
 LIFECC,Connecticut,Connecticut,Almost certain,0.02,2018
 LIFECC,Connecticut,Connecticut,Very likely,0.06,2018
 LIFECC,Connecticut,Connecticut,A toss up,0.12,2018
@@ -271,7 +261,6 @@ LIFECC,Connecticut,Connecticut,Not very likely,0.37,2018
 LIFECC,Connecticut,Connecticut,Not at all likely,0.38,2018
 LIFECC,Connecticut,Connecticut,Don't know,0.03,2018
 LIFECC,Connecticut,Connecticut,Refused,0,2018
-LIFECC,Connecticut,Connecticut,Summary: Almost certain/Very likely,0.08,2018
 LIFECD,Connecticut,Connecticut,Almost certain,0.07,2018
 LIFECD,Connecticut,Connecticut,Very likely,0.2,2018
 LIFECD,Connecticut,Connecticut,A toss up,0.39,2018
@@ -279,7 +268,6 @@ LIFECD,Connecticut,Connecticut,Not very likely,0.2,2018
 LIFECD,Connecticut,Connecticut,Not at all likely,0.08,2018
 LIFECD,Connecticut,Connecticut,Don't know,0.06,2018
 LIFECD,Connecticut,Connecticut,Refused,0,2018
-LIFECD,Connecticut,Connecticut,Summary: Almost certain/Very likely,0.27,2018
 LIFECF,Connecticut,Connecticut,Almost certain,0.03,2018
 LIFECF,Connecticut,Connecticut,Very likely,0.08,2018
 LIFECF,Connecticut,Connecticut,A toss up,0.22,2018
@@ -287,7 +275,6 @@ LIFECF,Connecticut,Connecticut,Not very likely,0.45,2018
 LIFECF,Connecticut,Connecticut,Not at all likely,0.18,2018
 LIFECF,Connecticut,Connecticut,Don't know,0.04,2018
 LIFECF,Connecticut,Connecticut,Refused,0,2018
-LIFECF,Connecticut,Connecticut,Summary: Almost certain/Very likely,0.11,2018
 Q19,Connecticut,Connecticut,Excellent,0.23,2018
 Q19,Connecticut,Connecticut,Very good,0.36,2018
 Q19,Connecticut,Connecticut,Good,0.26,2018
@@ -295,7 +282,6 @@ Q19,Connecticut,Connecticut,Fair,0.11,2018
 Q19,Connecticut,Connecticut,Poor,0.03,2018
 Q19,Connecticut,Connecticut,Don't know,0,2018
 Q19,Connecticut,Connecticut,Refused,0,2018
-Q19,Connecticut,Connecticut,Summary: Excellent/Very Good,0.59,2018
 Q20,Connecticut,Connecticut,Not at all satisfied,0.03,2018
 Q20,Connecticut,Connecticut,Only a little bit satisfied,0.08,2018
 Q20,Connecticut,Connecticut,Somewhat satisfied,0.22,2018
@@ -1107,56 +1093,48 @@ Q17A,Total,Total,Somewhat disagree,0.17,2018
 Q17A,Total,Total,Strongly disagree,0.22,2018
 Q17A,Total,Total,Don't know,0,2018
 Q17A,Total,Total,Refused,0,2018
-Q17A,Total,Total,Summary: Strongly/Somewhat agree,0.6100000000000001,2018
 Q17B,Total,Total,Strongly agree,0.42,2018
 Q17B,Total,Total,Somewhat agree,0.25,2018
 Q17B,Total,Total,Somewhat disagree,0.11,2018
 Q17B,Total,Total,Strongly disagree,0.21,2018
 Q17B,Total,Total,Don't know,0.01,2018
 Q17B,Total,Total,Refused,0,2018
-Q17B,Total,Total,Summary: Strongly/Somewhat agree,0.6699999999999999,2018
 Q17C,Total,Total,Strongly agree,0.35,2018
 Q17C,Total,Total,Somewhat agree,0.34,2018
 Q17C,Total,Total,Somewhat disagree,0.15,2018
 Q17C,Total,Total,Strongly disagree,0.15,2018
 Q17C,Total,Total,Don't know,0.02,2018
 Q17C,Total,Total,Refused,0,2018
-Q17C,Total,Total,Summary: Strongly/Somewhat agree,0.69,2018
 Q17E,Total,Total,Strongly agree,0.36,2018
 Q17E,Total,Total,Somewhat agree,0.35,2018
 Q17E,Total,Total,Somewhat disagree,0.13,2018
 Q17E,Total,Total,Strongly disagree,0.14,2018
 Q17E,Total,Total,Don't know,0.01,2018
 Q17E,Total,Total,Refused,0,2018
-Q17E,Total,Total,Summary: Strongly/Somewhat agree,0.71,2018
 Q17F,Total,Total,Strongly agree,0.16,2018
 Q17F,Total,Total,Somewhat agree,0.16,2018
 Q17F,Total,Total,Somewhat disagree,0.2,2018
 Q17F,Total,Total,Strongly disagree,0.46,2018
 Q17F,Total,Total,Don't know,0.01,2018
 Q17F,Total,Total,Refused,0,2018
-Q17F,Total,Total,Summary: Strongly/Somewhat agree,0.32,2018
 Q17G,Total,Total,Strongly agree,0.42,2018
 Q17G,Total,Total,Somewhat agree,0.39,2018
 Q17G,Total,Total,Somewhat disagree,0.1,2018
 Q17G,Total,Total,Strongly disagree,0.07,2018
 Q17G,Total,Total,Don't know,0.02,2018
 Q17G,Total,Total,Refused,0,2018
-Q17G,Total,Total,Summary: Strongly/Somewhat agree,0.81,2018
 Q17H,Total,Total,Strongly agree,0.31,2018
 Q17H,Total,Total,Somewhat agree,0.41,2018
 Q17H,Total,Total,Somewhat disagree,0.14,2018
 Q17H,Total,Total,Strongly disagree,0.09,2018
 Q17H,Total,Total,Don't know,0.06,2018
 Q17H,Total,Total,Refused,0,2018
-Q17H,Total,Total,Summary: Strongly/Somewhat agree,0.72,2018
 Q17I,Total,Total,Strongly agree,0.34,2018
 Q17I,Total,Total,Somewhat agree,0.42,2018
 Q17I,Total,Total,Somewhat disagree,0.12,2018
 Q17I,Total,Total,Strongly disagree,0.08,2018
 Q17I,Total,Total,Don't know,0.04,2018
 Q17I,Total,Total,Refused,0,2018
-Q17I,Total,Total,Summary: Strongly/Somewhat agree,0.76,2018
 Q18,Total,Total,Very likely,0.54,2018
 Q18,Total,Total,Somewhat likely,0.25,2018
 Q18,Total,Total,Not very likely,0.08,2018
@@ -1170,7 +1148,6 @@ LIFECA,Total,Total,Not very likely,0.02,2018
 LIFECA,Total,Total,Not at all likely,0.01,2018
 LIFECA,Total,Total,Don't know,0.03,2018
 LIFECA,Total,Total,Refused,0,2018
-LIFECA,Total,Total,Summary: Almost certain/Very likely,0.8300000000000001,2018
 LIFECB,Total,Total,Almost certain,0.15,2018
 LIFECB,Total,Total,Very likely,0.38,2018
 LIFECB,Total,Total,A toss up,0.27,2018
@@ -1178,7 +1155,6 @@ LIFECB,Total,Total,Not very likely,0.11,2018
 LIFECB,Total,Total,Not at all likely,0.04,2018
 LIFECB,Total,Total,Don't know,0.06,2018
 LIFECB,Total,Total,Refused,0,2018
-LIFECB,Total,Total,Summary: Almost certain/Very likely,0.53,2018
 LIFECC,Total,Total,Almost certain,0.03,2018
 LIFECC,Total,Total,Very likely,0.06,2018
 LIFECC,Total,Total,A toss up,0.13,2018
@@ -1186,7 +1162,6 @@ LIFECC,Total,Total,Not very likely,0.37,2018
 LIFECC,Total,Total,Not at all likely,0.37,2018
 LIFECC,Total,Total,Don't know,0.05,2018
 LIFECC,Total,Total,Refused,0,2018
-LIFECC,Total,Total,Summary: Almost certain/Very likely,0.09,2018
 LIFECD,Total,Total,Almost certain,0.06,2018
 LIFECD,Total,Total,Very likely,0.2,2018
 LIFECD,Total,Total,A toss up,0.4,2018
@@ -1194,7 +1169,6 @@ LIFECD,Total,Total,Not very likely,0.19,2018
 LIFECD,Total,Total,Not at all likely,0.08,2018
 LIFECD,Total,Total,Don't know,0.06,2018
 LIFECD,Total,Total,Refused,0,2018
-LIFECD,Total,Total,Summary: Almost certain/Very likely,0.26,2018
 LIFECF,Total,Total,Almost certain,0.03,2018
 LIFECF,Total,Total,Very likely,0.09,2018
 LIFECF,Total,Total,A toss up,0.24,2018
@@ -1202,7 +1176,6 @@ LIFECF,Total,Total,Not very likely,0.4,2018
 LIFECF,Total,Total,Not at all likely,0.2,2018
 LIFECF,Total,Total,Don't know,0.03,2018
 LIFECF,Total,Total,Refused,0,2018
-LIFECF,Total,Total,Summary: Almost certain/Very likely,0.12,2018
 Q19,Total,Total,Excellent,0.22,2018
 Q19,Total,Total,Very good,0.36,2018
 Q19,Total,Total,Good,0.26,2018
@@ -1210,7 +1183,6 @@ Q19,Total,Total,Fair,0.13,2018
 Q19,Total,Total,Poor,0.03,2018
 Q19,Total,Total,Don't know,0,2018
 Q19,Total,Total,Refused,0,2018
-Q19,Total,Total,Summary: Excellent/Very Good,0.58,2018
 Q20,Total,Total,Not at all satisfied,0.03,2018
 Q20,Total,Total,Only a little bit satisfied,0.09,2018
 Q20,Total,Total,Somewhat satisfied,0.21,2018
@@ -1968,56 +1940,48 @@ Q17A,Gender,Male,Somewhat disagree,0.16,2018
 Q17A,Gender,Male,Strongly disagree,0.2,2018
 Q17A,Gender,Male,Don't know,0,2018
 Q17A,Gender,Male,Refused,0.01,2018
-Q17A,Gender,Male,Summary: Strongly/Somewhat agree,0.63,2018
 Q17B,Gender,Male,Strongly agree,0.44,2018
 Q17B,Gender,Male,Somewhat agree,0.25,2018
 Q17B,Gender,Male,Somewhat disagree,0.09,2018
 Q17B,Gender,Male,Strongly disagree,0.2,2018
 Q17B,Gender,Male,Don't know,0.01,2018
 Q17B,Gender,Male,Refused,0,2018
-Q17B,Gender,Male,Summary: Strongly/Somewhat agree,0.69,2018
 Q17C,Gender,Male,Strongly agree,0.36,2018
 Q17C,Gender,Male,Somewhat agree,0.36,2018
 Q17C,Gender,Male,Somewhat disagree,0.13,2018
 Q17C,Gender,Male,Strongly disagree,0.13,2018
 Q17C,Gender,Male,Don't know,0.02,2018
 Q17C,Gender,Male,Refused,0,2018
-Q17C,Gender,Male,Summary: Strongly/Somewhat agree,0.72,2018
 Q17E,Gender,Male,Strongly agree,0.38,2018
 Q17E,Gender,Male,Somewhat agree,0.36,2018
 Q17E,Gender,Male,Somewhat disagree,0.1,2018
 Q17E,Gender,Male,Strongly disagree,0.14,2018
 Q17E,Gender,Male,Don't know,0.01,2018
 Q17E,Gender,Male,Refused,0,2018
-Q17E,Gender,Male,Summary: Strongly/Somewhat agree,0.74,2018
 Q17F,Gender,Male,Strongly agree,0.13,2018
 Q17F,Gender,Male,Somewhat agree,0.15,2018
 Q17F,Gender,Male,Somewhat disagree,0.19,2018
 Q17F,Gender,Male,Strongly disagree,0.51,2018
 Q17F,Gender,Male,Don't know,0.01,2018
 Q17F,Gender,Male,Refused,0.01,2018
-Q17F,Gender,Male,Summary: Strongly/Somewhat agree,0.28,2018
 Q17G,Gender,Male,Strongly agree,0.44,2018
 Q17G,Gender,Male,Somewhat agree,0.4,2018
 Q17G,Gender,Male,Somewhat disagree,0.09,2018
 Q17G,Gender,Male,Strongly disagree,0.05,2018
 Q17G,Gender,Male,Don't know,0.01,2018
 Q17G,Gender,Male,Refused,0.01,2018
-Q17G,Gender,Male,Summary: Strongly/Somewhat agree,0.8400000000000001,2018
 Q17H,Gender,Male,Strongly agree,0.29,2018
 Q17H,Gender,Male,Somewhat agree,0.42,2018
 Q17H,Gender,Male,Somewhat disagree,0.13,2018
 Q17H,Gender,Male,Strongly disagree,0.08,2018
 Q17H,Gender,Male,Don't know,0.07,2018
 Q17H,Gender,Male,Refused,0,2018
-Q17H,Gender,Male,Summary: Strongly/Somewhat agree,0.71,2018
 Q17I,Gender,Male,Strongly agree,0.35,2018
 Q17I,Gender,Male,Somewhat agree,0.41,2018
 Q17I,Gender,Male,Somewhat disagree,0.11,2018
 Q17I,Gender,Male,Strongly disagree,0.09,2018
 Q17I,Gender,Male,Don't know,0.05,2018
 Q17I,Gender,Male,Refused,0,2018
-Q17I,Gender,Male,Summary: Strongly/Somewhat agree,0.76,2018
 Q18,Gender,Male,Very likely,0.46,2018
 Q18,Gender,Male,Somewhat likely,0.26,2018
 Q18,Gender,Male,Not very likely,0.04,2018
@@ -2031,7 +1995,6 @@ LIFECA,Gender,Male,Not very likely,0.01,2018
 LIFECA,Gender,Male,Not at all likely,0.01,2018
 LIFECA,Gender,Male,Don't know,0.03,2018
 LIFECA,Gender,Male,Refused,0,2018
-LIFECA,Gender,Male,Summary: Almost certain/Very likely,0.8500000000000001,2018
 LIFECB,Gender,Male,Almost certain,0.15,2018
 LIFECB,Gender,Male,Very likely,0.38,2018
 LIFECB,Gender,Male,A toss up,0.26,2018
@@ -2039,7 +2002,6 @@ LIFECB,Gender,Male,Not very likely,0.13,2018
 LIFECB,Gender,Male,Not at all likely,0.03,2018
 LIFECB,Gender,Male,Don't know,0.04,2018
 LIFECB,Gender,Male,Refused,0.01,2018
-LIFECB,Gender,Male,Summary: Almost certain/Very likely,0.53,2018
 LIFECC,Gender,Male,Almost certain,0.02,2018
 LIFECC,Gender,Male,Very likely,0.05,2018
 LIFECC,Gender,Male,A toss up,0.14,2018
@@ -2047,7 +2009,6 @@ LIFECC,Gender,Male,Not very likely,0.35,2018
 LIFECC,Gender,Male,Not at all likely,0.39,2018
 LIFECC,Gender,Male,Don't know,0.04,2018
 LIFECC,Gender,Male,Refused,0,2018
-LIFECC,Gender,Male,Summary: Almost certain/Very likely,0.07,2018
 LIFECD,Gender,Male,Almost certain,0.06,2018
 LIFECD,Gender,Male,Very likely,0.2,2018
 LIFECD,Gender,Male,A toss up,0.39,2018
@@ -2055,7 +2016,6 @@ LIFECD,Gender,Male,Not very likely,0.2,2018
 LIFECD,Gender,Male,Not at all likely,0.08,2018
 LIFECD,Gender,Male,Don't know,0.06,2018
 LIFECD,Gender,Male,Refused,0,2018
-LIFECD,Gender,Male,Summary: Almost certain/Very likely,0.26,2018
 LIFECF,Gender,Male,Almost certain,0.03,2018
 LIFECF,Gender,Male,Very likely,0.08,2018
 LIFECF,Gender,Male,A toss up,0.23,2018
@@ -2063,7 +2023,6 @@ LIFECF,Gender,Male,Not very likely,0.42,2018
 LIFECF,Gender,Male,Not at all likely,0.22,2018
 LIFECF,Gender,Male,Don't know,0.02,2018
 LIFECF,Gender,Male,Refused,0,2018
-LIFECF,Gender,Male,Summary: Almost certain/Very likely,0.11,2018
 Q19,Gender,Male,Excellent,0.23,2018
 Q19,Gender,Male,Very good,0.37,2018
 Q19,Gender,Male,Good,0.24,2018
@@ -2071,7 +2030,6 @@ Q19,Gender,Male,Fair,0.13,2018
 Q19,Gender,Male,Poor,0.02,2018
 Q19,Gender,Male,Don't know,0,2018
 Q19,Gender,Male,Refused,0,2018
-Q19,Gender,Male,Summary: Excellent/Very Good,0.6,2018
 Q20,Gender,Male,Not at all satisfied,0.03,2018
 Q20,Gender,Male,Only a little bit satisfied,0.09,2018
 Q20,Gender,Male,Somewhat satisfied,0.22,2018
@@ -2693,56 +2651,48 @@ Q17A,Gender,Female,Somewhat disagree,0.17,2018
 Q17A,Gender,Female,Strongly disagree,0.24,2018
 Q17A,Gender,Female,Don't know,0,2018
 Q17A,Gender,Female,Refused,0,2018
-Q17A,Gender,Female,Summary: Strongly/Somewhat agree,0.5900000000000001,2018
 Q17B,Gender,Female,Strongly agree,0.4,2018
 Q17B,Gender,Female,Somewhat agree,0.26,2018
 Q17B,Gender,Female,Somewhat disagree,0.12,2018
 Q17B,Gender,Female,Strongly disagree,0.21,2018
 Q17B,Gender,Female,Don't know,0,2018
 Q17B,Gender,Female,Refused,0,2018
-Q17B,Gender,Female,Summary: Strongly/Somewhat agree,0.66,2018
 Q17C,Gender,Female,Strongly agree,0.34,2018
 Q17C,Gender,Female,Somewhat agree,0.32,2018
 Q17C,Gender,Female,Somewhat disagree,0.16,2018
 Q17C,Gender,Female,Strongly disagree,0.17,2018
 Q17C,Gender,Female,Don't know,0.02,2018
 Q17C,Gender,Female,Refused,0,2018
-Q17C,Gender,Female,Summary: Strongly/Somewhat agree,0.66,2018
 Q17E,Gender,Female,Strongly agree,0.34,2018
 Q17E,Gender,Female,Somewhat agree,0.34,2018
 Q17E,Gender,Female,Somewhat disagree,0.16,2018
 Q17E,Gender,Female,Strongly disagree,0.15,2018
 Q17E,Gender,Female,Don't know,0.01,2018
 Q17E,Gender,Female,Refused,0,2018
-Q17E,Gender,Female,Summary: Strongly/Somewhat agree,0.68,2018
 Q17F,Gender,Female,Strongly agree,0.18,2018
 Q17F,Gender,Female,Somewhat agree,0.18,2018
 Q17F,Gender,Female,Somewhat disagree,0.21,2018
 Q17F,Gender,Female,Strongly disagree,0.41,2018
 Q17F,Gender,Female,Don't know,0.02,2018
 Q17F,Gender,Female,Refused,0,2018
-Q17F,Gender,Female,Summary: Strongly/Somewhat agree,0.36,2018
 Q17G,Gender,Female,Strongly agree,0.41,2018
 Q17G,Gender,Female,Somewhat agree,0.38,2018
 Q17G,Gender,Female,Somewhat disagree,0.11,2018
 Q17G,Gender,Female,Strongly disagree,0.08,2018
 Q17G,Gender,Female,Don't know,0.02,2018
 Q17G,Gender,Female,Refused,0,2018
-Q17G,Gender,Female,Summary: Strongly/Somewhat agree,0.79,2018
 Q17H,Gender,Female,Strongly agree,0.32,2018
 Q17H,Gender,Female,Somewhat agree,0.39,2018
 Q17H,Gender,Female,Somewhat disagree,0.15,2018
 Q17H,Gender,Female,Strongly disagree,0.09,2018
 Q17H,Gender,Female,Don't know,0.05,2018
 Q17H,Gender,Female,Refused,0,2018
-Q17H,Gender,Female,Summary: Strongly/Somewhat agree,0.71,2018
 Q17I,Gender,Female,Strongly agree,0.33,2018
 Q17I,Gender,Female,Somewhat agree,0.42,2018
 Q17I,Gender,Female,Somewhat disagree,0.14,2018
 Q17I,Gender,Female,Strongly disagree,0.07,2018
 Q17I,Gender,Female,Don't know,0.03,2018
 Q17I,Gender,Female,Refused,0,2018
-Q17I,Gender,Female,Summary: Strongly/Somewhat agree,0.75,2018
 Q18,Gender,Female,Very likely,0.61,2018
 Q18,Gender,Female,Somewhat likely,0.24,2018
 Q18,Gender,Female,Not very likely,0.11,2018
@@ -2756,7 +2706,6 @@ LIFECA,Gender,Female,Not very likely,0.03,2018
 LIFECA,Gender,Female,Not at all likely,0.01,2018
 LIFECA,Gender,Female,Don't know,0.03,2018
 LIFECA,Gender,Female,Refused,0,2018
-LIFECA,Gender,Female,Summary: Almost certain/Very likely,0.8200000000000001,2018
 LIFECB,Gender,Female,Almost certain,0.14,2018
 LIFECB,Gender,Female,Very likely,0.38,2018
 LIFECB,Gender,Female,A toss up,0.29,2018
@@ -2764,7 +2713,6 @@ LIFECB,Gender,Female,Not very likely,0.08,2018
 LIFECB,Gender,Female,Not at all likely,0.04,2018
 LIFECB,Gender,Female,Don't know,0.07,2018
 LIFECB,Gender,Female,Refused,0,2018
-LIFECB,Gender,Female,Summary: Almost certain/Very likely,0.52,2018
 LIFECC,Gender,Female,Almost certain,0.03,2018
 LIFECC,Gender,Female,Very likely,0.06,2018
 LIFECC,Gender,Female,A toss up,0.11,2018
@@ -2772,7 +2720,6 @@ LIFECC,Gender,Female,Not very likely,0.38,2018
 LIFECC,Gender,Female,Not at all likely,0.35,2018
 LIFECC,Gender,Female,Don't know,0.06,2018
 LIFECC,Gender,Female,Refused,0,2018
-LIFECC,Gender,Female,Summary: Almost certain/Very likely,0.09,2018
 LIFECD,Gender,Female,Almost certain,0.07,2018
 LIFECD,Gender,Female,Very likely,0.2,2018
 LIFECD,Gender,Female,A toss up,0.41,2018
@@ -2780,7 +2727,6 @@ LIFECD,Gender,Female,Not very likely,0.17,2018
 LIFECD,Gender,Female,Not at all likely,0.09,2018
 LIFECD,Gender,Female,Don't know,0.06,2018
 LIFECD,Gender,Female,Refused,0,2018
-LIFECD,Gender,Female,Summary: Almost certain/Very likely,0.27,2018
 LIFECF,Gender,Female,Almost certain,0.04,2018
 LIFECF,Gender,Female,Very likely,0.1,2018
 LIFECF,Gender,Female,A toss up,0.26,2018
@@ -2788,7 +2734,6 @@ LIFECF,Gender,Female,Not very likely,0.38,2018
 LIFECF,Gender,Female,Not at all likely,0.17,2018
 LIFECF,Gender,Female,Don't know,0.04,2018
 LIFECF,Gender,Female,Refused,0,2018
-LIFECF,Gender,Female,Summary: Almost certain/Very likely,0.14,2018
 Q19,Gender,Female,Excellent,0.21,2018
 Q19,Gender,Female,Very good,0.35,2018
 Q19,Gender,Female,Good,0.28,2018
@@ -2796,7 +2741,6 @@ Q19,Gender,Female,Fair,0.12,2018
 Q19,Gender,Female,Poor,0.03,2018
 Q19,Gender,Female,Don't know,0,2018
 Q19,Gender,Female,Refused,0.01,2018
-Q19,Gender,Female,Summary: Excellent/Very Good,0.5599999999999999,2018
 Q20,Gender,Female,Not at all satisfied,0.03,2018
 Q20,Gender,Female,Only a little bit satisfied,0.1,2018
 Q20,Gender,Female,Somewhat satisfied,0.21,2018
@@ -3370,56 +3314,48 @@ Q17A,Age,Ages 18-34,Somewhat disagree,0.15,2018
 Q17A,Age,Ages 18-34,Strongly disagree,0.12,2018
 Q17A,Age,Ages 18-34,Don't know,0,2018
 Q17A,Age,Ages 18-34,Refused,0,2018
-Q17A,Age,Ages 18-34,Summary: Strongly/Somewhat agree,0.74,2018
 Q17B,Age,Ages 18-34,Strongly agree,0.43,2018
 Q17B,Age,Ages 18-34,Somewhat agree,0.3,2018
 Q17B,Age,Ages 18-34,Somewhat disagree,0.13,2018
 Q17B,Age,Ages 18-34,Strongly disagree,0.13,2018
 Q17B,Age,Ages 18-34,Don't know,0,2018
 Q17B,Age,Ages 18-34,Refused,0,2018
-Q17B,Age,Ages 18-34,Summary: Strongly/Somewhat agree,0.73,2018
 Q17C,Age,Ages 18-34,Strongly agree,0.36,2018
 Q17C,Age,Ages 18-34,Somewhat agree,0.37,2018
 Q17C,Age,Ages 18-34,Somewhat disagree,0.14,2018
 Q17C,Age,Ages 18-34,Strongly disagree,0.11,2018
 Q17C,Age,Ages 18-34,Don't know,0.01,2018
 Q17C,Age,Ages 18-34,Refused,0,2018
-Q17C,Age,Ages 18-34,Summary: Strongly/Somewhat agree,0.73,2018
 Q17E,Age,Ages 18-34,Strongly agree,0.33,2018
 Q17E,Age,Ages 18-34,Somewhat agree,0.39,2018
 Q17E,Age,Ages 18-34,Somewhat disagree,0.15,2018
 Q17E,Age,Ages 18-34,Strongly disagree,0.12,2018
 Q17E,Age,Ages 18-34,Don't know,0.01,2018
 Q17E,Age,Ages 18-34,Refused,0,2018
-Q17E,Age,Ages 18-34,Summary: Strongly/Somewhat agree,0.72,2018
 Q17F,Age,Ages 18-34,Strongly agree,0.16,2018
 Q17F,Age,Ages 18-34,Somewhat agree,0.2,2018
 Q17F,Age,Ages 18-34,Somewhat disagree,0.25,2018
 Q17F,Age,Ages 18-34,Strongly disagree,0.39,2018
 Q17F,Age,Ages 18-34,Don't know,0,2018
 Q17F,Age,Ages 18-34,Refused,0,2018
-Q17F,Age,Ages 18-34,Summary: Strongly/Somewhat agree,0.36,2018
 Q17G,Age,Ages 18-34,Strongly agree,0.28,2018
 Q17G,Age,Ages 18-34,Somewhat agree,0.47,2018
 Q17G,Age,Ages 18-34,Somewhat disagree,0.15,2018
 Q17G,Age,Ages 18-34,Strongly disagree,0.09,2018
 Q17G,Age,Ages 18-34,Don't know,0,2018
 Q17G,Age,Ages 18-34,Refused,0,2018
-Q17G,Age,Ages 18-34,Summary: Strongly/Somewhat agree,0.75,2018
 Q17H,Age,Ages 18-34,Strongly agree,0.23,2018
 Q17H,Age,Ages 18-34,Somewhat agree,0.45,2018
 Q17H,Age,Ages 18-34,Somewhat disagree,0.2,2018
 Q17H,Age,Ages 18-34,Strongly disagree,0.1,2018
 Q17H,Age,Ages 18-34,Don't know,0.03,2018
 Q17H,Age,Ages 18-34,Refused,0,2018
-Q17H,Age,Ages 18-34,Summary: Strongly/Somewhat agree,0.68,2018
 Q17I,Age,Ages 18-34,Strongly agree,0.24,2018
 Q17I,Age,Ages 18-34,Somewhat agree,0.48,2018
 Q17I,Age,Ages 18-34,Somewhat disagree,0.16,2018
 Q17I,Age,Ages 18-34,Strongly disagree,0.11,2018
 Q17I,Age,Ages 18-34,Don't know,0.02,2018
 Q17I,Age,Ages 18-34,Refused,0,2018
-Q17I,Age,Ages 18-34,Summary: Strongly/Somewhat agree,0.72,2018
 LIFECA,Age,Ages 18-34,Almost certain,0.35,2018
 LIFECA,Age,Ages 18-34,Very likely,0.44,2018
 LIFECA,Age,Ages 18-34,A toss up,0.15,2018
@@ -3427,7 +3363,6 @@ LIFECA,Age,Ages 18-34,Not very likely,0.03,2018
 LIFECA,Age,Ages 18-34,Not at all likely,0.02,2018
 LIFECA,Age,Ages 18-34,Don't know,0.02,2018
 LIFECA,Age,Ages 18-34,Refused,0,2018
-LIFECA,Age,Ages 18-34,Summary: Almost certain/Very likely,0.79,2018
 LIFECB,Age,Ages 18-34,Almost certain,0.14,2018
 LIFECB,Age,Ages 18-34,Very likely,0.42,2018
 LIFECB,Age,Ages 18-34,A toss up,0.29,2018
@@ -3435,7 +3370,6 @@ LIFECB,Age,Ages 18-34,Not very likely,0.11,2018
 LIFECB,Age,Ages 18-34,Not at all likely,0.03,2018
 LIFECB,Age,Ages 18-34,Don't know,0.01,2018
 LIFECB,Age,Ages 18-34,Refused,0,2018
-LIFECB,Age,Ages 18-34,Summary: Almost certain/Very likely,0.56,2018
 LIFECC,Age,Ages 18-34,Almost certain,0.03,2018
 LIFECC,Age,Ages 18-34,Very likely,0.08,2018
 LIFECC,Age,Ages 18-34,A toss up,0.21,2018
@@ -3443,7 +3377,6 @@ LIFECC,Age,Ages 18-34,Not very likely,0.34,2018
 LIFECC,Age,Ages 18-34,Not at all likely,0.33,2018
 LIFECC,Age,Ages 18-34,Don't know,0.02,2018
 LIFECC,Age,Ages 18-34,Refused,0,2018
-LIFECC,Age,Ages 18-34,Summary: Almost certain/Very likely,0.11,2018
 LIFECD,Age,Ages 18-34,Almost certain,0.07,2018
 LIFECD,Age,Ages 18-34,Very likely,0.25,2018
 LIFECD,Age,Ages 18-34,A toss up,0.42,2018
@@ -3451,7 +3384,6 @@ LIFECD,Age,Ages 18-34,Not very likely,0.17,2018
 LIFECD,Age,Ages 18-34,Not at all likely,0.08,2018
 LIFECD,Age,Ages 18-34,Don't know,0.01,2018
 LIFECD,Age,Ages 18-34,Refused,0,2018
-LIFECD,Age,Ages 18-34,Summary: Almost certain/Very likely,0.32,2018
 LIFECF,Age,Ages 18-34,Almost certain,0.04,2018
 LIFECF,Age,Ages 18-34,Very likely,0.11,2018
 LIFECF,Age,Ages 18-34,A toss up,0.38,2018
@@ -3459,7 +3391,6 @@ LIFECF,Age,Ages 18-34,Not very likely,0.32,2018
 LIFECF,Age,Ages 18-34,Not at all likely,0.15,2018
 LIFECF,Age,Ages 18-34,Don't know,0,2018
 LIFECF,Age,Ages 18-34,Refused,0,2018
-LIFECF,Age,Ages 18-34,Summary: Almost certain/Very likely,0.15,2018
 Q19,Age,Ages 18-34,Excellent,0.24,2018
 Q19,Age,Ages 18-34,Very good,0.38,2018
 Q19,Age,Ages 18-34,Good,0.27,2018
@@ -3467,7 +3398,6 @@ Q19,Age,Ages 18-34,Fair,0.1,2018
 Q19,Age,Ages 18-34,Poor,0.01,2018
 Q19,Age,Ages 18-34,Don't know,0,2018
 Q19,Age,Ages 18-34,Refused,0,2018
-Q19,Age,Ages 18-34,Summary: Excellent/Very Good,0.62,2018
 Q20,Age,Ages 18-34,Not at all satisfied,0.03,2018
 Q20,Age,Ages 18-34,Only a little bit satisfied,0.14,2018
 Q20,Age,Ages 18-34,Somewhat satisfied,0.24,2018
@@ -3983,56 +3913,48 @@ Q17A,Age,Ages 35-49,Somewhat disagree,0.19,2018
 Q17A,Age,Ages 35-49,Strongly disagree,0.19,2018
 Q17A,Age,Ages 35-49,Don't know,0,2018
 Q17A,Age,Ages 35-49,Refused,0,2018
-Q17A,Age,Ages 35-49,Summary: Strongly/Somewhat agree,0.63,2018
 Q17B,Age,Ages 35-49,Strongly agree,0.39,2018
 Q17B,Age,Ages 35-49,Somewhat agree,0.3,2018
 Q17B,Age,Ages 35-49,Somewhat disagree,0.12,2018
 Q17B,Age,Ages 35-49,Strongly disagree,0.18,2018
 Q17B,Age,Ages 35-49,Don't know,0.01,2018
 Q17B,Age,Ages 35-49,Refused,0,2018
-Q17B,Age,Ages 35-49,Summary: Strongly/Somewhat agree,0.69,2018
 Q17C,Age,Ages 35-49,Strongly agree,0.34,2018
 Q17C,Age,Ages 35-49,Somewhat agree,0.35,2018
 Q17C,Age,Ages 35-49,Somewhat disagree,0.18,2018
 Q17C,Age,Ages 35-49,Strongly disagree,0.12,2018
 Q17C,Age,Ages 35-49,Don't know,0.01,2018
 Q17C,Age,Ages 35-49,Refused,0,2018
-Q17C,Age,Ages 35-49,Summary: Strongly/Somewhat agree,0.69,2018
 Q17E,Age,Ages 35-49,Strongly agree,0.38,2018
 Q17E,Age,Ages 35-49,Somewhat agree,0.36,2018
 Q17E,Age,Ages 35-49,Somewhat disagree,0.16,2018
 Q17E,Age,Ages 35-49,Strongly disagree,0.11,2018
 Q17E,Age,Ages 35-49,Don't know,0,2018
 Q17E,Age,Ages 35-49,Refused,0,2018
-Q17E,Age,Ages 35-49,Summary: Strongly/Somewhat agree,0.74,2018
 Q17F,Age,Ages 35-49,Strongly agree,0.12,2018
 Q17F,Age,Ages 35-49,Somewhat agree,0.15,2018
 Q17F,Age,Ages 35-49,Somewhat disagree,0.21,2018
 Q17F,Age,Ages 35-49,Strongly disagree,0.5,2018
 Q17F,Age,Ages 35-49,Don't know,0,2018
 Q17F,Age,Ages 35-49,Refused,0,2018
-Q17F,Age,Ages 35-49,Summary: Strongly/Somewhat agree,0.27,2018
 Q17G,Age,Ages 35-49,Strongly agree,0.34,2018
 Q17G,Age,Ages 35-49,Somewhat agree,0.46,2018
 Q17G,Age,Ages 35-49,Somewhat disagree,0.11,2018
 Q17G,Age,Ages 35-49,Strongly disagree,0.08,2018
 Q17G,Age,Ages 35-49,Don't know,0.01,2018
 Q17G,Age,Ages 35-49,Refused,0,2018
-Q17G,Age,Ages 35-49,Summary: Strongly/Somewhat agree,0.8,2018
 Q17H,Age,Ages 35-49,Strongly agree,0.3,2018
 Q17H,Age,Ages 35-49,Somewhat agree,0.45,2018
 Q17H,Age,Ages 35-49,Somewhat disagree,0.15,2018
 Q17H,Age,Ages 35-49,Strongly disagree,0.08,2018
 Q17H,Age,Ages 35-49,Don't know,0.02,2018
 Q17H,Age,Ages 35-49,Refused,0,2018
-Q17H,Age,Ages 35-49,Summary: Strongly/Somewhat agree,0.75,2018
 Q17I,Age,Ages 35-49,Strongly agree,0.32,2018
 Q17I,Age,Ages 35-49,Somewhat agree,0.43,2018
 Q17I,Age,Ages 35-49,Somewhat disagree,0.14,2018
 Q17I,Age,Ages 35-49,Strongly disagree,0.09,2018
 Q17I,Age,Ages 35-49,Don't know,0.02,2018
 Q17I,Age,Ages 35-49,Refused,0,2018
-Q17I,Age,Ages 35-49,Summary: Strongly/Somewhat agree,0.75,2018
 LIFECA,Age,Ages 35-49,Almost certain,0.44,2018
 LIFECA,Age,Ages 35-49,Very likely,0.43,2018
 LIFECA,Age,Ages 35-49,A toss up,0.09,2018
@@ -4040,7 +3962,6 @@ LIFECA,Age,Ages 35-49,Not very likely,0.02,2018
 LIFECA,Age,Ages 35-49,Not at all likely,0.01,2018
 LIFECA,Age,Ages 35-49,Don't know,0,2018
 LIFECA,Age,Ages 35-49,Refused,0,2018
-LIFECA,Age,Ages 35-49,Summary: Almost certain/Very likely,0.87,2018
 LIFECB,Age,Ages 35-49,Almost certain,0.15,2018
 LIFECB,Age,Ages 35-49,Very likely,0.4,2018
 LIFECB,Age,Ages 35-49,A toss up,0.29,2018
@@ -4048,7 +3969,6 @@ LIFECB,Age,Ages 35-49,Not very likely,0.08,2018
 LIFECB,Age,Ages 35-49,Not at all likely,0.03,2018
 LIFECB,Age,Ages 35-49,Don't know,0.04,2018
 LIFECB,Age,Ages 35-49,Refused,0,2018
-LIFECB,Age,Ages 35-49,Summary: Almost certain/Very likely,0.55,2018
 LIFECC,Age,Ages 35-49,Almost certain,0.03,2018
 LIFECC,Age,Ages 35-49,Very likely,0.07,2018
 LIFECC,Age,Ages 35-49,A toss up,0.1,2018
@@ -4056,7 +3976,6 @@ LIFECC,Age,Ages 35-49,Not very likely,0.44,2018
 LIFECC,Age,Ages 35-49,Not at all likely,0.35,2018
 LIFECC,Age,Ages 35-49,Don't know,0.02,2018
 LIFECC,Age,Ages 35-49,Refused,0,2018
-LIFECC,Age,Ages 35-49,Summary: Almost certain/Very likely,0.1,2018
 LIFECD,Age,Ages 35-49,Almost certain,0.06,2018
 LIFECD,Age,Ages 35-49,Very likely,0.2,2018
 LIFECD,Age,Ages 35-49,A toss up,0.46,2018
@@ -4064,7 +3983,6 @@ LIFECD,Age,Ages 35-49,Not very likely,0.16,2018
 LIFECD,Age,Ages 35-49,Not at all likely,0.09,2018
 LIFECD,Age,Ages 35-49,Don't know,0.02,2018
 LIFECD,Age,Ages 35-49,Refused,0,2018
-LIFECD,Age,Ages 35-49,Summary: Almost certain/Very likely,0.26,2018
 LIFECF,Age,Ages 35-49,Almost certain,0.03,2018
 LIFECF,Age,Ages 35-49,Very likely,0.09,2018
 LIFECF,Age,Ages 35-49,A toss up,0.21,2018
@@ -4072,7 +3990,6 @@ LIFECF,Age,Ages 35-49,Not very likely,0.44,2018
 LIFECF,Age,Ages 35-49,Not at all likely,0.22,2018
 LIFECF,Age,Ages 35-49,Don't know,0.01,2018
 LIFECF,Age,Ages 35-49,Refused,0,2018
-LIFECF,Age,Ages 35-49,Summary: Almost certain/Very likely,0.12,2018
 Q19,Age,Ages 35-49,Excellent,0.22,2018
 Q19,Age,Ages 35-49,Very good,0.36,2018
 Q19,Age,Ages 35-49,Good,0.26,2018
@@ -4080,7 +3997,6 @@ Q19,Age,Ages 35-49,Fair,0.14,2018
 Q19,Age,Ages 35-49,Poor,0.02,2018
 Q19,Age,Ages 35-49,Don't know,0,2018
 Q19,Age,Ages 35-49,Refused,0,2018
-Q19,Age,Ages 35-49,Summary: Excellent/Very Good,0.58,2018
 Q20,Age,Ages 35-49,Not at all satisfied,0.04,2018
 Q20,Age,Ages 35-49,Only a little bit satisfied,0.11,2018
 Q20,Age,Ages 35-49,Somewhat satisfied,0.24,2018
@@ -4578,56 +4494,48 @@ Q17A,Age,Ages 50-64,Somewhat disagree,0.16,2018
 Q17A,Age,Ages 50-64,Strongly disagree,0.31,2018
 Q17A,Age,Ages 50-64,Don't know,0,2018
 Q17A,Age,Ages 50-64,Refused,0,2018
-Q17A,Age,Ages 50-64,Summary: Strongly/Somewhat agree,0.54,2018
 Q17B,Age,Ages 50-64,Strongly agree,0.38,2018
 Q17B,Age,Ages 50-64,Somewhat agree,0.24,2018
 Q17B,Age,Ages 50-64,Somewhat disagree,0.11,2018
 Q17B,Age,Ages 50-64,Strongly disagree,0.26,2018
 Q17B,Age,Ages 50-64,Don't know,0,2018
 Q17B,Age,Ages 50-64,Refused,0,2018
-Q17B,Age,Ages 50-64,Summary: Strongly/Somewhat agree,0.62,2018
 Q17C,Age,Ages 50-64,Strongly agree,0.33,2018
 Q17C,Age,Ages 50-64,Somewhat agree,0.33,2018
 Q17C,Age,Ages 50-64,Somewhat disagree,0.16,2018
 Q17C,Age,Ages 50-64,Strongly disagree,0.17,2018
 Q17C,Age,Ages 50-64,Don't know,0,2018
 Q17C,Age,Ages 50-64,Refused,0,2018
-Q17C,Age,Ages 50-64,Summary: Strongly/Somewhat agree,0.66,2018
 Q17E,Age,Ages 50-64,Strongly agree,0.36,2018
 Q17E,Age,Ages 50-64,Somewhat agree,0.35,2018
 Q17E,Age,Ages 50-64,Somewhat disagree,0.1,2018
 Q17E,Age,Ages 50-64,Strongly disagree,0.17,2018
 Q17E,Age,Ages 50-64,Don't know,0.01,2018
 Q17E,Age,Ages 50-64,Refused,0,2018
-Q17E,Age,Ages 50-64,Summary: Strongly/Somewhat agree,0.71,2018
 Q17F,Age,Ages 50-64,Strongly agree,0.14,2018
 Q17F,Age,Ages 50-64,Somewhat agree,0.13,2018
 Q17F,Age,Ages 50-64,Somewhat disagree,0.21,2018
 Q17F,Age,Ages 50-64,Strongly disagree,0.51,2018
 Q17F,Age,Ages 50-64,Don't know,0.01,2018
 Q17F,Age,Ages 50-64,Refused,0,2018
-Q17F,Age,Ages 50-64,Summary: Strongly/Somewhat agree,0.27,2018
 Q17G,Age,Ages 50-64,Strongly agree,0.47,2018
 Q17G,Age,Ages 50-64,Somewhat agree,0.36,2018
 Q17G,Age,Ages 50-64,Somewhat disagree,0.09,2018
 Q17G,Age,Ages 50-64,Strongly disagree,0.05,2018
 Q17G,Age,Ages 50-64,Don't know,0.03,2018
 Q17G,Age,Ages 50-64,Refused,0,2018
-Q17G,Age,Ages 50-64,Summary: Strongly/Somewhat agree,0.83,2018
 Q17H,Age,Ages 50-64,Strongly agree,0.31,2018
 Q17H,Age,Ages 50-64,Somewhat agree,0.44,2018
 Q17H,Age,Ages 50-64,Somewhat disagree,0.13,2018
 Q17H,Age,Ages 50-64,Strongly disagree,0.09,2018
 Q17H,Age,Ages 50-64,Don't know,0.03,2018
 Q17H,Age,Ages 50-64,Refused,0,2018
-Q17H,Age,Ages 50-64,Summary: Strongly/Somewhat agree,0.75,2018
 Q17I,Age,Ages 50-64,Strongly agree,0.34,2018
 Q17I,Age,Ages 50-64,Somewhat agree,0.44,2018
 Q17I,Age,Ages 50-64,Somewhat disagree,0.14,2018
 Q17I,Age,Ages 50-64,Strongly disagree,0.06,2018
 Q17I,Age,Ages 50-64,Don't know,0.02,2018
 Q17I,Age,Ages 50-64,Refused,0,2018
-Q17I,Age,Ages 50-64,Summary: Strongly/Somewhat agree,0.78,2018
 LIFECA,Age,Ages 50-64,Almost certain,0.46,2018
 LIFECA,Age,Ages 50-64,Very likely,0.38,2018
 LIFECA,Age,Ages 50-64,A toss up,0.11,2018
@@ -4635,7 +4543,6 @@ LIFECA,Age,Ages 50-64,Not very likely,0.02,2018
 LIFECA,Age,Ages 50-64,Not at all likely,0.01,2018
 LIFECA,Age,Ages 50-64,Don't know,0.01,2018
 LIFECA,Age,Ages 50-64,Refused,0,2018
-LIFECA,Age,Ages 50-64,Summary: Almost certain/Very likely,0.8400000000000001,2018
 LIFECB,Age,Ages 50-64,Almost certain,0.14,2018
 LIFECB,Age,Ages 50-64,Very likely,0.38,2018
 LIFECB,Age,Ages 50-64,A toss up,0.32,2018
@@ -4643,7 +4550,6 @@ LIFECB,Age,Ages 50-64,Not very likely,0.09,2018
 LIFECB,Age,Ages 50-64,Not at all likely,0.03,2018
 LIFECB,Age,Ages 50-64,Don't know,0.05,2018
 LIFECB,Age,Ages 50-64,Refused,0,2018
-LIFECB,Age,Ages 50-64,Summary: Almost certain/Very likely,0.52,2018
 LIFECC,Age,Ages 50-64,Almost certain,0.04,2018
 LIFECC,Age,Ages 50-64,Very likely,0.04,2018
 LIFECC,Age,Ages 50-64,A toss up,0.09,2018
@@ -4651,7 +4557,6 @@ LIFECC,Age,Ages 50-64,Not very likely,0.41,2018
 LIFECC,Age,Ages 50-64,Not at all likely,0.39,2018
 LIFECC,Age,Ages 50-64,Don't know,0.03,2018
 LIFECC,Age,Ages 50-64,Refused,0,2018
-LIFECC,Age,Ages 50-64,Summary: Almost certain/Very likely,0.08,2018
 LIFECD,Age,Ages 50-64,Almost certain,0.08,2018
 LIFECD,Age,Ages 50-64,Very likely,0.14,2018
 LIFECD,Age,Ages 50-64,A toss up,0.49,2018
@@ -4659,7 +4564,6 @@ LIFECD,Age,Ages 50-64,Not very likely,0.17,2018
 LIFECD,Age,Ages 50-64,Not at all likely,0.05,2018
 LIFECD,Age,Ages 50-64,Don't know,0.06,2018
 LIFECD,Age,Ages 50-64,Refused,0.01,2018
-LIFECD,Age,Ages 50-64,Summary: Almost certain/Very likely,0.22000000000000003,2018
 LIFECF,Age,Ages 50-64,Almost certain,0.04,2018
 LIFECF,Age,Ages 50-64,Very likely,0.07,2018
 LIFECF,Age,Ages 50-64,A toss up,0.23,2018
@@ -4667,7 +4571,6 @@ LIFECF,Age,Ages 50-64,Not very likely,0.47,2018
 LIFECF,Age,Ages 50-64,Not at all likely,0.17,2018
 LIFECF,Age,Ages 50-64,Don't know,0.02,2018
 LIFECF,Age,Ages 50-64,Refused,0,2018
-LIFECF,Age,Ages 50-64,Summary: Almost certain/Very likely,0.11000000000000001,2018
 Q19,Age,Ages 50-64,Excellent,0.21,2018
 Q19,Age,Ages 50-64,Very good,0.4,2018
 Q19,Age,Ages 50-64,Good,0.24,2018
@@ -4675,7 +4578,6 @@ Q19,Age,Ages 50-64,Fair,0.12,2018
 Q19,Age,Ages 50-64,Poor,0.03,2018
 Q19,Age,Ages 50-64,Don't know,0,2018
 Q19,Age,Ages 50-64,Refused,0,2018
-Q19,Age,Ages 50-64,Summary: Excellent/Very Good,0.61,2018
 Q20,Age,Ages 50-64,Not at all satisfied,0.02,2018
 Q20,Age,Ages 50-64,Only a little bit satisfied,0.06,2018
 Q20,Age,Ages 50-64,Somewhat satisfied,0.18,2018
@@ -5123,56 +5025,48 @@ Q17A,Age,Ages 65+,Somewhat disagree,0.18,2018
 Q17A,Age,Ages 65+,Strongly disagree,0.3,2018
 Q17A,Age,Ages 65+,Don't know,0.01,2018
 Q17A,Age,Ages 65+,Refused,0.01,2018
-Q17A,Age,Ages 65+,Summary: Strongly/Somewhat agree,0.5,2018
 Q17B,Age,Ages 65+,Strongly agree,0.47,2018
 Q17B,Age,Ages 65+,Somewhat agree,0.18,2018
 Q17B,Age,Ages 65+,Somewhat disagree,0.07,2018
 Q17B,Age,Ages 65+,Strongly disagree,0.27,2018
 Q17B,Age,Ages 65+,Don't know,0.01,2018
 Q17B,Age,Ages 65+,Refused,0,2018
-Q17B,Age,Ages 65+,Summary: Strongly/Somewhat agree,0.6499999999999999,2018
 Q17C,Age,Ages 65+,Strongly agree,0.36,2018
 Q17C,Age,Ages 65+,Somewhat agree,0.28,2018
 Q17C,Age,Ages 65+,Somewhat disagree,0.12,2018
 Q17C,Age,Ages 65+,Strongly disagree,0.2,2018
 Q17C,Age,Ages 65+,Don't know,0.05,2018
 Q17C,Age,Ages 65+,Refused,0,2018
-Q17C,Age,Ages 65+,Summary: Strongly/Somewhat agree,0.64,2018
 Q17E,Age,Ages 65+,Strongly agree,0.38,2018
 Q17E,Age,Ages 65+,Somewhat agree,0.3,2018
 Q17E,Age,Ages 65+,Somewhat disagree,0.1,2018
 Q17E,Age,Ages 65+,Strongly disagree,0.19,2018
 Q17E,Age,Ages 65+,Don't know,0.02,2018
 Q17E,Age,Ages 65+,Refused,0,2018
-Q17E,Age,Ages 65+,Summary: Strongly/Somewhat agree,0.6799999999999999,2018
 Q17F,Age,Ages 65+,Strongly agree,0.21,2018
 Q17F,Age,Ages 65+,Somewhat agree,0.15,2018
 Q17F,Age,Ages 65+,Somewhat disagree,0.15,2018
 Q17F,Age,Ages 65+,Strongly disagree,0.44,2018
 Q17F,Age,Ages 65+,Don't know,0.04,2018
 Q17F,Age,Ages 65+,Refused,0.01,2018
-Q17F,Age,Ages 65+,Summary: Strongly/Somewhat agree,0.36,2018
 Q17G,Age,Ages 65+,Strongly agree,0.59,2018
 Q17G,Age,Ages 65+,Somewhat agree,0.26,2018
 Q17G,Age,Ages 65+,Somewhat disagree,0.04,2018
 Q17G,Age,Ages 65+,Strongly disagree,0.05,2018
 Q17G,Age,Ages 65+,Don't know,0.05,2018
 Q17G,Age,Ages 65+,Refused,0.01,2018
-Q17G,Age,Ages 65+,Summary: Strongly/Somewhat agree,0.85,2018
 Q17H,Age,Ages 65+,Strongly agree,0.38,2018
 Q17H,Age,Ages 65+,Somewhat agree,0.31,2018
 Q17H,Age,Ages 65+,Somewhat disagree,0.08,2018
 Q17H,Age,Ages 65+,Strongly disagree,0.07,2018
 Q17H,Age,Ages 65+,Don't know,0.15,2018
 Q17H,Age,Ages 65+,Refused,0.01,2018
-Q17H,Age,Ages 65+,Summary: Strongly/Somewhat agree,0.69,2018
 Q17I,Age,Ages 65+,Strongly agree,0.43,2018
 Q17I,Age,Ages 65+,Somewhat agree,0.35,2018
 Q17I,Age,Ages 65+,Somewhat disagree,0.07,2018
 Q17I,Age,Ages 65+,Strongly disagree,0.06,2018
 Q17I,Age,Ages 65+,Don't know,0.09,2018
 Q17I,Age,Ages 65+,Refused,0.01,2018
-Q17I,Age,Ages 65+,Summary: Strongly/Somewhat agree,0.78,2018
 LIFECA,Age,Ages 65+,Almost certain,0.38,2018
 LIFECA,Age,Ages 65+,Very likely,0.47,2018
 LIFECA,Age,Ages 65+,A toss up,0.05,2018
@@ -5180,7 +5074,6 @@ LIFECA,Age,Ages 65+,Not very likely,0.01,2018
 LIFECA,Age,Ages 65+,Not at all likely,0.01,2018
 LIFECA,Age,Ages 65+,Don't know,0.06,2018
 LIFECA,Age,Ages 65+,Refused,0,2018
-LIFECA,Age,Ages 65+,Summary: Almost certain/Very likely,0.85,2018
 LIFECB,Age,Ages 65+,Almost certain,0.12,2018
 LIFECB,Age,Ages 65+,Very likely,0.34,2018
 LIFECB,Age,Ages 65+,A toss up,0.21,2018
@@ -5188,7 +5081,6 @@ LIFECB,Age,Ages 65+,Not very likely,0.15,2018
 LIFECB,Age,Ages 65+,Not at all likely,0.05,2018
 LIFECB,Age,Ages 65+,Don't know,0.12,2018
 LIFECB,Age,Ages 65+,Refused,0.01,2018
-LIFECB,Age,Ages 65+,Summary: Almost certain/Very likely,0.46,2018
 LIFECC,Age,Ages 65+,Almost certain,0.01,2018
 LIFECC,Age,Ages 65+,Very likely,0.05,2018
 LIFECC,Age,Ages 65+,A toss up,0.1,2018
@@ -5196,7 +5088,6 @@ LIFECC,Age,Ages 65+,Not very likely,0.33,2018
 LIFECC,Age,Ages 65+,Not at all likely,0.4,2018
 LIFECC,Age,Ages 65+,Don't know,0.11,2018
 LIFECC,Age,Ages 65+,Refused,0,2018
-LIFECC,Age,Ages 65+,Summary: Almost certain/Very likely,0.060000000000000005,2018
 LIFECD,Age,Ages 65+,Almost certain,0.05,2018
 LIFECD,Age,Ages 65+,Very likely,0.21,2018
 LIFECD,Age,Ages 65+,A toss up,0.29,2018
@@ -5204,7 +5095,6 @@ LIFECD,Age,Ages 65+,Not very likely,0.21,2018
 LIFECD,Age,Ages 65+,Not at all likely,0.1,2018
 LIFECD,Age,Ages 65+,Don't know,0.14,2018
 LIFECD,Age,Ages 65+,Refused,0,2018
-LIFECD,Age,Ages 65+,Summary: Almost certain/Very likely,0.26,2018
 LIFECF,Age,Ages 65+,Almost certain,0.02,2018
 LIFECF,Age,Ages 65+,Very likely,0.08,2018
 LIFECF,Age,Ages 65+,A toss up,0.15,2018
@@ -5212,7 +5102,6 @@ LIFECF,Age,Ages 65+,Not very likely,0.42,2018
 LIFECF,Age,Ages 65+,Not at all likely,0.24,2018
 LIFECF,Age,Ages 65+,Don't know,0.09,2018
 LIFECF,Age,Ages 65+,Refused,0.01,2018
-LIFECF,Age,Ages 65+,Summary: Almost certain/Very likely,0.1,2018
 Q19,Age,Ages 65+,Excellent,0.18,2018
 Q19,Age,Ages 65+,Very good,0.32,2018
 Q19,Age,Ages 65+,Good,0.29,2018
@@ -5220,7 +5109,6 @@ Q19,Age,Ages 65+,Fair,0.16,2018
 Q19,Age,Ages 65+,Poor,0.05,2018
 Q19,Age,Ages 65+,Don't know,0,2018
 Q19,Age,Ages 65+,Refused,0,2018
-Q19,Age,Ages 65+,Summary: Excellent/Very Good,0.5,2018
 Q20,Age,Ages 65+,Not at all satisfied,0.02,2018
 Q20,Age,Ages 65+,Only a little bit satisfied,0.06,2018
 Q20,Age,Ages 65+,Somewhat satisfied,0.2,2018
@@ -5648,56 +5536,48 @@ Q17A,Race/Ethnicity,White,Somewhat disagree,0.19,2018
 Q17A,Race/Ethnicity,White,Strongly disagree,0.25,2018
 Q17A,Race/Ethnicity,White,Don't know,0,2018
 Q17A,Race/Ethnicity,White,Refused,0,2018
-Q17A,Race/Ethnicity,White,Summary: Strongly/Somewhat agree,0.55,2018
 Q17B,Race/Ethnicity,White,Strongly agree,0.4,2018
 Q17B,Race/Ethnicity,White,Somewhat agree,0.23,2018
 Q17B,Race/Ethnicity,White,Somewhat disagree,0.12,2018
 Q17B,Race/Ethnicity,White,Strongly disagree,0.24,2018
 Q17B,Race/Ethnicity,White,Don't know,0.01,2018
 Q17B,Race/Ethnicity,White,Refused,0,2018
-Q17B,Race/Ethnicity,White,Summary: Strongly/Somewhat agree,0.63,2018
 Q17C,Race/Ethnicity,White,Strongly agree,0.32,2018
 Q17C,Race/Ethnicity,White,Somewhat agree,0.34,2018
 Q17C,Race/Ethnicity,White,Somewhat disagree,0.16,2018
 Q17C,Race/Ethnicity,White,Strongly disagree,0.16,2018
 Q17C,Race/Ethnicity,White,Don't know,0.02,2018
 Q17C,Race/Ethnicity,White,Refused,0,2018
-Q17C,Race/Ethnicity,White,Summary: Strongly/Somewhat agree,0.66,2018
 Q17E,Race/Ethnicity,White,Strongly agree,0.36,2018
 Q17E,Race/Ethnicity,White,Somewhat agree,0.35,2018
 Q17E,Race/Ethnicity,White,Somewhat disagree,0.12,2018
 Q17E,Race/Ethnicity,White,Strongly disagree,0.15,2018
 Q17E,Race/Ethnicity,White,Don't know,0.01,2018
 Q17E,Race/Ethnicity,White,Refused,0,2018
-Q17E,Race/Ethnicity,White,Summary: Strongly/Somewhat agree,0.71,2018
 Q17F,Race/Ethnicity,White,Strongly agree,0.14,2018
 Q17F,Race/Ethnicity,White,Somewhat agree,0.14,2018
 Q17F,Race/Ethnicity,White,Somewhat disagree,0.2,2018
 Q17F,Race/Ethnicity,White,Strongly disagree,0.51,2018
 Q17F,Race/Ethnicity,White,Don't know,0.01,2018
 Q17F,Race/Ethnicity,White,Refused,0,2018
-Q17F,Race/Ethnicity,White,Summary: Strongly/Somewhat agree,0.28,2018
 Q17G,Race/Ethnicity,White,Strongly agree,0.47,2018
 Q17G,Race/Ethnicity,White,Somewhat agree,0.38,2018
 Q17G,Race/Ethnicity,White,Somewhat disagree,0.08,2018
 Q17G,Race/Ethnicity,White,Strongly disagree,0.04,2018
 Q17G,Race/Ethnicity,White,Don't know,0.01,2018
 Q17G,Race/Ethnicity,White,Refused,0,2018
-Q17G,Race/Ethnicity,White,Summary: Strongly/Somewhat agree,0.85,2018
 Q17H,Race/Ethnicity,White,Strongly agree,0.34,2018
 Q17H,Race/Ethnicity,White,Somewhat agree,0.42,2018
 Q17H,Race/Ethnicity,White,Somewhat disagree,0.12,2018
 Q17H,Race/Ethnicity,White,Strongly disagree,0.07,2018
 Q17H,Race/Ethnicity,White,Don't know,0.06,2018
 Q17H,Race/Ethnicity,White,Refused,0,2018
-Q17H,Race/Ethnicity,White,Summary: Strongly/Somewhat agree,0.76,2018
 Q17I,Race/Ethnicity,White,Strongly agree,0.35,2018
 Q17I,Race/Ethnicity,White,Somewhat agree,0.42,2018
 Q17I,Race/Ethnicity,White,Somewhat disagree,0.12,2018
 Q17I,Race/Ethnicity,White,Strongly disagree,0.06,2018
 Q17I,Race/Ethnicity,White,Don't know,0.04,2018
 Q17I,Race/Ethnicity,White,Refused,0,2018
-Q17I,Race/Ethnicity,White,Summary: Strongly/Somewhat agree,0.77,2018
 LIFECA,Race/Ethnicity,White,Almost certain,0.45,2018
 LIFECA,Race/Ethnicity,White,Very likely,0.42,2018
 LIFECA,Race/Ethnicity,White,A toss up,0.08,2018
@@ -5705,7 +5585,6 @@ LIFECA,Race/Ethnicity,White,Not very likely,0.02,2018
 LIFECA,Race/Ethnicity,White,Not at all likely,0.01,2018
 LIFECA,Race/Ethnicity,White,Don't know,0.02,2018
 LIFECA,Race/Ethnicity,White,Refused,0,2018
-LIFECA,Race/Ethnicity,White,Summary: Almost certain/Very likely,0.87,2018
 LIFECB,Race/Ethnicity,White,Almost certain,0.15,2018
 LIFECB,Race/Ethnicity,White,Very likely,0.39,2018
 LIFECB,Race/Ethnicity,White,A toss up,0.27,2018
@@ -5713,7 +5592,6 @@ LIFECB,Race/Ethnicity,White,Not very likely,0.11,2018
 LIFECB,Race/Ethnicity,White,Not at all likely,0.02,2018
 LIFECB,Race/Ethnicity,White,Don't know,0.06,2018
 LIFECB,Race/Ethnicity,White,Refused,0,2018
-LIFECB,Race/Ethnicity,White,Summary: Almost certain/Very likely,0.54,2018
 LIFECC,Race/Ethnicity,White,Almost certain,0.01,2018
 LIFECC,Race/Ethnicity,White,Very likely,0.03,2018
 LIFECC,Race/Ethnicity,White,A toss up,0.1,2018
@@ -5721,7 +5599,6 @@ LIFECC,Race/Ethnicity,White,Not very likely,0.44,2018
 LIFECC,Race/Ethnicity,White,Not at all likely,0.39,2018
 LIFECC,Race/Ethnicity,White,Don't know,0.03,2018
 LIFECC,Race/Ethnicity,White,Refused,0,2018
-LIFECC,Race/Ethnicity,White,Summary: Almost certain/Very likely,0.04,2018
 LIFECD,Race/Ethnicity,White,Almost certain,0.05,2018
 LIFECD,Race/Ethnicity,White,Very likely,0.17,2018
 LIFECD,Race/Ethnicity,White,A toss up,0.46,2018
@@ -5729,7 +5606,6 @@ LIFECD,Race/Ethnicity,White,Not very likely,0.22,2018
 LIFECD,Race/Ethnicity,White,Not at all likely,0.05,2018
 LIFECD,Race/Ethnicity,White,Don't know,0.05,2018
 LIFECD,Race/Ethnicity,White,Refused,0,2018
-LIFECD,Race/Ethnicity,White,Summary: Almost certain/Very likely,0.22000000000000003,2018
 LIFECF,Race/Ethnicity,White,Almost certain,0.02,2018
 LIFECF,Race/Ethnicity,White,Very likely,0.05,2018
 LIFECF,Race/Ethnicity,White,A toss up,0.22,2018
@@ -5737,7 +5613,6 @@ LIFECF,Race/Ethnicity,White,Not very likely,0.49,2018
 LIFECF,Race/Ethnicity,White,Not at all likely,0.18,2018
 LIFECF,Race/Ethnicity,White,Don't know,0.03,2018
 LIFECF,Race/Ethnicity,White,Refused,0,2018
-LIFECF,Race/Ethnicity,White,Summary: Almost certain/Very likely,0.07,2018
 Q19,Race/Ethnicity,White,Excellent,0.22,2018
 Q19,Race/Ethnicity,White,Very good,0.38,2018
 Q19,Race/Ethnicity,White,Good,0.26,2018
@@ -5745,7 +5620,6 @@ Q19,Race/Ethnicity,White,Fair,0.12,2018
 Q19,Race/Ethnicity,White,Poor,0.02,2018
 Q19,Race/Ethnicity,White,Don't know,0,2018
 Q19,Race/Ethnicity,White,Refused,0.01,2018
-Q19,Race/Ethnicity,White,Summary: Excellent/Very Good,0.6,2018
 Q20,Race/Ethnicity,White,Not at all satisfied,0.02,2018
 Q20,Race/Ethnicity,White,Only a little bit satisfied,0.09,2018
 Q20,Race/Ethnicity,White,Somewhat satisfied,0.21,2018
@@ -6234,56 +6108,48 @@ Q17A,Race/Ethnicity,Black,Somewhat disagree,0.09,2018
 Q17A,Race/Ethnicity,Black,Strongly disagree,0.14,2018
 Q17A,Race/Ethnicity,Black,Don't know,0,2018
 Q17A,Race/Ethnicity,Black,Refused,0,2018
-Q17A,Race/Ethnicity,Black,Summary: Strongly/Somewhat agree,0.77,2018
 Q17B,Race/Ethnicity,Black,Strongly agree,0.54,2018
 Q17B,Race/Ethnicity,Black,Somewhat agree,0.28,2018
 Q17B,Race/Ethnicity,Black,Somewhat disagree,0.07,2018
 Q17B,Race/Ethnicity,Black,Strongly disagree,0.1,2018
 Q17B,Race/Ethnicity,Black,Don't know,0,2018
 Q17B,Race/Ethnicity,Black,Refused,0,2018
-Q17B,Race/Ethnicity,Black,Summary: Strongly/Somewhat agree,0.8200000000000001,2018
 Q17C,Race/Ethnicity,Black,Strongly agree,0.44,2018
 Q17C,Race/Ethnicity,Black,Somewhat agree,0.32,2018
 Q17C,Race/Ethnicity,Black,Somewhat disagree,0.07,2018
 Q17C,Race/Ethnicity,Black,Strongly disagree,0.15,2018
 Q17C,Race/Ethnicity,Black,Don't know,0.01,2018
 Q17C,Race/Ethnicity,Black,Refused,0,2018
-Q17C,Race/Ethnicity,Black,Summary: Strongly/Somewhat agree,0.76,2018
 Q17E,Race/Ethnicity,Black,Strongly agree,0.38,2018
 Q17E,Race/Ethnicity,Black,Somewhat agree,0.33,2018
 Q17E,Race/Ethnicity,Black,Somewhat disagree,0.12,2018
 Q17E,Race/Ethnicity,Black,Strongly disagree,0.16,2018
 Q17E,Race/Ethnicity,Black,Don't know,0.01,2018
 Q17E,Race/Ethnicity,Black,Refused,0,2018
-Q17E,Race/Ethnicity,Black,Summary: Strongly/Somewhat agree,0.71,2018
 Q17F,Race/Ethnicity,Black,Strongly agree,0.21,2018
 Q17F,Race/Ethnicity,Black,Somewhat agree,0.18,2018
 Q17F,Race/Ethnicity,Black,Somewhat disagree,0.27,2018
 Q17F,Race/Ethnicity,Black,Strongly disagree,0.32,2018
 Q17F,Race/Ethnicity,Black,Don't know,0.01,2018
 Q17F,Race/Ethnicity,Black,Refused,0.01,2018
-Q17F,Race/Ethnicity,Black,Summary: Strongly/Somewhat agree,0.39,2018
 Q17G,Race/Ethnicity,Black,Strongly agree,0.28,2018
 Q17G,Race/Ethnicity,Black,Somewhat agree,0.38,2018
 Q17G,Race/Ethnicity,Black,Somewhat disagree,0.16,2018
 Q17G,Race/Ethnicity,Black,Strongly disagree,0.13,2018
 Q17G,Race/Ethnicity,Black,Don't know,0.05,2018
 Q17G,Race/Ethnicity,Black,Refused,0.01,2018
-Q17G,Race/Ethnicity,Black,Summary: Strongly/Somewhat agree,0.66,2018
 Q17H,Race/Ethnicity,Black,Strongly agree,0.22,2018
 Q17H,Race/Ethnicity,Black,Somewhat agree,0.41,2018
 Q17H,Race/Ethnicity,Black,Somewhat disagree,0.21,2018
 Q17H,Race/Ethnicity,Black,Strongly disagree,0.14,2018
 Q17H,Race/Ethnicity,Black,Don't know,0.02,2018
 Q17H,Race/Ethnicity,Black,Refused,0,2018
-Q17H,Race/Ethnicity,Black,Summary: Strongly/Somewhat agree,0.63,2018
 Q17I,Race/Ethnicity,Black,Strongly agree,0.35,2018
 Q17I,Race/Ethnicity,Black,Somewhat agree,0.42,2018
 Q17I,Race/Ethnicity,Black,Somewhat disagree,0.11,2018
 Q17I,Race/Ethnicity,Black,Strongly disagree,0.11,2018
 Q17I,Race/Ethnicity,Black,Don't know,0.02,2018
 Q17I,Race/Ethnicity,Black,Refused,0,2018
-Q17I,Race/Ethnicity,Black,Summary: Strongly/Somewhat agree,0.77,2018
 LIFECA,Race/Ethnicity,Black,Almost certain,0.27,2018
 LIFECA,Race/Ethnicity,Black,Very likely,0.51,2018
 LIFECA,Race/Ethnicity,Black,A toss up,0.11,2018
@@ -6291,7 +6157,6 @@ LIFECA,Race/Ethnicity,Black,Not very likely,0.02,2018
 LIFECA,Race/Ethnicity,Black,Not at all likely,0.04,2018
 LIFECA,Race/Ethnicity,Black,Don't know,0.04,2018
 LIFECA,Race/Ethnicity,Black,Refused,0,2018
-LIFECA,Race/Ethnicity,Black,Summary: Almost certain/Very likely,0.78,2018
 LIFECB,Race/Ethnicity,Black,Almost certain,0.1,2018
 LIFECB,Race/Ethnicity,Black,Very likely,0.35,2018
 LIFECB,Race/Ethnicity,Black,A toss up,0.33,2018
@@ -6299,7 +6164,6 @@ LIFECB,Race/Ethnicity,Black,Not very likely,0.12,2018
 LIFECB,Race/Ethnicity,Black,Not at all likely,0.07,2018
 LIFECB,Race/Ethnicity,Black,Don't know,0.05,2018
 LIFECB,Race/Ethnicity,Black,Refused,0,2018
-LIFECB,Race/Ethnicity,Black,Summary: Almost certain/Very likely,0.44999999999999996,2018
 LIFECC,Race/Ethnicity,Black,Almost certain,0.08,2018
 LIFECC,Race/Ethnicity,Black,Very likely,0.09,2018
 LIFECC,Race/Ethnicity,Black,A toss up,0.25,2018
@@ -6307,7 +6171,6 @@ LIFECC,Race/Ethnicity,Black,Not very likely,0.27,2018
 LIFECC,Race/Ethnicity,Black,Not at all likely,0.24,2018
 LIFECC,Race/Ethnicity,Black,Don't know,0.06,2018
 LIFECC,Race/Ethnicity,Black,Refused,0.01,2018
-LIFECC,Race/Ethnicity,Black,Summary: Almost certain/Very likely,0.16999999999999998,2018
 LIFECD,Race/Ethnicity,Black,Almost certain,0.13,2018
 LIFECD,Race/Ethnicity,Black,Very likely,0.25,2018
 LIFECD,Race/Ethnicity,Black,A toss up,0.35,2018
@@ -6315,7 +6178,6 @@ LIFECD,Race/Ethnicity,Black,Not very likely,0.09,2018
 LIFECD,Race/Ethnicity,Black,Not at all likely,0.09,2018
 LIFECD,Race/Ethnicity,Black,Don't know,0.08,2018
 LIFECD,Race/Ethnicity,Black,Refused,0,2018
-LIFECD,Race/Ethnicity,Black,Summary: Almost certain/Very likely,0.38,2018
 LIFECF,Race/Ethnicity,Black,Almost certain,0.07,2018
 LIFECF,Race/Ethnicity,Black,Very likely,0.17,2018
 LIFECF,Race/Ethnicity,Black,A toss up,0.39,2018
@@ -6323,7 +6185,6 @@ LIFECF,Race/Ethnicity,Black,Not very likely,0.22,2018
 LIFECF,Race/Ethnicity,Black,Not at all likely,0.14,2018
 LIFECF,Race/Ethnicity,Black,Don't know,0.02,2018
 LIFECF,Race/Ethnicity,Black,Refused,0,2018
-LIFECF,Race/Ethnicity,Black,Summary: Almost certain/Very likely,0.24000000000000002,2018
 Q19,Race/Ethnicity,Black,Excellent,0.2,2018
 Q19,Race/Ethnicity,Black,Very good,0.31,2018
 Q19,Race/Ethnicity,Black,Good,0.28,2018
@@ -6331,7 +6192,6 @@ Q19,Race/Ethnicity,Black,Fair,0.17,2018
 Q19,Race/Ethnicity,Black,Poor,0.04,2018
 Q19,Race/Ethnicity,Black,Don't know,0,2018
 Q19,Race/Ethnicity,Black,Refused,0,2018
-Q19,Race/Ethnicity,Black,Summary: Excellent/Very Good,0.51,2018
 Q20,Race/Ethnicity,Black,Not at all satisfied,0.04,2018
 Q20,Race/Ethnicity,Black,Only a little bit satisfied,0.1,2018
 Q20,Race/Ethnicity,Black,Somewhat satisfied,0.28,2018
@@ -6785,56 +6645,48 @@ Q17A,Race/Ethnicity,Latino,Somewhat disagree,0.13,2018
 Q17A,Race/Ethnicity,Latino,Strongly disagree,0.12,2018
 Q17A,Race/Ethnicity,Latino,Don't know,0,2018
 Q17A,Race/Ethnicity,Latino,Refused,0,2018
-Q17A,Race/Ethnicity,Latino,Summary: Strongly/Somewhat agree,0.74,2018
 Q17B,Race/Ethnicity,Latino,Strongly agree,0.5,2018
 Q17B,Race/Ethnicity,Latino,Somewhat agree,0.32,2018
 Q17B,Race/Ethnicity,Latino,Somewhat disagree,0.1,2018
 Q17B,Race/Ethnicity,Latino,Strongly disagree,0.07,2018
 Q17B,Race/Ethnicity,Latino,Don't know,0,2018
 Q17B,Race/Ethnicity,Latino,Refused,0,2018
-Q17B,Race/Ethnicity,Latino,Summary: Strongly/Somewhat agree,0.8200000000000001,2018
 Q17C,Race/Ethnicity,Latino,Strongly agree,0.34,2018
 Q17C,Race/Ethnicity,Latino,Somewhat agree,0.38,2018
 Q17C,Race/Ethnicity,Latino,Somewhat disagree,0.14,2018
 Q17C,Race/Ethnicity,Latino,Strongly disagree,0.11,2018
 Q17C,Race/Ethnicity,Latino,Don't know,0.02,2018
 Q17C,Race/Ethnicity,Latino,Refused,0,2018
-Q17C,Race/Ethnicity,Latino,Summary: Strongly/Somewhat agree,0.72,2018
 Q17E,Race/Ethnicity,Latino,Strongly agree,0.33,2018
 Q17E,Race/Ethnicity,Latino,Somewhat agree,0.43,2018
 Q17E,Race/Ethnicity,Latino,Somewhat disagree,0.12,2018
 Q17E,Race/Ethnicity,Latino,Strongly disagree,0.12,2018
 Q17E,Race/Ethnicity,Latino,Don't know,0,2018
 Q17E,Race/Ethnicity,Latino,Refused,0,2018
-Q17E,Race/Ethnicity,Latino,Summary: Strongly/Somewhat agree,0.76,2018
 Q17F,Race/Ethnicity,Latino,Strongly agree,0.25,2018
 Q17F,Race/Ethnicity,Latino,Somewhat agree,0.26,2018
 Q17F,Race/Ethnicity,Latino,Somewhat disagree,0.23,2018
 Q17F,Race/Ethnicity,Latino,Strongly disagree,0.26,2018
 Q17F,Race/Ethnicity,Latino,Don't know,0,2018
 Q17F,Race/Ethnicity,Latino,Refused,0,2018
-Q17F,Race/Ethnicity,Latino,Summary: Strongly/Somewhat agree,0.51,2018
 Q17G,Race/Ethnicity,Latino,Strongly agree,0.28,2018
 Q17G,Race/Ethnicity,Latino,Somewhat agree,0.43,2018
 Q17G,Race/Ethnicity,Latino,Somewhat disagree,0.18,2018
 Q17G,Race/Ethnicity,Latino,Strongly disagree,0.11,2018
 Q17G,Race/Ethnicity,Latino,Don't know,0,2018
 Q17G,Race/Ethnicity,Latino,Refused,0,2018
-Q17G,Race/Ethnicity,Latino,Summary: Strongly/Somewhat agree,0.71,2018
 Q17H,Race/Ethnicity,Latino,Strongly agree,0.24,2018
 Q17H,Race/Ethnicity,Latino,Somewhat agree,0.38,2018
 Q17H,Race/Ethnicity,Latino,Somewhat disagree,0.21,2018
 Q17H,Race/Ethnicity,Latino,Strongly disagree,0.15,2018
 Q17H,Race/Ethnicity,Latino,Don't know,0.02,2018
 Q17H,Race/Ethnicity,Latino,Refused,0,2018
-Q17H,Race/Ethnicity,Latino,Summary: Strongly/Somewhat agree,0.62,2018
 Q17I,Race/Ethnicity,Latino,Strongly agree,0.24,2018
 Q17I,Race/Ethnicity,Latino,Somewhat agree,0.4,2018
 Q17I,Race/Ethnicity,Latino,Somewhat disagree,0.14,2018
 Q17I,Race/Ethnicity,Latino,Strongly disagree,0.19,2018
 Q17I,Race/Ethnicity,Latino,Don't know,0.03,2018
 Q17I,Race/Ethnicity,Latino,Refused,0,2018
-Q17I,Race/Ethnicity,Latino,Summary: Strongly/Somewhat agree,0.64,2018
 LIFECA,Race/Ethnicity,Latino,Almost certain,0.24,2018
 LIFECA,Race/Ethnicity,Latino,Very likely,0.52,2018
 LIFECA,Race/Ethnicity,Latino,A toss up,0.13,2018
@@ -6842,7 +6694,6 @@ LIFECA,Race/Ethnicity,Latino,Not very likely,0.03,2018
 LIFECA,Race/Ethnicity,Latino,Not at all likely,0.07,2018
 LIFECA,Race/Ethnicity,Latino,Don't know,0.01,2018
 LIFECA,Race/Ethnicity,Latino,Refused,0,2018
-LIFECA,Race/Ethnicity,Latino,Summary: Almost certain/Very likely,0.76,2018
 LIFECB,Race/Ethnicity,Latino,Almost certain,0.17,2018
 LIFECB,Race/Ethnicity,Latino,Very likely,0.34,2018
 LIFECB,Race/Ethnicity,Latino,A toss up,0.23,2018
@@ -6850,7 +6701,6 @@ LIFECB,Race/Ethnicity,Latino,Not very likely,0.17,2018
 LIFECB,Race/Ethnicity,Latino,Not at all likely,0.06,2018
 LIFECB,Race/Ethnicity,Latino,Don't know,0.02,2018
 LIFECB,Race/Ethnicity,Latino,Refused,0,2018
-LIFECB,Race/Ethnicity,Latino,Summary: Almost certain/Very likely,0.51,2018
 LIFECC,Race/Ethnicity,Latino,Almost certain,0.07,2018
 LIFECC,Race/Ethnicity,Latino,Very likely,0.22,2018
 LIFECC,Race/Ethnicity,Latino,A toss up,0.19,2018
@@ -6858,7 +6708,6 @@ LIFECC,Race/Ethnicity,Latino,Not very likely,0.25,2018
 LIFECC,Race/Ethnicity,Latino,Not at all likely,0.27,2018
 LIFECC,Race/Ethnicity,Latino,Don't know,0.01,2018
 LIFECC,Race/Ethnicity,Latino,Refused,0,2018
-LIFECC,Race/Ethnicity,Latino,Summary: Almost certain/Very likely,0.29000000000000004,2018
 LIFECD,Race/Ethnicity,Latino,Almost certain,0.12,2018
 LIFECD,Race/Ethnicity,Latino,Very likely,0.26,2018
 LIFECD,Race/Ethnicity,Latino,A toss up,0.24,2018
@@ -6866,7 +6715,6 @@ LIFECD,Race/Ethnicity,Latino,Not very likely,0.17,2018
 LIFECD,Race/Ethnicity,Latino,Not at all likely,0.2,2018
 LIFECD,Race/Ethnicity,Latino,Don't know,0.01,2018
 LIFECD,Race/Ethnicity,Latino,Refused,0,2018
-LIFECD,Race/Ethnicity,Latino,Summary: Almost certain/Very likely,0.38,2018
 LIFECF,Race/Ethnicity,Latino,Almost certain,0.09,2018
 LIFECF,Race/Ethnicity,Latino,Very likely,0.18,2018
 LIFECF,Race/Ethnicity,Latino,A toss up,0.19,2018
@@ -6874,7 +6722,6 @@ LIFECF,Race/Ethnicity,Latino,Not very likely,0.3,2018
 LIFECF,Race/Ethnicity,Latino,Not at all likely,0.22,2018
 LIFECF,Race/Ethnicity,Latino,Don't know,0.02,2018
 LIFECF,Race/Ethnicity,Latino,Refused,0,2018
-LIFECF,Race/Ethnicity,Latino,Summary: Almost certain/Very likely,0.27,2018
 Q19,Race/Ethnicity,Latino,Excellent,0.22,2018
 Q19,Race/Ethnicity,Latino,Very good,0.29,2018
 Q19,Race/Ethnicity,Latino,Good,0.3,2018
@@ -6882,7 +6729,6 @@ Q19,Race/Ethnicity,Latino,Fair,0.15,2018
 Q19,Race/Ethnicity,Latino,Poor,0.04,2018
 Q19,Race/Ethnicity,Latino,Don't know,0,2018
 Q19,Race/Ethnicity,Latino,Refused,0,2018
-Q19,Race/Ethnicity,Latino,Summary: Excellent/Very Good,0.51,2018
 Q20,Race/Ethnicity,Latino,Not at all satisfied,0.05,2018
 Q20,Race/Ethnicity,Latino,Only a little bit satisfied,0.15,2018
 Q20,Race/Ethnicity,Latino,Somewhat satisfied,0.3,2018
@@ -7325,56 +7171,48 @@ Q17A,Education,High school or less,Somewhat disagree,0.15,2018
 Q17A,Education,High school or less,Strongly disagree,0.16,2018
 Q17A,Education,High school or less,Don't know,0,2018
 Q17A,Education,High school or less,Refused,0.01,2018
-Q17A,Education,High school or less,Summary: Strongly/Somewhat agree,0.6699999999999999,2018
 Q17B,Education,High school or less,Strongly agree,0.44,2018
 Q17B,Education,High school or less,Somewhat agree,0.26,2018
 Q17B,Education,High school or less,Somewhat disagree,0.11,2018
 Q17B,Education,High school or less,Strongly disagree,0.18,2018
 Q17B,Education,High school or less,Don't know,0.01,2018
 Q17B,Education,High school or less,Refused,0,2018
-Q17B,Education,High school or less,Summary: Strongly/Somewhat agree,0.7,2018
 Q17C,Education,High school or less,Strongly agree,0.36,2018
 Q17C,Education,High school or less,Somewhat agree,0.31,2018
 Q17C,Education,High school or less,Somewhat disagree,0.16,2018
 Q17C,Education,High school or less,Strongly disagree,0.16,2018
 Q17C,Education,High school or less,Don't know,0.02,2018
 Q17C,Education,High school or less,Refused,0,2018
-Q17C,Education,High school or less,Summary: Strongly/Somewhat agree,0.6699999999999999,2018
 Q17E,Education,High school or less,Strongly agree,0.31,2018
 Q17E,Education,High school or less,Somewhat agree,0.33,2018
 Q17E,Education,High school or less,Somewhat disagree,0.16,2018
 Q17E,Education,High school or less,Strongly disagree,0.17,2018
 Q17E,Education,High school or less,Don't know,0.02,2018
 Q17E,Education,High school or less,Refused,0,2018
-Q17E,Education,High school or less,Summary: Strongly/Somewhat agree,0.64,2018
 Q17F,Education,High school or less,Strongly agree,0.22,2018
 Q17F,Education,High school or less,Somewhat agree,0.18,2018
 Q17F,Education,High school or less,Somewhat disagree,0.2,2018
 Q17F,Education,High school or less,Strongly disagree,0.37,2018
 Q17F,Education,High school or less,Don't know,0.02,2018
 Q17F,Education,High school or less,Refused,0.01,2018
-Q17F,Education,High school or less,Summary: Strongly/Somewhat agree,0.4,2018
 Q17G,Education,High school or less,Strongly agree,0.37,2018
 Q17G,Education,High school or less,Somewhat agree,0.36,2018
 Q17G,Education,High school or less,Somewhat disagree,0.11,2018
 Q17G,Education,High school or less,Strongly disagree,0.12,2018
 Q17G,Education,High school or less,Don't know,0.03,2018
 Q17G,Education,High school or less,Refused,0.01,2018
-Q17G,Education,High school or less,Summary: Strongly/Somewhat agree,0.73,2018
 Q17H,Education,High school or less,Strongly agree,0.26,2018
 Q17H,Education,High school or less,Somewhat agree,0.4,2018
 Q17H,Education,High school or less,Somewhat disagree,0.14,2018
 Q17H,Education,High school or less,Strongly disagree,0.12,2018
 Q17H,Education,High school or less,Don't know,0.07,2018
 Q17H,Education,High school or less,Refused,0,2018
-Q17H,Education,High school or less,Summary: Strongly/Somewhat agree,0.66,2018
 Q17I,Education,High school or less,Strongly agree,0.27,2018
 Q17I,Education,High school or less,Somewhat agree,0.41,2018
 Q17I,Education,High school or less,Somewhat disagree,0.16,2018
 Q17I,Education,High school or less,Strongly disagree,0.11,2018
 Q17I,Education,High school or less,Don't know,0.05,2018
 Q17I,Education,High school or less,Refused,0,2018
-Q17I,Education,High school or less,Summary: Strongly/Somewhat agree,0.6799999999999999,2018
 Q18,Education,High school or less,Very likely,0.46,2018
 Q18,Education,High school or less,Somewhat likely,0.22,2018
 Q18,Education,High school or less,Not very likely,0.17,2018
@@ -7388,7 +7226,6 @@ LIFECA,Education,High school or less,Not very likely,0.02,2018
 LIFECA,Education,High school or less,Not at all likely,0.03,2018
 LIFECA,Education,High school or less,Don't know,0.05,2018
 LIFECA,Education,High school or less,Refused,0,2018
-LIFECA,Education,High school or less,Summary: Almost certain/Very likely,0.75,2018
 LIFECB,Education,High school or less,Almost certain,0.12,2018
 LIFECB,Education,High school or less,Very likely,0.36,2018
 LIFECB,Education,High school or less,A toss up,0.24,2018
@@ -7396,7 +7233,6 @@ LIFECB,Education,High school or less,Not very likely,0.14,2018
 LIFECB,Education,High school or less,Not at all likely,0.06,2018
 LIFECB,Education,High school or less,Don't know,0.08,2018
 LIFECB,Education,High school or less,Refused,0,2018
-LIFECB,Education,High school or less,Summary: Almost certain/Very likely,0.48,2018
 LIFECC,Education,High school or less,Almost certain,0.06,2018
 LIFECC,Education,High school or less,Very likely,0.12,2018
 LIFECC,Education,High school or less,A toss up,0.14,2018
@@ -7404,7 +7240,6 @@ LIFECC,Education,High school or less,Not very likely,0.25,2018
 LIFECC,Education,High school or less,Not at all likely,0.36,2018
 LIFECC,Education,High school or less,Don't know,0.06,2018
 LIFECC,Education,High school or less,Refused,0.01,2018
-LIFECC,Education,High school or less,Summary: Almost certain/Very likely,0.18,2018
 LIFECD,Education,High school or less,Almost certain,0.1,2018
 LIFECD,Education,High school or less,Very likely,0.24,2018
 LIFECD,Education,High school or less,A toss up,0.29,2018
@@ -7412,7 +7247,6 @@ LIFECD,Education,High school or less,Not very likely,0.19,2018
 LIFECD,Education,High school or less,Not at all likely,0.11,2018
 LIFECD,Education,High school or less,Don't know,0.07,2018
 LIFECD,Education,High school or less,Refused,0,2018
-LIFECD,Education,High school or less,Summary: Almost certain/Very likely,0.33999999999999997,2018
 LIFECF,Education,High school or less,Almost certain,0.07,2018
 LIFECF,Education,High school or less,Very likely,0.14,2018
 LIFECF,Education,High school or less,A toss up,0.25,2018
@@ -7420,7 +7254,6 @@ LIFECF,Education,High school or less,Not very likely,0.3,2018
 LIFECF,Education,High school or less,Not at all likely,0.18,2018
 LIFECF,Education,High school or less,Don't know,0.06,2018
 LIFECF,Education,High school or less,Refused,0,2018
-LIFECF,Education,High school or less,Summary: Almost certain/Very likely,0.21000000000000002,2018
 Q19,Education,High school or less,Excellent,0.19,2018
 Q19,Education,High school or less,Very good,0.28,2018
 Q19,Education,High school or less,Good,0.28,2018
@@ -7428,7 +7261,6 @@ Q19,Education,High school or less,Fair,0.19,2018
 Q19,Education,High school or less,Poor,0.04,2018
 Q19,Education,High school or less,Don't know,0,2018
 Q19,Education,High school or less,Refused,0.01,2018
-Q19,Education,High school or less,Summary: Excellent/Very Good,0.47000000000000003,2018
 Q20,Education,High school or less,Not at all satisfied,0.03,2018
 Q20,Education,High school or less,Only a little bit satisfied,0.13,2018
 Q20,Education,High school or less,Somewhat satisfied,0.24,2018
@@ -8002,56 +7834,48 @@ Q17A,Education,Some college or Associate's,Somewhat disagree,0.18,2018
 Q17A,Education,Some college or Associate's,Strongly disagree,0.22,2018
 Q17A,Education,Some college or Associate's,Don't know,0,2018
 Q17A,Education,Some college or Associate's,Refused,0,2018
-Q17A,Education,Some college or Associate's,Summary: Strongly/Somewhat agree,0.6000000000000001,2018
 Q17B,Education,Some college or Associate's,Strongly agree,0.4,2018
 Q17B,Education,Some college or Associate's,Somewhat agree,0.29,2018
 Q17B,Education,Some college or Associate's,Somewhat disagree,0.11,2018
 Q17B,Education,Some college or Associate's,Strongly disagree,0.2,2018
 Q17B,Education,Some college or Associate's,Don't know,0.01,2018
 Q17B,Education,Some college or Associate's,Refused,0,2018
-Q17B,Education,Some college or Associate's,Summary: Strongly/Somewhat agree,0.69,2018
 Q17C,Education,Some college or Associate's,Strongly agree,0.34,2018
 Q17C,Education,Some college or Associate's,Somewhat agree,0.34,2018
 Q17C,Education,Some college or Associate's,Somewhat disagree,0.14,2018
 Q17C,Education,Some college or Associate's,Strongly disagree,0.17,2018
 Q17C,Education,Some college or Associate's,Don't know,0.02,2018
 Q17C,Education,Some college or Associate's,Refused,0,2018
-Q17C,Education,Some college or Associate's,Summary: Strongly/Somewhat agree,0.68,2018
 Q17E,Education,Some college or Associate's,Strongly agree,0.36,2018
 Q17E,Education,Some college or Associate's,Somewhat agree,0.36,2018
 Q17E,Education,Some college or Associate's,Somewhat disagree,0.1,2018
 Q17E,Education,Some college or Associate's,Strongly disagree,0.16,2018
 Q17E,Education,Some college or Associate's,Don't know,0.01,2018
 Q17E,Education,Some college or Associate's,Refused,0,2018
-Q17E,Education,Some college or Associate's,Summary: Strongly/Somewhat agree,0.72,2018
 Q17F,Education,Some college or Associate's,Strongly agree,0.16,2018
 Q17F,Education,Some college or Associate's,Somewhat agree,0.17,2018
 Q17F,Education,Some college or Associate's,Somewhat disagree,0.22,2018
 Q17F,Education,Some college or Associate's,Strongly disagree,0.44,2018
 Q17F,Education,Some college or Associate's,Don't know,0.01,2018
 Q17F,Education,Some college or Associate's,Refused,0,2018
-Q17F,Education,Some college or Associate's,Summary: Strongly/Somewhat agree,0.33,2018
 Q17G,Education,Some college or Associate's,Strongly agree,0.38,2018
 Q17G,Education,Some college or Associate's,Somewhat agree,0.39,2018
 Q17G,Education,Some college or Associate's,Somewhat disagree,0.13,2018
 Q17G,Education,Some college or Associate's,Strongly disagree,0.07,2018
 Q17G,Education,Some college or Associate's,Don't know,0.02,2018
 Q17G,Education,Some college or Associate's,Refused,0,2018
-Q17G,Education,Some college or Associate's,Summary: Strongly/Somewhat agree,0.77,2018
 Q17H,Education,Some college or Associate's,Strongly agree,0.28,2018
 Q17H,Education,Some college or Associate's,Somewhat agree,0.39,2018
 Q17H,Education,Some college or Associate's,Somewhat disagree,0.17,2018
 Q17H,Education,Some college or Associate's,Strongly disagree,0.12,2018
 Q17H,Education,Some college or Associate's,Don't know,0.04,2018
 Q17H,Education,Some college or Associate's,Refused,0,2018
-Q17H,Education,Some college or Associate's,Summary: Strongly/Somewhat agree,0.67,2018
 Q17I,Education,Some college or Associate's,Strongly agree,0.33,2018
 Q17I,Education,Some college or Associate's,Somewhat agree,0.42,2018
 Q17I,Education,Some college or Associate's,Somewhat disagree,0.12,2018
 Q17I,Education,Some college or Associate's,Strongly disagree,0.1,2018
 Q17I,Education,Some college or Associate's,Don't know,0.03,2018
 Q17I,Education,Some college or Associate's,Refused,0,2018
-Q17I,Education,Some college or Associate's,Summary: Strongly/Somewhat agree,0.75,2018
 Q18,Education,Some college or Associate's,Very likely,0.6,2018
 Q18,Education,Some college or Associate's,Somewhat likely,0.27,2018
 Q18,Education,Some college or Associate's,Not very likely,0.06,2018
@@ -8065,7 +7889,6 @@ LIFECA,Education,Some college or Associate's,Not very likely,0.02,2018
 LIFECA,Education,Some college or Associate's,Not at all likely,0.02,2018
 LIFECA,Education,Some college or Associate's,Don't know,0.02,2018
 LIFECA,Education,Some college or Associate's,Refused,0,2018
-LIFECA,Education,Some college or Associate's,Summary: Almost certain/Very likely,0.81,2018
 LIFECB,Education,Some college or Associate's,Almost certain,0.14,2018
 LIFECB,Education,Some college or Associate's,Very likely,0.35,2018
 LIFECB,Education,Some college or Associate's,A toss up,0.31,2018
@@ -8073,7 +7896,6 @@ LIFECB,Education,Some college or Associate's,Not very likely,0.11,2018
 LIFECB,Education,Some college or Associate's,Not at all likely,0.05,2018
 LIFECB,Education,Some college or Associate's,Don't know,0.03,2018
 LIFECB,Education,Some college or Associate's,Refused,0,2018
-LIFECB,Education,Some college or Associate's,Summary: Almost certain/Very likely,0.49,2018
 LIFECC,Education,Some college or Associate's,Almost certain,0.03,2018
 LIFECC,Education,Some college or Associate's,Very likely,0.07,2018
 LIFECC,Education,Some college or Associate's,A toss up,0.2,2018
@@ -8081,7 +7903,6 @@ LIFECC,Education,Some college or Associate's,Not very likely,0.35,2018
 LIFECC,Education,Some college or Associate's,Not at all likely,0.32,2018
 LIFECC,Education,Some college or Associate's,Don't know,0.03,2018
 LIFECC,Education,Some college or Associate's,Refused,0,2018
-LIFECC,Education,Some college or Associate's,Summary: Almost certain/Very likely,0.1,2018
 LIFECD,Education,Some college or Associate's,Almost certain,0.09,2018
 LIFECD,Education,Some college or Associate's,Very likely,0.21,2018
 LIFECD,Education,Some college or Associate's,A toss up,0.43,2018
@@ -8089,7 +7910,6 @@ LIFECD,Education,Some college or Associate's,Not very likely,0.15,2018
 LIFECD,Education,Some college or Associate's,Not at all likely,0.08,2018
 LIFECD,Education,Some college or Associate's,Don't know,0.05,2018
 LIFECD,Education,Some college or Associate's,Refused,0,2018
-LIFECD,Education,Some college or Associate's,Summary: Almost certain/Very likely,0.3,2018
 LIFECF,Education,Some college or Associate's,Almost certain,0.05,2018
 LIFECF,Education,Some college or Associate's,Very likely,0.08,2018
 LIFECF,Education,Some college or Associate's,A toss up,0.35,2018
@@ -8097,7 +7917,6 @@ LIFECF,Education,Some college or Associate's,Not very likely,0.37,2018
 LIFECF,Education,Some college or Associate's,Not at all likely,0.13,2018
 LIFECF,Education,Some college or Associate's,Don't know,0.02,2018
 LIFECF,Education,Some college or Associate's,Refused,0,2018
-LIFECF,Education,Some college or Associate's,Summary: Almost certain/Very likely,0.13,2018
 Q19,Education,Some college or Associate's,Excellent,0.19,2018
 Q19,Education,Some college or Associate's,Very good,0.34,2018
 Q19,Education,Some college or Associate's,Good,0.29,2018
@@ -8105,7 +7924,6 @@ Q19,Education,Some college or Associate's,Fair,0.14,2018
 Q19,Education,Some college or Associate's,Poor,0.03,2018
 Q19,Education,Some college or Associate's,Don't know,0,2018
 Q19,Education,Some college or Associate's,Refused,0.01,2018
-Q19,Education,Some college or Associate's,Summary: Excellent/Very Good,0.53,2018
 Q20,Education,Some college or Associate's,Not at all satisfied,0.04,2018
 Q20,Education,Some college or Associate's,Only a little bit satisfied,0.11,2018
 Q20,Education,Some college or Associate's,Somewhat satisfied,0.26,2018
@@ -8679,56 +8497,48 @@ Q17A,Education,Bachelor's or higher,Somewhat disagree,0.17,2018
 Q17A,Education,Bachelor's or higher,Strongly disagree,0.25,2018
 Q17A,Education,Bachelor's or higher,Don't know,0,2018
 Q17A,Education,Bachelor's or higher,Refused,0,2018
-Q17A,Education,Bachelor's or higher,Summary: Strongly/Somewhat agree,0.5800000000000001,2018
 Q17B,Education,Bachelor's or higher,Strongly agree,0.43,2018
 Q17B,Education,Bachelor's or higher,Somewhat agree,0.23,2018
 Q17B,Education,Bachelor's or higher,Somewhat disagree,0.11,2018
 Q17B,Education,Bachelor's or higher,Strongly disagree,0.22,2018
 Q17B,Education,Bachelor's or higher,Don't know,0,2018
 Q17B,Education,Bachelor's or higher,Refused,0,2018
-Q17B,Education,Bachelor's or higher,Summary: Strongly/Somewhat agree,0.66,2018
 Q17C,Education,Bachelor's or higher,Strongly agree,0.35,2018
 Q17C,Education,Bachelor's or higher,Somewhat agree,0.35,2018
 Q17C,Education,Bachelor's or higher,Somewhat disagree,0.15,2018
 Q17C,Education,Bachelor's or higher,Strongly disagree,0.13,2018
 Q17C,Education,Bachelor's or higher,Don't know,0.02,2018
 Q17C,Education,Bachelor's or higher,Refused,0,2018
-Q17C,Education,Bachelor's or higher,Summary: Strongly/Somewhat agree,0.7,2018
 Q17E,Education,Bachelor's or higher,Strongly agree,0.38,2018
 Q17E,Education,Bachelor's or higher,Somewhat agree,0.36,2018
 Q17E,Education,Bachelor's or higher,Somewhat disagree,0.13,2018
 Q17E,Education,Bachelor's or higher,Strongly disagree,0.12,2018
 Q17E,Education,Bachelor's or higher,Don't know,0,2018
 Q17E,Education,Bachelor's or higher,Refused,0,2018
-Q17E,Education,Bachelor's or higher,Summary: Strongly/Somewhat agree,0.74,2018
 Q17F,Education,Bachelor's or higher,Strongly agree,0.12,2018
 Q17F,Education,Bachelor's or higher,Somewhat agree,0.15,2018
 Q17F,Education,Bachelor's or higher,Somewhat disagree,0.19,2018
 Q17F,Education,Bachelor's or higher,Strongly disagree,0.52,2018
 Q17F,Education,Bachelor's or higher,Don't know,0.01,2018
 Q17F,Education,Bachelor's or higher,Refused,0,2018
-Q17F,Education,Bachelor's or higher,Summary: Strongly/Somewhat agree,0.27,2018
 Q17G,Education,Bachelor's or higher,Strongly agree,0.48,2018
 Q17G,Education,Bachelor's or higher,Somewhat agree,0.4,2018
 Q17G,Education,Bachelor's or higher,Somewhat disagree,0.08,2018
 Q17G,Education,Bachelor's or higher,Strongly disagree,0.03,2018
 Q17G,Education,Bachelor's or higher,Don't know,0.01,2018
 Q17G,Education,Bachelor's or higher,Refused,0,2018
-Q17G,Education,Bachelor's or higher,Summary: Strongly/Somewhat agree,0.88,2018
 Q17H,Education,Bachelor's or higher,Strongly agree,0.35,2018
 Q17H,Education,Bachelor's or higher,Somewhat agree,0.42,2018
 Q17H,Education,Bachelor's or higher,Somewhat disagree,0.12,2018
 Q17H,Education,Bachelor's or higher,Strongly disagree,0.05,2018
 Q17H,Education,Bachelor's or higher,Don't know,0.06,2018
 Q17H,Education,Bachelor's or higher,Refused,0,2018
-Q17H,Education,Bachelor's or higher,Summary: Strongly/Somewhat agree,0.77,2018
 Q17I,Education,Bachelor's or higher,Strongly agree,0.38,2018
 Q17I,Education,Bachelor's or higher,Somewhat agree,0.43,2018
 Q17I,Education,Bachelor's or higher,Somewhat disagree,0.11,2018
 Q17I,Education,Bachelor's or higher,Strongly disagree,0.05,2018
 Q17I,Education,Bachelor's or higher,Don't know,0.03,2018
 Q17I,Education,Bachelor's or higher,Refused,0,2018
-Q17I,Education,Bachelor's or higher,Summary: Strongly/Somewhat agree,0.81,2018
 Q18,Education,Bachelor's or higher,Very likely,0.55,2018
 Q18,Education,Bachelor's or higher,Somewhat likely,0.25,2018
 Q18,Education,Bachelor's or higher,Not very likely,0.05,2018
@@ -8742,7 +8552,6 @@ LIFECA,Education,Bachelor's or higher,Not very likely,0.02,2018
 LIFECA,Education,Bachelor's or higher,Not at all likely,0,2018
 LIFECA,Education,Bachelor's or higher,Don't know,0.02,2018
 LIFECA,Education,Bachelor's or higher,Refused,0,2018
-LIFECA,Education,Bachelor's or higher,Summary: Almost certain/Very likely,0.89,2018
 LIFECB,Education,Bachelor's or higher,Almost certain,0.15,2018
 LIFECB,Education,Bachelor's or higher,Very likely,0.41,2018
 LIFECB,Education,Bachelor's or higher,A toss up,0.27,2018
@@ -8750,7 +8559,6 @@ LIFECB,Education,Bachelor's or higher,Not very likely,0.09,2018
 LIFECB,Education,Bachelor's or higher,Not at all likely,0.02,2018
 LIFECB,Education,Bachelor's or higher,Don't know,0.06,2018
 LIFECB,Education,Bachelor's or higher,Refused,0,2018
-LIFECB,Education,Bachelor's or higher,Summary: Almost certain/Very likely,0.5599999999999999,2018
 LIFECC,Education,Bachelor's or higher,Almost certain,0.01,2018
 LIFECC,Education,Bachelor's or higher,Very likely,0.03,2018
 LIFECC,Education,Bachelor's or higher,A toss up,0.08,2018
@@ -8758,7 +8566,6 @@ LIFECC,Education,Bachelor's or higher,Not very likely,0.43,2018
 LIFECC,Education,Bachelor's or higher,Not at all likely,0.39,2018
 LIFECC,Education,Bachelor's or higher,Don't know,0.05,2018
 LIFECC,Education,Bachelor's or higher,Refused,0,2018
-LIFECC,Education,Bachelor's or higher,Summary: Almost certain/Very likely,0.04,2018
 LIFECD,Education,Bachelor's or higher,Almost certain,0.04,2018
 LIFECD,Education,Bachelor's or higher,Very likely,0.18,2018
 LIFECD,Education,Bachelor's or higher,A toss up,0.45,2018
@@ -8766,7 +8573,6 @@ LIFECD,Education,Bachelor's or higher,Not very likely,0.21,2018
 LIFECD,Education,Bachelor's or higher,Not at all likely,0.07,2018
 LIFECD,Education,Bachelor's or higher,Don't know,0.06,2018
 LIFECD,Education,Bachelor's or higher,Refused,0,2018
-LIFECD,Education,Bachelor's or higher,Summary: Almost certain/Very likely,0.22,2018
 LIFECF,Education,Bachelor's or higher,Almost certain,0.01,2018
 LIFECF,Education,Bachelor's or higher,Very likely,0.06,2018
 LIFECF,Education,Bachelor's or higher,A toss up,0.2,2018
@@ -8774,7 +8580,6 @@ LIFECF,Education,Bachelor's or higher,Not very likely,0.47,2018
 LIFECF,Education,Bachelor's or higher,Not at all likely,0.23,2018
 LIFECF,Education,Bachelor's or higher,Don't know,0.03,2018
 LIFECF,Education,Bachelor's or higher,Refused,0,2018
-LIFECF,Education,Bachelor's or higher,Summary: Almost certain/Very likely,0.06999999999999999,2018
 Q19,Education,Bachelor's or higher,Excellent,0.26,2018
 Q19,Education,Bachelor's or higher,Very good,0.41,2018
 Q19,Education,Bachelor's or higher,Good,0.23,2018
@@ -8782,7 +8587,6 @@ Q19,Education,Bachelor's or higher,Fair,0.08,2018
 Q19,Education,Bachelor's or higher,Poor,0.01,2018
 Q19,Education,Bachelor's or higher,Don't know,0,2018
 Q19,Education,Bachelor's or higher,Refused,0,2018
-Q19,Education,Bachelor's or higher,Summary: Excellent/Very Good,0.6699999999999999,2018
 Q20,Education,Bachelor's or higher,Not at all satisfied,0.02,2018
 Q20,Education,Bachelor's or higher,Only a little bit satisfied,0.07,2018
 Q20,Education,Bachelor's or higher,Somewhat satisfied,0.17,2018
@@ -9294,56 +9098,48 @@ Q17A,Income,<$15K,Somewhat disagree,0.14,2018
 Q17A,Income,<$15K,Strongly disagree,0.15,2018
 Q17A,Income,<$15K,Don't know,0,2018
 Q17A,Income,<$15K,Refused,0.01,2018
-Q17A,Income,<$15K,Summary: Strongly/Somewhat agree,0.71,2018
 Q17B,Income,<$15K,Strongly agree,0.45,2018
 Q17B,Income,<$15K,Somewhat agree,0.28,2018
 Q17B,Income,<$15K,Somewhat disagree,0.14,2018
 Q17B,Income,<$15K,Strongly disagree,0.14,2018
 Q17B,Income,<$15K,Don't know,0,2018
 Q17B,Income,<$15K,Refused,0,2018
-Q17B,Income,<$15K,Summary: Strongly/Somewhat agree,0.73,2018
 Q17C,Income,<$15K,Strongly agree,0.33,2018
 Q17C,Income,<$15K,Somewhat agree,0.34,2018
 Q17C,Income,<$15K,Somewhat disagree,0.16,2018
 Q17C,Income,<$15K,Strongly disagree,0.16,2018
 Q17C,Income,<$15K,Don't know,0.01,2018
 Q17C,Income,<$15K,Refused,0,2018
-Q17C,Income,<$15K,Summary: Strongly/Somewhat agree,0.67,2018
 Q17E,Income,<$15K,Strongly agree,0.26,2018
 Q17E,Income,<$15K,Somewhat agree,0.34,2018
 Q17E,Income,<$15K,Somewhat disagree,0.14,2018
 Q17E,Income,<$15K,Strongly disagree,0.24,2018
 Q17E,Income,<$15K,Don't know,0.01,2018
 Q17E,Income,<$15K,Refused,0,2018
-Q17E,Income,<$15K,Summary: Strongly/Somewhat agree,0.6000000000000001,2018
 Q17F,Income,<$15K,Strongly agree,0.27,2018
 Q17F,Income,<$15K,Somewhat agree,0.21,2018
 Q17F,Income,<$15K,Somewhat disagree,0.19,2018
 Q17F,Income,<$15K,Strongly disagree,0.31,2018
 Q17F,Income,<$15K,Don't know,0.01,2018
 Q17F,Income,<$15K,Refused,0,2018
-Q17F,Income,<$15K,Summary: Strongly/Somewhat agree,0.48,2018
 Q17G,Income,<$15K,Strongly agree,0.28,2018
 Q17G,Income,<$15K,Somewhat agree,0.38,2018
 Q17G,Income,<$15K,Somewhat disagree,0.15,2018
 Q17G,Income,<$15K,Strongly disagree,0.17,2018
 Q17G,Income,<$15K,Don't know,0.02,2018
 Q17G,Income,<$15K,Refused,0,2018
-Q17G,Income,<$15K,Summary: Strongly/Somewhat agree,0.66,2018
 Q17H,Income,<$15K,Strongly agree,0.25,2018
 Q17H,Income,<$15K,Somewhat agree,0.33,2018
 Q17H,Income,<$15K,Somewhat disagree,0.2,2018
 Q17H,Income,<$15K,Strongly disagree,0.17,2018
 Q17H,Income,<$15K,Don't know,0.05,2018
 Q17H,Income,<$15K,Refused,0,2018
-Q17H,Income,<$15K,Summary: Strongly/Somewhat agree,0.5800000000000001,2018
 Q17I,Income,<$15K,Strongly agree,0.26,2018
 Q17I,Income,<$15K,Somewhat agree,0.37,2018
 Q17I,Income,<$15K,Somewhat disagree,0.16,2018
 Q17I,Income,<$15K,Strongly disagree,0.17,2018
 Q17I,Income,<$15K,Don't know,0.04,2018
 Q17I,Income,<$15K,Refused,0,2018
-Q17I,Income,<$15K,Summary: Strongly/Somewhat agree,0.63,2018
 LIFECA,Income,<$15K,Almost certain,0.3,2018
 LIFECA,Income,<$15K,Very likely,0.31,2018
 LIFECA,Income,<$15K,A toss up,0.27,2018
@@ -9351,7 +9147,6 @@ LIFECA,Income,<$15K,Not very likely,0.06,2018
 LIFECA,Income,<$15K,Not at all likely,0.04,2018
 LIFECA,Income,<$15K,Don't know,0.03,2018
 LIFECA,Income,<$15K,Refused,0,2018
-LIFECA,Income,<$15K,Summary: Almost certain/Very likely,0.61,2018
 LIFECB,Income,<$15K,Almost certain,0.16,2018
 LIFECB,Income,<$15K,Very likely,0.31,2018
 LIFECB,Income,<$15K,A toss up,0.27,2018
@@ -9359,7 +9154,6 @@ LIFECB,Income,<$15K,Not very likely,0.13,2018
 LIFECB,Income,<$15K,Not at all likely,0.11,2018
 LIFECB,Income,<$15K,Don't know,0.02,2018
 LIFECB,Income,<$15K,Refused,0,2018
-LIFECB,Income,<$15K,Summary: Almost certain/Very likely,0.47,2018
 LIFECC,Income,<$15K,Almost certain,0.07,2018
 LIFECC,Income,<$15K,Very likely,0.19,2018
 LIFECC,Income,<$15K,A toss up,0.24,2018
@@ -9367,7 +9161,6 @@ LIFECC,Income,<$15K,Not very likely,0.17,2018
 LIFECC,Income,<$15K,Not at all likely,0.3,2018
 LIFECC,Income,<$15K,Don't know,0.02,2018
 LIFECC,Income,<$15K,Refused,0,2018
-LIFECC,Income,<$15K,Summary: Almost certain/Very likely,0.26,2018
 LIFECD,Income,<$15K,Almost certain,0.17,2018
 LIFECD,Income,<$15K,Very likely,0.31,2018
 LIFECD,Income,<$15K,A toss up,0.25,2018
@@ -9375,7 +9168,6 @@ LIFECD,Income,<$15K,Not very likely,0.13,2018
 LIFECD,Income,<$15K,Not at all likely,0.13,2018
 LIFECD,Income,<$15K,Don't know,0.01,2018
 LIFECD,Income,<$15K,Refused,0,2018
-LIFECD,Income,<$15K,Summary: Almost certain/Very likely,0.48,2018
 LIFECF,Income,<$15K,Almost certain,0.15,2018
 LIFECF,Income,<$15K,Very likely,0.15,2018
 LIFECF,Income,<$15K,A toss up,0.35,2018
@@ -9383,7 +9175,6 @@ LIFECF,Income,<$15K,Not very likely,0.2,2018
 LIFECF,Income,<$15K,Not at all likely,0.13,2018
 LIFECF,Income,<$15K,Don't know,0.02,2018
 LIFECF,Income,<$15K,Refused,0,2018
-LIFECF,Income,<$15K,Summary: Almost certain/Very likely,0.3,2018
 Q19,Income,<$15K,Excellent,0.17,2018
 Q19,Income,<$15K,Very good,0.23,2018
 Q19,Income,<$15K,Good,0.32,2018
@@ -9391,7 +9182,6 @@ Q19,Income,<$15K,Fair,0.22,2018
 Q19,Income,<$15K,Poor,0.06,2018
 Q19,Income,<$15K,Don't know,0,2018
 Q19,Income,<$15K,Refused,0,2018
-Q19,Income,<$15K,Summary: Excellent/Very Good,0.4,2018
 Q20,Income,<$15K,Not at all satisfied,0.06,2018
 Q20,Income,<$15K,Only a little bit satisfied,0.17,2018
 Q20,Income,<$15K,Somewhat satisfied,0.28,2018
@@ -9777,56 +9567,48 @@ Q17A,Income,$15K-$30K,Somewhat disagree,0.15,2018
 Q17A,Income,$15K-$30K,Strongly disagree,0.16,2018
 Q17A,Income,$15K-$30K,Don't know,0.01,2018
 Q17A,Income,$15K-$30K,Refused,0,2018
-Q17A,Income,$15K-$30K,Summary: Strongly/Somewhat agree,0.6799999999999999,2018
 Q17B,Income,$15K-$30K,Strongly agree,0.48,2018
 Q17B,Income,$15K-$30K,Somewhat agree,0.28,2018
 Q17B,Income,$15K-$30K,Somewhat disagree,0.09,2018
 Q17B,Income,$15K-$30K,Strongly disagree,0.14,2018
 Q17B,Income,$15K-$30K,Don't know,0,2018
 Q17B,Income,$15K-$30K,Refused,0,2018
-Q17B,Income,$15K-$30K,Summary: Strongly/Somewhat agree,0.76,2018
 Q17C,Income,$15K-$30K,Strongly agree,0.36,2018
 Q17C,Income,$15K-$30K,Somewhat agree,0.3,2018
 Q17C,Income,$15K-$30K,Somewhat disagree,0.16,2018
 Q17C,Income,$15K-$30K,Strongly disagree,0.16,2018
 Q17C,Income,$15K-$30K,Don't know,0.03,2018
 Q17C,Income,$15K-$30K,Refused,0,2018
-Q17C,Income,$15K-$30K,Summary: Strongly/Somewhat agree,0.6599999999999999,2018
 Q17E,Income,$15K-$30K,Strongly agree,0.37,2018
 Q17E,Income,$15K-$30K,Somewhat agree,0.31,2018
 Q17E,Income,$15K-$30K,Somewhat disagree,0.19,2018
 Q17E,Income,$15K-$30K,Strongly disagree,0.12,2018
 Q17E,Income,$15K-$30K,Don't know,0.01,2018
 Q17E,Income,$15K-$30K,Refused,0,2018
-Q17E,Income,$15K-$30K,Summary: Strongly/Somewhat agree,0.6799999999999999,2018
 Q17F,Income,$15K-$30K,Strongly agree,0.22,2018
 Q17F,Income,$15K-$30K,Somewhat agree,0.22,2018
 Q17F,Income,$15K-$30K,Somewhat disagree,0.18,2018
 Q17F,Income,$15K-$30K,Strongly disagree,0.34,2018
 Q17F,Income,$15K-$30K,Don't know,0.03,2018
 Q17F,Income,$15K-$30K,Refused,0,2018
-Q17F,Income,$15K-$30K,Summary: Strongly/Somewhat agree,0.44,2018
 Q17G,Income,$15K-$30K,Strongly agree,0.28,2018
 Q17G,Income,$15K-$30K,Somewhat agree,0.38,2018
 Q17G,Income,$15K-$30K,Somewhat disagree,0.18,2018
 Q17G,Income,$15K-$30K,Strongly disagree,0.13,2018
 Q17G,Income,$15K-$30K,Don't know,0.03,2018
 Q17G,Income,$15K-$30K,Refused,0,2018
-Q17G,Income,$15K-$30K,Summary: Strongly/Somewhat agree,0.66,2018
 Q17H,Income,$15K-$30K,Strongly agree,0.19,2018
 Q17H,Income,$15K-$30K,Somewhat agree,0.4,2018
 Q17H,Income,$15K-$30K,Somewhat disagree,0.19,2018
 Q17H,Income,$15K-$30K,Strongly disagree,0.14,2018
 Q17H,Income,$15K-$30K,Don't know,0.07,2018
 Q17H,Income,$15K-$30K,Refused,0,2018
-Q17H,Income,$15K-$30K,Summary: Strongly/Somewhat agree,0.5900000000000001,2018
 Q17I,Income,$15K-$30K,Strongly agree,0.28,2018
 Q17I,Income,$15K-$30K,Somewhat agree,0.37,2018
 Q17I,Income,$15K-$30K,Somewhat disagree,0.18,2018
 Q17I,Income,$15K-$30K,Strongly disagree,0.13,2018
 Q17I,Income,$15K-$30K,Don't know,0.03,2018
 Q17I,Income,$15K-$30K,Refused,0,2018
-Q17I,Income,$15K-$30K,Summary: Strongly/Somewhat agree,0.65,2018
 LIFECA,Income,$15K-$30K,Almost certain,0.24,2018
 LIFECA,Income,$15K-$30K,Very likely,0.5,2018
 LIFECA,Income,$15K-$30K,A toss up,0.16,2018
@@ -9834,7 +9616,6 @@ LIFECA,Income,$15K-$30K,Not very likely,0.02,2018
 LIFECA,Income,$15K-$30K,Not at all likely,0.04,2018
 LIFECA,Income,$15K-$30K,Don't know,0.04,2018
 LIFECA,Income,$15K-$30K,Refused,0,2018
-LIFECA,Income,$15K-$30K,Summary: Almost certain/Very likely,0.74,2018
 LIFECB,Income,$15K-$30K,Almost certain,0.08,2018
 LIFECB,Income,$15K-$30K,Very likely,0.27,2018
 LIFECB,Income,$15K-$30K,A toss up,0.3,2018
@@ -9842,7 +9623,6 @@ LIFECB,Income,$15K-$30K,Not very likely,0.24,2018
 LIFECB,Income,$15K-$30K,Not at all likely,0.05,2018
 LIFECB,Income,$15K-$30K,Don't know,0.07,2018
 LIFECB,Income,$15K-$30K,Refused,0,2018
-LIFECB,Income,$15K-$30K,Summary: Almost certain/Very likely,0.35000000000000003,2018
 LIFECC,Income,$15K-$30K,Almost certain,0.07,2018
 LIFECC,Income,$15K-$30K,Very likely,0.08,2018
 LIFECC,Income,$15K-$30K,A toss up,0.15,2018
@@ -9850,7 +9630,6 @@ LIFECC,Income,$15K-$30K,Not very likely,0.32,2018
 LIFECC,Income,$15K-$30K,Not at all likely,0.29,2018
 LIFECC,Income,$15K-$30K,Don't know,0.08,2018
 LIFECC,Income,$15K-$30K,Refused,0,2018
-LIFECC,Income,$15K-$30K,Summary: Almost certain/Very likely,0.15000000000000002,2018
 LIFECD,Income,$15K-$30K,Almost certain,0.14,2018
 LIFECD,Income,$15K-$30K,Very likely,0.24,2018
 LIFECD,Income,$15K-$30K,A toss up,0.31,2018
@@ -9858,7 +9637,6 @@ LIFECD,Income,$15K-$30K,Not very likely,0.12,2018
 LIFECD,Income,$15K-$30K,Not at all likely,0.11,2018
 LIFECD,Income,$15K-$30K,Don't know,0.08,2018
 LIFECD,Income,$15K-$30K,Refused,0.01,2018
-LIFECD,Income,$15K-$30K,Summary: Almost certain/Very likely,0.38,2018
 LIFECF,Income,$15K-$30K,Almost certain,0.08,2018
 LIFECF,Income,$15K-$30K,Very likely,0.14,2018
 LIFECF,Income,$15K-$30K,A toss up,0.33,2018
@@ -9866,7 +9644,6 @@ LIFECF,Income,$15K-$30K,Not very likely,0.28,2018
 LIFECF,Income,$15K-$30K,Not at all likely,0.1,2018
 LIFECF,Income,$15K-$30K,Don't know,0.06,2018
 LIFECF,Income,$15K-$30K,Refused,0,2018
-LIFECF,Income,$15K-$30K,Summary: Almost certain/Very likely,0.22000000000000003,2018
 Q19,Income,$15K-$30K,Excellent,0.16,2018
 Q19,Income,$15K-$30K,Very good,0.28,2018
 Q19,Income,$15K-$30K,Good,0.29,2018
@@ -9874,7 +9651,6 @@ Q19,Income,$15K-$30K,Fair,0.23,2018
 Q19,Income,$15K-$30K,Poor,0.05,2018
 Q19,Income,$15K-$30K,Don't know,0,2018
 Q19,Income,$15K-$30K,Refused,0,2018
-Q19,Income,$15K-$30K,Summary: Excellent/Very Good,0.44000000000000006,2018
 Q20,Income,$15K-$30K,Not at all satisfied,0.04,2018
 Q20,Income,$15K-$30K,Only a little bit satisfied,0.16,2018
 Q20,Income,$15K-$30K,Somewhat satisfied,0.32,2018
@@ -10260,56 +10036,48 @@ Q17A,Income,$30K-$50K,Somewhat disagree,0.12,2018
 Q17A,Income,$30K-$50K,Strongly disagree,0.15,2018
 Q17A,Income,$30K-$50K,Don't know,0.01,2018
 Q17A,Income,$30K-$50K,Refused,0,2018
-Q17A,Income,$30K-$50K,Summary: Strongly/Somewhat agree,0.72,2018
 Q17B,Income,$30K-$50K,Strongly agree,0.42,2018
 Q17B,Income,$30K-$50K,Somewhat agree,0.35,2018
 Q17B,Income,$30K-$50K,Somewhat disagree,0.06,2018
 Q17B,Income,$30K-$50K,Strongly disagree,0.16,2018
 Q17B,Income,$30K-$50K,Don't know,0.01,2018
 Q17B,Income,$30K-$50K,Refused,0,2018
-Q17B,Income,$30K-$50K,Summary: Strongly/Somewhat agree,0.77,2018
 Q17C,Income,$30K-$50K,Strongly agree,0.32,2018
 Q17C,Income,$30K-$50K,Somewhat agree,0.38,2018
 Q17C,Income,$30K-$50K,Somewhat disagree,0.12,2018
 Q17C,Income,$30K-$50K,Strongly disagree,0.16,2018
 Q17C,Income,$30K-$50K,Don't know,0.02,2018
 Q17C,Income,$30K-$50K,Refused,0,2018
-Q17C,Income,$30K-$50K,Summary: Strongly/Somewhat agree,0.7,2018
 Q17E,Income,$30K-$50K,Strongly agree,0.32,2018
 Q17E,Income,$30K-$50K,Somewhat agree,0.4,2018
 Q17E,Income,$30K-$50K,Somewhat disagree,0.13,2018
 Q17E,Income,$30K-$50K,Strongly disagree,0.14,2018
 Q17E,Income,$30K-$50K,Don't know,0.01,2018
 Q17E,Income,$30K-$50K,Refused,0,2018
-Q17E,Income,$30K-$50K,Summary: Strongly/Somewhat agree,0.72,2018
 Q17F,Income,$30K-$50K,Strongly agree,0.16,2018
 Q17F,Income,$30K-$50K,Somewhat agree,0.2,2018
 Q17F,Income,$30K-$50K,Somewhat disagree,0.22,2018
 Q17F,Income,$30K-$50K,Strongly disagree,0.4,2018
 Q17F,Income,$30K-$50K,Don't know,0.01,2018
 Q17F,Income,$30K-$50K,Refused,0,2018
-Q17F,Income,$30K-$50K,Summary: Strongly/Somewhat agree,0.36,2018
 Q17G,Income,$30K-$50K,Strongly agree,0.33,2018
 Q17G,Income,$30K-$50K,Somewhat agree,0.43,2018
 Q17G,Income,$30K-$50K,Somewhat disagree,0.14,2018
 Q17G,Income,$30K-$50K,Strongly disagree,0.08,2018
 Q17G,Income,$30K-$50K,Don't know,0.01,2018
 Q17G,Income,$30K-$50K,Refused,0,2018
-Q17G,Income,$30K-$50K,Summary: Strongly/Somewhat agree,0.76,2018
 Q17H,Income,$30K-$50K,Strongly agree,0.21,2018
 Q17H,Income,$30K-$50K,Somewhat agree,0.42,2018
 Q17H,Income,$30K-$50K,Somewhat disagree,0.22,2018
 Q17H,Income,$30K-$50K,Strongly disagree,0.09,2018
 Q17H,Income,$30K-$50K,Don't know,0.06,2018
 Q17H,Income,$30K-$50K,Refused,0,2018
-Q17H,Income,$30K-$50K,Summary: Strongly/Somewhat agree,0.63,2018
 Q17I,Income,$30K-$50K,Strongly agree,0.26,2018
 Q17I,Income,$30K-$50K,Somewhat agree,0.46,2018
 Q17I,Income,$30K-$50K,Somewhat disagree,0.14,2018
 Q17I,Income,$30K-$50K,Strongly disagree,0.09,2018
 Q17I,Income,$30K-$50K,Don't know,0.05,2018
 Q17I,Income,$30K-$50K,Refused,0,2018
-Q17I,Income,$30K-$50K,Summary: Strongly/Somewhat agree,0.72,2018
 LIFECA,Income,$30K-$50K,Almost certain,0.33,2018
 LIFECA,Income,$30K-$50K,Very likely,0.51,2018
 LIFECA,Income,$30K-$50K,A toss up,0.09,2018
@@ -10317,7 +10085,6 @@ LIFECA,Income,$30K-$50K,Not very likely,0.03,2018
 LIFECA,Income,$30K-$50K,Not at all likely,0.02,2018
 LIFECA,Income,$30K-$50K,Don't know,0.01,2018
 LIFECA,Income,$30K-$50K,Refused,0,2018
-LIFECA,Income,$30K-$50K,Summary: Almost certain/Very likely,0.8400000000000001,2018
 LIFECB,Income,$30K-$50K,Almost certain,0.1,2018
 LIFECB,Income,$30K-$50K,Very likely,0.48,2018
 LIFECB,Income,$30K-$50K,A toss up,0.23,2018
@@ -10325,7 +10092,6 @@ LIFECB,Income,$30K-$50K,Not very likely,0.09,2018
 LIFECB,Income,$30K-$50K,Not at all likely,0.03,2018
 LIFECB,Income,$30K-$50K,Don't know,0.06,2018
 LIFECB,Income,$30K-$50K,Refused,0.01,2018
-LIFECB,Income,$30K-$50K,Summary: Almost certain/Very likely,0.58,2018
 LIFECC,Income,$30K-$50K,Almost certain,0.04,2018
 LIFECC,Income,$30K-$50K,Very likely,0.08,2018
 LIFECC,Income,$30K-$50K,A toss up,0.15,2018
@@ -10333,7 +10099,6 @@ LIFECC,Income,$30K-$50K,Not very likely,0.37,2018
 LIFECC,Income,$30K-$50K,Not at all likely,0.32,2018
 LIFECC,Income,$30K-$50K,Don't know,0.06,2018
 LIFECC,Income,$30K-$50K,Refused,0,2018
-LIFECC,Income,$30K-$50K,Summary: Almost certain/Very likely,0.12,2018
 LIFECD,Income,$30K-$50K,Almost certain,0.06,2018
 LIFECD,Income,$30K-$50K,Very likely,0.24,2018
 LIFECD,Income,$30K-$50K,A toss up,0.39,2018
@@ -10341,7 +10106,6 @@ LIFECD,Income,$30K-$50K,Not very likely,0.21,2018
 LIFECD,Income,$30K-$50K,Not at all likely,0.06,2018
 LIFECD,Income,$30K-$50K,Don't know,0.04,2018
 LIFECD,Income,$30K-$50K,Refused,0,2018
-LIFECD,Income,$30K-$50K,Summary: Almost certain/Very likely,0.3,2018
 LIFECF,Income,$30K-$50K,Almost certain,0.01,2018
 LIFECF,Income,$30K-$50K,Very likely,0.14,2018
 LIFECF,Income,$30K-$50K,A toss up,0.28,2018
@@ -10349,7 +10113,6 @@ LIFECF,Income,$30K-$50K,Not very likely,0.36,2018
 LIFECF,Income,$30K-$50K,Not at all likely,0.19,2018
 LIFECF,Income,$30K-$50K,Don't know,0.02,2018
 LIFECF,Income,$30K-$50K,Refused,0,2018
-LIFECF,Income,$30K-$50K,Summary: Almost certain/Very likely,0.15000000000000002,2018
 Q19,Income,$30K-$50K,Excellent,0.15,2018
 Q19,Income,$30K-$50K,Very good,0.32,2018
 Q19,Income,$30K-$50K,Good,0.33,2018
@@ -10357,7 +10120,6 @@ Q19,Income,$30K-$50K,Fair,0.18,2018
 Q19,Income,$30K-$50K,Poor,0.03,2018
 Q19,Income,$30K-$50K,Don't know,0,2018
 Q19,Income,$30K-$50K,Refused,0,2018
-Q19,Income,$30K-$50K,Summary: Excellent/Very Good,0.47,2018
 Q20,Income,$30K-$50K,Not at all satisfied,0.03,2018
 Q20,Income,$30K-$50K,Only a little bit satisfied,0.11,2018
 Q20,Income,$30K-$50K,Somewhat satisfied,0.31,2018
@@ -10743,56 +10505,48 @@ Q17A,Income,$50K-$75K,Somewhat disagree,0.26,2018
 Q17A,Income,$50K-$75K,Strongly disagree,0.16,2018
 Q17A,Income,$50K-$75K,Don't know,0,2018
 Q17A,Income,$50K-$75K,Refused,0,2018
-Q17A,Income,$50K-$75K,Summary: Strongly/Somewhat agree,0.5900000000000001,2018
 Q17B,Income,$50K-$75K,Strongly agree,0.41,2018
 Q17B,Income,$50K-$75K,Somewhat agree,0.28,2018
 Q17B,Income,$50K-$75K,Somewhat disagree,0.14,2018
 Q17B,Income,$50K-$75K,Strongly disagree,0.17,2018
 Q17B,Income,$50K-$75K,Don't know,0,2018
 Q17B,Income,$50K-$75K,Refused,0,2018
-Q17B,Income,$50K-$75K,Summary: Strongly/Somewhat agree,0.69,2018
 Q17C,Income,$50K-$75K,Strongly agree,0.38,2018
 Q17C,Income,$50K-$75K,Somewhat agree,0.35,2018
 Q17C,Income,$50K-$75K,Somewhat disagree,0.15,2018
 Q17C,Income,$50K-$75K,Strongly disagree,0.1,2018
 Q17C,Income,$50K-$75K,Don't know,0.01,2018
 Q17C,Income,$50K-$75K,Refused,0,2018
-Q17C,Income,$50K-$75K,Summary: Strongly/Somewhat agree,0.73,2018
 Q17E,Income,$50K-$75K,Strongly agree,0.31,2018
 Q17E,Income,$50K-$75K,Somewhat agree,0.45,2018
 Q17E,Income,$50K-$75K,Somewhat disagree,0.15,2018
 Q17E,Income,$50K-$75K,Strongly disagree,0.09,2018
 Q17E,Income,$50K-$75K,Don't know,0,2018
 Q17E,Income,$50K-$75K,Refused,0,2018
-Q17E,Income,$50K-$75K,Summary: Strongly/Somewhat agree,0.76,2018
 Q17F,Income,$50K-$75K,Strongly agree,0.12,2018
 Q17F,Income,$50K-$75K,Somewhat agree,0.18,2018
 Q17F,Income,$50K-$75K,Somewhat disagree,0.23,2018
 Q17F,Income,$50K-$75K,Strongly disagree,0.46,2018
 Q17F,Income,$50K-$75K,Don't know,0,2018
 Q17F,Income,$50K-$75K,Refused,0,2018
-Q17F,Income,$50K-$75K,Summary: Strongly/Somewhat agree,0.3,2018
 Q17G,Income,$50K-$75K,Strongly agree,0.42,2018
 Q17G,Income,$50K-$75K,Somewhat agree,0.43,2018
 Q17G,Income,$50K-$75K,Somewhat disagree,0.09,2018
 Q17G,Income,$50K-$75K,Strongly disagree,0.04,2018
 Q17G,Income,$50K-$75K,Don't know,0.01,2018
 Q17G,Income,$50K-$75K,Refused,0,2018
-Q17G,Income,$50K-$75K,Summary: Strongly/Somewhat agree,0.85,2018
 Q17H,Income,$50K-$75K,Strongly agree,0.32,2018
 Q17H,Income,$50K-$75K,Somewhat agree,0.44,2018
 Q17H,Income,$50K-$75K,Somewhat disagree,0.11,2018
 Q17H,Income,$50K-$75K,Strongly disagree,0.08,2018
 Q17H,Income,$50K-$75K,Don't know,0.05,2018
 Q17H,Income,$50K-$75K,Refused,0,2018
-Q17H,Income,$50K-$75K,Summary: Strongly/Somewhat agree,0.76,2018
 Q17I,Income,$50K-$75K,Strongly agree,0.33,2018
 Q17I,Income,$50K-$75K,Somewhat agree,0.47,2018
 Q17I,Income,$50K-$75K,Somewhat disagree,0.11,2018
 Q17I,Income,$50K-$75K,Strongly disagree,0.06,2018
 Q17I,Income,$50K-$75K,Don't know,0.02,2018
 Q17I,Income,$50K-$75K,Refused,0,2018
-Q17I,Income,$50K-$75K,Summary: Strongly/Somewhat agree,0.8,2018
 LIFECA,Income,$50K-$75K,Almost certain,0.45,2018
 LIFECA,Income,$50K-$75K,Very likely,0.34,2018
 LIFECA,Income,$50K-$75K,A toss up,0.14,2018
@@ -10800,7 +10554,6 @@ LIFECA,Income,$50K-$75K,Not very likely,0.04,2018
 LIFECA,Income,$50K-$75K,Not at all likely,0.01,2018
 LIFECA,Income,$50K-$75K,Don't know,0.02,2018
 LIFECA,Income,$50K-$75K,Refused,0,2018
-LIFECA,Income,$50K-$75K,Summary: Almost certain/Very likely,0.79,2018
 LIFECB,Income,$50K-$75K,Almost certain,0.16,2018
 LIFECB,Income,$50K-$75K,Very likely,0.33,2018
 LIFECB,Income,$50K-$75K,A toss up,0.39,2018
@@ -10808,7 +10561,6 @@ LIFECB,Income,$50K-$75K,Not very likely,0.06,2018
 LIFECB,Income,$50K-$75K,Not at all likely,0.03,2018
 LIFECB,Income,$50K-$75K,Don't know,0.03,2018
 LIFECB,Income,$50K-$75K,Refused,0,2018
-LIFECB,Income,$50K-$75K,Summary: Almost certain/Very likely,0.49,2018
 LIFECC,Income,$50K-$75K,Almost certain,0.02,2018
 LIFECC,Income,$50K-$75K,Very likely,0.06,2018
 LIFECC,Income,$50K-$75K,A toss up,0.14,2018
@@ -10816,7 +10568,6 @@ LIFECC,Income,$50K-$75K,Not very likely,0.41,2018
 LIFECC,Income,$50K-$75K,Not at all likely,0.34,2018
 LIFECC,Income,$50K-$75K,Don't know,0.03,2018
 LIFECC,Income,$50K-$75K,Refused,0,2018
-LIFECC,Income,$50K-$75K,Summary: Almost certain/Very likely,0.08,2018
 LIFECD,Income,$50K-$75K,Almost certain,0.03,2018
 LIFECD,Income,$50K-$75K,Very likely,0.24,2018
 LIFECD,Income,$50K-$75K,A toss up,0.48,2018
@@ -10824,7 +10575,6 @@ LIFECD,Income,$50K-$75K,Not very likely,0.17,2018
 LIFECD,Income,$50K-$75K,Not at all likely,0.03,2018
 LIFECD,Income,$50K-$75K,Don't know,0.05,2018
 LIFECD,Income,$50K-$75K,Refused,0,2018
-LIFECD,Income,$50K-$75K,Summary: Almost certain/Very likely,0.27,2018
 LIFECF,Income,$50K-$75K,Almost certain,0.02,2018
 LIFECF,Income,$50K-$75K,Very likely,0.06,2018
 LIFECF,Income,$50K-$75K,A toss up,0.26,2018
@@ -10832,7 +10582,6 @@ LIFECF,Income,$50K-$75K,Not very likely,0.49,2018
 LIFECF,Income,$50K-$75K,Not at all likely,0.14,2018
 LIFECF,Income,$50K-$75K,Don't know,0.03,2018
 LIFECF,Income,$50K-$75K,Refused,0,2018
-LIFECF,Income,$50K-$75K,Summary: Almost certain/Very likely,0.08,2018
 Q19,Income,$50K-$75K,Excellent,0.22,2018
 Q19,Income,$50K-$75K,Very good,0.39,2018
 Q19,Income,$50K-$75K,Good,0.25,2018
@@ -10840,7 +10589,6 @@ Q19,Income,$50K-$75K,Fair,0.12,2018
 Q19,Income,$50K-$75K,Poor,0.02,2018
 Q19,Income,$50K-$75K,Don't know,0,2018
 Q19,Income,$50K-$75K,Refused,0,2018
-Q19,Income,$50K-$75K,Summary: Excellent/Very Good,0.61,2018
 Q20,Income,$50K-$75K,Not at all satisfied,0.02,2018
 Q20,Income,$50K-$75K,Only a little bit satisfied,0.12,2018
 Q20,Income,$50K-$75K,Somewhat satisfied,0.2,2018
@@ -11204,56 +10952,48 @@ Q17A,Income,$75K-$100K,Somewhat disagree,0.17,2018
 Q17A,Income,$75K-$100K,Strongly disagree,0.23,2018
 Q17A,Income,$75K-$100K,Don't know,0,2018
 Q17A,Income,$75K-$100K,Refused,0,2018
-Q17A,Income,$75K-$100K,Summary: Strongly/Somewhat agree,0.6,2018
 Q17B,Income,$75K-$100K,Strongly agree,0.4,2018
 Q17B,Income,$75K-$100K,Somewhat agree,0.29,2018
 Q17B,Income,$75K-$100K,Somewhat disagree,0.09,2018
 Q17B,Income,$75K-$100K,Strongly disagree,0.21,2018
 Q17B,Income,$75K-$100K,Don't know,0,2018
 Q17B,Income,$75K-$100K,Refused,0,2018
-Q17B,Income,$75K-$100K,Summary: Strongly/Somewhat agree,0.69,2018
 Q17C,Income,$75K-$100K,Strongly agree,0.33,2018
 Q17C,Income,$75K-$100K,Somewhat agree,0.39,2018
 Q17C,Income,$75K-$100K,Somewhat disagree,0.14,2018
 Q17C,Income,$75K-$100K,Strongly disagree,0.14,2018
 Q17C,Income,$75K-$100K,Don't know,0.01,2018
 Q17C,Income,$75K-$100K,Refused,0,2018
-Q17C,Income,$75K-$100K,Summary: Strongly/Somewhat agree,0.72,2018
 Q17E,Income,$75K-$100K,Strongly agree,0.35,2018
 Q17E,Income,$75K-$100K,Somewhat agree,0.35,2018
 Q17E,Income,$75K-$100K,Somewhat disagree,0.14,2018
 Q17E,Income,$75K-$100K,Strongly disagree,0.16,2018
 Q17E,Income,$75K-$100K,Don't know,0.01,2018
 Q17E,Income,$75K-$100K,Refused,0,2018
-Q17E,Income,$75K-$100K,Summary: Strongly/Somewhat agree,0.7,2018
 Q17F,Income,$75K-$100K,Strongly agree,0.15,2018
 Q17F,Income,$75K-$100K,Somewhat agree,0.19,2018
 Q17F,Income,$75K-$100K,Somewhat disagree,0.22,2018
 Q17F,Income,$75K-$100K,Strongly disagree,0.44,2018
 Q17F,Income,$75K-$100K,Don't know,0,2018
 Q17F,Income,$75K-$100K,Refused,0,2018
-Q17F,Income,$75K-$100K,Summary: Strongly/Somewhat agree,0.33999999999999997,2018
 Q17G,Income,$75K-$100K,Strongly agree,0.41,2018
 Q17G,Income,$75K-$100K,Somewhat agree,0.46,2018
 Q17G,Income,$75K-$100K,Somewhat disagree,0.09,2018
 Q17G,Income,$75K-$100K,Strongly disagree,0.03,2018
 Q17G,Income,$75K-$100K,Don't know,0.01,2018
 Q17G,Income,$75K-$100K,Refused,0,2018
-Q17G,Income,$75K-$100K,Summary: Strongly/Somewhat agree,0.87,2018
 Q17H,Income,$75K-$100K,Strongly agree,0.21,2018
 Q17H,Income,$75K-$100K,Somewhat agree,0.55,2018
 Q17H,Income,$75K-$100K,Somewhat disagree,0.14,2018
 Q17H,Income,$75K-$100K,Strongly disagree,0.05,2018
 Q17H,Income,$75K-$100K,Don't know,0.04,2018
 Q17H,Income,$75K-$100K,Refused,0,2018
-Q17H,Income,$75K-$100K,Summary: Strongly/Somewhat agree,0.76,2018
 Q17I,Income,$75K-$100K,Strongly agree,0.27,2018
 Q17I,Income,$75K-$100K,Somewhat agree,0.51,2018
 Q17I,Income,$75K-$100K,Somewhat disagree,0.13,2018
 Q17I,Income,$75K-$100K,Strongly disagree,0.06,2018
 Q17I,Income,$75K-$100K,Don't know,0.04,2018
 Q17I,Income,$75K-$100K,Refused,0,2018
-Q17I,Income,$75K-$100K,Summary: Strongly/Somewhat agree,0.78,2018
 LIFECA,Income,$75K-$100K,Almost certain,0.45,2018
 LIFECA,Income,$75K-$100K,Very likely,0.48,2018
 LIFECA,Income,$75K-$100K,A toss up,0.04,2018
@@ -11261,7 +11001,6 @@ LIFECA,Income,$75K-$100K,Not very likely,0,2018
 LIFECA,Income,$75K-$100K,Not at all likely,0,2018
 LIFECA,Income,$75K-$100K,Don't know,0.02,2018
 LIFECA,Income,$75K-$100K,Refused,0,2018
-LIFECA,Income,$75K-$100K,Summary: Almost certain/Very likely,0.9299999999999999,2018
 LIFECB,Income,$75K-$100K,Almost certain,0.1,2018
 LIFECB,Income,$75K-$100K,Very likely,0.45,2018
 LIFECB,Income,$75K-$100K,A toss up,0.29,2018
@@ -11269,7 +11008,6 @@ LIFECB,Income,$75K-$100K,Not very likely,0.1,2018
 LIFECB,Income,$75K-$100K,Not at all likely,0.02,2018
 LIFECB,Income,$75K-$100K,Don't know,0.05,2018
 LIFECB,Income,$75K-$100K,Refused,0,2018
-LIFECB,Income,$75K-$100K,Summary: Almost certain/Very likely,0.55,2018
 LIFECC,Income,$75K-$100K,Almost certain,0,2018
 LIFECC,Income,$75K-$100K,Very likely,0.03,2018
 LIFECC,Income,$75K-$100K,A toss up,0.09,2018
@@ -11277,7 +11015,6 @@ LIFECC,Income,$75K-$100K,Not very likely,0.5,2018
 LIFECC,Income,$75K-$100K,Not at all likely,0.36,2018
 LIFECC,Income,$75K-$100K,Don't know,0.02,2018
 LIFECC,Income,$75K-$100K,Refused,0,2018
-LIFECC,Income,$75K-$100K,Summary: Almost certain/Very likely,0.03,2018
 LIFECD,Income,$75K-$100K,Almost certain,0.04,2018
 LIFECD,Income,$75K-$100K,Very likely,0.21,2018
 LIFECD,Income,$75K-$100K,A toss up,0.47,2018
@@ -11285,7 +11022,6 @@ LIFECD,Income,$75K-$100K,Not very likely,0.15,2018
 LIFECD,Income,$75K-$100K,Not at all likely,0.07,2018
 LIFECD,Income,$75K-$100K,Don't know,0.06,2018
 LIFECD,Income,$75K-$100K,Refused,0,2018
-LIFECD,Income,$75K-$100K,Summary: Almost certain/Very likely,0.25,2018
 LIFECF,Income,$75K-$100K,Almost certain,0.02,2018
 LIFECF,Income,$75K-$100K,Very likely,0.05,2018
 LIFECF,Income,$75K-$100K,A toss up,0.22,2018
@@ -11293,7 +11029,6 @@ LIFECF,Income,$75K-$100K,Not very likely,0.48,2018
 LIFECF,Income,$75K-$100K,Not at all likely,0.21,2018
 LIFECF,Income,$75K-$100K,Don't know,0.01,2018
 LIFECF,Income,$75K-$100K,Refused,0,2018
-LIFECF,Income,$75K-$100K,Summary: Almost certain/Very likely,0.07,2018
 Q19,Income,$75K-$100K,Excellent,0.22,2018
 Q19,Income,$75K-$100K,Very good,0.42,2018
 Q19,Income,$75K-$100K,Good,0.28,2018
@@ -11301,7 +11036,6 @@ Q19,Income,$75K-$100K,Fair,0.07,2018
 Q19,Income,$75K-$100K,Poor,0,2018
 Q19,Income,$75K-$100K,Don't know,0,2018
 Q19,Income,$75K-$100K,Refused,0,2018
-Q19,Income,$75K-$100K,Summary: Excellent/Very Good,0.64,2018
 Q20,Income,$75K-$100K,Not at all satisfied,0.01,2018
 Q20,Income,$75K-$100K,Only a little bit satisfied,0.06,2018
 Q20,Income,$75K-$100K,Somewhat satisfied,0.25,2018
@@ -11665,56 +11399,48 @@ Q17A,Income,$100K-$200K,Somewhat disagree,0.18,2018
 Q17A,Income,$100K-$200K,Strongly disagree,0.26,2018
 Q17A,Income,$100K-$200K,Don't know,0,2018
 Q17A,Income,$100K-$200K,Refused,0,2018
-Q17A,Income,$100K-$200K,Summary: Strongly/Somewhat agree,0.56,2018
 Q17B,Income,$100K-$200K,Strongly agree,0.43,2018
 Q17B,Income,$100K-$200K,Somewhat agree,0.2,2018
 Q17B,Income,$100K-$200K,Somewhat disagree,0.13,2018
 Q17B,Income,$100K-$200K,Strongly disagree,0.23,2018
 Q17B,Income,$100K-$200K,Don't know,0,2018
 Q17B,Income,$100K-$200K,Refused,0,2018
-Q17B,Income,$100K-$200K,Summary: Strongly/Somewhat agree,0.63,2018
 Q17C,Income,$100K-$200K,Strongly agree,0.37,2018
 Q17C,Income,$100K-$200K,Somewhat agree,0.32,2018
 Q17C,Income,$100K-$200K,Somewhat disagree,0.18,2018
 Q17C,Income,$100K-$200K,Strongly disagree,0.13,2018
 Q17C,Income,$100K-$200K,Don't know,0,2018
 Q17C,Income,$100K-$200K,Refused,0,2018
-Q17C,Income,$100K-$200K,Summary: Strongly/Somewhat agree,0.69,2018
 Q17E,Income,$100K-$200K,Strongly agree,0.46,2018
 Q17E,Income,$100K-$200K,Somewhat agree,0.31,2018
 Q17E,Income,$100K-$200K,Somewhat disagree,0.1,2018
 Q17E,Income,$100K-$200K,Strongly disagree,0.12,2018
 Q17E,Income,$100K-$200K,Don't know,0.01,2018
 Q17E,Income,$100K-$200K,Refused,0,2018
-Q17E,Income,$100K-$200K,Summary: Strongly/Somewhat agree,0.77,2018
 Q17F,Income,$100K-$200K,Strongly agree,0.11,2018
 Q17F,Income,$100K-$200K,Somewhat agree,0.09,2018
 Q17F,Income,$100K-$200K,Somewhat disagree,0.24,2018
 Q17F,Income,$100K-$200K,Strongly disagree,0.56,2018
 Q17F,Income,$100K-$200K,Don't know,0,2018
 Q17F,Income,$100K-$200K,Refused,0,2018
-Q17F,Income,$100K-$200K,Summary: Strongly/Somewhat agree,0.2,2018
 Q17G,Income,$100K-$200K,Strongly agree,0.5,2018
 Q17G,Income,$100K-$200K,Somewhat agree,0.39,2018
 Q17G,Income,$100K-$200K,Somewhat disagree,0.07,2018
 Q17G,Income,$100K-$200K,Strongly disagree,0.02,2018
 Q17G,Income,$100K-$200K,Don't know,0.01,2018
 Q17G,Income,$100K-$200K,Refused,0,2018
-Q17G,Income,$100K-$200K,Summary: Strongly/Somewhat agree,0.89,2018
 Q17H,Income,$100K-$200K,Strongly agree,0.42,2018
 Q17H,Income,$100K-$200K,Somewhat agree,0.41,2018
 Q17H,Income,$100K-$200K,Somewhat disagree,0.12,2018
 Q17H,Income,$100K-$200K,Strongly disagree,0.03,2018
 Q17H,Income,$100K-$200K,Don't know,0.03,2018
 Q17H,Income,$100K-$200K,Refused,0,2018
-Q17H,Income,$100K-$200K,Summary: Strongly/Somewhat agree,0.83,2018
 Q17I,Income,$100K-$200K,Strongly agree,0.39,2018
 Q17I,Income,$100K-$200K,Somewhat agree,0.45,2018
 Q17I,Income,$100K-$200K,Somewhat disagree,0.1,2018
 Q17I,Income,$100K-$200K,Strongly disagree,0.03,2018
 Q17I,Income,$100K-$200K,Don't know,0.03,2018
 Q17I,Income,$100K-$200K,Refused,0,2018
-Q17I,Income,$100K-$200K,Summary: Strongly/Somewhat agree,0.8400000000000001,2018
 LIFECA,Income,$100K-$200K,Almost certain,0.45,2018
 LIFECA,Income,$100K-$200K,Very likely,0.46,2018
 LIFECA,Income,$100K-$200K,A toss up,0.07,2018
@@ -11722,7 +11448,6 @@ LIFECA,Income,$100K-$200K,Not very likely,0.01,2018
 LIFECA,Income,$100K-$200K,Not at all likely,0,2018
 LIFECA,Income,$100K-$200K,Don't know,0.01,2018
 LIFECA,Income,$100K-$200K,Refused,0,2018
-LIFECA,Income,$100K-$200K,Summary: Almost certain/Very likely,0.91,2018
 LIFECB,Income,$100K-$200K,Almost certain,0.2,2018
 LIFECB,Income,$100K-$200K,Very likely,0.5,2018
 LIFECB,Income,$100K-$200K,A toss up,0.23,2018
@@ -11730,7 +11455,6 @@ LIFECB,Income,$100K-$200K,Not very likely,0.05,2018
 LIFECB,Income,$100K-$200K,Not at all likely,0,2018
 LIFECB,Income,$100K-$200K,Don't know,0.02,2018
 LIFECB,Income,$100K-$200K,Refused,0,2018
-LIFECB,Income,$100K-$200K,Summary: Almost certain/Very likely,0.7,2018
 LIFECC,Income,$100K-$200K,Almost certain,0,2018
 LIFECC,Income,$100K-$200K,Very likely,0.01,2018
 LIFECC,Income,$100K-$200K,A toss up,0.12,2018
@@ -11738,7 +11462,6 @@ LIFECC,Income,$100K-$200K,Not very likely,0.41,2018
 LIFECC,Income,$100K-$200K,Not at all likely,0.43,2018
 LIFECC,Income,$100K-$200K,Don't know,0.03,2018
 LIFECC,Income,$100K-$200K,Refused,0,2018
-LIFECC,Income,$100K-$200K,Summary: Almost certain/Very likely,0.01,2018
 LIFECD,Income,$100K-$200K,Almost certain,0.04,2018
 LIFECD,Income,$100K-$200K,Very likely,0.08,2018
 LIFECD,Income,$100K-$200K,A toss up,0.5,2018
@@ -11746,7 +11469,6 @@ LIFECD,Income,$100K-$200K,Not very likely,0.27,2018
 LIFECD,Income,$100K-$200K,Not at all likely,0.09,2018
 LIFECD,Income,$100K-$200K,Don't know,0.02,2018
 LIFECD,Income,$100K-$200K,Refused,0,2018
-LIFECD,Income,$100K-$200K,Summary: Almost certain/Very likely,0.12,2018
 LIFECF,Income,$100K-$200K,Almost certain,0.01,2018
 LIFECF,Income,$100K-$200K,Very likely,0.02,2018
 LIFECF,Income,$100K-$200K,A toss up,0.21,2018
@@ -11754,7 +11476,6 @@ LIFECF,Income,$100K-$200K,Not very likely,0.5,2018
 LIFECF,Income,$100K-$200K,Not at all likely,0.24,2018
 LIFECF,Income,$100K-$200K,Don't know,0.01,2018
 LIFECF,Income,$100K-$200K,Refused,0,2018
-LIFECF,Income,$100K-$200K,Summary: Almost certain/Very likely,0.03,2018
 Q19,Income,$100K-$200K,Excellent,0.28,2018
 Q19,Income,$100K-$200K,Very good,0.44,2018
 Q19,Income,$100K-$200K,Good,0.23,2018
@@ -11762,7 +11483,6 @@ Q19,Income,$100K-$200K,Fair,0.05,2018
 Q19,Income,$100K-$200K,Poor,0,2018
 Q19,Income,$100K-$200K,Don't know,0,2018
 Q19,Income,$100K-$200K,Refused,0,2018
-Q19,Income,$100K-$200K,Summary: Excellent/Very Good,0.72,2018
 Q20,Income,$100K-$200K,Not at all satisfied,0.02,2018
 Q20,Income,$100K-$200K,Only a little bit satisfied,0.04,2018
 Q20,Income,$100K-$200K,Somewhat satisfied,0.12,2018
@@ -12126,56 +11846,48 @@ Q17A,Income,$200K+,Somewhat disagree,0.08,2018
 Q17A,Income,$200K+,Strongly disagree,0.41,2018
 Q17A,Income,$200K+,Don't know,0,2018
 Q17A,Income,$200K+,Refused,0.01,2018
-Q17A,Income,$200K+,Summary: Strongly/Somewhat agree,0.5,2018
 Q17B,Income,$200K+,Strongly agree,0.31,2018
 Q17B,Income,$200K+,Somewhat agree,0.13,2018
 Q17B,Income,$200K+,Somewhat disagree,0.09,2018
 Q17B,Income,$200K+,Strongly disagree,0.45,2018
 Q17B,Income,$200K+,Don't know,0.02,2018
 Q17B,Income,$200K+,Refused,0,2018
-Q17B,Income,$200K+,Summary: Strongly/Somewhat agree,0.44,2018
 Q17C,Income,$200K+,Strongly agree,0.42,2018
 Q17C,Income,$200K+,Somewhat agree,0.19,2018
 Q17C,Income,$200K+,Somewhat disagree,0.14,2018
 Q17C,Income,$200K+,Strongly disagree,0.25,2018
 Q17C,Income,$200K+,Don't know,0.01,2018
 Q17C,Income,$200K+,Refused,0,2018
-Q17C,Income,$200K+,Summary: Strongly/Somewhat agree,0.61,2018
 Q17E,Income,$200K+,Strongly agree,0.4,2018
 Q17E,Income,$200K+,Somewhat agree,0.29,2018
 Q17E,Income,$200K+,Somewhat disagree,0.09,2018
 Q17E,Income,$200K+,Strongly disagree,0.21,2018
 Q17E,Income,$200K+,Don't know,0.01,2018
 Q17E,Income,$200K+,Refused,0,2018
-Q17E,Income,$200K+,Summary: Strongly/Somewhat agree,0.69,2018
 Q17F,Income,$200K+,Strongly agree,0.08,2018
 Q17F,Income,$200K+,Somewhat agree,0.09,2018
 Q17F,Income,$200K+,Somewhat disagree,0.12,2018
 Q17F,Income,$200K+,Strongly disagree,0.7,2018
 Q17F,Income,$200K+,Don't know,0,2018
 Q17F,Income,$200K+,Refused,0,2018
-Q17F,Income,$200K+,Summary: Strongly/Somewhat agree,0.16999999999999998,2018
 Q17G,Income,$200K+,Strongly agree,0.59,2018
 Q17G,Income,$200K+,Somewhat agree,0.3,2018
 Q17G,Income,$200K+,Somewhat disagree,0.05,2018
 Q17G,Income,$200K+,Strongly disagree,0.06,2018
 Q17G,Income,$200K+,Don't know,0,2018
 Q17G,Income,$200K+,Refused,0,2018
-Q17G,Income,$200K+,Summary: Strongly/Somewhat agree,0.8899999999999999,2018
 Q17H,Income,$200K+,Strongly agree,0.49,2018
 Q17H,Income,$200K+,Somewhat agree,0.36,2018
 Q17H,Income,$200K+,Somewhat disagree,0.06,2018
 Q17H,Income,$200K+,Strongly disagree,0.06,2018
 Q17H,Income,$200K+,Don't know,0.01,2018
 Q17H,Income,$200K+,Refused,0.01,2018
-Q17H,Income,$200K+,Summary: Strongly/Somewhat agree,0.85,2018
 Q17I,Income,$200K+,Strongly agree,0.57,2018
 Q17I,Income,$200K+,Somewhat agree,0.27,2018
 Q17I,Income,$200K+,Somewhat disagree,0.06,2018
 Q17I,Income,$200K+,Strongly disagree,0.07,2018
 Q17I,Income,$200K+,Don't know,0.01,2018
 Q17I,Income,$200K+,Refused,0.01,2018
-Q17I,Income,$200K+,Summary: Strongly/Somewhat agree,0.84,2018
 LIFECA,Income,$200K+,Almost certain,0.67,2018
 LIFECA,Income,$200K+,Very likely,0.32,2018
 LIFECA,Income,$200K+,A toss up,0.01,2018
@@ -12183,7 +11895,6 @@ LIFECA,Income,$200K+,Not very likely,0,2018
 LIFECA,Income,$200K+,Not at all likely,0,2018
 LIFECA,Income,$200K+,Don't know,0,2018
 LIFECA,Income,$200K+,Refused,0,2018
-LIFECA,Income,$200K+,Summary: Almost certain/Very likely,0.99,2018
 LIFECB,Income,$200K+,Almost certain,0.32,2018
 LIFECB,Income,$200K+,Very likely,0.39,2018
 LIFECB,Income,$200K+,A toss up,0.17,2018
@@ -12191,7 +11902,6 @@ LIFECB,Income,$200K+,Not very likely,0.03,2018
 LIFECB,Income,$200K+,Not at all likely,0,2018
 LIFECB,Income,$200K+,Don't know,0.09,2018
 LIFECB,Income,$200K+,Refused,0,2018
-LIFECB,Income,$200K+,Summary: Almost certain/Very likely,0.71,2018
 LIFECC,Income,$200K+,Almost certain,0,2018
 LIFECC,Income,$200K+,Very likely,0.02,2018
 LIFECC,Income,$200K+,A toss up,0.01,2018
@@ -12199,7 +11909,6 @@ LIFECC,Income,$200K+,Not very likely,0.37,2018
 LIFECC,Income,$200K+,Not at all likely,0.6,2018
 LIFECC,Income,$200K+,Don't know,0,2018
 LIFECC,Income,$200K+,Refused,0,2018
-LIFECC,Income,$200K+,Summary: Almost certain/Very likely,0.02,2018
 LIFECD,Income,$200K+,Almost certain,0,2018
 LIFECD,Income,$200K+,Very likely,0.1,2018
 LIFECD,Income,$200K+,A toss up,0.51,2018
@@ -12207,7 +11916,6 @@ LIFECD,Income,$200K+,Not very likely,0.18,2018
 LIFECD,Income,$200K+,Not at all likely,0.2,2018
 LIFECD,Income,$200K+,Don't know,0,2018
 LIFECD,Income,$200K+,Refused,0,2018
-LIFECD,Income,$200K+,Summary: Almost certain/Very likely,0.1,2018
 LIFECF,Income,$200K+,Almost certain,0,2018
 LIFECF,Income,$200K+,Very likely,0.02,2018
 LIFECF,Income,$200K+,A toss up,0.09,2018
@@ -12215,7 +11923,6 @@ LIFECF,Income,$200K+,Not very likely,0.43,2018
 LIFECF,Income,$200K+,Not at all likely,0.46,2018
 LIFECF,Income,$200K+,Don't know,0.01,2018
 LIFECF,Income,$200K+,Refused,0,2018
-LIFECF,Income,$200K+,Summary: Almost certain/Very likely,0.02,2018
 Q19,Income,$200K+,Excellent,0.37,2018
 Q19,Income,$200K+,Very good,0.39,2018
 Q19,Income,$200K+,Good,0.14,2018
@@ -12223,7 +11930,6 @@ Q19,Income,$200K+,Fair,0.08,2018
 Q19,Income,$200K+,Poor,0.03,2018
 Q19,Income,$200K+,Don't know,0,2018
 Q19,Income,$200K+,Refused,0,2018
-Q19,Income,$200K+,Summary: Excellent/Very Good,0.76,2018
 Q20,Income,$200K+,Not at all satisfied,0.01,2018
 Q20,Income,$200K+,Only a little bit satisfied,0.05,2018
 Q20,Income,$200K+,Somewhat satisfied,0.07,2018
@@ -12596,56 +12302,48 @@ Q17A,With children,No,Somewhat disagree,0.17,2018
 Q17A,With children,No,Strongly disagree,0.23,2018
 Q17A,With children,No,Don't know,0,2018
 Q17A,With children,No,Refused,0.01,2018
-Q17A,With children,No,Summary: Strongly/Somewhat agree,0.5800000000000001,2018
 Q17B,With children,No,Strongly agree,0.43,2018
 Q17B,With children,No,Somewhat agree,0.23,2018
 Q17B,With children,No,Somewhat disagree,0.11,2018
 Q17B,With children,No,Strongly disagree,0.21,2018
 Q17B,With children,No,Don't know,0.01,2018
 Q17B,With children,No,Refused,0,2018
-Q17B,With children,No,Summary: Strongly/Somewhat agree,0.66,2018
 Q17C,With children,No,Strongly agree,0.35,2018
 Q17C,With children,No,Somewhat agree,0.32,2018
 Q17C,With children,No,Somewhat disagree,0.14,2018
 Q17C,With children,No,Strongly disagree,0.16,2018
 Q17C,With children,No,Don't know,0.03,2018
 Q17C,With children,No,Refused,0,2018
-Q17C,With children,No,Summary: Strongly/Somewhat agree,0.6699999999999999,2018
 Q17E,With children,No,Strongly agree,0.37,2018
 Q17E,With children,No,Somewhat agree,0.33,2018
 Q17E,With children,No,Somewhat disagree,0.13,2018
 Q17E,With children,No,Strongly disagree,0.15,2018
 Q17E,With children,No,Don't know,0.02,2018
 Q17E,With children,No,Refused,0,2018
-Q17E,With children,No,Summary: Strongly/Somewhat agree,0.7,2018
 Q17F,With children,No,Strongly agree,0.15,2018
 Q17F,With children,No,Somewhat agree,0.16,2018
 Q17F,With children,No,Somewhat disagree,0.19,2018
 Q17F,With children,No,Strongly disagree,0.47,2018
 Q17F,With children,No,Don't know,0.02,2018
 Q17F,With children,No,Refused,0.01,2018
-Q17F,With children,No,Summary: Strongly/Somewhat agree,0.31,2018
 Q17G,With children,No,Strongly agree,0.46,2018
 Q17G,With children,No,Somewhat agree,0.35,2018
 Q17G,With children,No,Somewhat disagree,0.1,2018
 Q17G,With children,No,Strongly disagree,0.06,2018
 Q17G,With children,No,Don't know,0.02,2018
 Q17G,With children,No,Refused,0,2018
-Q17G,With children,No,Summary: Strongly/Somewhat agree,0.81,2018
 Q17H,With children,No,Strongly agree,0.31,2018
 Q17H,With children,No,Somewhat agree,0.4,2018
 Q17H,With children,No,Somewhat disagree,0.13,2018
 Q17H,With children,No,Strongly disagree,0.09,2018
 Q17H,With children,No,Don't know,0.08,2018
 Q17H,With children,No,Refused,0,2018
-Q17H,With children,No,Summary: Strongly/Somewhat agree,0.71,2018
 Q17I,With children,No,Strongly agree,0.34,2018
 Q17I,With children,No,Somewhat agree,0.41,2018
 Q17I,With children,No,Somewhat disagree,0.12,2018
 Q17I,With children,No,Strongly disagree,0.08,2018
 Q17I,With children,No,Don't know,0.05,2018
 Q17I,With children,No,Refused,0,2018
-Q17I,With children,No,Summary: Strongly/Somewhat agree,0.75,2018
 Q18,With children,No,Very likely,0.56,2018
 Q18,With children,No,Somewhat likely,0.21,2018
 Q18,With children,No,Not very likely,0.08,2018
@@ -12659,7 +12357,6 @@ LIFECA,With children,No,Not very likely,0.02,2018
 LIFECA,With children,No,Not at all likely,0.01,2018
 LIFECA,With children,No,Don't know,0.04,2018
 LIFECA,With children,No,Refused,0,2018
-LIFECA,With children,No,Summary: Almost certain/Very likely,0.8200000000000001,2018
 LIFECB,With children,No,Almost certain,0.14,2018
 LIFECB,With children,No,Very likely,0.35,2018
 LIFECB,With children,No,A toss up,0.28,2018
@@ -12667,7 +12364,6 @@ LIFECB,With children,No,Not very likely,0.12,2018
 LIFECB,With children,No,Not at all likely,0.04,2018
 LIFECB,With children,No,Don't know,0.06,2018
 LIFECB,With children,No,Refused,0,2018
-LIFECB,With children,No,Summary: Almost certain/Very likely,0.49,2018
 LIFECC,With children,No,Almost certain,0.02,2018
 LIFECC,With children,No,Very likely,0.07,2018
 LIFECC,With children,No,A toss up,0.11,2018
@@ -12675,7 +12371,6 @@ LIFECC,With children,No,Not very likely,0.38,2018
 LIFECC,With children,No,Not at all likely,0.36,2018
 LIFECC,With children,No,Don't know,0.05,2018
 LIFECC,With children,No,Refused,0,2018
-LIFECC,With children,No,Summary: Almost certain/Very likely,0.09000000000000001,2018
 LIFECD,With children,No,Almost certain,0.07,2018
 LIFECD,With children,No,Very likely,0.21,2018
 LIFECD,With children,No,A toss up,0.4,2018
@@ -12683,7 +12378,6 @@ LIFECD,With children,No,Not very likely,0.19,2018
 LIFECD,With children,No,Not at all likely,0.07,2018
 LIFECD,With children,No,Don't know,0.07,2018
 LIFECD,With children,No,Refused,0,2018
-LIFECD,With children,No,Summary: Almost certain/Very likely,0.28,2018
 LIFECF,With children,No,Almost certain,0.03,2018
 LIFECF,With children,No,Very likely,0.09,2018
 LIFECF,With children,No,A toss up,0.25,2018
@@ -12691,7 +12385,6 @@ LIFECF,With children,No,Not very likely,0.42,2018
 LIFECF,With children,No,Not at all likely,0.17,2018
 LIFECF,With children,No,Don't know,0.04,2018
 LIFECF,With children,No,Refused,0,2018
-LIFECF,With children,No,Summary: Almost certain/Very likely,0.12,2018
 Q19,With children,No,Excellent,0.21,2018
 Q19,With children,No,Very good,0.35,2018
 Q19,With children,No,Good,0.27,2018
@@ -12699,7 +12392,6 @@ Q19,With children,No,Fair,0.13,2018
 Q19,With children,No,Poor,0.03,2018
 Q19,With children,No,Don't know,0,2018
 Q19,With children,No,Refused,0.01,2018
-Q19,With children,No,Summary: Excellent/Very Good,0.5599999999999999,2018
 Q20,With children,No,Not at all satisfied,0.03,2018
 Q20,With children,No,Only a little bit satisfied,0.09,2018
 Q20,With children,No,Somewhat satisfied,0.21,2018
@@ -13280,56 +12972,48 @@ Q17A,With children,Yes,Somewhat disagree,0.16,2018
 Q17A,With children,Yes,Strongly disagree,0.18,2018
 Q17A,With children,Yes,Don't know,0,2018
 Q17A,With children,Yes,Refused,0,2018
-Q17A,With children,Yes,Summary: Strongly/Somewhat agree,0.6599999999999999,2018
 Q17B,With children,Yes,Strongly agree,0.4,2018
 Q17B,With children,Yes,Somewhat agree,0.3,2018
 Q17B,With children,Yes,Somewhat disagree,0.1,2018
 Q17B,With children,Yes,Strongly disagree,0.21,2018
 Q17B,With children,Yes,Don't know,0,2018
 Q17B,With children,Yes,Refused,0,2018
-Q17B,With children,Yes,Summary: Strongly/Somewhat agree,0.7,2018
 Q17C,With children,Yes,Strongly agree,0.34,2018
 Q17C,With children,Yes,Somewhat agree,0.37,2018
 Q17C,With children,Yes,Somewhat disagree,0.16,2018
 Q17C,With children,Yes,Strongly disagree,0.13,2018
 Q17C,With children,Yes,Don't know,0,2018
 Q17C,With children,Yes,Refused,0,2018
-Q17C,With children,Yes,Summary: Strongly/Somewhat agree,0.71,2018
 Q17E,With children,Yes,Strongly agree,0.34,2018
 Q17E,With children,Yes,Somewhat agree,0.4,2018
 Q17E,With children,Yes,Somewhat disagree,0.13,2018
 Q17E,With children,Yes,Strongly disagree,0.14,2018
 Q17E,With children,Yes,Don't know,0,2018
 Q17E,With children,Yes,Refused,0,2018
-Q17E,With children,Yes,Summary: Strongly/Somewhat agree,0.74,2018
 Q17F,With children,Yes,Strongly agree,0.16,2018
 Q17F,With children,Yes,Somewhat agree,0.17,2018
 Q17F,With children,Yes,Somewhat disagree,0.24,2018
 Q17F,With children,Yes,Strongly disagree,0.42,2018
 Q17F,With children,Yes,Don't know,0.01,2018
 Q17F,With children,Yes,Refused,0,2018
-Q17F,With children,Yes,Summary: Strongly/Somewhat agree,0.33,2018
 Q17G,With children,Yes,Strongly agree,0.33,2018
 Q17G,With children,Yes,Somewhat agree,0.46,2018
 Q17G,With children,Yes,Somewhat disagree,0.11,2018
 Q17G,With children,Yes,Strongly disagree,0.08,2018
 Q17G,With children,Yes,Don't know,0.01,2018
 Q17G,With children,Yes,Refused,0,2018
-Q17G,With children,Yes,Summary: Strongly/Somewhat agree,0.79,2018
 Q17H,With children,Yes,Strongly agree,0.31,2018
 Q17H,With children,Yes,Somewhat agree,0.43,2018
 Q17H,With children,Yes,Somewhat disagree,0.17,2018
 Q17H,With children,Yes,Strongly disagree,0.08,2018
 Q17H,With children,Yes,Don't know,0.01,2018
 Q17H,With children,Yes,Refused,0,2018
-Q17H,With children,Yes,Summary: Strongly/Somewhat agree,0.74,2018
 Q17I,With children,Yes,Strongly agree,0.33,2018
 Q17I,With children,Yes,Somewhat agree,0.45,2018
 Q17I,With children,Yes,Somewhat disagree,0.14,2018
 Q17I,With children,Yes,Strongly disagree,0.07,2018
 Q17I,With children,Yes,Don't know,0.01,2018
 Q17I,With children,Yes,Refused,0,2018
-Q17I,With children,Yes,Summary: Strongly/Somewhat agree,0.78,2018
 Q18,With children,Yes,Very likely,0.48,2018
 Q18,With children,Yes,Somewhat likely,0.35,2018
 Q18,With children,Yes,Not very likely,0.09,2018
@@ -13343,7 +13027,6 @@ LIFECA,With children,Yes,Not very likely,0.02,2018
 LIFECA,With children,Yes,Not at all likely,0.01,2018
 LIFECA,With children,Yes,Don't know,0.01,2018
 LIFECA,With children,Yes,Refused,0,2018
-LIFECA,With children,Yes,Summary: Almost certain/Very likely,0.8600000000000001,2018
 LIFECB,With children,Yes,Almost certain,0.16,2018
 LIFECB,With children,Yes,Very likely,0.43,2018
 LIFECB,With children,Yes,A toss up,0.26,2018
@@ -13351,7 +13034,6 @@ LIFECB,With children,Yes,Not very likely,0.08,2018
 LIFECB,With children,Yes,Not at all likely,0.01,2018
 LIFECB,With children,Yes,Don't know,0.05,2018
 LIFECB,With children,Yes,Refused,0,2018
-LIFECB,With children,Yes,Summary: Almost certain/Very likely,0.59,2018
 LIFECC,With children,Yes,Almost certain,0.03,2018
 LIFECC,With children,Yes,Very likely,0.05,2018
 LIFECC,With children,Yes,A toss up,0.15,2018
@@ -13359,7 +13041,6 @@ LIFECC,With children,Yes,Not very likely,0.35,2018
 LIFECC,With children,Yes,Not at all likely,0.37,2018
 LIFECC,With children,Yes,Don't know,0.04,2018
 LIFECC,With children,Yes,Refused,0.01,2018
-LIFECC,With children,Yes,Summary: Almost certain/Very likely,0.08,2018
 LIFECD,With children,Yes,Almost certain,0.06,2018
 LIFECD,With children,Yes,Very likely,0.19,2018
 LIFECD,With children,Yes,A toss up,0.42,2018
@@ -13367,7 +13048,6 @@ LIFECD,With children,Yes,Not very likely,0.18,2018
 LIFECD,With children,Yes,Not at all likely,0.11,2018
 LIFECD,With children,Yes,Don't know,0.04,2018
 LIFECD,With children,Yes,Refused,0,2018
-LIFECD,With children,Yes,Summary: Almost certain/Very likely,0.25,2018
 LIFECF,With children,Yes,Almost certain,0.03,2018
 LIFECF,With children,Yes,Very likely,0.09,2018
 LIFECF,With children,Yes,A toss up,0.24,2018
@@ -13375,7 +13055,6 @@ LIFECF,With children,Yes,Not very likely,0.37,2018
 LIFECF,With children,Yes,Not at all likely,0.24,2018
 LIFECF,With children,Yes,Don't know,0.02,2018
 LIFECF,With children,Yes,Refused,0,2018
-LIFECF,With children,Yes,Summary: Almost certain/Very likely,0.12,2018
 Q19,With children,Yes,Excellent,0.26,2018
 Q19,With children,Yes,Very good,0.37,2018
 Q19,With children,Yes,Good,0.25,2018
@@ -13383,7 +13062,6 @@ Q19,With children,Yes,Fair,0.11,2018
 Q19,With children,Yes,Poor,0.02,2018
 Q19,With children,Yes,Don't know,0,2018
 Q19,With children,Yes,Refused,0,2018
-Q19,With children,Yes,Summary: Excellent/Very Good,0.63,2018
 Q20,With children,Yes,Not at all satisfied,0.02,2018
 Q20,With children,Yes,Only a little bit satisfied,0.1,2018
 Q20,With children,Yes,Somewhat satisfied,0.21,2018
