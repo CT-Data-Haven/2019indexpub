@@ -204,56 +204,48 @@ Q17A,Total,Somewhat disagree,0.17,Total,2018
 Q17A,Total,Strongly disagree,0.29,Total,2018
 Q17A,Total,Don't know,0.01,Total,2018
 Q17A,Total,Refused,0,Total,2018
-Q17A,Total,Summary: Strongly/Somewhat agree,0.53,Total,2018
 Q17B,Total,Strongly agree,0.35,Total,2018
 Q17B,Total,Somewhat agree,0.25,Total,2018
 Q17B,Total,Somewhat disagree,0.12,Total,2018
 Q17B,Total,Strongly disagree,0.27,Total,2018
 Q17B,Total,Don't know,0.01,Total,2018
 Q17B,Total,Refused,0,Total,2018
-Q17B,Total,Summary: Strongly/Somewhat agree,0.6,Total,2018
 Q17C,Total,Strongly agree,0.31,Total,2018
 Q17C,Total,Somewhat agree,0.31,Total,2018
 Q17C,Total,Somewhat disagree,0.16,Total,2018
 Q17C,Total,Strongly disagree,0.21,Total,2018
 Q17C,Total,Don't know,0.02,Total,2018
 Q17C,Total,Refused,0,Total,2018
-Q17C,Total,Summary: Strongly/Somewhat agree,0.62,Total,2018
 Q17E,Total,Strongly agree,0.36,Total,2018
 Q17E,Total,Somewhat agree,0.33,Total,2018
 Q17E,Total,Somewhat disagree,0.13,Total,2018
 Q17E,Total,Strongly disagree,0.17,Total,2018
 Q17E,Total,Don't know,0.01,Total,2018
 Q17E,Total,Refused,0,Total,2018
-Q17E,Total,Summary: Strongly/Somewhat agree,0.69,Total,2018
 Q17F,Total,Strongly agree,0.14,Total,2018
 Q17F,Total,Somewhat agree,0.15,Total,2018
 Q17F,Total,Somewhat disagree,0.2,Total,2018
 Q17F,Total,Strongly disagree,0.49,Total,2018
 Q17F,Total,Don't know,0.01,Total,2018
 Q17F,Total,Refused,0,Total,2018
-Q17F,Total,Summary: Strongly/Somewhat agree,0.29000000000000004,Total,2018
 Q17G,Total,Strongly agree,0.47,Total,2018
 Q17G,Total,Somewhat agree,0.36,Total,2018
 Q17G,Total,Somewhat disagree,0.08,Total,2018
 Q17G,Total,Strongly disagree,0.06,Total,2018
 Q17G,Total,Don't know,0.02,Total,2018
 Q17G,Total,Refused,0,Total,2018
-Q17G,Total,Summary: Strongly/Somewhat agree,0.83,Total,2018
 Q17H,Total,Strongly agree,0.32,Total,2018
 Q17H,Total,Somewhat agree,0.41,Total,2018
 Q17H,Total,Somewhat disagree,0.13,Total,2018
 Q17H,Total,Strongly disagree,0.08,Total,2018
 Q17H,Total,Don't know,0.07,Total,2018
 Q17H,Total,Refused,0,Total,2018
-Q17H,Total,Summary: Strongly/Somewhat agree,0.73,Total,2018
 Q17I,Total,Strongly agree,0.32,Total,2018
 Q17I,Total,Somewhat agree,0.42,Total,2018
 Q17I,Total,Somewhat disagree,0.14,Total,2018
 Q17I,Total,Strongly disagree,0.07,Total,2018
 Q17I,Total,Don't know,0.04,Total,2018
 Q17I,Total,Refused,0,Total,2018
-Q17I,Total,Summary: Strongly/Somewhat agree,0.74,Total,2018
 Q18,Total,Very likely,0.51,Total,2018
 Q18,Total,Somewhat likely,0.29,Total,2018
 Q18,Total,Not very likely,0.09,Total,2018
@@ -267,7 +259,6 @@ LIFECA,Total,Not very likely,0.02,Total,2018
 LIFECA,Total,Not at all likely,0.01,Total,2018
 LIFECA,Total,Don't know,0.02,Total,2018
 LIFECA,Total,Refused,0,Total,2018
-LIFECA,Total,Summary: Almost certain/Very likely,0.8600000000000001,Total,2018
 LIFECB,Total,Almost certain,0.16,Total,2018
 LIFECB,Total,Very likely,0.41,Total,2018
 LIFECB,Total,A toss up,0.25,Total,2018
@@ -275,7 +266,6 @@ LIFECB,Total,Not very likely,0.11,Total,2018
 LIFECB,Total,Not at all likely,0.03,Total,2018
 LIFECB,Total,Don't know,0.04,Total,2018
 LIFECB,Total,Refused,0,Total,2018
-LIFECB,Total,Summary: Almost certain/Very likely,0.57,Total,2018
 LIFECC,Total,Almost certain,0.02,Total,2018
 LIFECC,Total,Very likely,0.06,Total,2018
 LIFECC,Total,A toss up,0.12,Total,2018
@@ -283,7 +273,6 @@ LIFECC,Total,Not very likely,0.37,Total,2018
 LIFECC,Total,Not at all likely,0.38,Total,2018
 LIFECC,Total,Don't know,0.03,Total,2018
 LIFECC,Total,Refused,0,Total,2018
-LIFECC,Total,Summary: Almost certain/Very likely,0.08,Total,2018
 LIFECD,Total,Almost certain,0.07,Total,2018
 LIFECD,Total,Very likely,0.2,Total,2018
 LIFECD,Total,A toss up,0.39,Total,2018
@@ -291,7 +280,6 @@ LIFECD,Total,Not very likely,0.2,Total,2018
 LIFECD,Total,Not at all likely,0.08,Total,2018
 LIFECD,Total,Don't know,0.06,Total,2018
 LIFECD,Total,Refused,0,Total,2018
-LIFECD,Total,Summary: Almost certain/Very likely,0.27,Total,2018
 LIFECF,Total,Almost certain,0.03,Total,2018
 LIFECF,Total,Very likely,0.08,Total,2018
 LIFECF,Total,A toss up,0.22,Total,2018
@@ -299,7 +287,6 @@ LIFECF,Total,Not very likely,0.45,Total,2018
 LIFECF,Total,Not at all likely,0.18,Total,2018
 LIFECF,Total,Don't know,0.04,Total,2018
 LIFECF,Total,Refused,0,Total,2018
-LIFECF,Total,Summary: Almost certain/Very likely,0.11,Total,2018
 Q19,Total,Excellent,0.23,Total,2018
 Q19,Total,Very good,0.36,Total,2018
 Q19,Total,Good,0.26,Total,2018
@@ -307,7 +294,6 @@ Q19,Total,Fair,0.11,Total,2018
 Q19,Total,Poor,0.03,Total,2018
 Q19,Total,Don't know,0,Total,2018
 Q19,Total,Refused,0,Total,2018
-Q19,Total,Summary: Excellent/Very Good,0.59,Total,2018
 Q20,Total,Not at all satisfied,0.03,Total,2018
 Q20,Total,Only a little bit satisfied,0.08,Total,2018
 Q20,Total,Somewhat satisfied,0.22,Total,2018
@@ -1160,56 +1146,48 @@ Q17A,Wealthy,Somewhat disagree,0.18,Wealthy,2018
 Q17A,Wealthy,Strongly disagree,0.36,Wealthy,2018
 Q17A,Wealthy,Don't know,0,Wealthy,2018
 Q17A,Wealthy,Refused,0,Wealthy,2018
-Q17A,Wealthy,Summary: Strongly/Somewhat agree,0.45999999999999996,Wealthy,2018
 Q17B,Wealthy,Strongly agree,0.25,Wealthy,2018
 Q17B,Wealthy,Somewhat agree,0.23,Wealthy,2018
 Q17B,Wealthy,Somewhat disagree,0.14,Wealthy,2018
 Q17B,Wealthy,Strongly disagree,0.37,Wealthy,2018
 Q17B,Wealthy,Don't know,0.01,Wealthy,2018
 Q17B,Wealthy,Refused,0,Wealthy,2018
-Q17B,Wealthy,Summary: Strongly/Somewhat agree,0.48,Wealthy,2018
 Q17C,Wealthy,Strongly agree,0.25,Wealthy,2018
 Q17C,Wealthy,Somewhat agree,0.3,Wealthy,2018
 Q17C,Wealthy,Somewhat disagree,0.18,Wealthy,2018
 Q17C,Wealthy,Strongly disagree,0.26,Wealthy,2018
 Q17C,Wealthy,Don't know,0.01,Wealthy,2018
 Q17C,Wealthy,Refused,0,Wealthy,2018
-Q17C,Wealthy,Summary: Strongly/Somewhat agree,0.55,Wealthy,2018
 Q17E,Wealthy,Strongly agree,0.44,Wealthy,2018
 Q17E,Wealthy,Somewhat agree,0.28,Wealthy,2018
 Q17E,Wealthy,Somewhat disagree,0.12,Wealthy,2018
 Q17E,Wealthy,Strongly disagree,0.15,Wealthy,2018
 Q17E,Wealthy,Don't know,0.01,Wealthy,2018
 Q17E,Wealthy,Refused,0,Wealthy,2018
-Q17E,Wealthy,Summary: Strongly/Somewhat agree,0.72,Wealthy,2018
 Q17F,Wealthy,Strongly agree,0.12,Wealthy,2018
 Q17F,Wealthy,Somewhat agree,0.12,Wealthy,2018
 Q17F,Wealthy,Somewhat disagree,0.16,Wealthy,2018
 Q17F,Wealthy,Strongly disagree,0.59,Wealthy,2018
 Q17F,Wealthy,Don't know,0.01,Wealthy,2018
 Q17F,Wealthy,Refused,0,Wealthy,2018
-Q17F,Wealthy,Summary: Strongly/Somewhat agree,0.24,Wealthy,2018
 Q17G,Wealthy,Strongly agree,0.62,Wealthy,2018
 Q17G,Wealthy,Somewhat agree,0.3,Wealthy,2018
 Q17G,Wealthy,Somewhat disagree,0.05,Wealthy,2018
 Q17G,Wealthy,Strongly disagree,0.02,Wealthy,2018
 Q17G,Wealthy,Don't know,0.01,Wealthy,2018
 Q17G,Wealthy,Refused,0,Wealthy,2018
-Q17G,Wealthy,Summary: Strongly/Somewhat agree,0.9199999999999999,Wealthy,2018
 Q17H,Wealthy,Strongly agree,0.49,Wealthy,2018
 Q17H,Wealthy,Somewhat agree,0.38,Wealthy,2018
 Q17H,Wealthy,Somewhat disagree,0.06,Wealthy,2018
 Q17H,Wealthy,Strongly disagree,0.03,Wealthy,2018
 Q17H,Wealthy,Don't know,0.04,Wealthy,2018
 Q17H,Wealthy,Refused,0,Wealthy,2018
-Q17H,Wealthy,Summary: Strongly/Somewhat agree,0.87,Wealthy,2018
 Q17I,Wealthy,Strongly agree,0.43,Wealthy,2018
 Q17I,Wealthy,Somewhat agree,0.4,Wealthy,2018
 Q17I,Wealthy,Somewhat disagree,0.07,Wealthy,2018
 Q17I,Wealthy,Strongly disagree,0.05,Wealthy,2018
 Q17I,Wealthy,Don't know,0.05,Wealthy,2018
 Q17I,Wealthy,Refused,0,Wealthy,2018
-Q17I,Wealthy,Summary: Strongly/Somewhat agree,0.8300000000000001,Wealthy,2018
 Q18,Wealthy,Very likely,0.53,Wealthy,2018
 Q18,Wealthy,Somewhat likely,0.22,Wealthy,2018
 Q18,Wealthy,Not very likely,0.07,Wealthy,2018
@@ -1223,7 +1201,6 @@ LIFECA,Wealthy,Not very likely,0,Wealthy,2018
 LIFECA,Wealthy,Not at all likely,0,Wealthy,2018
 LIFECA,Wealthy,Don't know,0,Wealthy,2018
 LIFECA,Wealthy,Refused,0,Wealthy,2018
-LIFECA,Wealthy,Summary: Almost certain/Very likely,0.98,Wealthy,2018
 LIFECB,Wealthy,Almost certain,0.29,Wealthy,2018
 LIFECB,Wealthy,Very likely,0.5,Wealthy,2018
 LIFECB,Wealthy,A toss up,0.15,Wealthy,2018
@@ -1231,7 +1208,6 @@ LIFECB,Wealthy,Not very likely,0.04,Wealthy,2018
 LIFECB,Wealthy,Not at all likely,0.02,Wealthy,2018
 LIFECB,Wealthy,Don't know,0.02,Wealthy,2018
 LIFECB,Wealthy,Refused,0,Wealthy,2018
-LIFECB,Wealthy,Summary: Almost certain/Very likely,0.79,Wealthy,2018
 LIFECC,Wealthy,Almost certain,0.02,Wealthy,2018
 LIFECC,Wealthy,Very likely,0.02,Wealthy,2018
 LIFECC,Wealthy,A toss up,0.02,Wealthy,2018
@@ -1239,7 +1215,6 @@ LIFECC,Wealthy,Not very likely,0.22,Wealthy,2018
 LIFECC,Wealthy,Not at all likely,0.69,Wealthy,2018
 LIFECC,Wealthy,Don't know,0.02,Wealthy,2018
 LIFECC,Wealthy,Refused,0,Wealthy,2018
-LIFECC,Wealthy,Summary: Almost certain/Very likely,0.04,Wealthy,2018
 LIFECD,Wealthy,Almost certain,0.04,Wealthy,2018
 LIFECD,Wealthy,Very likely,0.17,Wealthy,2018
 LIFECD,Wealthy,A toss up,0.5,Wealthy,2018
@@ -1247,7 +1222,6 @@ LIFECD,Wealthy,Not very likely,0.14,Wealthy,2018
 LIFECD,Wealthy,Not at all likely,0.08,Wealthy,2018
 LIFECD,Wealthy,Don't know,0.06,Wealthy,2018
 LIFECD,Wealthy,Refused,0,Wealthy,2018
-LIFECD,Wealthy,Summary: Almost certain/Very likely,0.21000000000000002,Wealthy,2018
 LIFECF,Wealthy,Almost certain,0.01,Wealthy,2018
 LIFECF,Wealthy,Very likely,0.02,Wealthy,2018
 LIFECF,Wealthy,A toss up,0.14,Wealthy,2018
@@ -1255,7 +1229,6 @@ LIFECF,Wealthy,Not very likely,0.49,Wealthy,2018
 LIFECF,Wealthy,Not at all likely,0.31,Wealthy,2018
 LIFECF,Wealthy,Don't know,0.03,Wealthy,2018
 LIFECF,Wealthy,Refused,0,Wealthy,2018
-LIFECF,Wealthy,Summary: Almost certain/Very likely,0.03,Wealthy,2018
 Q19,Wealthy,Excellent,0.37,Wealthy,2018
 Q19,Wealthy,Very good,0.38,Wealthy,2018
 Q19,Wealthy,Good,0.15,Wealthy,2018
@@ -1263,7 +1236,6 @@ Q19,Wealthy,Fair,0.08,Wealthy,2018
 Q19,Wealthy,Poor,0.02,Wealthy,2018
 Q19,Wealthy,Don't know,0,Wealthy,2018
 Q19,Wealthy,Refused,0.01,Wealthy,2018
-Q19,Wealthy,Summary: Excellent/Very Good,0.75,Wealthy,2018
 Q20,Wealthy,Not at all satisfied,0.02,Wealthy,2018
 Q20,Wealthy,Only a little bit satisfied,0.04,Wealthy,2018
 Q20,Wealthy,Somewhat satisfied,0.18,Wealthy,2018
@@ -1914,56 +1886,48 @@ Q17A,Suburban,Somewhat disagree,0.19,Suburban,2018
 Q17A,Suburban,Strongly disagree,0.41,Suburban,2018
 Q17A,Suburban,Don't know,0.01,Suburban,2018
 Q17A,Suburban,Refused,0.01,Suburban,2018
-Q17A,Suburban,Summary: Strongly/Somewhat agree,0.39,Suburban,2018
 Q17B,Suburban,Strongly agree,0.25,Suburban,2018
 Q17B,Suburban,Somewhat agree,0.21,Suburban,2018
 Q17B,Suburban,Somewhat disagree,0.13,Suburban,2018
 Q17B,Suburban,Strongly disagree,0.4,Suburban,2018
 Q17B,Suburban,Don't know,0.01,Suburban,2018
 Q17B,Suburban,Refused,0,Suburban,2018
-Q17B,Suburban,Summary: Strongly/Somewhat agree,0.45999999999999996,Suburban,2018
 Q17C,Suburban,Strongly agree,0.34,Suburban,2018
 Q17C,Suburban,Somewhat agree,0.3,Suburban,2018
 Q17C,Suburban,Somewhat disagree,0.14,Suburban,2018
 Q17C,Suburban,Strongly disagree,0.2,Suburban,2018
 Q17C,Suburban,Don't know,0.01,Suburban,2018
 Q17C,Suburban,Refused,0,Suburban,2018
-Q17C,Suburban,Summary: Strongly/Somewhat agree,0.64,Suburban,2018
 Q17E,Suburban,Strongly agree,0.37,Suburban,2018
 Q17E,Suburban,Somewhat agree,0.32,Suburban,2018
 Q17E,Suburban,Somewhat disagree,0.13,Suburban,2018
 Q17E,Suburban,Strongly disagree,0.17,Suburban,2018
 Q17E,Suburban,Don't know,0.01,Suburban,2018
 Q17E,Suburban,Refused,0,Suburban,2018
-Q17E,Suburban,Summary: Strongly/Somewhat agree,0.69,Suburban,2018
 Q17F,Suburban,Strongly agree,0.08,Suburban,2018
 Q17F,Suburban,Somewhat agree,0.11,Suburban,2018
 Q17F,Suburban,Somewhat disagree,0.19,Suburban,2018
 Q17F,Suburban,Strongly disagree,0.61,Suburban,2018
 Q17F,Suburban,Don't know,0.01,Suburban,2018
 Q17F,Suburban,Refused,0,Suburban,2018
-Q17F,Suburban,Summary: Strongly/Somewhat agree,0.19,Suburban,2018
 Q17G,Suburban,Strongly agree,0.62,Suburban,2018
 Q17G,Suburban,Somewhat agree,0.31,Suburban,2018
 Q17G,Suburban,Somewhat disagree,0.04,Suburban,2018
 Q17G,Suburban,Strongly disagree,0.02,Suburban,2018
 Q17G,Suburban,Don't know,0.01,Suburban,2018
 Q17G,Suburban,Refused,0,Suburban,2018
-Q17G,Suburban,Summary: Strongly/Somewhat agree,0.9299999999999999,Suburban,2018
 Q17H,Suburban,Strongly agree,0.45,Suburban,2018
 Q17H,Suburban,Somewhat agree,0.41,Suburban,2018
 Q17H,Suburban,Somewhat disagree,0.06,Suburban,2018
 Q17H,Suburban,Strongly disagree,0.02,Suburban,2018
 Q17H,Suburban,Don't know,0.06,Suburban,2018
 Q17H,Suburban,Refused,0,Suburban,2018
-Q17H,Suburban,Summary: Strongly/Somewhat agree,0.86,Suburban,2018
 Q17I,Suburban,Strongly agree,0.39,Suburban,2018
 Q17I,Suburban,Somewhat agree,0.45,Suburban,2018
 Q17I,Suburban,Somewhat disagree,0.1,Suburban,2018
 Q17I,Suburban,Strongly disagree,0.03,Suburban,2018
 Q17I,Suburban,Don't know,0.04,Suburban,2018
 Q17I,Suburban,Refused,0,Suburban,2018
-Q17I,Suburban,Summary: Strongly/Somewhat agree,0.8400000000000001,Suburban,2018
 Q18,Suburban,Very likely,0.56,Suburban,2018
 Q18,Suburban,Somewhat likely,0.33,Suburban,2018
 Q18,Suburban,Not very likely,0.05,Suburban,2018
@@ -1977,7 +1941,6 @@ LIFECA,Suburban,Not very likely,0.01,Suburban,2018
 LIFECA,Suburban,Not at all likely,0,Suburban,2018
 LIFECA,Suburban,Don't know,0.02,Suburban,2018
 LIFECA,Suburban,Refused,0,Suburban,2018
-LIFECA,Suburban,Summary: Almost certain/Very likely,0.94,Suburban,2018
 LIFECB,Suburban,Almost certain,0.2,Suburban,2018
 LIFECB,Suburban,Very likely,0.48,Suburban,2018
 LIFECB,Suburban,A toss up,0.18,Suburban,2018
@@ -1985,7 +1948,6 @@ LIFECB,Suburban,Not very likely,0.08,Suburban,2018
 LIFECB,Suburban,Not at all likely,0.02,Suburban,2018
 LIFECB,Suburban,Don't know,0.04,Suburban,2018
 LIFECB,Suburban,Refused,0,Suburban,2018
-LIFECB,Suburban,Summary: Almost certain/Very likely,0.6799999999999999,Suburban,2018
 LIFECC,Suburban,Almost certain,0,Suburban,2018
 LIFECC,Suburban,Very likely,0.02,Suburban,2018
 LIFECC,Suburban,A toss up,0.04,Suburban,2018
@@ -1993,7 +1955,6 @@ LIFECC,Suburban,Not very likely,0.38,Suburban,2018
 LIFECC,Suburban,Not at all likely,0.53,Suburban,2018
 LIFECC,Suburban,Don't know,0.02,Suburban,2018
 LIFECC,Suburban,Refused,0,Suburban,2018
-LIFECC,Suburban,Summary: Almost certain/Very likely,0.02,Suburban,2018
 LIFECD,Suburban,Almost certain,0.04,Suburban,2018
 LIFECD,Suburban,Very likely,0.17,Suburban,2018
 LIFECD,Suburban,A toss up,0.42,Suburban,2018
@@ -2001,7 +1962,6 @@ LIFECD,Suburban,Not very likely,0.23,Suburban,2018
 LIFECD,Suburban,Not at all likely,0.07,Suburban,2018
 LIFECD,Suburban,Don't know,0.06,Suburban,2018
 LIFECD,Suburban,Refused,0,Suburban,2018
-LIFECD,Suburban,Summary: Almost certain/Very likely,0.21000000000000002,Suburban,2018
 LIFECF,Suburban,Almost certain,0.01,Suburban,2018
 LIFECF,Suburban,Very likely,0.03,Suburban,2018
 LIFECF,Suburban,A toss up,0.15,Suburban,2018
@@ -2009,7 +1969,6 @@ LIFECF,Suburban,Not very likely,0.53,Suburban,2018
 LIFECF,Suburban,Not at all likely,0.23,Suburban,2018
 LIFECF,Suburban,Don't know,0.04,Suburban,2018
 LIFECF,Suburban,Refused,0,Suburban,2018
-LIFECF,Suburban,Summary: Almost certain/Very likely,0.04,Suburban,2018
 Q19,Suburban,Excellent,0.26,Suburban,2018
 Q19,Suburban,Very good,0.38,Suburban,2018
 Q19,Suburban,Good,0.24,Suburban,2018
@@ -2017,7 +1976,6 @@ Q19,Suburban,Fair,0.09,Suburban,2018
 Q19,Suburban,Poor,0.02,Suburban,2018
 Q19,Suburban,Don't know,0,Suburban,2018
 Q19,Suburban,Refused,0.01,Suburban,2018
-Q19,Suburban,Summary: Excellent/Very Good,0.64,Suburban,2018
 Q20,Suburban,Not at all satisfied,0.02,Suburban,2018
 Q20,Suburban,Only a little bit satisfied,0.06,Suburban,2018
 Q20,Suburban,Somewhat satisfied,0.18,Suburban,2018
@@ -2803,56 +2761,48 @@ Q17A,Rural,Somewhat disagree,0.16,Rural,2018
 Q17A,Rural,Strongly disagree,0.51,Rural,2018
 Q17A,Rural,Don't know,0.01,Rural,2018
 Q17A,Rural,Refused,0,Rural,2018
-Q17A,Rural,Summary: Strongly/Somewhat agree,0.33,Rural,2018
 Q17B,Rural,Strongly agree,0.19,Rural,2018
 Q17B,Rural,Somewhat agree,0.18,Rural,2018
 Q17B,Rural,Somewhat disagree,0.13,Rural,2018
 Q17B,Rural,Strongly disagree,0.49,Rural,2018
 Q17B,Rural,Don't know,0.01,Rural,2018
 Q17B,Rural,Refused,0,Rural,2018
-Q17B,Rural,Summary: Strongly/Somewhat agree,0.37,Rural,2018
 Q17C,Rural,Strongly agree,0.28,Rural,2018
 Q17C,Rural,Somewhat agree,0.27,Rural,2018
 Q17C,Rural,Somewhat disagree,0.16,Rural,2018
 Q17C,Rural,Strongly disagree,0.29,Rural,2018
 Q17C,Rural,Don't know,0.01,Rural,2018
 Q17C,Rural,Refused,0,Rural,2018
-Q17C,Rural,Summary: Strongly/Somewhat agree,0.55,Rural,2018
 Q17E,Rural,Strongly agree,0.25,Rural,2018
 Q17E,Rural,Somewhat agree,0.32,Rural,2018
 Q17E,Rural,Somewhat disagree,0.15,Rural,2018
 Q17E,Rural,Strongly disagree,0.26,Rural,2018
 Q17E,Rural,Don't know,0.01,Rural,2018
 Q17E,Rural,Refused,0,Rural,2018
-Q17E,Rural,Summary: Strongly/Somewhat agree,0.5700000000000001,Rural,2018
 Q17F,Rural,Strongly agree,0.12,Rural,2018
 Q17F,Rural,Somewhat agree,0.14,Rural,2018
 Q17F,Rural,Somewhat disagree,0.21,Rural,2018
 Q17F,Rural,Strongly disagree,0.51,Rural,2018
 Q17F,Rural,Don't know,0.01,Rural,2018
 Q17F,Rural,Refused,0,Rural,2018
-Q17F,Rural,Summary: Strongly/Somewhat agree,0.26,Rural,2018
 Q17G,Rural,Strongly agree,0.54,Rural,2018
 Q17G,Rural,Somewhat agree,0.34,Rural,2018
 Q17G,Rural,Somewhat disagree,0.06,Rural,2018
 Q17G,Rural,Strongly disagree,0.05,Rural,2018
 Q17G,Rural,Don't know,0.01,Rural,2018
 Q17G,Rural,Refused,0,Rural,2018
-Q17G,Rural,Summary: Strongly/Somewhat agree,0.8800000000000001,Rural,2018
 Q17H,Rural,Strongly agree,0.35,Rural,2018
 Q17H,Rural,Somewhat agree,0.44,Rural,2018
 Q17H,Rural,Somewhat disagree,0.1,Rural,2018
 Q17H,Rural,Strongly disagree,0.06,Rural,2018
 Q17H,Rural,Don't know,0.06,Rural,2018
 Q17H,Rural,Refused,0,Rural,2018
-Q17H,Rural,Summary: Strongly/Somewhat agree,0.79,Rural,2018
 Q17I,Rural,Strongly agree,0.32,Rural,2018
 Q17I,Rural,Somewhat agree,0.43,Rural,2018
 Q17I,Rural,Somewhat disagree,0.14,Rural,2018
 Q17I,Rural,Strongly disagree,0.06,Rural,2018
 Q17I,Rural,Don't know,0.04,Rural,2018
 Q17I,Rural,Refused,0,Rural,2018
-Q17I,Rural,Summary: Strongly/Somewhat agree,0.75,Rural,2018
 Q18,Rural,Very likely,0.66,Rural,2018
 Q18,Rural,Somewhat likely,0.24,Rural,2018
 Q18,Rural,Not very likely,0.05,Rural,2018
@@ -2866,7 +2816,6 @@ LIFECA,Rural,Not very likely,0.01,Rural,2018
 LIFECA,Rural,Not at all likely,0.01,Rural,2018
 LIFECA,Rural,Don't know,0.01,Rural,2018
 LIFECA,Rural,Refused,0,Rural,2018
-LIFECA,Rural,Summary: Almost certain/Very likely,0.9,Rural,2018
 LIFECB,Rural,Almost certain,0.13,Rural,2018
 LIFECB,Rural,Very likely,0.4,Rural,2018
 LIFECB,Rural,A toss up,0.26,Rural,2018
@@ -2874,7 +2823,6 @@ LIFECB,Rural,Not very likely,0.16,Rural,2018
 LIFECB,Rural,Not at all likely,0.03,Rural,2018
 LIFECB,Rural,Don't know,0.02,Rural,2018
 LIFECB,Rural,Refused,0,Rural,2018
-LIFECB,Rural,Summary: Almost certain/Very likely,0.53,Rural,2018
 LIFECC,Rural,Almost certain,0.02,Rural,2018
 LIFECC,Rural,Very likely,0.04,Rural,2018
 LIFECC,Rural,A toss up,0.09,Rural,2018
@@ -2882,7 +2830,6 @@ LIFECC,Rural,Not very likely,0.37,Rural,2018
 LIFECC,Rural,Not at all likely,0.46,Rural,2018
 LIFECC,Rural,Don't know,0.02,Rural,2018
 LIFECC,Rural,Refused,0,Rural,2018
-LIFECC,Rural,Summary: Almost certain/Very likely,0.06,Rural,2018
 LIFECD,Rural,Almost certain,0.08,Rural,2018
 LIFECD,Rural,Very likely,0.21,Rural,2018
 LIFECD,Rural,A toss up,0.37,Rural,2018
@@ -2890,7 +2837,6 @@ LIFECD,Rural,Not very likely,0.2,Rural,2018
 LIFECD,Rural,Not at all likely,0.07,Rural,2018
 LIFECD,Rural,Don't know,0.06,Rural,2018
 LIFECD,Rural,Refused,0,Rural,2018
-LIFECD,Rural,Summary: Almost certain/Very likely,0.29,Rural,2018
 LIFECF,Rural,Almost certain,0.03,Rural,2018
 LIFECF,Rural,Very likely,0.06,Rural,2018
 LIFECF,Rural,A toss up,0.22,Rural,2018
@@ -2898,7 +2844,6 @@ LIFECF,Rural,Not very likely,0.48,Rural,2018
 LIFECF,Rural,Not at all likely,0.17,Rural,2018
 LIFECF,Rural,Don't know,0.02,Rural,2018
 LIFECF,Rural,Refused,0,Rural,2018
-LIFECF,Rural,Summary: Almost certain/Very likely,0.09,Rural,2018
 Q19,Rural,Excellent,0.22,Rural,2018
 Q19,Rural,Very good,0.37,Rural,2018
 Q19,Rural,Good,0.27,Rural,2018
@@ -2906,7 +2851,6 @@ Q19,Rural,Fair,0.1,Rural,2018
 Q19,Rural,Poor,0.04,Rural,2018
 Q19,Rural,Don't know,0,Rural,2018
 Q19,Rural,Refused,0,Rural,2018
-Q19,Rural,Summary: Excellent/Very Good,0.59,Rural,2018
 Q20,Rural,Not at all satisfied,0.03,Rural,2018
 Q20,Rural,Only a little bit satisfied,0.07,Rural,2018
 Q20,Rural,Somewhat satisfied,0.21,Rural,2018
@@ -3672,56 +3616,48 @@ Q17A,Urban Periphery,Somewhat disagree,0.17,Urban Periphery,2018
 Q17A,Urban Periphery,Strongly disagree,0.19,Urban Periphery,2018
 Q17A,Urban Periphery,Don't know,0.01,Urban Periphery,2018
 Q17A,Urban Periphery,Refused,0,Urban Periphery,2018
-Q17A,Urban Periphery,Summary: Strongly/Somewhat agree,0.63,Urban Periphery,2018
 Q17B,Urban Periphery,Strongly agree,0.44,Urban Periphery,2018
 Q17B,Urban Periphery,Somewhat agree,0.28,Urban Periphery,2018
 Q17B,Urban Periphery,Somewhat disagree,0.12,Urban Periphery,2018
 Q17B,Urban Periphery,Strongly disagree,0.16,Urban Periphery,2018
 Q17B,Urban Periphery,Don't know,0.01,Urban Periphery,2018
 Q17B,Urban Periphery,Refused,0,Urban Periphery,2018
-Q17B,Urban Periphery,Summary: Strongly/Somewhat agree,0.72,Urban Periphery,2018
 Q17C,Urban Periphery,Strongly agree,0.32,Urban Periphery,2018
 Q17C,Urban Periphery,Somewhat agree,0.33,Urban Periphery,2018
 Q17C,Urban Periphery,Somewhat disagree,0.16,Urban Periphery,2018
 Q17C,Urban Periphery,Strongly disagree,0.18,Urban Periphery,2018
 Q17C,Urban Periphery,Don't know,0.02,Urban Periphery,2018
 Q17C,Urban Periphery,Refused,0,Urban Periphery,2018
-Q17C,Urban Periphery,Summary: Strongly/Somewhat agree,0.65,Urban Periphery,2018
 Q17E,Urban Periphery,Strongly agree,0.37,Urban Periphery,2018
 Q17E,Urban Periphery,Somewhat agree,0.34,Urban Periphery,2018
 Q17E,Urban Periphery,Somewhat disagree,0.13,Urban Periphery,2018
 Q17E,Urban Periphery,Strongly disagree,0.14,Urban Periphery,2018
 Q17E,Urban Periphery,Don't know,0.01,Urban Periphery,2018
 Q17E,Urban Periphery,Refused,0,Urban Periphery,2018
-Q17E,Urban Periphery,Summary: Strongly/Somewhat agree,0.71,Urban Periphery,2018
 Q17F,Urban Periphery,Strongly agree,0.14,Urban Periphery,2018
 Q17F,Urban Periphery,Somewhat agree,0.16,Urban Periphery,2018
 Q17F,Urban Periphery,Somewhat disagree,0.22,Urban Periphery,2018
 Q17F,Urban Periphery,Strongly disagree,0.47,Urban Periphery,2018
 Q17F,Urban Periphery,Don't know,0.01,Urban Periphery,2018
 Q17F,Urban Periphery,Refused,0,Urban Periphery,2018
-Q17F,Urban Periphery,Summary: Strongly/Somewhat agree,0.30000000000000004,Urban Periphery,2018
 Q17G,Urban Periphery,Strongly agree,0.42,Urban Periphery,2018
 Q17G,Urban Periphery,Somewhat agree,0.41,Urban Periphery,2018
 Q17G,Urban Periphery,Somewhat disagree,0.09,Urban Periphery,2018
 Q17G,Urban Periphery,Strongly disagree,0.06,Urban Periphery,2018
 Q17G,Urban Periphery,Don't know,0.02,Urban Periphery,2018
 Q17G,Urban Periphery,Refused,0,Urban Periphery,2018
-Q17G,Urban Periphery,Summary: Strongly/Somewhat agree,0.83,Urban Periphery,2018
 Q17H,Urban Periphery,Strongly agree,0.26,Urban Periphery,2018
 Q17H,Urban Periphery,Somewhat agree,0.44,Urban Periphery,2018
 Q17H,Urban Periphery,Somewhat disagree,0.15,Urban Periphery,2018
 Q17H,Urban Periphery,Strongly disagree,0.07,Urban Periphery,2018
 Q17H,Urban Periphery,Don't know,0.08,Urban Periphery,2018
 Q17H,Urban Periphery,Refused,0,Urban Periphery,2018
-Q17H,Urban Periphery,Summary: Strongly/Somewhat agree,0.7,Urban Periphery,2018
 Q17I,Urban Periphery,Strongly agree,0.29,Urban Periphery,2018
 Q17I,Urban Periphery,Somewhat agree,0.44,Urban Periphery,2018
 Q17I,Urban Periphery,Somewhat disagree,0.15,Urban Periphery,2018
 Q17I,Urban Periphery,Strongly disagree,0.08,Urban Periphery,2018
 Q17I,Urban Periphery,Don't know,0.05,Urban Periphery,2018
 Q17I,Urban Periphery,Refused,0,Urban Periphery,2018
-Q17I,Urban Periphery,Summary: Strongly/Somewhat agree,0.73,Urban Periphery,2018
 Q18,Urban Periphery,Very likely,0.49,Urban Periphery,2018
 Q18,Urban Periphery,Somewhat likely,0.28,Urban Periphery,2018
 Q18,Urban Periphery,Not very likely,0.1,Urban Periphery,2018
@@ -3735,7 +3671,6 @@ LIFECA,Urban Periphery,Not very likely,0.02,Urban Periphery,2018
 LIFECA,Urban Periphery,Not at all likely,0.01,Urban Periphery,2018
 LIFECA,Urban Periphery,Don't know,0.03,Urban Periphery,2018
 LIFECA,Urban Periphery,Refused,0,Urban Periphery,2018
-LIFECA,Urban Periphery,Summary: Almost certain/Very likely,0.86,Urban Periphery,2018
 LIFECB,Urban Periphery,Almost certain,0.14,Urban Periphery,2018
 LIFECB,Urban Periphery,Very likely,0.41,Urban Periphery,2018
 LIFECB,Urban Periphery,A toss up,0.28,Urban Periphery,2018
@@ -3743,7 +3678,6 @@ LIFECB,Urban Periphery,Not very likely,0.09,Urban Periphery,2018
 LIFECB,Urban Periphery,Not at all likely,0.03,Urban Periphery,2018
 LIFECB,Urban Periphery,Don't know,0.05,Urban Periphery,2018
 LIFECB,Urban Periphery,Refused,0,Urban Periphery,2018
-LIFECB,Urban Periphery,Summary: Almost certain/Very likely,0.55,Urban Periphery,2018
 LIFECC,Urban Periphery,Almost certain,0.02,Urban Periphery,2018
 LIFECC,Urban Periphery,Very likely,0.06,Urban Periphery,2018
 LIFECC,Urban Periphery,A toss up,0.13,Urban Periphery,2018
@@ -3751,7 +3685,6 @@ LIFECC,Urban Periphery,Not very likely,0.44,Urban Periphery,2018
 LIFECC,Urban Periphery,Not at all likely,0.31,Urban Periphery,2018
 LIFECC,Urban Periphery,Don't know,0.04,Urban Periphery,2018
 LIFECC,Urban Periphery,Refused,0,Urban Periphery,2018
-LIFECC,Urban Periphery,Summary: Almost certain/Very likely,0.08,Urban Periphery,2018
 LIFECD,Urban Periphery,Almost certain,0.06,Urban Periphery,2018
 LIFECD,Urban Periphery,Very likely,0.19,Urban Periphery,2018
 LIFECD,Urban Periphery,A toss up,0.4,Urban Periphery,2018
@@ -3759,7 +3692,6 @@ LIFECD,Urban Periphery,Not very likely,0.22,Urban Periphery,2018
 LIFECD,Urban Periphery,Not at all likely,0.07,Urban Periphery,2018
 LIFECD,Urban Periphery,Don't know,0.06,Urban Periphery,2018
 LIFECD,Urban Periphery,Refused,0,Urban Periphery,2018
-LIFECD,Urban Periphery,Summary: Almost certain/Very likely,0.25,Urban Periphery,2018
 LIFECF,Urban Periphery,Almost certain,0.02,Urban Periphery,2018
 LIFECF,Urban Periphery,Very likely,0.07,Urban Periphery,2018
 LIFECF,Urban Periphery,A toss up,0.24,Urban Periphery,2018
@@ -3767,7 +3699,6 @@ LIFECF,Urban Periphery,Not very likely,0.46,Urban Periphery,2018
 LIFECF,Urban Periphery,Not at all likely,0.16,Urban Periphery,2018
 LIFECF,Urban Periphery,Don't know,0.04,Urban Periphery,2018
 LIFECF,Urban Periphery,Refused,0,Urban Periphery,2018
-LIFECF,Urban Periphery,Summary: Almost certain/Very likely,0.09000000000000001,Urban Periphery,2018
 Q19,Urban Periphery,Excellent,0.21,Urban Periphery,2018
 Q19,Urban Periphery,Very good,0.36,Urban Periphery,2018
 Q19,Urban Periphery,Good,0.28,Urban Periphery,2018
@@ -3775,7 +3706,6 @@ Q19,Urban Periphery,Fair,0.12,Urban Periphery,2018
 Q19,Urban Periphery,Poor,0.03,Urban Periphery,2018
 Q19,Urban Periphery,Don't know,0,Urban Periphery,2018
 Q19,Urban Periphery,Refused,0,Urban Periphery,2018
-Q19,Urban Periphery,Summary: Excellent/Very Good,0.57,Urban Periphery,2018
 Q20,Urban Periphery,Not at all satisfied,0.03,Urban Periphery,2018
 Q20,Urban Periphery,Only a little bit satisfied,0.08,Urban Periphery,2018
 Q20,Urban Periphery,Somewhat satisfied,0.24,Urban Periphery,2018
@@ -4602,56 +4532,48 @@ Q17A,Urban Core,Somewhat disagree,0.13,Urban Core,2018
 Q17A,Urban Core,Strongly disagree,0.13,Urban Core,2018
 Q17A,Urban Core,Don't know,0.01,Urban Core,2018
 Q17A,Urban Core,Refused,0,Urban Core,2018
-Q17A,Urban Core,Summary: Strongly/Somewhat agree,0.72,Urban Core,2018
 Q17B,Urban Core,Strongly agree,0.46,Urban Core,2018
 Q17B,Urban Core,Somewhat agree,0.31,Urban Core,2018
 Q17B,Urban Core,Somewhat disagree,0.1,Urban Core,2018
 Q17B,Urban Core,Strongly disagree,0.12,Urban Core,2018
 Q17B,Urban Core,Don't know,0,Urban Core,2018
 Q17B,Urban Core,Refused,0,Urban Core,2018
-Q17B,Urban Core,Summary: Strongly/Somewhat agree,0.77,Urban Core,2018
 Q17C,Urban Core,Strongly agree,0.3,Urban Core,2018
 Q17C,Urban Core,Somewhat agree,0.3,Urban Core,2018
 Q17C,Urban Core,Somewhat disagree,0.15,Urban Core,2018
 Q17C,Urban Core,Strongly disagree,0.23,Urban Core,2018
 Q17C,Urban Core,Don't know,0.02,Urban Core,2018
 Q17C,Urban Core,Refused,0,Urban Core,2018
-Q17C,Urban Core,Summary: Strongly/Somewhat agree,0.6,Urban Core,2018
 Q17E,Urban Core,Strongly agree,0.35,Urban Core,2018
 Q17E,Urban Core,Somewhat agree,0.34,Urban Core,2018
 Q17E,Urban Core,Somewhat disagree,0.14,Urban Core,2018
 Q17E,Urban Core,Strongly disagree,0.15,Urban Core,2018
 Q17E,Urban Core,Don't know,0.01,Urban Core,2018
 Q17E,Urban Core,Refused,0,Urban Core,2018
-Q17E,Urban Core,Summary: Strongly/Somewhat agree,0.69,Urban Core,2018
 Q17F,Urban Core,Strongly agree,0.26,Urban Core,2018
 Q17F,Urban Core,Somewhat agree,0.24,Urban Core,2018
 Q17F,Urban Core,Somewhat disagree,0.21,Urban Core,2018
 Q17F,Urban Core,Strongly disagree,0.27,Urban Core,2018
 Q17F,Urban Core,Don't know,0.02,Urban Core,2018
 Q17F,Urban Core,Refused,0,Urban Core,2018
-Q17F,Urban Core,Summary: Strongly/Somewhat agree,0.5,Urban Core,2018
 Q17G,Urban Core,Strongly agree,0.24,Urban Core,2018
 Q17G,Urban Core,Somewhat agree,0.38,Urban Core,2018
 Q17G,Urban Core,Somewhat disagree,0.18,Urban Core,2018
 Q17G,Urban Core,Strongly disagree,0.17,Urban Core,2018
 Q17G,Urban Core,Don't know,0.03,Urban Core,2018
 Q17G,Urban Core,Refused,0,Urban Core,2018
-Q17G,Urban Core,Summary: Strongly/Somewhat agree,0.62,Urban Core,2018
 Q17H,Urban Core,Strongly agree,0.16,Urban Core,2018
 Q17H,Urban Core,Somewhat agree,0.32,Urban Core,2018
 Q17H,Urban Core,Somewhat disagree,0.23,Urban Core,2018
 Q17H,Urban Core,Strongly disagree,0.23,Urban Core,2018
 Q17H,Urban Core,Don't know,0.06,Urban Core,2018
 Q17H,Urban Core,Refused,0,Urban Core,2018
-Q17H,Urban Core,Summary: Strongly/Somewhat agree,0.48,Urban Core,2018
 Q17I,Urban Core,Strongly agree,0.27,Urban Core,2018
 Q17I,Urban Core,Somewhat agree,0.35,Urban Core,2018
 Q17I,Urban Core,Somewhat disagree,0.18,Urban Core,2018
 Q17I,Urban Core,Strongly disagree,0.15,Urban Core,2018
 Q17I,Urban Core,Don't know,0.04,Urban Core,2018
 Q17I,Urban Core,Refused,0,Urban Core,2018
-Q17I,Urban Core,Summary: Strongly/Somewhat agree,0.62,Urban Core,2018
 Q18,Urban Core,Very likely,0.35,Urban Core,2018
 Q18,Urban Core,Somewhat likely,0.32,Urban Core,2018
 Q18,Urban Core,Not very likely,0.19,Urban Core,2018
@@ -4665,7 +4587,6 @@ LIFECA,Urban Core,Not very likely,0.05,Urban Core,2018
 LIFECA,Urban Core,Not at all likely,0.02,Urban Core,2018
 LIFECA,Urban Core,Don't know,0.03,Urban Core,2018
 LIFECA,Urban Core,Refused,0,Urban Core,2018
-LIFECA,Urban Core,Summary: Almost certain/Very likely,0.64,Urban Core,2018
 LIFECB,Urban Core,Almost certain,0.1,Urban Core,2018
 LIFECB,Urban Core,Very likely,0.28,Urban Core,2018
 LIFECB,Urban Core,A toss up,0.33,Urban Core,2018
@@ -4673,7 +4594,6 @@ LIFECB,Urban Core,Not very likely,0.18,Urban Core,2018
 LIFECB,Urban Core,Not at all likely,0.06,Urban Core,2018
 LIFECB,Urban Core,Don't know,0.04,Urban Core,2018
 LIFECB,Urban Core,Refused,0,Urban Core,2018
-LIFECB,Urban Core,Summary: Almost certain/Very likely,0.38,Urban Core,2018
 LIFECC,Urban Core,Almost certain,0.08,Urban Core,2018
 LIFECC,Urban Core,Very likely,0.18,Urban Core,2018
 LIFECC,Urban Core,A toss up,0.27,Urban Core,2018
@@ -4681,7 +4601,6 @@ LIFECC,Urban Core,Not very likely,0.26,Urban Core,2018
 LIFECC,Urban Core,Not at all likely,0.15,Urban Core,2018
 LIFECC,Urban Core,Don't know,0.05,Urban Core,2018
 LIFECC,Urban Core,Refused,0,Urban Core,2018
-LIFECC,Urban Core,Summary: Almost certain/Very likely,0.26,Urban Core,2018
 LIFECD,Urban Core,Almost certain,0.14,Urban Core,2018
 LIFECD,Urban Core,Very likely,0.29,Urban Core,2018
 LIFECD,Urban Core,A toss up,0.28,Urban Core,2018
@@ -4689,7 +4608,6 @@ LIFECD,Urban Core,Not very likely,0.14,Urban Core,2018
 LIFECD,Urban Core,Not at all likely,0.09,Urban Core,2018
 LIFECD,Urban Core,Don't know,0.06,Urban Core,2018
 LIFECD,Urban Core,Refused,0,Urban Core,2018
-LIFECD,Urban Core,Summary: Almost certain/Very likely,0.43,Urban Core,2018
 LIFECF,Urban Core,Almost certain,0.09,Urban Core,2018
 LIFECF,Urban Core,Very likely,0.22,Urban Core,2018
 LIFECF,Urban Core,A toss up,0.3,Urban Core,2018
@@ -4697,7 +4615,6 @@ LIFECF,Urban Core,Not very likely,0.23,Urban Core,2018
 LIFECF,Urban Core,Not at all likely,0.11,Urban Core,2018
 LIFECF,Urban Core,Don't know,0.04,Urban Core,2018
 LIFECF,Urban Core,Refused,0,Urban Core,2018
-LIFECF,Urban Core,Summary: Almost certain/Very likely,0.31,Urban Core,2018
 Q19,Urban Core,Excellent,0.2,Urban Core,2018
 Q19,Urban Core,Very good,0.3,Urban Core,2018
 Q19,Urban Core,Good,0.3,Urban Core,2018
@@ -4705,7 +4622,6 @@ Q19,Urban Core,Fair,0.16,Urban Core,2018
 Q19,Urban Core,Poor,0.04,Urban Core,2018
 Q19,Urban Core,Don't know,0,Urban Core,2018
 Q19,Urban Core,Refused,0,Urban Core,2018
-Q19,Urban Core,Summary: Excellent/Very Good,0.5,Urban Core,2018
 Q20,Urban Core,Not at all satisfied,0.06,Urban Core,2018
 Q20,Urban Core,Only a little bit satisfied,0.12,Urban Core,2018
 Q20,Urban Core,Somewhat satisfied,0.27,Urban Core,2018

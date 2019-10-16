@@ -99,56 +99,48 @@ Q17A,Connecticut,Connecticut,Somewhat disagree,0.17,2018
 Q17A,Connecticut,Connecticut,Strongly disagree,0.29,2018
 Q17A,Connecticut,Connecticut,Don't know,0.01,2018
 Q17A,Connecticut,Connecticut,Refused,0,2018
-Q17A,Connecticut,Connecticut,Summary: Strongly agree/Somewhat agree,0.53,2018
 Q17B,Connecticut,Connecticut,Strongly agree,0.35,2018
 Q17B,Connecticut,Connecticut,Somewhat agree,0.25,2018
 Q17B,Connecticut,Connecticut,Somewhat disagree,0.12,2018
 Q17B,Connecticut,Connecticut,Strongly disagree,0.27,2018
 Q17B,Connecticut,Connecticut,Don't know,0.01,2018
 Q17B,Connecticut,Connecticut,Refused,0,2018
-Q17B,Connecticut,Connecticut,Summary: Strongly agree/Somewhat agree,0.6,2018
 Q17C,Connecticut,Connecticut,Strongly agree,0.31,2018
 Q17C,Connecticut,Connecticut,Somewhat agree,0.31,2018
 Q17C,Connecticut,Connecticut,Somewhat disagree,0.16,2018
 Q17C,Connecticut,Connecticut,Strongly disagree,0.21,2018
 Q17C,Connecticut,Connecticut,Don't know,0.02,2018
 Q17C,Connecticut,Connecticut,Refused,0,2018
-Q17C,Connecticut,Connecticut,Summary: Strongly agree/Somewhat agree,0.62,2018
 Q17E,Connecticut,Connecticut,Strongly agree,0.36,2018
 Q17E,Connecticut,Connecticut,Somewhat agree,0.33,2018
 Q17E,Connecticut,Connecticut,Somewhat disagree,0.13,2018
 Q17E,Connecticut,Connecticut,Strongly disagree,0.17,2018
 Q17E,Connecticut,Connecticut,Don't know,0.01,2018
 Q17E,Connecticut,Connecticut,Refused,0,2018
-Q17E,Connecticut,Connecticut,Summary: Strongly agree/Somewhat agree,0.69,2018
 Q17F,Connecticut,Connecticut,Strongly agree,0.14,2018
 Q17F,Connecticut,Connecticut,Somewhat agree,0.15,2018
 Q17F,Connecticut,Connecticut,Somewhat disagree,0.2,2018
 Q17F,Connecticut,Connecticut,Strongly disagree,0.49,2018
 Q17F,Connecticut,Connecticut,Don't know,0.01,2018
 Q17F,Connecticut,Connecticut,Refused,0,2018
-Q17F,Connecticut,Connecticut,Summary: Strongly agree/Somewhat agree,0.29000000000000004,2018
 Q17G,Connecticut,Connecticut,Strongly agree,0.47,2018
 Q17G,Connecticut,Connecticut,Somewhat agree,0.36,2018
 Q17G,Connecticut,Connecticut,Somewhat disagree,0.08,2018
 Q17G,Connecticut,Connecticut,Strongly disagree,0.06,2018
 Q17G,Connecticut,Connecticut,Don't know,0.02,2018
 Q17G,Connecticut,Connecticut,Refused,0,2018
-Q17G,Connecticut,Connecticut,Summary: Strongly agree/Somewhat agree,0.83,2018
 Q17H,Connecticut,Connecticut,Strongly agree,0.32,2018
 Q17H,Connecticut,Connecticut,Somewhat agree,0.41,2018
 Q17H,Connecticut,Connecticut,Somewhat disagree,0.13,2018
 Q17H,Connecticut,Connecticut,Strongly disagree,0.08,2018
 Q17H,Connecticut,Connecticut,Don't know,0.07,2018
 Q17H,Connecticut,Connecticut,Refused,0,2018
-Q17H,Connecticut,Connecticut,Summary: Strongly agree/Somewhat agree,0.73,2018
 Q17I,Connecticut,Connecticut,Strongly agree,0.32,2018
 Q17I,Connecticut,Connecticut,Somewhat agree,0.42,2018
 Q17I,Connecticut,Connecticut,Somewhat disagree,0.14,2018
 Q17I,Connecticut,Connecticut,Strongly disagree,0.07,2018
 Q17I,Connecticut,Connecticut,Don't know,0.04,2018
 Q17I,Connecticut,Connecticut,Refused,0,2018
-Q17I,Connecticut,Connecticut,Summary: Strongly agree/Somewhat agree,0.74,2018
 LIFECA,Connecticut,Connecticut,Almost certain,0.4,2018
 LIFECA,Connecticut,Connecticut,Very likely,0.46,2018
 LIFECA,Connecticut,Connecticut,A toss up,0.09,2018
@@ -156,7 +148,6 @@ LIFECA,Connecticut,Connecticut,Not very likely,0.02,2018
 LIFECA,Connecticut,Connecticut,Not at all likely,0.01,2018
 LIFECA,Connecticut,Connecticut,Don't know,0.02,2018
 LIFECA,Connecticut,Connecticut,Refused,0,2018
-LIFECA,Connecticut,Connecticut,Summary: Almost certain/Very likely,0.8600000000000001,2018
 LIFECB,Connecticut,Connecticut,Almost certain,0.16,2018
 LIFECB,Connecticut,Connecticut,Very likely,0.41,2018
 LIFECB,Connecticut,Connecticut,A toss up,0.25,2018
@@ -164,7 +155,6 @@ LIFECB,Connecticut,Connecticut,Not very likely,0.11,2018
 LIFECB,Connecticut,Connecticut,Not at all likely,0.03,2018
 LIFECB,Connecticut,Connecticut,Don't know,0.04,2018
 LIFECB,Connecticut,Connecticut,Refused,0,2018
-LIFECB,Connecticut,Connecticut,Summary: Almost certain/Very likely,0.57,2018
 LIFECC,Connecticut,Connecticut,Almost certain,0.02,2018
 LIFECC,Connecticut,Connecticut,Very likely,0.06,2018
 LIFECC,Connecticut,Connecticut,A toss up,0.12,2018
@@ -172,7 +162,6 @@ LIFECC,Connecticut,Connecticut,Not very likely,0.37,2018
 LIFECC,Connecticut,Connecticut,Not at all likely,0.38,2018
 LIFECC,Connecticut,Connecticut,Don't know,0.03,2018
 LIFECC,Connecticut,Connecticut,Refused,0,2018
-LIFECC,Connecticut,Connecticut,Summary: Almost certain/Very likely,0.08,2018
 LIFECD,Connecticut,Connecticut,Almost certain,0.07,2018
 LIFECD,Connecticut,Connecticut,Very likely,0.2,2018
 LIFECD,Connecticut,Connecticut,A toss up,0.39,2018
@@ -180,7 +169,6 @@ LIFECD,Connecticut,Connecticut,Not very likely,0.2,2018
 LIFECD,Connecticut,Connecticut,Not at all likely,0.08,2018
 LIFECD,Connecticut,Connecticut,Don't know,0.06,2018
 LIFECD,Connecticut,Connecticut,Refused,0,2018
-LIFECD,Connecticut,Connecticut,Summary: Almost certain/Very likely,0.27,2018
 LIFECF,Connecticut,Connecticut,Almost certain,0.03,2018
 LIFECF,Connecticut,Connecticut,Very likely,0.08,2018
 LIFECF,Connecticut,Connecticut,A toss up,0.22,2018
@@ -188,7 +176,6 @@ LIFECF,Connecticut,Connecticut,Not very likely,0.45,2018
 LIFECF,Connecticut,Connecticut,Not at all likely,0.18,2018
 LIFECF,Connecticut,Connecticut,Don't know,0.04,2018
 LIFECF,Connecticut,Connecticut,Refused,0,2018
-LIFECF,Connecticut,Connecticut,Summary: Almost certain/Very likely,0.11,2018
 Q19,Connecticut,Connecticut,Excellent,0.23,2018
 Q19,Connecticut,Connecticut,Very good,0.36,2018
 Q19,Connecticut,Connecticut,Good,0.26,2018
@@ -196,7 +183,6 @@ Q19,Connecticut,Connecticut,Fair,0.11,2018
 Q19,Connecticut,Connecticut,Poor,0.03,2018
 Q19,Connecticut,Connecticut,Don't know,0,2018
 Q19,Connecticut,Connecticut,Refused,0,2018
-Q19,Connecticut,Connecticut,Summary: Excellent/Very Good,0.59,2018
 Q20,Connecticut,Connecticut,Not at all satisfied,0.03,2018
 Q20,Connecticut,Connecticut,Only a little bit satisfied,0.08,2018
 Q20,Connecticut,Connecticut,Somewhat satisfied,0.22,2018
@@ -590,56 +576,48 @@ Q17A,Total,Total,Somewhat disagree,0.15,2018
 Q17A,Total,Total,Strongly disagree,0.16,2018
 Q17A,Total,Total,Don't know,0,2018
 Q17A,Total,Total,Refused,0,2018
-Q17A,Total,Total,Summary: Strongly agree/Somewhat agree,0.68,2018
 Q17B,Total,Total,Strongly agree,0.43,2018
 Q17B,Total,Total,Somewhat agree,0.31,2018
 Q17B,Total,Total,Somewhat disagree,0.13,2018
 Q17B,Total,Total,Strongly disagree,0.13,2018
 Q17B,Total,Total,Don't know,0,2018
 Q17B,Total,Total,Refused,0,2018
-Q17B,Total,Total,Summary: Strongly agree/Somewhat agree,0.74,2018
 Q17C,Total,Total,Strongly agree,0.24,2018
 Q17C,Total,Total,Somewhat agree,0.32,2018
 Q17C,Total,Total,Somewhat disagree,0.19,2018
 Q17C,Total,Total,Strongly disagree,0.24,2018
 Q17C,Total,Total,Don't know,0.02,2018
 Q17C,Total,Total,Refused,0,2018
-Q17C,Total,Total,Summary: Strongly agree/Somewhat agree,0.56,2018
 Q17E,Total,Total,Strongly agree,0.28,2018
 Q17E,Total,Total,Somewhat agree,0.37,2018
 Q17E,Total,Total,Somewhat disagree,0.17,2018
 Q17E,Total,Total,Strongly disagree,0.17,2018
 Q17E,Total,Total,Don't know,0.01,2018
 Q17E,Total,Total,Refused,0,2018
-Q17E,Total,Total,Summary: Strongly agree/Somewhat agree,0.65,2018
 Q17F,Total,Total,Strongly agree,0.18,2018
 Q17F,Total,Total,Somewhat agree,0.22,2018
 Q17F,Total,Total,Somewhat disagree,0.26,2018
 Q17F,Total,Total,Strongly disagree,0.34,2018
 Q17F,Total,Total,Don't know,0.01,2018
 Q17F,Total,Total,Refused,0,2018
-Q17F,Total,Total,Summary: Strongly agree/Somewhat agree,0.4,2018
 Q17G,Total,Total,Strongly agree,0.29,2018
 Q17G,Total,Total,Somewhat agree,0.45,2018
 Q17G,Total,Total,Somewhat disagree,0.18,2018
 Q17G,Total,Total,Strongly disagree,0.05,2018
 Q17G,Total,Total,Don't know,0.02,2018
 Q17G,Total,Total,Refused,0,2018
-Q17G,Total,Total,Summary: Strongly agree/Somewhat agree,0.74,2018
 Q17H,Total,Total,Strongly agree,0.15,2018
 Q17H,Total,Total,Somewhat agree,0.45,2018
 Q17H,Total,Total,Somewhat disagree,0.23,2018
 Q17H,Total,Total,Strongly disagree,0.12,2018
 Q17H,Total,Total,Don't know,0.05,2018
 Q17H,Total,Total,Refused,0,2018
-Q17H,Total,Total,Summary: Strongly agree/Somewhat agree,0.6,2018
 Q17I,Total,Total,Strongly agree,0.2,2018
 Q17I,Total,Total,Somewhat agree,0.38,2018
 Q17I,Total,Total,Somewhat disagree,0.25,2018
 Q17I,Total,Total,Strongly disagree,0.14,2018
 Q17I,Total,Total,Don't know,0.03,2018
 Q17I,Total,Total,Refused,0,2018
-Q17I,Total,Total,Summary: Strongly agree/Somewhat agree,0.5800000000000001,2018
 LIFECA,Total,Total,Almost certain,0.3,2018
 LIFECA,Total,Total,Very likely,0.51,2018
 LIFECA,Total,Total,A toss up,0.11,2018
@@ -647,7 +625,6 @@ LIFECA,Total,Total,Not very likely,0.03,2018
 LIFECA,Total,Total,Not at all likely,0.01,2018
 LIFECA,Total,Total,Don't know,0.03,2018
 LIFECA,Total,Total,Refused,0,2018
-LIFECA,Total,Total,Summary: Almost certain/Very likely,0.81,2018
 LIFECB,Total,Total,Almost certain,0.07,2018
 LIFECB,Total,Total,Very likely,0.28,2018
 LIFECB,Total,Total,A toss up,0.34,2018
@@ -655,7 +632,6 @@ LIFECB,Total,Total,Not very likely,0.19,2018
 LIFECB,Total,Total,Not at all likely,0.05,2018
 LIFECB,Total,Total,Don't know,0.07,2018
 LIFECB,Total,Total,Refused,0,2018
-LIFECB,Total,Total,Summary: Almost certain/Very likely,0.35000000000000003,2018
 LIFECC,Total,Total,Almost certain,0,2018
 LIFECC,Total,Total,Very likely,0.07,2018
 LIFECC,Total,Total,A toss up,0.14,2018
@@ -663,7 +639,6 @@ LIFECC,Total,Total,Not very likely,0.45,2018
 LIFECC,Total,Total,Not at all likely,0.29,2018
 LIFECC,Total,Total,Don't know,0.04,2018
 LIFECC,Total,Total,Refused,0,2018
-LIFECC,Total,Total,Summary: Almost certain/Very likely,0.07,2018
 LIFECD,Total,Total,Almost certain,0.09,2018
 LIFECD,Total,Total,Very likely,0.21,2018
 LIFECD,Total,Total,A toss up,0.38,2018
@@ -671,7 +646,6 @@ LIFECD,Total,Total,Not very likely,0.23,2018
 LIFECD,Total,Total,Not at all likely,0.05,2018
 LIFECD,Total,Total,Don't know,0.04,2018
 LIFECD,Total,Total,Refused,0,2018
-LIFECD,Total,Total,Summary: Almost certain/Very likely,0.3,2018
 LIFECF,Total,Total,Almost certain,0.07,2018
 LIFECF,Total,Total,Very likely,0.11,2018
 LIFECF,Total,Total,A toss up,0.28,2018
@@ -679,7 +653,6 @@ LIFECF,Total,Total,Not very likely,0.43,2018
 LIFECF,Total,Total,Not at all likely,0.09,2018
 LIFECF,Total,Total,Don't know,0.03,2018
 LIFECF,Total,Total,Refused,0,2018
-LIFECF,Total,Total,Summary: Almost certain/Very likely,0.18,2018
 Q19,Total,Total,Excellent,0.16,2018
 Q19,Total,Total,Very good,0.29,2018
 Q19,Total,Total,Good,0.31,2018
@@ -687,7 +660,6 @@ Q19,Total,Total,Fair,0.19,2018
 Q19,Total,Total,Poor,0.04,2018
 Q19,Total,Total,Don't know,0,2018
 Q19,Total,Total,Refused,0,2018
-Q19,Total,Total,Summary: Excellent/Very Good,0.44999999999999996,2018
 Q20,Total,Total,Not at all satisfied,0.02,2018
 Q20,Total,Total,Only a little bit satisfied,0.13,2018
 Q20,Total,Total,Somewhat satisfied,0.26,2018
@@ -1065,56 +1037,48 @@ Q17A,Gender,Male,Somewhat disagree,0.16,2018
 Q17A,Gender,Male,Strongly disagree,0.17,2018
 Q17A,Gender,Male,Don't know,0,2018
 Q17A,Gender,Male,Refused,0,2018
-Q17A,Gender,Male,Summary: Strongly agree/Somewhat agree,0.6699999999999999,2018
 Q17B,Gender,Male,Strongly agree,0.53,2018
 Q17B,Gender,Male,Somewhat agree,0.28,2018
 Q17B,Gender,Male,Somewhat disagree,0.11,2018
 Q17B,Gender,Male,Strongly disagree,0.08,2018
 Q17B,Gender,Male,Don't know,0,2018
 Q17B,Gender,Male,Refused,0,2018
-Q17B,Gender,Male,Summary: Strongly agree/Somewhat agree,0.81,2018
 Q17C,Gender,Male,Strongly agree,0.26,2018
 Q17C,Gender,Male,Somewhat agree,0.35,2018
 Q17C,Gender,Male,Somewhat disagree,0.18,2018
 Q17C,Gender,Male,Strongly disagree,0.19,2018
 Q17C,Gender,Male,Don't know,0.03,2018
 Q17C,Gender,Male,Refused,0,2018
-Q17C,Gender,Male,Summary: Strongly agree/Somewhat agree,0.61,2018
 Q17E,Gender,Male,Strongly agree,0.33,2018
 Q17E,Gender,Male,Somewhat agree,0.35,2018
 Q17E,Gender,Male,Somewhat disagree,0.15,2018
 Q17E,Gender,Male,Strongly disagree,0.15,2018
 Q17E,Gender,Male,Don't know,0.01,2018
 Q17E,Gender,Male,Refused,0,2018
-Q17E,Gender,Male,Summary: Strongly agree/Somewhat agree,0.6799999999999999,2018
 Q17F,Gender,Male,Strongly agree,0.15,2018
 Q17F,Gender,Male,Somewhat agree,0.18,2018
 Q17F,Gender,Male,Somewhat disagree,0.26,2018
 Q17F,Gender,Male,Strongly disagree,0.4,2018
 Q17F,Gender,Male,Don't know,0.01,2018
 Q17F,Gender,Male,Refused,0,2018
-Q17F,Gender,Male,Summary: Strongly agree/Somewhat agree,0.32999999999999996,2018
 Q17G,Gender,Male,Strongly agree,0.31,2018
 Q17G,Gender,Male,Somewhat agree,0.48,2018
 Q17G,Gender,Male,Somewhat disagree,0.13,2018
 Q17G,Gender,Male,Strongly disagree,0.04,2018
 Q17G,Gender,Male,Don't know,0.03,2018
 Q17G,Gender,Male,Refused,0.01,2018
-Q17G,Gender,Male,Summary: Strongly agree/Somewhat agree,0.79,2018
 Q17H,Gender,Male,Strongly agree,0.16,2018
 Q17H,Gender,Male,Somewhat agree,0.47,2018
 Q17H,Gender,Male,Somewhat disagree,0.2,2018
 Q17H,Gender,Male,Strongly disagree,0.1,2018
 Q17H,Gender,Male,Don't know,0.08,2018
 Q17H,Gender,Male,Refused,0.01,2018
-Q17H,Gender,Male,Summary: Strongly agree/Somewhat agree,0.63,2018
 Q17I,Gender,Male,Strongly agree,0.21,2018
 Q17I,Gender,Male,Somewhat agree,0.38,2018
 Q17I,Gender,Male,Somewhat disagree,0.22,2018
 Q17I,Gender,Male,Strongly disagree,0.13,2018
 Q17I,Gender,Male,Don't know,0.05,2018
 Q17I,Gender,Male,Refused,0,2018
-Q17I,Gender,Male,Summary: Strongly agree/Somewhat agree,0.59,2018
 Q19,Gender,Male,Excellent,0.18,2018
 Q19,Gender,Male,Very good,0.24,2018
 Q19,Gender,Male,Good,0.3,2018
@@ -1122,7 +1086,6 @@ Q19,Gender,Male,Fair,0.2,2018
 Q19,Gender,Male,Poor,0.06,2018
 Q19,Gender,Male,Don't know,0,2018
 Q19,Gender,Male,Refused,0,2018
-Q19,Gender,Male,Summary: Excellent/Very Good,0.42,2018
 Q20,Gender,Male,Not at all satisfied,0.02,2018
 Q20,Gender,Male,Only a little bit satisfied,0.11,2018
 Q20,Gender,Male,Somewhat satisfied,0.26,2018
@@ -1388,56 +1351,48 @@ Q17A,Gender,Female,Somewhat disagree,0.15,2018
 Q17A,Gender,Female,Strongly disagree,0.16,2018
 Q17A,Gender,Female,Don't know,0,2018
 Q17A,Gender,Female,Refused,0.01,2018
-Q17A,Gender,Female,Summary: Strongly agree/Somewhat agree,0.6799999999999999,2018
 Q17B,Gender,Female,Strongly agree,0.33,2018
 Q17B,Gender,Female,Somewhat agree,0.34,2018
 Q17B,Gender,Female,Somewhat disagree,0.15,2018
 Q17B,Gender,Female,Strongly disagree,0.18,2018
 Q17B,Gender,Female,Don't know,0,2018
 Q17B,Gender,Female,Refused,0,2018
-Q17B,Gender,Female,Summary: Strongly agree/Somewhat agree,0.67,2018
 Q17C,Gender,Female,Strongly agree,0.23,2018
 Q17C,Gender,Female,Somewhat agree,0.29,2018
 Q17C,Gender,Female,Somewhat disagree,0.19,2018
 Q17C,Gender,Female,Strongly disagree,0.28,2018
 Q17C,Gender,Female,Don't know,0.01,2018
 Q17C,Gender,Female,Refused,0,2018
-Q17C,Gender,Female,Summary: Strongly agree/Somewhat agree,0.52,2018
 Q17E,Gender,Female,Strongly agree,0.24,2018
 Q17E,Gender,Female,Somewhat agree,0.38,2018
 Q17E,Gender,Female,Somewhat disagree,0.19,2018
 Q17E,Gender,Female,Strongly disagree,0.19,2018
 Q17E,Gender,Female,Don't know,0.01,2018
 Q17E,Gender,Female,Refused,0,2018
-Q17E,Gender,Female,Summary: Strongly agree/Somewhat agree,0.62,2018
 Q17F,Gender,Female,Strongly agree,0.2,2018
 Q17F,Gender,Female,Somewhat agree,0.25,2018
 Q17F,Gender,Female,Somewhat disagree,0.26,2018
 Q17F,Gender,Female,Strongly disagree,0.28,2018
 Q17F,Gender,Female,Don't know,0.01,2018
 Q17F,Gender,Female,Refused,0,2018
-Q17F,Gender,Female,Summary: Strongly agree/Somewhat agree,0.45,2018
 Q17G,Gender,Female,Strongly agree,0.27,2018
 Q17G,Gender,Female,Somewhat agree,0.41,2018
 Q17G,Gender,Female,Somewhat disagree,0.22,2018
 Q17G,Gender,Female,Strongly disagree,0.07,2018
 Q17G,Gender,Female,Don't know,0.02,2018
 Q17G,Gender,Female,Refused,0,2018
-Q17G,Gender,Female,Summary: Strongly agree/Somewhat agree,0.6799999999999999,2018
 Q17H,Gender,Female,Strongly agree,0.14,2018
 Q17H,Gender,Female,Somewhat agree,0.43,2018
 Q17H,Gender,Female,Somewhat disagree,0.26,2018
 Q17H,Gender,Female,Strongly disagree,0.14,2018
 Q17H,Gender,Female,Don't know,0.03,2018
 Q17H,Gender,Female,Refused,0,2018
-Q17H,Gender,Female,Summary: Strongly agree/Somewhat agree,0.5700000000000001,2018
 Q17I,Gender,Female,Strongly agree,0.18,2018
 Q17I,Gender,Female,Somewhat agree,0.38,2018
 Q17I,Gender,Female,Somewhat disagree,0.27,2018
 Q17I,Gender,Female,Strongly disagree,0.16,2018
 Q17I,Gender,Female,Don't know,0.01,2018
 Q17I,Gender,Female,Refused,0,2018
-Q17I,Gender,Female,Summary: Strongly agree/Somewhat agree,0.56,2018
 Q19,Gender,Female,Excellent,0.14,2018
 Q19,Gender,Female,Very good,0.33,2018
 Q19,Gender,Female,Good,0.32,2018
@@ -1445,7 +1400,6 @@ Q19,Gender,Female,Fair,0.18,2018
 Q19,Gender,Female,Poor,0.03,2018
 Q19,Gender,Female,Don't know,0,2018
 Q19,Gender,Female,Refused,0,2018
-Q19,Gender,Female,Summary: Excellent/Very Good,0.47000000000000003,2018
 Q20,Gender,Female,Not at all satisfied,0.02,2018
 Q20,Gender,Female,Only a little bit satisfied,0.14,2018
 Q20,Gender,Female,Somewhat satisfied,0.26,2018
@@ -1711,56 +1665,48 @@ Q17A,Age,Under age 55,Somewhat disagree,0.14,2018
 Q17A,Age,Under age 55,Strongly disagree,0.14,2018
 Q17A,Age,Under age 55,Don't know,0,2018
 Q17A,Age,Under age 55,Refused,0,2018
-Q17A,Age,Under age 55,Summary: Strongly agree/Somewhat agree,0.72,2018
 Q17B,Age,Under age 55,Strongly agree,0.39,2018
 Q17B,Age,Under age 55,Somewhat agree,0.32,2018
 Q17B,Age,Under age 55,Somewhat disagree,0.15,2018
 Q17B,Age,Under age 55,Strongly disagree,0.14,2018
 Q17B,Age,Under age 55,Don't know,0,2018
 Q17B,Age,Under age 55,Refused,0,2018
-Q17B,Age,Under age 55,Summary: Strongly agree/Somewhat agree,0.71,2018
 Q17C,Age,Under age 55,Strongly agree,0.22,2018
 Q17C,Age,Under age 55,Somewhat agree,0.31,2018
 Q17C,Age,Under age 55,Somewhat disagree,0.2,2018
 Q17C,Age,Under age 55,Strongly disagree,0.25,2018
 Q17C,Age,Under age 55,Don't know,0.01,2018
 Q17C,Age,Under age 55,Refused,0,2018
-Q17C,Age,Under age 55,Summary: Strongly agree/Somewhat agree,0.53,2018
 Q17E,Age,Under age 55,Strongly agree,0.25,2018
 Q17E,Age,Under age 55,Somewhat agree,0.36,2018
 Q17E,Age,Under age 55,Somewhat disagree,0.22,2018
 Q17E,Age,Under age 55,Strongly disagree,0.16,2018
 Q17E,Age,Under age 55,Don't know,0.01,2018
 Q17E,Age,Under age 55,Refused,0,2018
-Q17E,Age,Under age 55,Summary: Strongly agree/Somewhat agree,0.61,2018
 Q17F,Age,Under age 55,Strongly agree,0.16,2018
 Q17F,Age,Under age 55,Somewhat agree,0.23,2018
 Q17F,Age,Under age 55,Somewhat disagree,0.29,2018
 Q17F,Age,Under age 55,Strongly disagree,0.31,2018
 Q17F,Age,Under age 55,Don't know,0,2018
 Q17F,Age,Under age 55,Refused,0,2018
-Q17F,Age,Under age 55,Summary: Strongly agree/Somewhat agree,0.39,2018
 Q17G,Age,Under age 55,Strongly agree,0.16,2018
 Q17G,Age,Under age 55,Somewhat agree,0.54,2018
 Q17G,Age,Under age 55,Somewhat disagree,0.23,2018
 Q17G,Age,Under age 55,Strongly disagree,0.05,2018
 Q17G,Age,Under age 55,Don't know,0.02,2018
 Q17G,Age,Under age 55,Refused,0,2018
-Q17G,Age,Under age 55,Summary: Strongly agree/Somewhat agree,0.7000000000000001,2018
 Q17H,Age,Under age 55,Strongly agree,0.09,2018
 Q17H,Age,Under age 55,Somewhat agree,0.5,2018
 Q17H,Age,Under age 55,Somewhat disagree,0.26,2018
 Q17H,Age,Under age 55,Strongly disagree,0.11,2018
 Q17H,Age,Under age 55,Don't know,0.04,2018
 Q17H,Age,Under age 55,Refused,0,2018
-Q17H,Age,Under age 55,Summary: Strongly agree/Somewhat agree,0.59,2018
 Q17I,Age,Under age 55,Strongly agree,0.12,2018
 Q17I,Age,Under age 55,Somewhat agree,0.38,2018
 Q17I,Age,Under age 55,Somewhat disagree,0.31,2018
 Q17I,Age,Under age 55,Strongly disagree,0.16,2018
 Q17I,Age,Under age 55,Don't know,0.02,2018
 Q17I,Age,Under age 55,Refused,0,2018
-Q17I,Age,Under age 55,Summary: Strongly agree/Somewhat agree,0.5,2018
 Q19,Age,Under age 55,Excellent,0.17,2018
 Q19,Age,Under age 55,Very good,0.28,2018
 Q19,Age,Under age 55,Good,0.3,2018
@@ -1768,7 +1714,6 @@ Q19,Age,Under age 55,Fair,0.21,2018
 Q19,Age,Under age 55,Poor,0.04,2018
 Q19,Age,Under age 55,Don't know,0,2018
 Q19,Age,Under age 55,Refused,0,2018
-Q19,Age,Under age 55,Summary: Excellent/Very Good,0.45000000000000007,2018
 Q20,Age,Under age 55,Not at all satisfied,0.02,2018
 Q20,Age,Under age 55,Only a little bit satisfied,0.17,2018
 Q20,Age,Under age 55,Somewhat satisfied,0.26,2018
@@ -2030,56 +1975,48 @@ Q17A,Age,Age 55 or older,Somewhat disagree,0.18,2018
 Q17A,Age,Age 55 or older,Strongly disagree,0.22,2018
 Q17A,Age,Age 55 or older,Don't know,0,2018
 Q17A,Age,Age 55 or older,Refused,0.01,2018
-Q17A,Age,Age 55 or older,Summary: Strongly agree/Somewhat agree,0.59,2018
 Q17B,Age,Age 55 or older,Strongly agree,0.49,2018
 Q17B,Age,Age 55 or older,Somewhat agree,0.29,2018
 Q17B,Age,Age 55 or older,Somewhat disagree,0.1,2018
 Q17B,Age,Age 55 or older,Strongly disagree,0.11,2018
 Q17B,Age,Age 55 or older,Don't know,0,2018
 Q17B,Age,Age 55 or older,Refused,0,2018
-Q17B,Age,Age 55 or older,Summary: Strongly agree/Somewhat agree,0.78,2018
 Q17C,Age,Age 55 or older,Strongly agree,0.25,2018
 Q17C,Age,Age 55 or older,Somewhat agree,0.35,2018
 Q17C,Age,Age 55 or older,Somewhat disagree,0.16,2018
 Q17C,Age,Age 55 or older,Strongly disagree,0.22,2018
 Q17C,Age,Age 55 or older,Don't know,0.03,2018
 Q17C,Age,Age 55 or older,Refused,0,2018
-Q17C,Age,Age 55 or older,Summary: Strongly agree/Somewhat agree,0.6,2018
 Q17E,Age,Age 55 or older,Strongly agree,0.32,2018
 Q17E,Age,Age 55 or older,Somewhat agree,0.39,2018
 Q17E,Age,Age 55 or older,Somewhat disagree,0.07,2018
 Q17E,Age,Age 55 or older,Strongly disagree,0.2,2018
 Q17E,Age,Age 55 or older,Don't know,0.01,2018
 Q17E,Age,Age 55 or older,Refused,0,2018
-Q17E,Age,Age 55 or older,Summary: Strongly agree/Somewhat agree,0.71,2018
 Q17F,Age,Age 55 or older,Strongly agree,0.18,2018
 Q17F,Age,Age 55 or older,Somewhat agree,0.2,2018
 Q17F,Age,Age 55 or older,Somewhat disagree,0.19,2018
 Q17F,Age,Age 55 or older,Strongly disagree,0.41,2018
 Q17F,Age,Age 55 or older,Don't know,0.02,2018
 Q17F,Age,Age 55 or older,Refused,0,2018
-Q17F,Age,Age 55 or older,Summary: Strongly agree/Somewhat agree,0.38,2018
 Q17G,Age,Age 55 or older,Strongly agree,0.54,2018
 Q17G,Age,Age 55 or older,Somewhat agree,0.27,2018
 Q17G,Age,Age 55 or older,Somewhat disagree,0.08,2018
 Q17G,Age,Age 55 or older,Strongly disagree,0.07,2018
 Q17G,Age,Age 55 or older,Don't know,0.03,2018
 Q17G,Age,Age 55 or older,Refused,0.01,2018
-Q17G,Age,Age 55 or older,Summary: Strongly agree/Somewhat agree,0.81,2018
 Q17H,Age,Age 55 or older,Strongly agree,0.24,2018
 Q17H,Age,Age 55 or older,Somewhat agree,0.37,2018
 Q17H,Age,Age 55 or older,Somewhat disagree,0.18,2018
 Q17H,Age,Age 55 or older,Strongly disagree,0.13,2018
 Q17H,Age,Age 55 or older,Don't know,0.08,2018
 Q17H,Age,Age 55 or older,Refused,0.01,2018
-Q17H,Age,Age 55 or older,Summary: Strongly agree/Somewhat agree,0.61,2018
 Q17I,Age,Age 55 or older,Strongly agree,0.32,2018
 Q17I,Age,Age 55 or older,Somewhat agree,0.39,2018
 Q17I,Age,Age 55 or older,Somewhat disagree,0.13,2018
 Q17I,Age,Age 55 or older,Strongly disagree,0.1,2018
 Q17I,Age,Age 55 or older,Don't know,0.06,2018
 Q17I,Age,Age 55 or older,Refused,0,2018
-Q17I,Age,Age 55 or older,Summary: Strongly agree/Somewhat agree,0.71,2018
 Q19,Age,Age 55 or older,Excellent,0.11,2018
 Q19,Age,Age 55 or older,Very good,0.32,2018
 Q19,Age,Age 55 or older,Good,0.36,2018
@@ -2087,7 +2024,6 @@ Q19,Age,Age 55 or older,Fair,0.15,2018
 Q19,Age,Age 55 or older,Poor,0.06,2018
 Q19,Age,Age 55 or older,Don't know,0,2018
 Q19,Age,Age 55 or older,Refused,0,2018
-Q19,Age,Age 55 or older,Summary: Excellent/Very Good,0.43,2018
 Q20,Age,Age 55 or older,Not at all satisfied,0.02,2018
 Q20,Age,Age 55 or older,Only a little bit satisfied,0.04,2018
 Q20,Age,Age 55 or older,Somewhat satisfied,0.26,2018
@@ -2349,56 +2285,48 @@ Q17A,Race/Ethnicity,White,Somewhat disagree,0.18,2018
 Q17A,Race/Ethnicity,White,Strongly disagree,0.15,2018
 Q17A,Race/Ethnicity,White,Don't know,0,2018
 Q17A,Race/Ethnicity,White,Refused,0.01,2018
-Q17A,Race/Ethnicity,White,Summary: Strongly agree/Somewhat agree,0.6599999999999999,2018
 Q17B,Race/Ethnicity,White,Strongly agree,0.4,2018
 Q17B,Race/Ethnicity,White,Somewhat agree,0.33,2018
 Q17B,Race/Ethnicity,White,Somewhat disagree,0.14,2018
 Q17B,Race/Ethnicity,White,Strongly disagree,0.12,2018
 Q17B,Race/Ethnicity,White,Don't know,0,2018
 Q17B,Race/Ethnicity,White,Refused,0,2018
-Q17B,Race/Ethnicity,White,Summary: Strongly agree/Somewhat agree,0.73,2018
 Q17C,Race/Ethnicity,White,Strongly agree,0.29,2018
 Q17C,Race/Ethnicity,White,Somewhat agree,0.26,2018
 Q17C,Race/Ethnicity,White,Somewhat disagree,0.21,2018
 Q17C,Race/Ethnicity,White,Strongly disagree,0.24,2018
 Q17C,Race/Ethnicity,White,Don't know,0,2018
 Q17C,Race/Ethnicity,White,Refused,0,2018
-Q17C,Race/Ethnicity,White,Summary: Strongly agree/Somewhat agree,0.55,2018
 Q17E,Race/Ethnicity,White,Strongly agree,0.32,2018
 Q17E,Race/Ethnicity,White,Somewhat agree,0.37,2018
 Q17E,Race/Ethnicity,White,Somewhat disagree,0.15,2018
 Q17E,Race/Ethnicity,White,Strongly disagree,0.15,2018
 Q17E,Race/Ethnicity,White,Don't know,0.01,2018
 Q17E,Race/Ethnicity,White,Refused,0,2018
-Q17E,Race/Ethnicity,White,Summary: Strongly agree/Somewhat agree,0.69,2018
 Q17F,Race/Ethnicity,White,Strongly agree,0.2,2018
 Q17F,Race/Ethnicity,White,Somewhat agree,0.18,2018
 Q17F,Race/Ethnicity,White,Somewhat disagree,0.19,2018
 Q17F,Race/Ethnicity,White,Strongly disagree,0.42,2018
 Q17F,Race/Ethnicity,White,Don't know,0.01,2018
 Q17F,Race/Ethnicity,White,Refused,0,2018
-Q17F,Race/Ethnicity,White,Summary: Strongly agree/Somewhat agree,0.38,2018
 Q17G,Race/Ethnicity,White,Strongly agree,0.39,2018
 Q17G,Race/Ethnicity,White,Somewhat agree,0.36,2018
 Q17G,Race/Ethnicity,White,Somewhat disagree,0.16,2018
 Q17G,Race/Ethnicity,White,Strongly disagree,0.06,2018
 Q17G,Race/Ethnicity,White,Don't know,0.02,2018
 Q17G,Race/Ethnicity,White,Refused,0,2018
-Q17G,Race/Ethnicity,White,Summary: Strongly agree/Somewhat agree,0.75,2018
 Q17H,Race/Ethnicity,White,Strongly agree,0.18,2018
 Q17H,Race/Ethnicity,White,Somewhat agree,0.44,2018
 Q17H,Race/Ethnicity,White,Somewhat disagree,0.19,2018
 Q17H,Race/Ethnicity,White,Strongly disagree,0.12,2018
 Q17H,Race/Ethnicity,White,Don't know,0.07,2018
 Q17H,Race/Ethnicity,White,Refused,0,2018
-Q17H,Race/Ethnicity,White,Summary: Strongly agree/Somewhat agree,0.62,2018
 Q17I,Race/Ethnicity,White,Strongly agree,0.23,2018
 Q17I,Race/Ethnicity,White,Somewhat agree,0.35,2018
 Q17I,Race/Ethnicity,White,Somewhat disagree,0.23,2018
 Q17I,Race/Ethnicity,White,Strongly disagree,0.13,2018
 Q17I,Race/Ethnicity,White,Don't know,0.05,2018
 Q17I,Race/Ethnicity,White,Refused,0,2018
-Q17I,Race/Ethnicity,White,Summary: Strongly agree/Somewhat agree,0.58,2018
 Q19,Race/Ethnicity,White,Excellent,0.1,2018
 Q19,Race/Ethnicity,White,Very good,0.32,2018
 Q19,Race/Ethnicity,White,Good,0.33,2018
@@ -2406,7 +2334,6 @@ Q19,Race/Ethnicity,White,Fair,0.19,2018
 Q19,Race/Ethnicity,White,Poor,0.05,2018
 Q19,Race/Ethnicity,White,Don't know,0,2018
 Q19,Race/Ethnicity,White,Refused,0,2018
-Q19,Race/Ethnicity,White,Summary: Excellent/Very Good,0.42000000000000004,2018
 Q20,Race/Ethnicity,White,Not at all satisfied,0.02,2018
 Q20,Race/Ethnicity,White,Only a little bit satisfied,0.16,2018
 Q20,Race/Ethnicity,White,Somewhat satisfied,0.27,2018
@@ -2668,56 +2595,48 @@ Q17A,Race/Ethnicity,Not white,Somewhat disagree,0.12,2018
 Q17A,Race/Ethnicity,Not white,Strongly disagree,0.16,2018
 Q17A,Race/Ethnicity,Not white,Don't know,0,2018
 Q17A,Race/Ethnicity,Not white,Refused,0,2018
-Q17A,Race/Ethnicity,Not white,Summary: Strongly agree/Somewhat agree,0.72,2018
 Q17B,Race/Ethnicity,Not white,Strongly agree,0.46,2018
 Q17B,Race/Ethnicity,Not white,Somewhat agree,0.28,2018
 Q17B,Race/Ethnicity,Not white,Somewhat disagree,0.13,2018
 Q17B,Race/Ethnicity,Not white,Strongly disagree,0.13,2018
 Q17B,Race/Ethnicity,Not white,Don't know,0,2018
 Q17B,Race/Ethnicity,Not white,Refused,0,2018
-Q17B,Race/Ethnicity,Not white,Summary: Strongly agree/Somewhat agree,0.74,2018
 Q17C,Race/Ethnicity,Not white,Strongly agree,0.17,2018
 Q17C,Race/Ethnicity,Not white,Somewhat agree,0.41,2018
 Q17C,Race/Ethnicity,Not white,Somewhat disagree,0.15,2018
 Q17C,Race/Ethnicity,Not white,Strongly disagree,0.24,2018
 Q17C,Race/Ethnicity,Not white,Don't know,0.03,2018
 Q17C,Race/Ethnicity,Not white,Refused,0,2018
-Q17C,Race/Ethnicity,Not white,Summary: Strongly agree/Somewhat agree,0.58,2018
 Q17E,Race/Ethnicity,Not white,Strongly agree,0.23,2018
 Q17E,Race/Ethnicity,Not white,Somewhat agree,0.36,2018
 Q17E,Race/Ethnicity,Not white,Somewhat disagree,0.2,2018
 Q17E,Race/Ethnicity,Not white,Strongly disagree,0.2,2018
 Q17E,Race/Ethnicity,Not white,Don't know,0,2018
 Q17E,Race/Ethnicity,Not white,Refused,0,2018
-Q17E,Race/Ethnicity,Not white,Summary: Strongly agree/Somewhat agree,0.59,2018
 Q17F,Race/Ethnicity,Not white,Strongly agree,0.15,2018
 Q17F,Race/Ethnicity,Not white,Somewhat agree,0.28,2018
 Q17F,Race/Ethnicity,Not white,Somewhat disagree,0.36,2018
 Q17F,Race/Ethnicity,Not white,Strongly disagree,0.21,2018
 Q17F,Race/Ethnicity,Not white,Don't know,0,2018
 Q17F,Race/Ethnicity,Not white,Refused,0,2018
-Q17F,Race/Ethnicity,Not white,Summary: Strongly agree/Somewhat agree,0.43000000000000005,2018
 Q17G,Race/Ethnicity,Not white,Strongly agree,0.15,2018
 Q17G,Race/Ethnicity,Not white,Somewhat agree,0.56,2018
 Q17G,Race/Ethnicity,Not white,Somewhat disagree,0.2,2018
 Q17G,Race/Ethnicity,Not white,Strongly disagree,0.05,2018
 Q17G,Race/Ethnicity,Not white,Don't know,0.03,2018
 Q17G,Race/Ethnicity,Not white,Refused,0,2018
-Q17G,Race/Ethnicity,Not white,Summary: Strongly agree/Somewhat agree,0.7100000000000001,2018
 Q17H,Race/Ethnicity,Not white,Strongly agree,0.09,2018
 Q17H,Race/Ethnicity,Not white,Somewhat agree,0.48,2018
 Q17H,Race/Ethnicity,Not white,Somewhat disagree,0.27,2018
 Q17H,Race/Ethnicity,Not white,Strongly disagree,0.12,2018
 Q17H,Race/Ethnicity,Not white,Don't know,0.04,2018
 Q17H,Race/Ethnicity,Not white,Refused,0,2018
-Q17H,Race/Ethnicity,Not white,Summary: Strongly agree/Somewhat agree,0.57,2018
 Q17I,Race/Ethnicity,Not white,Strongly agree,0.15,2018
 Q17I,Race/Ethnicity,Not white,Somewhat agree,0.42,2018
 Q17I,Race/Ethnicity,Not white,Somewhat disagree,0.26,2018
 Q17I,Race/Ethnicity,Not white,Strongly disagree,0.17,2018
 Q17I,Race/Ethnicity,Not white,Don't know,0.01,2018
 Q17I,Race/Ethnicity,Not white,Refused,0,2018
-Q17I,Race/Ethnicity,Not white,Summary: Strongly agree/Somewhat agree,0.57,2018
 Q19,Race/Ethnicity,Not white,Excellent,0.23,2018
 Q19,Race/Ethnicity,Not white,Very good,0.25,2018
 Q19,Race/Ethnicity,Not white,Good,0.31,2018
@@ -2725,7 +2644,6 @@ Q19,Race/Ethnicity,Not white,Fair,0.18,2018
 Q19,Race/Ethnicity,Not white,Poor,0.03,2018
 Q19,Race/Ethnicity,Not white,Don't know,0,2018
 Q19,Race/Ethnicity,Not white,Refused,0,2018
-Q19,Race/Ethnicity,Not white,Summary: Excellent/Very Good,0.48,2018
 Q20,Race/Ethnicity,Not white,Not at all satisfied,0.03,2018
 Q20,Race/Ethnicity,Not white,Only a little bit satisfied,0.09,2018
 Q20,Race/Ethnicity,Not white,Somewhat satisfied,0.26,2018
@@ -2987,56 +2905,48 @@ Q17A,Education,High school or less,Somewhat disagree,0.15,2018
 Q17A,Education,High school or less,Strongly disagree,0.11,2018
 Q17A,Education,High school or less,Don't know,0,2018
 Q17A,Education,High school or less,Refused,0,2018
-Q17A,Education,High school or less,Summary: Strongly agree/Somewhat agree,0.73,2018
 Q17B,Education,High school or less,Strongly agree,0.49,2018
 Q17B,Education,High school or less,Somewhat agree,0.27,2018
 Q17B,Education,High school or less,Somewhat disagree,0.13,2018
 Q17B,Education,High school or less,Strongly disagree,0.11,2018
 Q17B,Education,High school or less,Don't know,0,2018
 Q17B,Education,High school or less,Refused,0,2018
-Q17B,Education,High school or less,Summary: Strongly agree/Somewhat agree,0.76,2018
 Q17C,Education,High school or less,Strongly agree,0.28,2018
 Q17C,Education,High school or less,Somewhat agree,0.35,2018
 Q17C,Education,High school or less,Somewhat disagree,0.18,2018
 Q17C,Education,High school or less,Strongly disagree,0.19,2018
 Q17C,Education,High school or less,Don't know,0.01,2018
 Q17C,Education,High school or less,Refused,0,2018
-Q17C,Education,High school or less,Summary: Strongly agree/Somewhat agree,0.63,2018
 Q17E,Education,High school or less,Strongly agree,0.22,2018
 Q17E,Education,High school or less,Somewhat agree,0.41,2018
 Q17E,Education,High school or less,Somewhat disagree,0.21,2018
 Q17E,Education,High school or less,Strongly disagree,0.16,2018
 Q17E,Education,High school or less,Don't know,0,2018
 Q17E,Education,High school or less,Refused,0,2018
-Q17E,Education,High school or less,Summary: Strongly agree/Somewhat agree,0.63,2018
 Q17F,Education,High school or less,Strongly agree,0.22,2018
 Q17F,Education,High school or less,Somewhat agree,0.26,2018
 Q17F,Education,High school or less,Somewhat disagree,0.26,2018
 Q17F,Education,High school or less,Strongly disagree,0.26,2018
 Q17F,Education,High school or less,Don't know,0,2018
 Q17F,Education,High school or less,Refused,0,2018
-Q17F,Education,High school or less,Summary: Strongly agree/Somewhat agree,0.48,2018
 Q17G,Education,High school or less,Strongly agree,0.32,2018
 Q17G,Education,High school or less,Somewhat agree,0.48,2018
 Q17G,Education,High school or less,Somewhat disagree,0.15,2018
 Q17G,Education,High school or less,Strongly disagree,0.04,2018
 Q17G,Education,High school or less,Don't know,0,2018
 Q17G,Education,High school or less,Refused,0.01,2018
-Q17G,Education,High school or less,Summary: Strongly agree/Somewhat agree,0.8,2018
 Q17H,Education,High school or less,Strongly agree,0.17,2018
 Q17H,Education,High school or less,Somewhat agree,0.45,2018
 Q17H,Education,High school or less,Somewhat disagree,0.18,2018
 Q17H,Education,High school or less,Strongly disagree,0.12,2018
 Q17H,Education,High school or less,Don't know,0.08,2018
 Q17H,Education,High school or less,Refused,0.01,2018
-Q17H,Education,High school or less,Summary: Strongly agree/Somewhat agree,0.62,2018
 Q17I,Education,High school or less,Strongly agree,0.2,2018
 Q17I,Education,High school or less,Somewhat agree,0.42,2018
 Q17I,Education,High school or less,Somewhat disagree,0.22,2018
 Q17I,Education,High school or less,Strongly disagree,0.12,2018
 Q17I,Education,High school or less,Don't know,0.04,2018
 Q17I,Education,High school or less,Refused,0,2018
-Q17I,Education,High school or less,Summary: Strongly agree/Somewhat agree,0.62,2018
 Q19,Education,High school or less,Excellent,0.17,2018
 Q19,Education,High school or less,Very good,0.22,2018
 Q19,Education,High school or less,Good,0.35,2018
@@ -3044,7 +2954,6 @@ Q19,Education,High school or less,Fair,0.23,2018
 Q19,Education,High school or less,Poor,0.02,2018
 Q19,Education,High school or less,Don't know,0,2018
 Q19,Education,High school or less,Refused,0,2018
-Q19,Education,High school or less,Summary: Excellent/Very Good,0.39,2018
 Q20,Education,High school or less,Not at all satisfied,0.01,2018
 Q20,Education,High school or less,Only a little bit satisfied,0.13,2018
 Q20,Education,High school or less,Somewhat satisfied,0.22,2018
@@ -3306,56 +3215,48 @@ Q17A,Education,Some college or Associate's,Somewhat disagree,0.13,2018
 Q17A,Education,Some college or Associate's,Strongly disagree,0.19,2018
 Q17A,Education,Some college or Associate's,Don't know,0,2018
 Q17A,Education,Some college or Associate's,Refused,0,2018
-Q17A,Education,Some college or Associate's,Summary: Strongly agree/Somewhat agree,0.6799999999999999,2018
 Q17B,Education,Some college or Associate's,Strongly agree,0.36,2018
 Q17B,Education,Some college or Associate's,Somewhat agree,0.34,2018
 Q17B,Education,Some college or Associate's,Somewhat disagree,0.12,2018
 Q17B,Education,Some college or Associate's,Strongly disagree,0.18,2018
 Q17B,Education,Some college or Associate's,Don't know,0,2018
 Q17B,Education,Some college or Associate's,Refused,0,2018
-Q17B,Education,Some college or Associate's,Summary: Strongly agree/Somewhat agree,0.7,2018
 Q17C,Education,Some college or Associate's,Strongly agree,0.24,2018
 Q17C,Education,Some college or Associate's,Somewhat agree,0.31,2018
 Q17C,Education,Some college or Associate's,Somewhat disagree,0.13,2018
 Q17C,Education,Some college or Associate's,Strongly disagree,0.28,2018
 Q17C,Education,Some college or Associate's,Don't know,0.04,2018
 Q17C,Education,Some college or Associate's,Refused,0,2018
-Q17C,Education,Some college or Associate's,Summary: Strongly agree/Somewhat agree,0.55,2018
 Q17E,Education,Some college or Associate's,Strongly agree,0.29,2018
 Q17E,Education,Some college or Associate's,Somewhat agree,0.34,2018
 Q17E,Education,Some college or Associate's,Somewhat disagree,0.16,2018
 Q17E,Education,Some college or Associate's,Strongly disagree,0.18,2018
 Q17E,Education,Some college or Associate's,Don't know,0.02,2018
 Q17E,Education,Some college or Associate's,Refused,0,2018
-Q17E,Education,Some college or Associate's,Summary: Strongly agree/Somewhat agree,0.63,2018
 Q17F,Education,Some college or Associate's,Strongly agree,0.18,2018
 Q17F,Education,Some college or Associate's,Somewhat agree,0.21,2018
 Q17F,Education,Some college or Associate's,Somewhat disagree,0.27,2018
 Q17F,Education,Some college or Associate's,Strongly disagree,0.33,2018
 Q17F,Education,Some college or Associate's,Don't know,0,2018
 Q17F,Education,Some college or Associate's,Refused,0,2018
-Q17F,Education,Some college or Associate's,Summary: Strongly agree/Somewhat agree,0.39,2018
 Q17G,Education,Some college or Associate's,Strongly agree,0.26,2018
 Q17G,Education,Some college or Associate's,Somewhat agree,0.41,2018
 Q17G,Education,Some college or Associate's,Somewhat disagree,0.2,2018
 Q17G,Education,Some college or Associate's,Strongly disagree,0.07,2018
 Q17G,Education,Some college or Associate's,Don't know,0.06,2018
 Q17G,Education,Some college or Associate's,Refused,0,2018
-Q17G,Education,Some college or Associate's,Summary: Strongly agree/Somewhat agree,0.6699999999999999,2018
 Q17H,Education,Some college or Associate's,Strongly agree,0.13,2018
 Q17H,Education,Some college or Associate's,Somewhat agree,0.36,2018
 Q17H,Education,Some college or Associate's,Somewhat disagree,0.28,2018
 Q17H,Education,Some college or Associate's,Strongly disagree,0.16,2018
 Q17H,Education,Some college or Associate's,Don't know,0.07,2018
 Q17H,Education,Some college or Associate's,Refused,0,2018
-Q17H,Education,Some college or Associate's,Summary: Strongly agree/Somewhat agree,0.49,2018
 Q17I,Education,Some college or Associate's,Strongly agree,0.25,2018
 Q17I,Education,Some college or Associate's,Somewhat agree,0.28,2018
 Q17I,Education,Some college or Associate's,Somewhat disagree,0.22,2018
 Q17I,Education,Some college or Associate's,Strongly disagree,0.2,2018
 Q17I,Education,Some college or Associate's,Don't know,0.05,2018
 Q17I,Education,Some college or Associate's,Refused,0,2018
-Q17I,Education,Some college or Associate's,Summary: Strongly agree/Somewhat agree,0.53,2018
 Q19,Education,Some college or Associate's,Excellent,0.1,2018
 Q19,Education,Some college or Associate's,Very good,0.32,2018
 Q19,Education,Some college or Associate's,Good,0.31,2018
@@ -3363,7 +3264,6 @@ Q19,Education,Some college or Associate's,Fair,0.18,2018
 Q19,Education,Some college or Associate's,Poor,0.09,2018
 Q19,Education,Some college or Associate's,Don't know,0,2018
 Q19,Education,Some college or Associate's,Refused,0,2018
-Q19,Education,Some college or Associate's,Summary: Excellent/Very Good,0.42000000000000004,2018
 Q20,Education,Some college or Associate's,Not at all satisfied,0.05,2018
 Q20,Education,Some college or Associate's,Only a little bit satisfied,0.19,2018
 Q20,Education,Some college or Associate's,Somewhat satisfied,0.29,2018
@@ -3625,56 +3525,48 @@ Q17A,Education,Bachelor's or higher,Somewhat disagree,0.18,2018
 Q17A,Education,Bachelor's or higher,Strongly disagree,0.18,2018
 Q17A,Education,Bachelor's or higher,Don't know,0,2018
 Q17A,Education,Bachelor's or higher,Refused,0,2018
-Q17A,Education,Bachelor's or higher,Summary: Strongly agree/Somewhat agree,0.63,2018
 Q17B,Education,Bachelor's or higher,Strongly agree,0.43,2018
 Q17B,Education,Bachelor's or higher,Somewhat agree,0.33,2018
 Q17B,Education,Bachelor's or higher,Somewhat disagree,0.14,2018
 Q17B,Education,Bachelor's or higher,Strongly disagree,0.09,2018
 Q17B,Education,Bachelor's or higher,Don't know,0,2018
 Q17B,Education,Bachelor's or higher,Refused,0,2018
-Q17B,Education,Bachelor's or higher,Summary: Strongly agree/Somewhat agree,0.76,2018
 Q17C,Education,Bachelor's or higher,Strongly agree,0.2,2018
 Q17C,Education,Bachelor's or higher,Somewhat agree,0.3,2018
 Q17C,Education,Bachelor's or higher,Somewhat disagree,0.25,2018
 Q17C,Education,Bachelor's or higher,Strongly disagree,0.25,2018
 Q17C,Education,Bachelor's or higher,Don't know,0.01,2018
 Q17C,Education,Bachelor's or higher,Refused,0,2018
-Q17C,Education,Bachelor's or higher,Summary: Strongly agree/Somewhat agree,0.5,2018
 Q17E,Education,Bachelor's or higher,Strongly agree,0.35,2018
 Q17E,Education,Bachelor's or higher,Somewhat agree,0.34,2018
 Q17E,Education,Bachelor's or higher,Somewhat disagree,0.14,2018
 Q17E,Education,Bachelor's or higher,Strongly disagree,0.18,2018
 Q17E,Education,Bachelor's or higher,Don't know,0,2018
 Q17E,Education,Bachelor's or higher,Refused,0,2018
-Q17E,Education,Bachelor's or higher,Summary: Strongly agree/Somewhat agree,0.69,2018
 Q17F,Education,Bachelor's or higher,Strongly agree,0.12,2018
 Q17F,Education,Bachelor's or higher,Somewhat agree,0.18,2018
 Q17F,Education,Bachelor's or higher,Somewhat disagree,0.25,2018
 Q17F,Education,Bachelor's or higher,Strongly disagree,0.44,2018
 Q17F,Education,Bachelor's or higher,Don't know,0.01,2018
 Q17F,Education,Bachelor's or higher,Refused,0,2018
-Q17F,Education,Bachelor's or higher,Summary: Strongly agree/Somewhat agree,0.3,2018
 Q17G,Education,Bachelor's or higher,Strongly agree,0.29,2018
 Q17G,Education,Bachelor's or higher,Somewhat agree,0.45,2018
 Q17G,Education,Bachelor's or higher,Somewhat disagree,0.18,2018
 Q17G,Education,Bachelor's or higher,Strongly disagree,0.06,2018
 Q17G,Education,Bachelor's or higher,Don't know,0.01,2018
 Q17G,Education,Bachelor's or higher,Refused,0,2018
-Q17G,Education,Bachelor's or higher,Summary: Strongly agree/Somewhat agree,0.74,2018
 Q17H,Education,Bachelor's or higher,Strongly agree,0.14,2018
 Q17H,Education,Bachelor's or higher,Somewhat agree,0.55,2018
 Q17H,Education,Bachelor's or higher,Somewhat disagree,0.23,2018
 Q17H,Education,Bachelor's or higher,Strongly disagree,0.07,2018
 Q17H,Education,Bachelor's or higher,Don't know,0.01,2018
 Q17H,Education,Bachelor's or higher,Refused,0,2018
-Q17H,Education,Bachelor's or higher,Summary: Strongly agree/Somewhat agree,0.6900000000000001,2018
 Q17I,Education,Bachelor's or higher,Strongly agree,0.14,2018
 Q17I,Education,Bachelor's or higher,Somewhat agree,0.44,2018
 Q17I,Education,Bachelor's or higher,Somewhat disagree,0.3,2018
 Q17I,Education,Bachelor's or higher,Strongly disagree,0.11,2018
 Q17I,Education,Bachelor's or higher,Don't know,0.01,2018
 Q17I,Education,Bachelor's or higher,Refused,0,2018
-Q17I,Education,Bachelor's or higher,Summary: Strongly agree/Somewhat agree,0.5800000000000001,2018
 Q19,Education,Bachelor's or higher,Excellent,0.21,2018
 Q19,Education,Bachelor's or higher,Very good,0.33,2018
 Q19,Education,Bachelor's or higher,Good,0.28,2018
@@ -3682,7 +3574,6 @@ Q19,Education,Bachelor's or higher,Fair,0.17,2018
 Q19,Education,Bachelor's or higher,Poor,0.01,2018
 Q19,Education,Bachelor's or higher,Don't know,0,2018
 Q19,Education,Bachelor's or higher,Refused,0,2018
-Q19,Education,Bachelor's or higher,Summary: Excellent/Very Good,0.54,2018
 Q20,Education,Bachelor's or higher,Not at all satisfied,0.01,2018
 Q20,Education,Bachelor's or higher,Only a little bit satisfied,0.05,2018
 Q20,Education,Bachelor's or higher,Somewhat satisfied,0.27,2018
@@ -3944,56 +3835,48 @@ Q17A,Income,<$75K,Somewhat disagree,0.16,2018
 Q17A,Income,<$75K,Strongly disagree,0.11,2018
 Q17A,Income,<$75K,Don't know,0,2018
 Q17A,Income,<$75K,Refused,0,2018
-Q17A,Income,<$75K,Summary: Strongly agree/Somewhat agree,0.72,2018
 Q17B,Income,<$75K,Strongly agree,0.39,2018
 Q17B,Income,<$75K,Somewhat agree,0.34,2018
 Q17B,Income,<$75K,Somewhat disagree,0.13,2018
 Q17B,Income,<$75K,Strongly disagree,0.14,2018
 Q17B,Income,<$75K,Don't know,0,2018
 Q17B,Income,<$75K,Refused,0,2018
-Q17B,Income,<$75K,Summary: Strongly agree/Somewhat agree,0.73,2018
 Q17C,Income,<$75K,Strongly agree,0.24,2018
 Q17C,Income,<$75K,Somewhat agree,0.34,2018
 Q17C,Income,<$75K,Somewhat disagree,0.19,2018
 Q17C,Income,<$75K,Strongly disagree,0.23,2018
 Q17C,Income,<$75K,Don't know,0,2018
 Q17C,Income,<$75K,Refused,0,2018
-Q17C,Income,<$75K,Summary: Strongly agree/Somewhat agree,0.5800000000000001,2018
 Q17E,Income,<$75K,Strongly agree,0.25,2018
 Q17E,Income,<$75K,Somewhat agree,0.38,2018
 Q17E,Income,<$75K,Somewhat disagree,0.2,2018
 Q17E,Income,<$75K,Strongly disagree,0.17,2018
 Q17E,Income,<$75K,Don't know,0,2018
 Q17E,Income,<$75K,Refused,0,2018
-Q17E,Income,<$75K,Summary: Strongly agree/Somewhat agree,0.63,2018
 Q17F,Income,<$75K,Strongly agree,0.18,2018
 Q17F,Income,<$75K,Somewhat agree,0.28,2018
 Q17F,Income,<$75K,Somewhat disagree,0.26,2018
 Q17F,Income,<$75K,Strongly disagree,0.27,2018
 Q17F,Income,<$75K,Don't know,0.01,2018
 Q17F,Income,<$75K,Refused,0,2018
-Q17F,Income,<$75K,Summary: Strongly agree/Somewhat agree,0.46,2018
 Q17G,Income,<$75K,Strongly agree,0.2,2018
 Q17G,Income,<$75K,Somewhat agree,0.48,2018
 Q17G,Income,<$75K,Somewhat disagree,0.23,2018
 Q17G,Income,<$75K,Strongly disagree,0.07,2018
 Q17G,Income,<$75K,Don't know,0.02,2018
 Q17G,Income,<$75K,Refused,0,2018
-Q17G,Income,<$75K,Summary: Strongly agree/Somewhat agree,0.6799999999999999,2018
 Q17H,Income,<$75K,Strongly agree,0.1,2018
 Q17H,Income,<$75K,Somewhat agree,0.45,2018
 Q17H,Income,<$75K,Somewhat disagree,0.25,2018
 Q17H,Income,<$75K,Strongly disagree,0.14,2018
 Q17H,Income,<$75K,Don't know,0.06,2018
 Q17H,Income,<$75K,Refused,0,2018
-Q17H,Income,<$75K,Summary: Strongly agree/Somewhat agree,0.55,2018
 Q17I,Income,<$75K,Strongly agree,0.14,2018
 Q17I,Income,<$75K,Somewhat agree,0.43,2018
 Q17I,Income,<$75K,Somewhat disagree,0.21,2018
 Q17I,Income,<$75K,Strongly disagree,0.18,2018
 Q17I,Income,<$75K,Don't know,0.04,2018
 Q17I,Income,<$75K,Refused,0,2018
-Q17I,Income,<$75K,Summary: Strongly agree/Somewhat agree,0.5700000000000001,2018
 Q19,Income,<$75K,Excellent,0.11,2018
 Q19,Income,<$75K,Very good,0.28,2018
 Q19,Income,<$75K,Good,0.33,2018
@@ -4001,7 +3884,6 @@ Q19,Income,<$75K,Fair,0.2,2018
 Q19,Income,<$75K,Poor,0.07,2018
 Q19,Income,<$75K,Don't know,0,2018
 Q19,Income,<$75K,Refused,0,2018
-Q19,Income,<$75K,Summary: Excellent/Very Good,0.39,2018
 Q20,Income,<$75K,Not at all satisfied,0.03,2018
 Q20,Income,<$75K,Only a little bit satisfied,0.18,2018
 Q20,Income,<$75K,Somewhat satisfied,0.27,2018
@@ -4267,56 +4149,48 @@ Q17A,Income,$75K+,Somewhat disagree,0.11,2018
 Q17A,Income,$75K+,Strongly disagree,0.24,2018
 Q17A,Income,$75K+,Don't know,0,2018
 Q17A,Income,$75K+,Refused,0,2018
-Q17A,Income,$75K+,Summary: Strongly agree/Somewhat agree,0.65,2018
 Q17B,Income,$75K+,Strongly agree,0.45,2018
 Q17B,Income,$75K+,Somewhat agree,0.29,2018
 Q17B,Income,$75K+,Somewhat disagree,0.14,2018
 Q17B,Income,$75K+,Strongly disagree,0.11,2018
 Q17B,Income,$75K+,Don't know,0,2018
 Q17B,Income,$75K+,Refused,0,2018
-Q17B,Income,$75K+,Summary: Strongly agree/Somewhat agree,0.74,2018
 Q17C,Income,$75K+,Strongly agree,0.24,2018
 Q17C,Income,$75K+,Somewhat agree,0.29,2018
 Q17C,Income,$75K+,Somewhat disagree,0.18,2018
 Q17C,Income,$75K+,Strongly disagree,0.26,2018
 Q17C,Income,$75K+,Don't know,0.03,2018
 Q17C,Income,$75K+,Refused,0,2018
-Q17C,Income,$75K+,Summary: Strongly agree/Somewhat agree,0.53,2018
 Q17E,Income,$75K+,Strongly agree,0.33,2018
 Q17E,Income,$75K+,Somewhat agree,0.34,2018
 Q17E,Income,$75K+,Somewhat disagree,0.12,2018
 Q17E,Income,$75K+,Strongly disagree,0.19,2018
 Q17E,Income,$75K+,Don't know,0.02,2018
 Q17E,Income,$75K+,Refused,0,2018
-Q17E,Income,$75K+,Summary: Strongly agree/Somewhat agree,0.67,2018
 Q17F,Income,$75K+,Strongly agree,0.18,2018
 Q17F,Income,$75K+,Somewhat agree,0.13,2018
 Q17F,Income,$75K+,Somewhat disagree,0.31,2018
 Q17F,Income,$75K+,Strongly disagree,0.37,2018
 Q17F,Income,$75K+,Don't know,0,2018
 Q17F,Income,$75K+,Refused,0,2018
-Q17F,Income,$75K+,Summary: Strongly agree/Somewhat agree,0.31,2018
 Q17G,Income,$75K+,Strongly agree,0.32,2018
 Q17G,Income,$75K+,Somewhat agree,0.47,2018
 Q17G,Income,$75K+,Somewhat disagree,0.15,2018
 Q17G,Income,$75K+,Strongly disagree,0.04,2018
 Q17G,Income,$75K+,Don't know,0.01,2018
 Q17G,Income,$75K+,Refused,0.01,2018
-Q17G,Income,$75K+,Summary: Strongly agree/Somewhat agree,0.79,2018
 Q17H,Income,$75K+,Strongly agree,0.15,2018
 Q17H,Income,$75K+,Somewhat agree,0.48,2018
 Q17H,Income,$75K+,Somewhat disagree,0.26,2018
 Q17H,Income,$75K+,Strongly disagree,0.08,2018
 Q17H,Income,$75K+,Don't know,0.03,2018
 Q17H,Income,$75K+,Refused,0.01,2018
-Q17H,Income,$75K+,Summary: Strongly agree/Somewhat agree,0.63,2018
 Q17I,Income,$75K+,Strongly agree,0.2,2018
 Q17I,Income,$75K+,Somewhat agree,0.34,2018
 Q17I,Income,$75K+,Somewhat disagree,0.33,2018
 Q17I,Income,$75K+,Strongly disagree,0.11,2018
 Q17I,Income,$75K+,Don't know,0.02,2018
 Q17I,Income,$75K+,Refused,0,2018
-Q17I,Income,$75K+,Summary: Strongly agree/Somewhat agree,0.54,2018
 Q19,Income,$75K+,Excellent,0.18,2018
 Q19,Income,$75K+,Very good,0.33,2018
 Q19,Income,$75K+,Good,0.31,2018
@@ -4324,7 +4198,6 @@ Q19,Income,$75K+,Fair,0.18,2018
 Q19,Income,$75K+,Poor,0,2018
 Q19,Income,$75K+,Don't know,0,2018
 Q19,Income,$75K+,Refused,0,2018
-Q19,Income,$75K+,Summary: Excellent/Very Good,0.51,2018
 Q20,Income,$75K+,Not at all satisfied,0,2018
 Q20,Income,$75K+,Only a little bit satisfied,0.06,2018
 Q20,Income,$75K+,Somewhat satisfied,0.26,2018
@@ -4590,56 +4463,48 @@ Q17A,With children,No,Somewhat disagree,0.22,2018
 Q17A,With children,No,Strongly disagree,0.15,2018
 Q17A,With children,No,Don't know,0,2018
 Q17A,With children,No,Refused,0,2018
-Q17A,With children,No,Summary: Strongly agree/Somewhat agree,0.63,2018
 Q17B,With children,No,Strongly agree,0.43,2018
 Q17B,With children,No,Somewhat agree,0.3,2018
 Q17B,With children,No,Somewhat disagree,0.16,2018
 Q17B,With children,No,Strongly disagree,0.11,2018
 Q17B,With children,No,Don't know,0,2018
 Q17B,With children,No,Refused,0,2018
-Q17B,With children,No,Summary: Strongly agree/Somewhat agree,0.73,2018
 Q17C,With children,No,Strongly agree,0.25,2018
 Q17C,With children,No,Somewhat agree,0.31,2018
 Q17C,With children,No,Somewhat disagree,0.2,2018
 Q17C,With children,No,Strongly disagree,0.22,2018
 Q17C,With children,No,Don't know,0.01,2018
 Q17C,With children,No,Refused,0,2018
-Q17C,With children,No,Summary: Strongly agree/Somewhat agree,0.56,2018
 Q17E,With children,No,Strongly agree,0.3,2018
 Q17E,With children,No,Somewhat agree,0.37,2018
 Q17E,With children,No,Somewhat disagree,0.16,2018
 Q17E,With children,No,Strongly disagree,0.17,2018
 Q17E,With children,No,Don't know,0.01,2018
 Q17E,With children,No,Refused,0,2018
-Q17E,With children,No,Summary: Strongly agree/Somewhat agree,0.6699999999999999,2018
 Q17F,With children,No,Strongly agree,0.19,2018
 Q17F,With children,No,Somewhat agree,0.24,2018
 Q17F,With children,No,Somewhat disagree,0.19,2018
 Q17F,With children,No,Strongly disagree,0.37,2018
 Q17F,With children,No,Don't know,0.01,2018
 Q17F,With children,No,Refused,0,2018
-Q17F,With children,No,Summary: Strongly agree/Somewhat agree,0.43,2018
 Q17G,With children,No,Strongly agree,0.35,2018
 Q17G,With children,No,Somewhat agree,0.4,2018
 Q17G,With children,No,Somewhat disagree,0.17,2018
 Q17G,With children,No,Strongly disagree,0.06,2018
 Q17G,With children,No,Don't know,0.02,2018
 Q17G,With children,No,Refused,0,2018
-Q17G,With children,No,Summary: Strongly agree/Somewhat agree,0.75,2018
 Q17H,With children,No,Strongly agree,0.13,2018
 Q17H,With children,No,Somewhat agree,0.49,2018
 Q17H,With children,No,Somewhat disagree,0.17,2018
 Q17H,With children,No,Strongly disagree,0.12,2018
 Q17H,With children,No,Don't know,0.08,2018
 Q17H,With children,No,Refused,0,2018
-Q17H,With children,No,Summary: Strongly agree/Somewhat agree,0.62,2018
 Q17I,With children,No,Strongly agree,0.18,2018
 Q17I,With children,No,Somewhat agree,0.4,2018
 Q17I,With children,No,Somewhat disagree,0.23,2018
 Q17I,With children,No,Strongly disagree,0.14,2018
 Q17I,With children,No,Don't know,0.05,2018
 Q17I,With children,No,Refused,0,2018
-Q17I,With children,No,Summary: Strongly agree/Somewhat agree,0.5800000000000001,2018
 Q19,With children,No,Excellent,0.13,2018
 Q19,With children,No,Very good,0.32,2018
 Q19,With children,No,Good,0.3,2018
@@ -4647,7 +4512,6 @@ Q19,With children,No,Fair,0.2,2018
 Q19,With children,No,Poor,0.06,2018
 Q19,With children,No,Don't know,0,2018
 Q19,With children,No,Refused,0,2018
-Q19,With children,No,Summary: Excellent/Very Good,0.45,2018
 Q20,With children,No,Not at all satisfied,0.02,2018
 Q20,With children,No,Only a little bit satisfied,0.13,2018
 Q20,With children,No,Somewhat satisfied,0.26,2018
@@ -4909,56 +4773,48 @@ Q17A,With children,Yes,Somewhat disagree,0.03,2018
 Q17A,With children,Yes,Strongly disagree,0.19,2018
 Q17A,With children,Yes,Don't know,0,2018
 Q17A,With children,Yes,Refused,0,2018
-Q17A,With children,Yes,Summary: Strongly agree/Somewhat agree,0.78,2018
 Q17B,With children,Yes,Strongly agree,0.42,2018
 Q17B,With children,Yes,Somewhat agree,0.32,2018
 Q17B,With children,Yes,Somewhat disagree,0.07,2018
 Q17B,With children,Yes,Strongly disagree,0.18,2018
 Q17B,With children,Yes,Don't know,0,2018
 Q17B,With children,Yes,Refused,0,2018
-Q17B,With children,Yes,Summary: Strongly agree/Somewhat agree,0.74,2018
 Q17C,With children,Yes,Strongly agree,0.22,2018
 Q17C,With children,Yes,Somewhat agree,0.33,2018
 Q17C,With children,Yes,Somewhat disagree,0.16,2018
 Q17C,With children,Yes,Strongly disagree,0.26,2018
 Q17C,With children,Yes,Don't know,0.03,2018
 Q17C,With children,Yes,Refused,0,2018
-Q17C,With children,Yes,Summary: Strongly agree/Somewhat agree,0.55,2018
 Q17E,With children,Yes,Strongly agree,0.26,2018
 Q17E,With children,Yes,Somewhat agree,0.37,2018
 Q17E,With children,Yes,Somewhat disagree,0.2,2018
 Q17E,With children,Yes,Strongly disagree,0.17,2018
 Q17E,With children,Yes,Don't know,0,2018
 Q17E,With children,Yes,Refused,0,2018
-Q17E,With children,Yes,Summary: Strongly agree/Somewhat agree,0.63,2018
 Q17F,With children,Yes,Strongly agree,0.16,2018
 Q17F,With children,Yes,Somewhat agree,0.17,2018
 Q17F,With children,Yes,Somewhat disagree,0.39,2018
 Q17F,With children,Yes,Strongly disagree,0.28,2018
 Q17F,With children,Yes,Don't know,0,2018
 Q17F,With children,Yes,Refused,0,2018
-Q17F,With children,Yes,Summary: Strongly agree/Somewhat agree,0.33,2018
 Q17G,With children,Yes,Strongly agree,0.18,2018
 Q17G,With children,Yes,Somewhat agree,0.55,2018
 Q17G,With children,Yes,Somewhat disagree,0.2,2018
 Q17G,With children,Yes,Strongly disagree,0.04,2018
 Q17G,With children,Yes,Don't know,0.03,2018
 Q17G,With children,Yes,Refused,0,2018
-Q17G,With children,Yes,Summary: Strongly agree/Somewhat agree,0.73,2018
 Q17H,With children,Yes,Strongly agree,0.18,2018
 Q17H,With children,Yes,Somewhat agree,0.38,2018
 Q17H,With children,Yes,Somewhat disagree,0.34,2018
 Q17H,With children,Yes,Strongly disagree,0.1,2018
 Q17H,With children,Yes,Don't know,0,2018
 Q17H,With children,Yes,Refused,0,2018
-Q17H,With children,Yes,Summary: Strongly agree/Somewhat agree,0.56,2018
 Q17I,With children,Yes,Strongly agree,0.23,2018
 Q17I,With children,Yes,Somewhat agree,0.33,2018
 Q17I,With children,Yes,Somewhat disagree,0.28,2018
 Q17I,With children,Yes,Strongly disagree,0.16,2018
 Q17I,With children,Yes,Don't know,0,2018
 Q17I,With children,Yes,Refused,0,2018
-Q17I,With children,Yes,Summary: Strongly agree/Somewhat agree,0.56,2018
 Q19,With children,Yes,Excellent,0.24,2018
 Q19,With children,Yes,Very good,0.24,2018
 Q19,With children,Yes,Good,0.34,2018
@@ -4966,7 +4822,6 @@ Q19,With children,Yes,Fair,0.18,2018
 Q19,With children,Yes,Poor,0.02,2018
 Q19,With children,Yes,Don't know,0,2018
 Q19,With children,Yes,Refused,0,2018
-Q19,With children,Yes,Summary: Excellent/Very Good,0.48,2018
 Q20,With children,Yes,Not at all satisfied,0.03,2018
 Q20,With children,Yes,Only a little bit satisfied,0.11,2018
 Q20,With children,Yes,Somewhat satisfied,0.26,2018

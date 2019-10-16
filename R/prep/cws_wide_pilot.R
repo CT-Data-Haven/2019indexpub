@@ -12,7 +12,7 @@ gnh <- read_csv("output_data/cws/long/greater_new_haven_2018_cws_data.csv") %>%
   inner_join(lookup %>% select(-question), by = "code") %>%
   filter(!str_detect(response, "(Summary|\\*|based on)") | indicator == "obesity") %>%
   mutate_at(vars(category, group), as_factor)
-gnh %>% distinct(indicator, response) %>% group_by(indicator) %>% summarise(response = paste(response, collapse = ",")) %>% write_tsv("cws.txt")
+# gnh %>% distinct(indicator, response) %>% group_by(indicator) %>% summarise(response = paste(response, collapse = ",")) %>% write_tsv("cws.txt")
 
 cws_split <- gnh %>%
   split(.$indicator) %>%
@@ -164,7 +164,7 @@ out$less_than_2mo_savings <- cws_split$less_than_2mo_savings %>%
 out$negative_net_worth <- cws_split$in_debt %>%
   collapse_response(list(negative = "Be in debt"))
 
-# underemployment: (no job + (part time x want full time)) / labor force
+# underemployment: (no job + (part time x want full time x working)) / labor force
 unemployed <- cws_split$underemp1 %>%
   collapse_response(list(working = "Yes", unemployed = "No, but would like to work"), nons = NULL)
 labor_force <- cws_split$underemp1 %>%
@@ -197,9 +197,9 @@ rm(y_qs)
 
 # join all
 out_df <- out %>%
-  map(select, category, group, year, value) %>%
+  map(select, category, group, value) %>%
   imap(~rename(.x, !!.y := value)) %>%
-  reduce(full_join, by = c("category", "group", "year")) %>%
+  reduce(full_join, by = c("category", "group")) %>%
   mutate_if(is.numeric, round, digits = 2)
 # add somewhere for name
 write_csv(out_df, "output_data/cws/wide/gnh_pilot_profile.csv", na = "")
