@@ -1,0 +1,2873 @@
+indicator,year,name,category,group,value
+good_self_rated_health,2018,5ct,Wealthy,Wealthy,0.7575757575757576
+good_self_rated_health,2018,5ct,Suburban,Suburban,0.6464646464646465
+good_self_rated_health,2018,5ct,Rural,Rural,0.59
+good_self_rated_health,2018,5ct,Urban Periphery,Urban Periphery,0.57
+good_self_rated_health,2018,5ct,Urban Core,Urban Core,0.5
+good_self_rated_health,2018,bridgeport,Total,Total,0.44000000000000006
+good_self_rated_health,2018,bridgeport,Gender,Male,0.45000000000000007
+good_self_rated_health,2018,bridgeport,Gender,Female,0.45
+good_self_rated_health,2018,bridgeport,Age,Ages 18-34,0.5
+good_self_rated_health,2018,bridgeport,Age,Ages 35-49,0.44999999999999996
+good_self_rated_health,2018,bridgeport,Age,Ages 50-64,0.43
+good_self_rated_health,2018,bridgeport,Age,Ages 65+,0.3
+good_self_rated_health,2018,bridgeport,Race/Ethnicity,White,0.46
+good_self_rated_health,2018,bridgeport,Race/Ethnicity,Black,0.47000000000000003
+good_self_rated_health,2018,bridgeport,Race/Ethnicity,Latino,0.5
+good_self_rated_health,2018,bridgeport,Education,High school or less,0.38
+good_self_rated_health,2018,bridgeport,Education,Some college or Associate's,0.42000000000000004
+good_self_rated_health,2018,bridgeport,Education,Bachelor's or higher,0.57
+good_self_rated_health,2018,bridgeport,Income,<$30K,0.36
+good_self_rated_health,2018,bridgeport,Income,$30K-$75K,0.48
+good_self_rated_health,2018,bridgeport,Income,$75K+,0.55
+good_self_rated_health,2018,bridgeport,With children,No children,0.4
+good_self_rated_health,2018,bridgeport,With children,Children in household,0.52
+good_self_rated_health,2018,bristol,Total,Total,0.6
+good_self_rated_health,2018,bristol,Gender,Male,0.6000000000000001
+good_self_rated_health,2018,bristol,Gender,Female,0.6
+good_self_rated_health,2018,bristol,Age,Under age 55,0.62
+good_self_rated_health,2018,bristol,Age,Age 55 or older,0.5700000000000001
+good_self_rated_health,2018,bristol,Education,Bachelor's or higher,0.67
+good_self_rated_health,2018,bristol,Education,Some college or less,0.57
+good_self_rated_health,2018,bristol,Income,$75K+,0.76
+good_self_rated_health,2018,bristol,Income,<$75K,0.48
+good_self_rated_health,2018,bristol,With children,No children,0.62
+good_self_rated_health,2018,bristol,With children,Children in household,0.52
+good_self_rated_health,2018,cchd_central_ct_health_district,Total,Total,0.63
+good_self_rated_health,2018,cchd_central_ct_health_district,Gender,Male,0.61
+good_self_rated_health,2018,cchd_central_ct_health_district,Gender,Female,0.66
+good_self_rated_health,2018,cchd_central_ct_health_district,Age,Under age 55,0.67
+good_self_rated_health,2018,cchd_central_ct_health_district,Age,Age 55 or older,0.59
+good_self_rated_health,2018,cchd_central_ct_health_district,Education,Bachelor's or higher,0.66
+good_self_rated_health,2018,cchd_central_ct_health_district,Education,Some college or less,0.61
+good_self_rated_health,2018,cchd_central_ct_health_district,Income,$75K+,0.75
+good_self_rated_health,2018,cchd_central_ct_health_district,Income,<$75K,0.47000000000000003
+good_self_rated_health,2018,cchd_central_ct_health_district,With children,No children,0.62
+good_self_rated_health,2018,cchd_central_ct_health_district,With children,Children in household,0.6699999999999999
+good_self_rated_health,2018,chesprocott,Total,Total,0.66
+good_self_rated_health,2018,chesprocott,Gender,Male,0.69
+good_self_rated_health,2018,chesprocott,Gender,Female,0.61
+good_self_rated_health,2018,chesprocott,Age,Under age 55,0.72
+good_self_rated_health,2018,chesprocott,Age,Age 55 or older,0.56
+good_self_rated_health,2018,chesprocott,Education,Bachelor's or higher,0.72
+good_self_rated_health,2018,chesprocott,Education,Some college or less,0.57
+good_self_rated_health,2018,chesprocott,Income,$75K+,0.8
+good_self_rated_health,2018,chesprocott,Income,<$75K,0.52
+good_self_rated_health,2018,chesprocott,With children,No children,0.6
+good_self_rated_health,2018,chesprocott,With children,Children in household,0.73
+good_self_rated_health,2018,connecticut,Total,Total,0.59
+good_self_rated_health,2018,connecticut,Gender,Male,0.61
+good_self_rated_health,2018,connecticut,Gender,Female,0.57
+good_self_rated_health,2018,connecticut,Age,Ages 18-34,0.62
+good_self_rated_health,2018,connecticut,Age,Ages 35-49,0.6
+good_self_rated_health,2018,connecticut,Age,Ages 50-64,0.59
+good_self_rated_health,2018,connecticut,Age,Ages 65+,0.53
+good_self_rated_health,2018,connecticut,Race/Ethnicity,White,0.6
+good_self_rated_health,2018,connecticut,Race/Ethnicity,Black,0.52
+good_self_rated_health,2018,connecticut,Race/Ethnicity,Latino,0.5700000000000001
+good_self_rated_health,2018,connecticut,Education,High school or less,0.48
+good_self_rated_health,2018,connecticut,Education,Some college or Associate's,0.54
+good_self_rated_health,2018,connecticut,Education,Bachelor's or higher,0.68
+good_self_rated_health,2018,connecticut,Income,<$15K,0.38
+good_self_rated_health,2018,connecticut,Income,$15K-$30K,0.42000000000000004
+good_self_rated_health,2018,connecticut,Income,$30K-$50K,0.49
+good_self_rated_health,2018,connecticut,Income,$50K-$75K,0.6
+good_self_rated_health,2018,connecticut,Income,$75K-$100K,0.6499999999999999
+good_self_rated_health,2018,connecticut,Income,$100K-$200K,0.72
+good_self_rated_health,2018,connecticut,Income,$200K+,0.8
+good_self_rated_health,2018,connecticut,With children,No children,0.57
+good_self_rated_health,2018,connecticut,With children,Children in household,0.64
+good_self_rated_health,2018,danbury,Total,Total,0.6464646464646465
+good_self_rated_health,2018,danbury,Gender,Male,0.6565656565656566
+good_self_rated_health,2018,danbury,Gender,Female,0.63
+good_self_rated_health,2018,danbury,Age,Ages 18-34,0.7
+good_self_rated_health,2018,danbury,Age,Ages 35-49,0.66
+good_self_rated_health,2018,danbury,Age,Ages 50-64,0.6224489795918368
+good_self_rated_health,2018,danbury,Age,Ages 65+,0.54
+good_self_rated_health,2018,danbury,Race/Ethnicity,White,0.6666666666666667
+good_self_rated_health,2018,danbury,Race/Ethnicity,Not white,0.5800000000000001
+good_self_rated_health,2018,danbury,Education,High school or less,0.56
+good_self_rated_health,2018,danbury,Education,Some college or Associate's,0.6
+good_self_rated_health,2018,danbury,Education,Bachelor's or higher,0.7171717171717171
+good_self_rated_health,2018,danbury,Income,<$30K,0.53
+good_self_rated_health,2018,danbury,Income,$30K-$75K,0.68
+good_self_rated_health,2018,danbury,Income,$75K+,0.6868686868686869
+good_self_rated_health,2018,danbury,With children,No children,0.63
+good_self_rated_health,2018,danbury,With children,Children in household,0.6767676767676767
+good_self_rated_health,2018,darien,Total,Total,0.7575757575757576
+good_self_rated_health,2018,darien,Gender,Male,0.7244897959183674
+good_self_rated_health,2018,darien,Gender,Female,0.79
+good_self_rated_health,2018,east_hartford,Total,Total,0.5555555555555556
+good_self_rated_health,2018,east_haven,Total,Total,0.54
+good_self_rated_health,2018,east_haven,Gender,Male,0.49
+good_self_rated_health,2018,east_haven,Gender,Female,0.5800000000000001
+good_self_rated_health,2018,east_haven,Age,Under age 55,0.6000000000000001
+good_self_rated_health,2018,east_haven,Age,Age 55 or older,0.45
+good_self_rated_health,2018,east_haven,Education,High school or less,0.44999999999999996
+good_self_rated_health,2018,east_haven,Education,Some college or higher,0.59
+good_self_rated_health,2018,east_haven,Income,$75K+,0.5700000000000001
+good_self_rated_health,2018,east_haven,Income,<$75K,0.5
+good_self_rated_health,2018,ehhd,Total,Total,0.64
+good_self_rated_health,2018,ehhd,Gender,Male,0.6868686868686869
+good_self_rated_health,2018,ehhd,Gender,Female,0.6
+good_self_rated_health,2018,ehhd,Age,Under age 55,0.6499999999999999
+good_self_rated_health,2018,ehhd,Age,Age 55 or older,0.6363636363636364
+good_self_rated_health,2018,ehhd,Education,Bachelor's or higher,0.6767676767676767
+good_self_rated_health,2018,ehhd,Education,Some college or less,0.62
+good_self_rated_health,2018,ehhd,Income,$75K+,0.7
+good_self_rated_health,2018,ehhd,Income,<$75K,0.5656565656565657
+good_self_rated_health,2018,ehhd,With children,No children,0.62
+good_self_rated_health,2018,ehhd,With children,Children in household,0.72
+good_self_rated_health,2018,fairfield,Total,Total,0.6938775510204082
+good_self_rated_health,2018,fairfield,Gender,Male,0.6969696969696969
+good_self_rated_health,2018,fairfield,Gender,Female,0.7010309278350515
+good_self_rated_health,2018,fairfield,Age,Under age 55,0.7142857142857143
+good_self_rated_health,2018,fairfield,Age,Age 55 or older,0.6767676767676768
+good_self_rated_health,2018,fairfield,Education,Bachelor's or higher,0.7171717171717171
+good_self_rated_health,2018,fairfield,Education,Some college or less,0.65625
+good_self_rated_health,2018,fairfield,Income,$75K+,0.7676767676767677
+good_self_rated_health,2018,fairfield,Income,<$75K,0.54
+good_self_rated_health,2018,fairfield,With children,No children,0.7070707070707071
+good_self_rated_health,2018,fairfield,With children,Children in household,0.6804123711340205
+good_self_rated_health,2018,fairfield_county,Total,Total,0.63
+good_self_rated_health,2018,fairfield_county,Gender,Male,0.63
+good_self_rated_health,2018,fairfield_county,Gender,Female,0.6464646464646465
+good_self_rated_health,2018,fairfield_county,Age,Ages 18-34,0.65
+good_self_rated_health,2018,fairfield_county,Age,Ages 35-49,0.66
+good_self_rated_health,2018,fairfield_county,Age,Ages 50-64,0.6399999999999999
+good_self_rated_health,2018,fairfield_county,Age,Ages 65+,0.56
+good_self_rated_health,2018,fairfield_county,Race/Ethnicity,White,0.6767676767676768
+good_self_rated_health,2018,fairfield_county,Race/Ethnicity,Black,0.5
+good_self_rated_health,2018,fairfield_county,Race/Ethnicity,Latino,0.5800000000000001
+good_self_rated_health,2018,fairfield_county,Education,High school or less,0.49
+good_self_rated_health,2018,fairfield_county,Education,Some college or Associate's,0.5800000000000001
+good_self_rated_health,2018,fairfield_county,Education,Bachelor's or higher,0.7
+good_self_rated_health,2018,fairfield_county,Income,<$15K,0.36363636363636365
+good_self_rated_health,2018,fairfield_county,Income,$15K-$30K,0.45
+good_self_rated_health,2018,fairfield_county,Income,$30K-$50K,0.54
+good_self_rated_health,2018,fairfield_county,Income,$50K-$75K,0.63
+good_self_rated_health,2018,fairfield_county,Income,$75K-$100K,0.6799999999999999
+good_self_rated_health,2018,fairfield_county,Income,$100K-$200K,0.73
+good_self_rated_health,2018,fairfield_county,Income,$200K+,0.81
+good_self_rated_health,2018,fairfield_county,With children,No children,0.6
+good_self_rated_health,2018,fairfield_county,With children,Children in household,0.6799999999999999
+good_self_rated_health,2018,fcht,Total,Total,0.7272727272727273
+good_self_rated_health,2018,fcht,Gender,Male,0.8163265306122449
+good_self_rated_health,2018,fcht,Gender,Female,0.64
+good_self_rated_health,2018,fcht,Age,Under age 55,0.8300000000000001
+good_self_rated_health,2018,fcht,Age,Age 55 or older,0.6326530612244898
+good_self_rated_health,2018,fcht,Education,Bachelor's or higher,0.7755102040816326
+good_self_rated_health,2018,fcht,Education,Some college or less,0.68
+good_self_rated_health,2018,fcht,Income,$75K+,0.8163265306122449
+good_self_rated_health,2018,fcht,Income,<$75K,0.54
+good_self_rated_health,2018,greater_bridgeport,Total,Total,0.5454545454545455
+good_self_rated_health,2018,greater_bridgeport,Gender,Male,0.52
+good_self_rated_health,2018,greater_bridgeport,Gender,Female,0.5656565656565657
+good_self_rated_health,2018,greater_bridgeport,Age,Ages 18-34,0.56
+good_self_rated_health,2018,greater_bridgeport,Age,Ages 35-49,0.55
+good_self_rated_health,2018,greater_bridgeport,Age,Ages 50-64,0.56
+good_self_rated_health,2018,greater_bridgeport,Age,Ages 65+,0.44999999999999996
+good_self_rated_health,2018,greater_bridgeport,Race/Ethnicity,White,0.5959595959595959
+good_self_rated_health,2018,greater_bridgeport,Race/Ethnicity,Black,0.47000000000000003
+good_self_rated_health,2018,greater_bridgeport,Race/Ethnicity,Latino,0.52
+good_self_rated_health,2018,greater_bridgeport,Education,High school or less,0.41000000000000003
+good_self_rated_health,2018,greater_bridgeport,Education,Some college or Associate's,0.5050505050505051
+good_self_rated_health,2018,greater_bridgeport,Education,Bachelor's or higher,0.64
+good_self_rated_health,2018,greater_bridgeport,Income,<$15K,0.32999999999999996
+good_self_rated_health,2018,greater_bridgeport,Income,$15K-$30K,0.44
+good_self_rated_health,2018,greater_bridgeport,Income,$30K-$50K,0.49
+good_self_rated_health,2018,greater_bridgeport,Income,$50K-$75K,0.54
+good_self_rated_health,2018,greater_bridgeport,Income,$75K-$100K,0.585858585858586
+good_self_rated_health,2018,greater_bridgeport,Income,$100K-$200K,0.71
+good_self_rated_health,2018,greater_bridgeport,Income,$200K+,0.76
+good_self_rated_health,2018,greater_bridgeport,With children,No children,0.51
+good_self_rated_health,2018,greater_bridgeport,With children,Children in household,0.6000000000000001
+good_self_rated_health,2018,greater_greenwich,Total,Total,0.6699999999999999
+good_self_rated_health,2018,greater_greenwich,Gender,Male,0.64
+good_self_rated_health,2018,greater_greenwich,Gender,Female,0.69
+good_self_rated_health,2018,greater_greenwich,Age,Ages 18-34,0.69
+good_self_rated_health,2018,greater_greenwich,Age,Ages 35-49,0.7
+good_self_rated_health,2018,greater_greenwich,Age,Ages 50-64,0.6799999999999999
+good_self_rated_health,2018,greater_greenwich,Age,Ages 65+,0.59
+good_self_rated_health,2018,greater_greenwich,Race/Ethnicity,White,0.69
+good_self_rated_health,2018,greater_greenwich,Race/Ethnicity,Black,0.57
+good_self_rated_health,2018,greater_greenwich,Race/Ethnicity,Latino,0.5900000000000001
+good_self_rated_health,2018,greater_greenwich,Education,High school or less,0.52
+good_self_rated_health,2018,greater_greenwich,Education,Some college or Associate's,0.6464646464646465
+good_self_rated_health,2018,greater_greenwich,Education,Bachelor's or higher,0.72
+good_self_rated_health,2018,greater_greenwich,Income,<$30K,0.43
+good_self_rated_health,2018,greater_greenwich,Income,$30K-$75K,0.63
+good_self_rated_health,2018,greater_greenwich,Income,$75K+,0.77
+good_self_rated_health,2018,greater_greenwich,With children,No children,0.65
+good_self_rated_health,2018,greater_greenwich,With children,Children in household,0.7
+good_self_rated_health,2018,greater_hartford,Total,Total,0.59
+good_self_rated_health,2018,greater_hartford,Gender,Male,0.62
+good_self_rated_health,2018,greater_hartford,Gender,Female,0.5599999999999999
+good_self_rated_health,2018,greater_hartford,Age,Ages 18-34,0.6499999999999999
+good_self_rated_health,2018,greater_hartford,Age,Ages 35-49,0.59
+good_self_rated_health,2018,greater_hartford,Age,Ages 50-64,0.57
+good_self_rated_health,2018,greater_hartford,Age,Ages 65+,0.52
+good_self_rated_health,2018,greater_hartford,Race/Ethnicity,White,0.6
+good_self_rated_health,2018,greater_hartford,Race/Ethnicity,Black,0.5252525252525253
+good_self_rated_health,2018,greater_hartford,Race/Ethnicity,Latino,0.5900000000000001
+good_self_rated_health,2018,greater_hartford,Education,High school or less,0.48000000000000004
+good_self_rated_health,2018,greater_hartford,Education,Some college or Associate's,0.5252525252525253
+good_self_rated_health,2018,greater_hartford,Education,Bachelor's or higher,0.69
+good_self_rated_health,2018,greater_hartford,Income,<$15K,0.39
+good_self_rated_health,2018,greater_hartford,Income,$15K-$30K,0.4444444444444444
+good_self_rated_health,2018,greater_hartford,Income,$30K-$50K,0.5050505050505051
+good_self_rated_health,2018,greater_hartford,Income,$50K-$75K,0.61
+good_self_rated_health,2018,greater_hartford,Income,$75K-$100K,0.65
+good_self_rated_health,2018,greater_hartford,Income,$100K-$200K,0.6900000000000001
+good_self_rated_health,2018,greater_hartford,Income,$200K+,0.8200000000000001
+good_self_rated_health,2018,greater_hartford,With children,No children,0.57
+good_self_rated_health,2018,greater_hartford,With children,Children in household,0.63
+good_self_rated_health,2018,greater_new_haven,Total,Total,0.58
+good_self_rated_health,2018,greater_new_haven,Gender,Male,0.6
+good_self_rated_health,2018,greater_new_haven,Gender,Female,0.5656565656565656
+good_self_rated_health,2018,greater_new_haven,Age,Ages 18-34,0.62
+good_self_rated_health,2018,greater_new_haven,Age,Ages 35-49,0.58
+good_self_rated_health,2018,greater_new_haven,Age,Ages 50-64,0.61
+good_self_rated_health,2018,greater_new_haven,Age,Ages 65+,0.5
+good_self_rated_health,2018,greater_new_haven,Race/Ethnicity,White,0.6060606060606061
+good_self_rated_health,2018,greater_new_haven,Race/Ethnicity,Black,0.51
+good_self_rated_health,2018,greater_new_haven,Race/Ethnicity,Latino,0.51
+good_self_rated_health,2018,greater_new_haven,Education,High school or less,0.4747474747474748
+good_self_rated_health,2018,greater_new_haven,Education,Some college or Associate's,0.5353535353535354
+good_self_rated_health,2018,greater_new_haven,Education,Bachelor's or higher,0.6699999999999999
+good_self_rated_health,2018,greater_new_haven,Income,<$15K,0.4
+good_self_rated_health,2018,greater_new_haven,Income,$15K-$30K,0.44000000000000006
+good_self_rated_health,2018,greater_new_haven,Income,$30K-$50K,0.47
+good_self_rated_health,2018,greater_new_haven,Income,$50K-$75K,0.61
+good_self_rated_health,2018,greater_new_haven,Income,$75K-$100K,0.64
+good_self_rated_health,2018,greater_new_haven,Income,$100K-$200K,0.72
+good_self_rated_health,2018,greater_new_haven,Income,$200K+,0.76
+good_self_rated_health,2018,greater_new_haven,With children,No children,0.5656565656565656
+good_self_rated_health,2018,greater_new_haven,With children,Children in household,0.63
+good_self_rated_health,2018,greater_new_london,Total,Total,0.57
+good_self_rated_health,2018,greater_new_london,Gender,Male,0.5700000000000001
+good_self_rated_health,2018,greater_new_london,Gender,Female,0.55
+good_self_rated_health,2018,greater_new_london,Age,Ages 18-34,0.55
+good_self_rated_health,2018,greater_new_london,Age,Ages 35-49,0.55
+good_self_rated_health,2018,greater_new_london,Age,Ages 50-64,0.5555555555555556
+good_self_rated_health,2018,greater_new_london,Age,Ages 65+,0.6060606060606061
+good_self_rated_health,2018,greater_new_london,Race/Ethnicity,White,0.57
+good_self_rated_health,2018,greater_new_london,Race/Ethnicity,Not white,0.53
+good_self_rated_health,2018,greater_new_london,Education,High school or less,0.4242424242424243
+good_self_rated_health,2018,greater_new_london,Education,Some college or Associate's,0.53
+good_self_rated_health,2018,greater_new_london,Education,Bachelor's or higher,0.65
+good_self_rated_health,2018,greater_new_london,Income,<$30K,0.46
+good_self_rated_health,2018,greater_new_london,Income,$30K-$75K,0.47
+good_self_rated_health,2018,greater_new_london,Income,$75K+,0.69
+good_self_rated_health,2018,greater_new_london,With children,No children,0.5599999999999999
+good_self_rated_health,2018,greater_new_london,With children,Children in household,0.5700000000000001
+good_self_rated_health,2018,greater_waterbury,Total,Total,0.57
+good_self_rated_health,2018,greater_waterbury,Gender,Male,0.6
+good_self_rated_health,2018,greater_waterbury,Gender,Female,0.54
+good_self_rated_health,2018,greater_waterbury,Age,Ages 18-34,0.64
+good_self_rated_health,2018,greater_waterbury,Age,Ages 35-49,0.6161616161616161
+good_self_rated_health,2018,greater_waterbury,Age,Ages 50-64,0.56
+good_self_rated_health,2018,greater_waterbury,Age,Ages 65+,0.49
+good_self_rated_health,2018,greater_waterbury,Race/Ethnicity,White,0.57
+good_self_rated_health,2018,greater_waterbury,Race/Ethnicity,Black,0.54
+good_self_rated_health,2018,greater_waterbury,Race/Ethnicity,Latino,0.5800000000000001
+good_self_rated_health,2018,greater_waterbury,Education,High school or less,0.48
+good_self_rated_health,2018,greater_waterbury,Education,Some college or Associate's,0.5
+good_self_rated_health,2018,greater_waterbury,Education,Bachelor's or higher,0.6969696969696969
+good_self_rated_health,2018,greater_waterbury,Income,<$15K,0.39
+good_self_rated_health,2018,greater_waterbury,Income,$15K-$30K,0.39
+good_self_rated_health,2018,greater_waterbury,Income,$30K-$50K,0.44444444444444453
+good_self_rated_health,2018,greater_waterbury,Income,$50K-$75K,0.55
+good_self_rated_health,2018,greater_waterbury,Income,$75K-$100K,0.69
+good_self_rated_health,2018,greater_waterbury,Income,$100K-$200K,0.77
+good_self_rated_health,2018,greater_waterbury,Income,$200K+,0.8181818181818182
+good_self_rated_health,2018,greater_waterbury,With children,No children,0.55
+good_self_rated_health,2018,greater_waterbury,With children,Children in household,0.62
+good_self_rated_health,2018,greenwich,Total,Total,0.7373737373737373
+good_self_rated_health,2018,greenwich,Gender,Male,0.7171717171717171
+good_self_rated_health,2018,greenwich,Gender,Female,0.7575757575757576
+good_self_rated_health,2018,greenwich,Age,Ages 18-34,0.74
+good_self_rated_health,2018,greenwich,Age,Ages 35-54,0.7474747474747475
+good_self_rated_health,2018,greenwich,Age,Ages 55+,0.73
+good_self_rated_health,2018,greenwich,Race/Ethnicity,White,0.75
+good_self_rated_health,2018,greenwich,Race/Ethnicity,Not white,0.73
+good_self_rated_health,2018,greenwich,Income,$75K+,0.8200000000000001
+good_self_rated_health,2018,greenwich,Income,<$75K,0.62
+good_self_rated_health,2018,greenwich,With children,No children,0.7070707070707071
+good_self_rated_health,2018,greenwich,With children,Children in household,0.78
+good_self_rated_health,2018,hamden,Total,Total,0.5555555555555556
+good_self_rated_health,2018,hamden,Gender,Male,0.6000000000000001
+good_self_rated_health,2018,hamden,Gender,Female,0.5204081632653061
+good_self_rated_health,2018,hamden,Age,Under age 55,0.6060606060606061
+good_self_rated_health,2018,hamden,Age,Age 55 or older,0.4646464646464647
+good_self_rated_health,2018,hamden,Race/Ethnicity,White,0.61
+good_self_rated_health,2018,hamden,Race/Ethnicity,Not white,0.4646464646464647
+good_self_rated_health,2018,hamden,Education,High school or less,0.6938775510204082
+good_self_rated_health,2018,hamden,Education,Some college or Associate's,0.37
+good_self_rated_health,2018,hamden,Education,Bachelor's or higher,0.6060606060606061
+good_self_rated_health,2018,hamden,Income,$75K+,0.72
+good_self_rated_health,2018,hamden,Income,<$75K,0.45454545454545464
+good_self_rated_health,2018,hamden,With children,No children,0.5151515151515151
+good_self_rated_health,2018,hamden,With children,Children in household,0.6363636363636364
+good_self_rated_health,2018,hartford,Total,Total,0.52
+good_self_rated_health,2018,hartford,Gender,Male,0.5700000000000001
+good_self_rated_health,2018,hartford,Gender,Female,0.48484848484848486
+good_self_rated_health,2018,hartford,Age,Ages 18-34,0.59
+good_self_rated_health,2018,hartford,Age,Ages 35-49,0.5858585858585859
+good_self_rated_health,2018,hartford,Age,Ages 50-64,0.41
+good_self_rated_health,2018,hartford,Age,Ages 65+,0.41000000000000003
+good_self_rated_health,2018,hartford,Race/Ethnicity,White,0.6000000000000001
+good_self_rated_health,2018,hartford,Race/Ethnicity,Black,0.48
+good_self_rated_health,2018,hartford,Race/Ethnicity,Latino,0.53
+good_self_rated_health,2018,hartford,Education,High school or less,0.48484848484848486
+good_self_rated_health,2018,hartford,Education,Some college or Associate's,0.49
+good_self_rated_health,2018,hartford,Education,Bachelor's or higher,0.6399999999999999
+good_self_rated_health,2018,hartford,Income,<$30K,0.43
+good_self_rated_health,2018,hartford,Income,$30K-$75K,0.5800000000000001
+good_self_rated_health,2018,hartford,Income,$75K+,0.7
+good_self_rated_health,2018,hartford,With children,No children,0.5
+good_self_rated_health,2018,hartford,With children,Children in household,0.56
+good_self_rated_health,2018,hartford_inner_ring,Total,Total,0.53
+good_self_rated_health,2018,hartford_inner_ring,Gender,Male,0.5757575757575757
+good_self_rated_health,2018,hartford_inner_ring,Gender,Female,0.5
+good_self_rated_health,2018,hartford_inner_ring,Age,Ages 18-34,0.5858585858585859
+good_self_rated_health,2018,hartford_inner_ring,Age,Ages 35-49,0.55
+good_self_rated_health,2018,hartford_inner_ring,Age,Ages 50-64,0.5
+good_self_rated_health,2018,hartford_inner_ring,Age,Ages 65+,0.47474747474747475
+good_self_rated_health,2018,hartford_inner_ring,Race/Ethnicity,White,0.51
+good_self_rated_health,2018,hartford_inner_ring,Race/Ethnicity,Black,0.5151515151515151
+good_self_rated_health,2018,hartford_inner_ring,Race/Ethnicity,Latino,0.6
+good_self_rated_health,2018,hartford_inner_ring,Education,High school or less,0.44999999999999996
+good_self_rated_health,2018,hartford_inner_ring,Education,Some college or Associate's,0.47474747474747475
+good_self_rated_health,2018,hartford_inner_ring,Education,Bachelor's or higher,0.62
+good_self_rated_health,2018,hartford_inner_ring,Income,<$15K,0.35
+good_self_rated_health,2018,hartford_inner_ring,Income,$15K-$30K,0.4040404040404041
+good_self_rated_health,2018,hartford_inner_ring,Income,$30K-$50K,0.4795918367346939
+good_self_rated_health,2018,hartford_inner_ring,Income,$50K-$75K,0.52
+good_self_rated_health,2018,hartford_inner_ring,Income,$75K-$100K,0.5900000000000001
+good_self_rated_health,2018,hartford_inner_ring,Income,$100K+,0.68
+good_self_rated_health,2018,hartford_inner_ring,With children,No children,0.5151515151515151
+good_self_rated_health,2018,hartford_inner_ring,With children,Children in household,0.56
+good_self_rated_health,2018,hartford_outer_ring,Total,Total,0.6699999999999999
+good_self_rated_health,2018,hartford_outer_ring,Gender,Male,0.6599999999999999
+good_self_rated_health,2018,hartford_outer_ring,Gender,Female,0.6699999999999999
+good_self_rated_health,2018,hartford_outer_ring,Age,Ages 18-34,0.76
+good_self_rated_health,2018,hartford_outer_ring,Age,Ages 35-49,0.6000000000000001
+good_self_rated_health,2018,hartford_outer_ring,Age,Ages 50-64,0.69
+good_self_rated_health,2018,hartford_outer_ring,Age,Ages 65+,0.59
+good_self_rated_health,2018,hartford_outer_ring,Race/Ethnicity,White,0.6799999999999999
+good_self_rated_health,2018,hartford_outer_ring,Race/Ethnicity,Not white,0.62
+good_self_rated_health,2018,hartford_outer_ring,Education,High school or less,0.61
+good_self_rated_health,2018,hartford_outer_ring,Education,Some college or Associate's,0.585858585858586
+good_self_rated_health,2018,hartford_outer_ring,Education,Bachelor's or higher,0.73
+good_self_rated_health,2018,hartford_outer_ring,Income,<$30K,0.54
+good_self_rated_health,2018,hartford_outer_ring,Income,$30K-$75K,0.65
+good_self_rated_health,2018,hartford_outer_ring,Income,$75K+,0.71
+good_self_rated_health,2018,hartford_outer_ring,With children,No children,0.6565656565656565
+good_self_rated_health,2018,hartford_outer_ring,With children,Children in household,0.69
+good_self_rated_health,2018,manchester,Total,Total,0.6
+good_self_rated_health,2018,manchester,Gender,Male,0.66
+good_self_rated_health,2018,manchester,Gender,Female,0.54
+good_self_rated_health,2018,manchester,Age,Under age 55,0.62
+good_self_rated_health,2018,manchester,Age,Age 55 or older,0.56
+good_self_rated_health,2018,manchester,Education,Bachelor's or higher,0.69
+good_self_rated_health,2018,manchester,Education,Some college or less,0.54
+good_self_rated_health,2018,manchester,Income,$75K+,0.5800000000000001
+good_self_rated_health,2018,manchester,Income,<$75K,0.5900000000000001
+good_self_rated_health,2018,meriden,Total,Total,0.52
+good_self_rated_health,2018,meriden,Gender,Male,0.5306122448979592
+good_self_rated_health,2018,meriden,Gender,Female,0.53
+good_self_rated_health,2018,meriden,Age,Under age 55,0.5959595959595959
+good_self_rated_health,2018,meriden,Age,Age 55 or older,0.43000000000000005
+good_self_rated_health,2018,meriden,Race/Ethnicity,White,0.5252525252525253
+good_self_rated_health,2018,meriden,Race/Ethnicity,Not white,0.55
+good_self_rated_health,2018,meriden,Education,High school or less,0.35
+good_self_rated_health,2018,meriden,Education,Some college or Associate's,0.5151515151515151
+good_self_rated_health,2018,meriden,Education,Bachelor's or higher,0.6799999999999999
+good_self_rated_health,2018,meriden,Income,<$30K,0.31
+good_self_rated_health,2018,meriden,Income,$30K-$75K,0.5252525252525253
+good_self_rated_health,2018,meriden,Income,$75K+,0.71
+good_self_rated_health,2018,meriden,With children,No children,0.4848484848484849
+good_self_rated_health,2018,meriden,With children,Children in household,0.6161616161616161
+good_self_rated_health,2018,middlesex_county,Total,Total,0.5757575757575758
+good_self_rated_health,2018,middlesex_county,Gender,Male,0.6100000000000001
+good_self_rated_health,2018,middlesex_county,Gender,Female,0.5510204081632654
+good_self_rated_health,2018,middlesex_county,Age,Under age 55,0.585858585858586
+good_self_rated_health,2018,middlesex_county,Age,Age 55 or older,0.5858585858585859
+good_self_rated_health,2018,middlesex_county,Education,High school or less,0.48
+good_self_rated_health,2018,middlesex_county,Education,Some college or Associate's,0.58
+good_self_rated_health,2018,middlesex_county,Education,Bachelor's or higher,0.6326530612244898
+good_self_rated_health,2018,middlesex_county,Income,$75K+,0.6938775510204082
+good_self_rated_health,2018,middlesex_county,Income,<$75K,0.46
+good_self_rated_health,2018,middlesex_county,With children,No children,0.5656565656565657
+good_self_rated_health,2018,middlesex_county,With children,Children in household,0.653061224489796
+good_self_rated_health,2018,middletown,Total,Total,0.5252525252525253
+good_self_rated_health,2018,middletown,Gender,Male,0.49
+good_self_rated_health,2018,middletown,Gender,Female,0.5555555555555556
+good_self_rated_health,2018,middletown,Age,Under age 55,0.5353535353535354
+good_self_rated_health,2018,middletown,Age,Age 55 or older,0.5050505050505051
+good_self_rated_health,2018,middletown,Education,Bachelor's or higher,0.5454545454545455
+good_self_rated_health,2018,middletown,Education,Some college or less,0.5
+good_self_rated_health,2018,middletown,Income,$75K+,0.59
+good_self_rated_health,2018,middletown,Income,<$75K,0.48
+good_self_rated_health,2018,milford,Total,Total,0.6666666666666666
+good_self_rated_health,2018,milford,Gender,Male,0.69
+good_self_rated_health,2018,milford,Gender,Female,0.6428571428571429
+good_self_rated_health,2018,milford,Age,Under age 55,0.7070707070707071
+good_self_rated_health,2018,milford,Age,Age 55 or older,0.62
+good_self_rated_health,2018,milford,Education,Bachelor's or higher,0.7171717171717171
+good_self_rated_health,2018,milford,Education,Some college or less,0.6161616161616161
+good_self_rated_health,2018,milford,Income,$75K+,0.69
+good_self_rated_health,2018,milford,Income,<$75K,0.62
+good_self_rated_health,2018,milford,With children,No children,0.6363636363636364
+good_self_rated_health,2018,milford,With children,Children in household,0.73
+good_self_rated_health,2018,monroe,Total,Total,0.69
+good_self_rated_health,2018,ncdhd,Total,Total,0.48484848484848486
+good_self_rated_health,2018,ncdhd,Gender,Male,0.5353535353535354
+good_self_rated_health,2018,ncdhd,Gender,Female,0.44
+good_self_rated_health,2018,ncdhd,Age,Under age 55,0.494949494949495
+good_self_rated_health,2018,ncdhd,Age,Age 55 or older,0.46
+good_self_rated_health,2018,ncdhd,Race/Ethnicity,White,0.47474747474747475
+good_self_rated_health,2018,ncdhd,Race/Ethnicity,Not white,0.52
+good_self_rated_health,2018,ncdhd,Education,High school or less,0.49
+good_self_rated_health,2018,ncdhd,Education,Some college or Associate's,0.3877551020408163
+good_self_rated_health,2018,ncdhd,Education,Bachelor's or higher,0.5700000000000001
+good_self_rated_health,2018,ncdhd,Income,<$30K,0.33
+good_self_rated_health,2018,ncdhd,Income,$30K-$75K,0.47959183673469385
+good_self_rated_health,2018,ncdhd,Income,$75K+,0.57
+good_self_rated_health,2018,ncdhd,With children,No children,0.48484848484848486
+good_self_rated_health,2018,ncdhd,With children,Children in household,0.48
+good_self_rated_health,2018,nddh,Total,Total,0.54
+good_self_rated_health,2018,nddh,Gender,Male,0.55
+good_self_rated_health,2018,nddh,Gender,Female,0.54
+good_self_rated_health,2018,nddh,Age,Under age 55,0.57
+good_self_rated_health,2018,nddh,Age,Age 55 or older,0.5
+good_self_rated_health,2018,nddh,Education,High school or less,0.53
+good_self_rated_health,2018,nddh,Education,Some college or Associate's,0.45
+good_self_rated_health,2018,nddh,Education,Bachelor's or higher,0.62
+good_self_rated_health,2018,nddh,Income,<$30K,0.32999999999999996
+good_self_rated_health,2018,nddh,Income,$30K-$75K,0.5
+good_self_rated_health,2018,nddh,Income,$75K+,0.78
+good_self_rated_health,2018,nddh,With children,No children,0.47000000000000003
+good_self_rated_health,2018,nddh,With children,Children in household,0.66
+good_self_rated_health,2018,new_britain,Total,Total,0.51
+good_self_rated_health,2018,new_britain,Gender,Male,0.53
+good_self_rated_health,2018,new_britain,Gender,Female,0.5
+good_self_rated_health,2018,new_britain,Age,Under age 55,0.5700000000000001
+good_self_rated_health,2018,new_britain,Age,Age 55 or older,0.41000000000000003
+good_self_rated_health,2018,new_britain,Race/Ethnicity,White,0.44999999999999996
+good_self_rated_health,2018,new_britain,Race/Ethnicity,Not white,0.5700000000000001
+good_self_rated_health,2018,new_britain,Education,High school or less,0.35
+good_self_rated_health,2018,new_britain,Education,Some college or Associate's,0.49
+good_self_rated_health,2018,new_britain,Education,Bachelor's or higher,0.76
+good_self_rated_health,2018,new_britain,Income,<$30K,0.32
+good_self_rated_health,2018,new_britain,Income,$30K-$75K,0.6
+good_self_rated_health,2018,new_britain,Income,$75K+,0.7
+good_self_rated_health,2018,new_britain,With children,No children,0.47
+good_self_rated_health,2018,new_britain,With children,Children in household,0.62
+good_self_rated_health,2018,new_haven,Total,Total,0.55
+good_self_rated_health,2018,new_haven,Gender,Male,0.6
+good_self_rated_health,2018,new_haven,Gender,Female,0.52
+good_self_rated_health,2018,new_haven,Age,Ages 18-34,0.63
+good_self_rated_health,2018,new_haven,Age,Ages 35-49,0.48484848484848486
+good_self_rated_health,2018,new_haven,Age,Ages 50-64,0.56
+good_self_rated_health,2018,new_haven,Age,Ages 65+,0.4343434343434344
+good_self_rated_health,2018,new_haven,Race/Ethnicity,White,0.6000000000000001
+good_self_rated_health,2018,new_haven,Race/Ethnicity,Black,0.51
+good_self_rated_health,2018,new_haven,Race/Ethnicity,Latino,0.53
+good_self_rated_health,2018,new_haven,Education,High school or less,0.37373737373737376
+good_self_rated_health,2018,new_haven,Education,Some college or Associate's,0.55
+good_self_rated_health,2018,new_haven,Education,Bachelor's or higher,0.6799999999999999
+good_self_rated_health,2018,new_haven,Income,<$30K,0.38
+good_self_rated_health,2018,new_haven,Income,$30K-$75K,0.57
+good_self_rated_health,2018,new_haven,Income,$75K+,0.78
+good_self_rated_health,2018,new_haven,With children,No children,0.54
+good_self_rated_health,2018,new_haven,With children,Children in household,0.5800000000000001
+good_self_rated_health,2018,new_haven_inner_ring,Total,Total,0.52
+good_self_rated_health,2018,new_haven_inner_ring,Gender,Male,0.52
+good_self_rated_health,2018,new_haven_inner_ring,Gender,Female,0.5353535353535354
+good_self_rated_health,2018,new_haven_inner_ring,Age,Ages 18-34,0.55
+good_self_rated_health,2018,new_haven_inner_ring,Age,Ages 35-49,0.59
+good_self_rated_health,2018,new_haven_inner_ring,Age,Ages 50-64,0.5700000000000001
+good_self_rated_health,2018,new_haven_inner_ring,Age,Ages 65+,0.4141414141414142
+good_self_rated_health,2018,new_haven_inner_ring,Race/Ethnicity,White,0.53
+good_self_rated_health,2018,new_haven_inner_ring,Race/Ethnicity,Black,0.4747474747474748
+good_self_rated_health,2018,new_haven_inner_ring,Race/Ethnicity,Latino,0.47
+good_self_rated_health,2018,new_haven_inner_ring,Education,High school or less,0.48484848484848486
+good_self_rated_health,2018,new_haven_inner_ring,Education,Some college or Associate's,0.45
+good_self_rated_health,2018,new_haven_inner_ring,Education,Bachelor's or higher,0.6
+good_self_rated_health,2018,new_haven_inner_ring,Income,<$30K,0.4
+good_self_rated_health,2018,new_haven_inner_ring,Income,$30K-$75K,0.49
+good_self_rated_health,2018,new_haven_inner_ring,Income,$75K+,0.63
+good_self_rated_health,2018,new_haven_inner_ring,With children,No children,0.49
+good_self_rated_health,2018,new_haven_inner_ring,With children,Children in household,0.6
+good_self_rated_health,2018,new_haven_outer_ring,Total,Total,0.6666666666666667
+good_self_rated_health,2018,new_haven_outer_ring,Gender,Male,0.7070707070707071
+good_self_rated_health,2018,new_haven_outer_ring,Gender,Female,0.6060606060606061
+good_self_rated_health,2018,new_haven_outer_ring,Age,Ages 18-34,0.7244897959183674
+good_self_rated_health,2018,new_haven_outer_ring,Age,Ages 35-49,0.68
+good_self_rated_health,2018,new_haven_outer_ring,Age,Ages 50-64,0.6363636363636364
+good_self_rated_health,2018,new_haven_outer_ring,Age,Ages 65+,0.5800000000000001
+good_self_rated_health,2018,new_haven_outer_ring,Education,High school or less,0.5816326530612246
+good_self_rated_health,2018,new_haven_outer_ring,Education,Some college or Associate's,0.6428571428571429
+good_self_rated_health,2018,new_haven_outer_ring,Education,Bachelor's or higher,0.7
+good_self_rated_health,2018,new_haven_outer_ring,Income,<$30K,0.55
+good_self_rated_health,2018,new_haven_outer_ring,Income,$30K-$75K,0.5800000000000001
+good_self_rated_health,2018,new_haven_outer_ring,Income,$75K+,0.71
+good_self_rated_health,2018,new_haven_outer_ring,With children,No children,0.6428571428571429
+good_self_rated_health,2018,new_haven_outer_ring,With children,Children in household,0.72
+good_self_rated_health,2018,new_london,Total,Total,0.51
+good_self_rated_health,2018,new_london,Gender,Male,0.58
+good_self_rated_health,2018,new_london,Gender,Female,0.4444444444444445
+good_self_rated_health,2018,new_london,Age,Under age 55,0.52
+good_self_rated_health,2018,new_london,Age,Age 55 or older,0.48484848484848486
+good_self_rated_health,2018,new_london,Race/Ethnicity,White,0.5454545454545455
+good_self_rated_health,2018,new_london,Race/Ethnicity,Not white,0.51
+good_self_rated_health,2018,new_london,Education,Bachelor's or higher,0.6599999999999999
+good_self_rated_health,2018,new_london,Education,Less than Bachelor's degree,0.4545454545454546
+good_self_rated_health,2018,new_london,Income,$75K+,0.69
+good_self_rated_health,2018,new_london,Income,<$75K,0.51
+good_self_rated_health,2018,new_milford,Total,Total,0.6
+good_self_rated_health,2018,new_milford,Gender,Male,0.61
+good_self_rated_health,2018,new_milford,Gender,Female,0.58
+good_self_rated_health,2018,new_milford,Age,Under age 55,0.58
+good_self_rated_health,2018,new_milford,Age,Age 55 or older,0.6363636363636364
+good_self_rated_health,2018,new_milford,Education,High school or less,0.5151515151515151
+good_self_rated_health,2018,new_milford,Education,Some college or Associate's,0.55
+good_self_rated_health,2018,new_milford,Education,Bachelor's or higher,0.66
+good_self_rated_health,2018,new_milford,Income,$75K+,0.7
+good_self_rated_health,2018,new_milford,Income,<$75K,0.5050505050505051
+good_self_rated_health,2018,new_milford,With children,No children,0.56
+good_self_rated_health,2018,new_milford,With children,Children in household,0.6599999999999999
+good_self_rated_health,2018,newtown,Total,Total,0.7
+good_self_rated_health,2018,newtown,Gender,Male,0.69
+good_self_rated_health,2018,newtown,Gender,Female,0.7070707070707071
+good_self_rated_health,2018,newtown,Age,Under age 55,0.7171717171717171
+good_self_rated_health,2018,newtown,Age,Age 55 or older,0.6799999999999999
+good_self_rated_health,2018,newtown,Education,Bachelor's or higher,0.8
+good_self_rated_health,2018,newtown,Education,Some college or less,0.5454545454545455
+good_self_rated_health,2018,newtown,Income,$75K+,0.74
+good_self_rated_health,2018,newtown,Income,<$75K,0.55
+good_self_rated_health,2018,newtown,With children,No children,0.6699999999999999
+good_self_rated_health,2018,newtown,With children,Children in household,0.7373737373737373
+good_self_rated_health,2018,norwalk,Total,Total,0.6161616161616161
+good_self_rated_health,2018,norwalk,Gender,Male,0.65
+good_self_rated_health,2018,norwalk,Gender,Female,0.585858585858586
+good_self_rated_health,2018,norwalk,Age,Ages 18-34,0.56
+good_self_rated_health,2018,norwalk,Age,Ages 35-49,0.7
+good_self_rated_health,2018,norwalk,Age,Ages 50-64,0.66
+good_self_rated_health,2018,norwalk,Age,Ages 65+,0.53
+good_self_rated_health,2018,norwalk,Race/Ethnicity,White,0.71
+good_self_rated_health,2018,norwalk,Race/Ethnicity,Not white,0.494949494949495
+good_self_rated_health,2018,norwalk,Education,High school or less,0.5102040816326531
+good_self_rated_health,2018,norwalk,Education,Some college or Associate's,0.55
+good_self_rated_health,2018,norwalk,Education,Bachelor's or higher,0.68
+good_self_rated_health,2018,norwalk,Income,<$30K,0.3917525773195876
+good_self_rated_health,2018,norwalk,Income,$30K-$75K,0.5
+good_self_rated_health,2018,norwalk,Income,$75K+,0.78
+good_self_rated_health,2018,norwalk,With children,No children,0.6161616161616162
+good_self_rated_health,2018,norwalk,With children,Children in household,0.64
+good_self_rated_health,2018,nyborder,Total,Total,0.5800000000000001
+good_self_rated_health,2018,nyborder,Gender,Male,0.54
+good_self_rated_health,2018,nyborder,Gender,Female,0.61
+good_self_rated_health,2018,nyborder,Age,Ages 18-34,0.56
+good_self_rated_health,2018,nyborder,Age,Ages 35-49,0.59
+good_self_rated_health,2018,nyborder,Age,Ages 50-64,0.5900000000000001
+good_self_rated_health,2018,nyborder,Age,Ages 65+,0.52
+good_self_rated_health,2018,nyborder,Race/Ethnicity,White,0.64
+good_self_rated_health,2018,nyborder,Race/Ethnicity,Not white,0.49
+good_self_rated_health,2018,nyborder,Education,High school or less,0.41000000000000003
+good_self_rated_health,2018,nyborder,Education,Some college or Associate's,0.61
+good_self_rated_health,2018,nyborder,Education,Bachelor's or higher,0.65
+good_self_rated_health,2018,nyborder,Income,<$30K,0.41000000000000003
+good_self_rated_health,2018,nyborder,Income,$30K-$75K,0.5
+good_self_rated_health,2018,nyborder,Income,$75K+,0.69
+good_self_rated_health,2018,nyborder,With children,No children,0.5800000000000001
+good_self_rated_health,2018,nyborder,With children,Children in household,0.5700000000000001
+good_self_rated_health,2018,pomperaug,Total,Total,0.6
+good_self_rated_health,2018,pomperaug,Gender,Male,0.64
+good_self_rated_health,2018,pomperaug,Gender,Female,0.58
+good_self_rated_health,2018,pomperaug,Age,Under age 55,0.68
+good_self_rated_health,2018,pomperaug,Age,Age 55 or older,0.54
+good_self_rated_health,2018,pomperaug,Education,Bachelor's or higher,0.6699999999999999
+good_self_rated_health,2018,pomperaug,Education,Some college or less,0.5
+good_self_rated_health,2018,pomperaug,Income,$75K+,0.76
+good_self_rated_health,2018,pomperaug,Income,<$75K,0.4
+good_self_rated_health,2018,pomperaug,With children,No children,0.5800000000000001
+good_self_rated_health,2018,pomperaug,With children,Children in household,0.6599999999999999
+good_self_rated_health,2018,port_chester_ny,Total,Total,0.54
+good_self_rated_health,2018,port_chester_ny,Gender,Male,0.5599999999999999
+good_self_rated_health,2018,port_chester_ny,Gender,Female,0.53
+good_self_rated_health,2018,port_chester_ny,Age,Under age 55,0.55
+good_self_rated_health,2018,port_chester_ny,Age,Age 55 or older,0.53
+good_self_rated_health,2018,port_chester_ny,Race/Ethnicity,White,0.6000000000000001
+good_self_rated_health,2018,port_chester_ny,Race/Ethnicity,Not white,0.47000000000000003
+good_self_rated_health,2018,port_chester_ny,Education,High school or less,0.43
+good_self_rated_health,2018,port_chester_ny,Education,Some college or Associate's,0.58
+good_self_rated_health,2018,port_chester_ny,Education,Bachelor's or higher,0.6100000000000001
+good_self_rated_health,2018,port_chester_ny,Income,$75K+,0.64
+good_self_rated_health,2018,port_chester_ny,Income,<$75K,0.47000000000000003
+good_self_rated_health,2018,port_chester_ny,With children,No children,0.54
+good_self_rated_health,2018,port_chester_ny,With children,Children in household,0.52
+good_self_rated_health,2018,stamford,Total,Total,0.67
+good_self_rated_health,2018,stamford,Gender,Male,0.6666666666666667
+good_self_rated_health,2018,stamford,Gender,Female,0.69
+good_self_rated_health,2018,stamford,Age,Ages 18-34,0.7272727272727273
+good_self_rated_health,2018,stamford,Age,Ages 35-49,0.71
+good_self_rated_health,2018,stamford,Age,Ages 50-64,0.6799999999999999
+good_self_rated_health,2018,stamford,Age,Ages 65+,0.5700000000000001
+good_self_rated_health,2018,stamford,Race/Ethnicity,White,0.6868686868686869
+good_self_rated_health,2018,stamford,Race/Ethnicity,Black,0.6
+good_self_rated_health,2018,stamford,Race/Ethnicity,Latino,0.7
+good_self_rated_health,2018,stamford,Education,High school or less,0.55
+good_self_rated_health,2018,stamford,Education,Some college or Associate's,0.5714285714285715
+good_self_rated_health,2018,stamford,Education,Bachelor's or higher,0.75
+good_self_rated_health,2018,stamford,Income,<$30K,0.37
+good_self_rated_health,2018,stamford,Income,$30K-$75K,0.7
+good_self_rated_health,2018,stamford,Income,$75K+,0.77
+good_self_rated_health,2018,stamford,With children,No children,0.6565656565656566
+good_self_rated_health,2018,stamford,With children,Children in household,0.72
+good_self_rated_health,2018,stratford,Total,Total,0.51
+good_self_rated_health,2018,stratford,Gender,Male,0.41414141414141414
+good_self_rated_health,2018,stratford,Gender,Female,0.5900000000000001
+good_self_rated_health,2018,stratford,Age,Under age 55,0.5555555555555556
+good_self_rated_health,2018,stratford,Age,Age 55 or older,0.46
+good_self_rated_health,2018,stratford,Education,High school or less,0.40816326530612246
+good_self_rated_health,2018,stratford,Education,Some college or Associate's,0.5
+good_self_rated_health,2018,stratford,Education,Bachelor's or higher,0.61
+good_self_rated_health,2018,stratford,Income,$75K+,0.67
+good_self_rated_health,2018,stratford,Income,<$75K,0.44
+good_self_rated_health,2018,stratford,With children,No children,0.48484848484848486
+good_self_rated_health,2018,stratford,With children,Children in household,0.5599999999999999
+good_self_rated_health,2018,trumbull,Total,Total,0.5700000000000001
+good_self_rated_health,2018,trumbull,Gender,Male,0.5900000000000001
+good_self_rated_health,2018,trumbull,Gender,Female,0.54
+good_self_rated_health,2018,trumbull,Age,Under age 55,0.61
+good_self_rated_health,2018,trumbull,Age,Age 55 or older,0.5
+good_self_rated_health,2018,trumbull,Education,Bachelor's or higher,0.62
+good_self_rated_health,2018,trumbull,Education,Some college or less,0.45999999999999996
+good_self_rated_health,2018,trumbull,Income,$100K+,0.6799999999999999
+good_self_rated_health,2018,trumbull,Income,<$100K,0.5
+good_self_rated_health,2018,valley,Total,Total,0.6
+good_self_rated_health,2018,valley,Gender,Male,0.61
+good_self_rated_health,2018,valley,Gender,Female,0.57
+good_self_rated_health,2018,valley,Age,Ages 18-34,0.6699999999999999
+good_self_rated_health,2018,valley,Age,Ages 35-49,0.62
+good_self_rated_health,2018,valley,Age,Ages 50-64,0.56
+good_self_rated_health,2018,valley,Age,Ages 65+,0.5
+good_self_rated_health,2018,valley,Race/Ethnicity,White,0.58
+good_self_rated_health,2018,valley,Race/Ethnicity,Not white,0.62
+good_self_rated_health,2018,valley,Education,High school or less,0.53
+good_self_rated_health,2018,valley,Education,Some college or Associate's,0.5700000000000001
+good_self_rated_health,2018,valley,Education,Bachelor's or higher,0.64
+good_self_rated_health,2018,valley,Income,<$30K,0.47000000000000003
+good_self_rated_health,2018,valley,Income,$30K-$75K,0.5700000000000001
+good_self_rated_health,2018,valley,Income,$75K+,0.6699999999999999
+good_self_rated_health,2018,valley,With children,No children,0.56
+good_self_rated_health,2018,valley,With children,Children in household,0.65
+good_self_rated_health,2018,wallingford,Total,Total,0.5816326530612245
+good_self_rated_health,2018,wallingford,Gender,Male,0.6145833333333335
+good_self_rated_health,2018,wallingford,Gender,Female,0.56
+good_self_rated_health,2018,wallingford,Age,Under age 55,0.61
+good_self_rated_health,2018,wallingford,Age,Age 55 or older,0.5578947368421053
+good_self_rated_health,2018,wallingford,Education,Bachelor's or higher,0.6701030927835052
+good_self_rated_health,2018,wallingford,Education,Some college or less,0.48484848484848486
+good_self_rated_health,2018,wallingford,Income,$75K+,0.5959595959595959
+good_self_rated_health,2018,wallingford,Income,<$75K,0.5353535353535354
+good_self_rated_health,2018,waterbury,Total,Total,0.49
+good_self_rated_health,2018,waterbury,Gender,Male,0.5
+good_self_rated_health,2018,waterbury,Gender,Female,0.47
+good_self_rated_health,2018,waterbury,Age,Ages 18-34,0.6000000000000001
+good_self_rated_health,2018,waterbury,Age,Ages 35-49,0.53
+good_self_rated_health,2018,waterbury,Age,Ages 50-64,0.41
+good_self_rated_health,2018,waterbury,Age,Ages 65+,0.31313131313131315
+good_self_rated_health,2018,waterbury,Race/Ethnicity,White,0.43000000000000005
+good_self_rated_health,2018,waterbury,Race/Ethnicity,Black,0.54
+good_self_rated_health,2018,waterbury,Race/Ethnicity,Latino,0.55
+good_self_rated_health,2018,waterbury,Education,High school or less,0.44
+good_self_rated_health,2018,waterbury,Education,Some college or Associate's,0.44
+good_self_rated_health,2018,waterbury,Education,Bachelor's or higher,0.6262626262626263
+good_self_rated_health,2018,waterbury,Income,<$30K,0.4
+good_self_rated_health,2018,waterbury,Income,$30K-$75K,0.47
+good_self_rated_health,2018,waterbury,Income,$75K+,0.6767676767676767
+good_self_rated_health,2018,waterbury,With children,No children,0.44000000000000006
+good_self_rated_health,2018,waterbury,With children,Children in household,0.55
+good_self_rated_health,2018,west_hartford,Total,Total,0.76
+good_self_rated_health,2018,west_hartford,Gender,Male,0.79
+good_self_rated_health,2018,west_hartford,Gender,Female,0.74
+good_self_rated_health,2018,west_hartford,Age,Under age 55,0.8
+good_self_rated_health,2018,west_hartford,Age,Age 55 or older,0.72
+good_self_rated_health,2018,west_hartford,Education,Bachelor's or higher,0.81
+good_self_rated_health,2018,west_hartford,Education,Some college or less,0.66
+good_self_rated_health,2018,west_hartford,Income,$75K+,0.86
+good_self_rated_health,2018,west_hartford,Income,<$75K,0.6000000000000001
+good_self_rated_health,2018,west_hartford,With children,No children,0.73
+good_self_rated_health,2018,west_hartford,With children,Children in household,0.81
+good_self_rated_health,2018,west_haven,Total,Total,0.44999999999999996
+good_self_rated_health,2018,west_haven,Gender,Male,0.42
+good_self_rated_health,2018,west_haven,Gender,Female,0.47000000000000003
+good_self_rated_health,2018,west_haven,Age,Under age 55,0.45000000000000007
+good_self_rated_health,2018,west_haven,Age,Age 55 or older,0.43
+good_self_rated_health,2018,west_haven,Race/Ethnicity,White,0.42000000000000004
+good_self_rated_health,2018,west_haven,Race/Ethnicity,Not white,0.48
+good_self_rated_health,2018,west_haven,Education,High school or less,0.39
+good_self_rated_health,2018,west_haven,Education,Some college or Associate's,0.42000000000000004
+good_self_rated_health,2018,west_haven,Education,Bachelor's or higher,0.54
+good_self_rated_health,2018,west_haven,Income,$75K+,0.51
+good_self_rated_health,2018,west_haven,Income,<$75K,0.39
+good_self_rated_health,2018,west_haven,With children,No children,0.45
+good_self_rated_health,2018,west_haven,With children,Children in household,0.48
+not_anxious,2018,5ct,Wealthy,Wealthy,0.88
+not_anxious,2018,5ct,Suburban,Suburban,0.9
+not_anxious,2018,5ct,Rural,Rural,0.8787878787878788
+not_anxious,2018,5ct,Urban Periphery,Urban Periphery,0.8787878787878788
+not_anxious,2018,5ct,Urban Core,Urban Core,0.8282828282828283
+not_anxious,2018,bridgeport,Total,Total,0.8383838383838385
+not_anxious,2018,bridgeport,Gender,Male,0.8383838383838385
+not_anxious,2018,bridgeport,Gender,Female,0.8181818181818182
+not_anxious,2018,bridgeport,Age,Ages 18-34,0.85
+not_anxious,2018,bridgeport,Age,Ages 35-49,0.8
+not_anxious,2018,bridgeport,Age,Ages 50-64,0.8300000000000001
+not_anxious,2018,bridgeport,Age,Ages 65+,0.8333333333333334
+not_anxious,2018,bridgeport,Race/Ethnicity,White,0.8181818181818182
+not_anxious,2018,bridgeport,Race/Ethnicity,Black,0.8181818181818182
+not_anxious,2018,bridgeport,Race/Ethnicity,Latino,0.7777777777777778
+not_anxious,2018,bridgeport,Education,High school or less,0.797979797979798
+not_anxious,2018,bridgeport,Education,Some college or Associate's,0.8282828282828283
+not_anxious,2018,bridgeport,Education,Bachelor's or higher,0.88
+not_anxious,2018,bridgeport,Income,<$30K,0.787878787878788
+not_anxious,2018,bridgeport,Income,$30K-$75K,0.8686868686868687
+not_anxious,2018,bridgeport,Income,$75K+,0.84
+not_anxious,2018,bridgeport,With children,No children,0.8383838383838385
+not_anxious,2018,bridgeport,With children,Children in household,0.81
+not_anxious,2018,bristol,Total,Total,0.8979591836734694
+not_anxious,2018,bristol,Gender,Male,0.9081632653061225
+not_anxious,2018,bristol,Gender,Female,0.8686868686868687
+not_anxious,2018,bristol,Age,Under age 55,0.8787878787878788
+not_anxious,2018,bristol,Age,Age 55 or older,0.9381443298969072
+not_anxious,2018,bristol,Education,Bachelor's or higher,0.88
+not_anxious,2018,bristol,Education,Some college or less,0.8877551020408163
+not_anxious,2018,bristol,Income,$75K+,0.9897959183673469
+not_anxious,2018,bristol,Income,<$75K,0.8383838383838385
+not_anxious,2018,bristol,With children,No children,0.898989898989899
+not_anxious,2018,bristol,With children,Children in household,0.8556701030927836
+not_anxious,2018,cchd_central_ct_health_district,Total,Total,0.888888888888889
+not_anxious,2018,cchd_central_ct_health_district,Gender,Male,0.8686868686868687
+not_anxious,2018,cchd_central_ct_health_district,Gender,Female,0.91
+not_anxious,2018,cchd_central_ct_health_district,Age,Under age 55,0.86
+not_anxious,2018,cchd_central_ct_health_district,Age,Age 55 or older,0.9090909090909092
+not_anxious,2018,cchd_central_ct_health_district,Education,Bachelor's or higher,0.92
+not_anxious,2018,cchd_central_ct_health_district,Education,Some college or less,0.8383838383838383
+not_anxious,2018,cchd_central_ct_health_district,Income,$75K+,0.9299999999999999
+not_anxious,2018,cchd_central_ct_health_district,Income,<$75K,0.797979797979798
+not_anxious,2018,cchd_central_ct_health_district,With children,No children,0.89
+not_anxious,2018,cchd_central_ct_health_district,With children,Children in household,0.8585858585858586
+not_anxious,2018,chesprocott,Total,Total,0.8775510204081632
+not_anxious,2018,chesprocott,Gender,Male,0.87
+not_anxious,2018,chesprocott,Gender,Female,0.865979381443299
+not_anxious,2018,chesprocott,Age,Under age 55,0.8585858585858586
+not_anxious,2018,chesprocott,Age,Age 55 or older,0.888888888888889
+not_anxious,2018,chesprocott,Education,Bachelor's or higher,0.8775510204081632
+not_anxious,2018,chesprocott,Education,Some college or less,0.85
+not_anxious,2018,chesprocott,Income,$75K+,0.9494949494949495
+not_anxious,2018,chesprocott,Income,<$75K,0.787878787878788
+not_anxious,2018,chesprocott,With children,No children,0.9072164948453608
+not_anxious,2018,chesprocott,With children,Children in household,0.86
+not_anxious,2018,connecticut,Total,Total,0.8686868686868687
+not_anxious,2018,connecticut,Gender,Male,0.8686868686868687
+not_anxious,2018,connecticut,Gender,Female,0.8686868686868687
+not_anxious,2018,connecticut,Age,Ages 18-34,0.81
+not_anxious,2018,connecticut,Age,Ages 35-49,0.88
+not_anxious,2018,connecticut,Age,Ages 50-64,0.9
+not_anxious,2018,connecticut,Age,Ages 65+,0.8979591836734694
+not_anxious,2018,connecticut,Race/Ethnicity,White,0.888888888888889
+not_anxious,2018,connecticut,Race/Ethnicity,Black,0.8686868686868687
+not_anxious,2018,connecticut,Race/Ethnicity,Latino,0.79
+not_anxious,2018,connecticut,Education,High school or less,0.8282828282828283
+not_anxious,2018,connecticut,Education,Some college or Associate's,0.8484848484848485
+not_anxious,2018,connecticut,Education,Bachelor's or higher,0.9191919191919192
+not_anxious,2018,connecticut,Income,<$15K,0.7373737373737373
+not_anxious,2018,connecticut,Income,$15K-$30K,0.8181818181818182
+not_anxious,2018,connecticut,Income,$30K-$50K,0.8585858585858586
+not_anxious,2018,connecticut,Income,$50K-$75K,0.87
+not_anxious,2018,connecticut,Income,$75K-$100K,0.9
+not_anxious,2018,connecticut,Income,$100K-$200K,0.92
+not_anxious,2018,connecticut,Income,$200K+,0.9292929292929294
+not_anxious,2018,connecticut,With children,No children,0.8787878787878788
+not_anxious,2018,connecticut,With children,Children in household,0.86
+not_anxious,2018,danbury,Total,Total,0.8877551020408163
+not_anxious,2018,danbury,Gender,Male,0.8571428571428571
+not_anxious,2018,danbury,Gender,Female,0.888888888888889
+not_anxious,2018,danbury,Age,Ages 18-34,0.76
+not_anxious,2018,danbury,Age,Ages 35-49,0.9299999999999999
+not_anxious,2018,danbury,Age,Ages 50-64,0.9278350515463918
+not_anxious,2018,danbury,Age,Ages 65+,0.9183673469387755
+not_anxious,2018,danbury,Race/Ethnicity,White,0.9081632653061225
+not_anxious,2018,danbury,Race/Ethnicity,Not white,0.8163265306122449
+not_anxious,2018,danbury,Education,High school or less,0.8571428571428571
+not_anxious,2018,danbury,Education,Some college or Associate's,0.8787878787878788
+not_anxious,2018,danbury,Education,Bachelor's or higher,0.898989898989899
+not_anxious,2018,danbury,Income,<$30K,0.7755102040816326
+not_anxious,2018,danbury,Income,$30K-$75K,0.86
+not_anxious,2018,danbury,Income,$75K+,0.91
+not_anxious,2018,danbury,With children,No children,0.8673469387755102
+not_anxious,2018,danbury,With children,Children in household,0.9
+not_anxious,2018,darien,Total,Total,0.9090909090909092
+not_anxious,2018,darien,Gender,Male,0.9591836734693877
+not_anxious,2018,darien,Gender,Female,0.84
+not_anxious,2018,east_hartford,Total,Total,0.8585858585858586
+not_anxious,2018,east_haven,Total,Total,0.89
+not_anxious,2018,east_haven,Gender,Male,0.87
+not_anxious,2018,east_haven,Gender,Female,0.8979591836734694
+not_anxious,2018,east_haven,Age,Under age 55,0.87
+not_anxious,2018,east_haven,Age,Age 55 or older,0.9081632653061225
+not_anxious,2018,east_haven,Education,High school or less,0.8163265306122449
+not_anxious,2018,east_haven,Education,Some college or higher,0.92
+not_anxious,2018,east_haven,Income,$75K+,0.8300000000000001
+not_anxious,2018,east_haven,Income,<$75K,0.9292929292929294
+not_anxious,2018,ehhd,Total,Total,0.87
+not_anxious,2018,ehhd,Gender,Male,0.8500000000000001
+not_anxious,2018,ehhd,Gender,Female,0.89
+not_anxious,2018,ehhd,Age,Under age 55,0.87
+not_anxious,2018,ehhd,Age,Age 55 or older,0.8700000000000001
+not_anxious,2018,ehhd,Education,Bachelor's or higher,0.9299999999999999
+not_anxious,2018,ehhd,Education,Some college or less,0.8200000000000001
+not_anxious,2018,ehhd,Income,$75K+,0.94
+not_anxious,2018,ehhd,Income,<$75K,0.82
+not_anxious,2018,ehhd,With children,No children,0.89
+not_anxious,2018,ehhd,With children,Children in household,0.84
+not_anxious,2018,fairfield,Total,Total,0.9400000000000001
+not_anxious,2018,fairfield,Gender,Male,0.9696969696969697
+not_anxious,2018,fairfield,Gender,Female,0.9595959595959596
+not_anxious,2018,fairfield,Age,Under age 55,0.96
+not_anxious,2018,fairfield,Age,Age 55 or older,0.9292929292929293
+not_anxious,2018,fairfield,Education,Bachelor's or higher,0.93
+not_anxious,2018,fairfield,Education,Some college or less,0.98989898989899
+not_anxious,2018,fairfield,Income,$75K+,0.9797979797979798
+not_anxious,2018,fairfield,Income,<$75K,0.9199999999999999
+not_anxious,2018,fairfield,With children,No children,0.93
+not_anxious,2018,fairfield,With children,Children in household,0.97
+not_anxious,2018,fairfield_county,Total,Total,0.8787878787878788
+not_anxious,2018,fairfield_county,Gender,Male,0.8775510204081632
+not_anxious,2018,fairfield_county,Gender,Female,0.8787878787878788
+not_anxious,2018,fairfield_county,Age,Ages 18-34,0.8400000000000001
+not_anxious,2018,fairfield_county,Age,Ages 35-49,0.86
+not_anxious,2018,fairfield_county,Age,Ages 50-64,0.888888888888889
+not_anxious,2018,fairfield_county,Age,Ages 65+,0.8877551020408163
+not_anxious,2018,fairfield_county,Race/Ethnicity,White,0.888888888888889
+not_anxious,2018,fairfield_county,Race/Ethnicity,Black,0.8383838383838383
+not_anxious,2018,fairfield_county,Race/Ethnicity,Latino,0.79
+not_anxious,2018,fairfield_county,Education,High school or less,0.8163265306122449
+not_anxious,2018,fairfield_county,Education,Some college or Associate's,0.8585858585858587
+not_anxious,2018,fairfield_county,Education,Bachelor's or higher,0.9099999999999999
+not_anxious,2018,fairfield_county,Income,<$15K,0.7676767676767677
+not_anxious,2018,fairfield_county,Income,$15K-$30K,0.787878787878788
+not_anxious,2018,fairfield_county,Income,$30K-$50K,0.86
+not_anxious,2018,fairfield_county,Income,$50K-$75K,0.87
+not_anxious,2018,fairfield_county,Income,$75K-$100K,0.9081632653061225
+not_anxious,2018,fairfield_county,Income,$100K-$200K,0.8999999999999999
+not_anxious,2018,fairfield_county,Income,$200K+,0.9099999999999999
+not_anxious,2018,fairfield_county,With children,No children,0.8877551020408163
+not_anxious,2018,fairfield_county,With children,Children in household,0.888888888888889
+not_anxious,2018,fcht,Total,Total,0.9292929292929293
+not_anxious,2018,fcht,Gender,Male,0.9191919191919191
+not_anxious,2018,fcht,Gender,Female,0.9191919191919192
+not_anxious,2018,fcht,Age,Under age 55,0.888888888888889
+not_anxious,2018,fcht,Age,Age 55 or older,0.9494949494949496
+not_anxious,2018,fcht,Education,Bachelor's or higher,0.9494949494949495
+not_anxious,2018,fcht,Education,Some college or less,0.898989898989899
+not_anxious,2018,fcht,Income,$75K+,0.9292929292929293
+not_anxious,2018,fcht,Income,<$75K,0.9
+not_anxious,2018,greater_bridgeport,Total,Total,0.8787878787878788
+not_anxious,2018,greater_bridgeport,Gender,Male,0.87
+not_anxious,2018,greater_bridgeport,Gender,Female,0.8686868686868687
+not_anxious,2018,greater_bridgeport,Age,Ages 18-34,0.85
+not_anxious,2018,greater_bridgeport,Age,Ages 35-49,0.85
+not_anxious,2018,greater_bridgeport,Age,Ages 50-64,0.8787878787878788
+not_anxious,2018,greater_bridgeport,Age,Ages 65+,0.8877551020408164
+not_anxious,2018,greater_bridgeport,Race/Ethnicity,White,0.888888888888889
+not_anxious,2018,greater_bridgeport,Race/Ethnicity,Black,0.8080808080808082
+not_anxious,2018,greater_bridgeport,Race/Ethnicity,Latino,0.787878787878788
+not_anxious,2018,greater_bridgeport,Education,High school or less,0.797979797979798
+not_anxious,2018,greater_bridgeport,Education,Some college or Associate's,0.85
+not_anxious,2018,greater_bridgeport,Education,Bachelor's or higher,0.9099999999999999
+not_anxious,2018,greater_bridgeport,Income,<$15K,0.7575757575757576
+not_anxious,2018,greater_bridgeport,Income,$15K-$30K,0.797979797979798
+not_anxious,2018,greater_bridgeport,Income,$30K-$50K,0.8686868686868687
+not_anxious,2018,greater_bridgeport,Income,$50K-$75K,0.91
+not_anxious,2018,greater_bridgeport,Income,$75K-$100K,0.88
+not_anxious,2018,greater_bridgeport,Income,$100K-$200K,0.9199999999999999
+not_anxious,2018,greater_bridgeport,Income,$200K+,0.9292929292929293
+not_anxious,2018,greater_bridgeport,With children,No children,0.8686868686868687
+not_anxious,2018,greater_bridgeport,With children,Children in household,0.86
+not_anxious,2018,greater_greenwich,Total,Total,0.8979591836734694
+not_anxious,2018,greater_greenwich,Gender,Male,0.8877551020408163
+not_anxious,2018,greater_greenwich,Gender,Female,0.8787878787878788
+not_anxious,2018,greater_greenwich,Age,Ages 18-34,0.86
+not_anxious,2018,greater_greenwich,Age,Ages 35-49,0.8775510204081634
+not_anxious,2018,greater_greenwich,Age,Ages 50-64,0.8999999999999999
+not_anxious,2018,greater_greenwich,Age,Ages 65+,0.8877551020408163
+not_anxious,2018,greater_greenwich,Race/Ethnicity,White,0.898989898989899
+not_anxious,2018,greater_greenwich,Race/Ethnicity,Black,0.8484848484848486
+not_anxious,2018,greater_greenwich,Race/Ethnicity,Latino,0.8383838383838385
+not_anxious,2018,greater_greenwich,Education,High school or less,0.8181818181818181
+not_anxious,2018,greater_greenwich,Education,Some college or Associate's,0.8686868686868687
+not_anxious,2018,greater_greenwich,Education,Bachelor's or higher,0.9183673469387755
+not_anxious,2018,greater_greenwich,Income,<$30K,0.7272727272727273
+not_anxious,2018,greater_greenwich,Income,$30K-$75K,0.88
+not_anxious,2018,greater_greenwich,Income,$75K+,0.9191919191919192
+not_anxious,2018,greater_greenwich,With children,No children,0.8979591836734694
+not_anxious,2018,greater_greenwich,With children,Children in household,0.9183673469387755
+not_anxious,2018,greater_hartford,Total,Total,0.8787878787878788
+not_anxious,2018,greater_hartford,Gender,Male,0.888888888888889
+not_anxious,2018,greater_hartford,Gender,Female,0.8585858585858586
+not_anxious,2018,greater_hartford,Age,Ages 18-34,0.8080808080808082
+not_anxious,2018,greater_hartford,Age,Ages 35-49,0.9090909090909092
+not_anxious,2018,greater_hartford,Age,Ages 50-64,0.91
+not_anxious,2018,greater_hartford,Age,Ages 65+,0.8787878787878788
+not_anxious,2018,greater_hartford,Race/Ethnicity,White,0.888888888888889
+not_anxious,2018,greater_hartford,Race/Ethnicity,Black,0.86
+not_anxious,2018,greater_hartford,Race/Ethnicity,Latino,0.78
+not_anxious,2018,greater_hartford,Education,High school or less,0.8181818181818181
+not_anxious,2018,greater_hartford,Education,Some college or Associate's,0.8686868686868687
+not_anxious,2018,greater_hartford,Education,Bachelor's or higher,0.9090909090909092
+not_anxious,2018,greater_hartford,Income,<$15K,0.72
+not_anxious,2018,greater_hartford,Income,$15K-$30K,0.8484848484848486
+not_anxious,2018,greater_hartford,Income,$30K-$50K,0.8686868686868687
+not_anxious,2018,greater_hartford,Income,$50K-$75K,0.87
+not_anxious,2018,greater_hartford,Income,$75K-$100K,0.898989898989899
+not_anxious,2018,greater_hartford,Income,$100K-$200K,0.92
+not_anxious,2018,greater_hartford,Income,$200K+,0.9175257731958764
+not_anxious,2018,greater_hartford,With children,No children,0.8686868686868687
+not_anxious,2018,greater_hartford,With children,Children in household,0.87
+not_anxious,2018,greater_new_haven,Total,Total,0.86
+not_anxious,2018,greater_new_haven,Gender,Male,0.85
+not_anxious,2018,greater_new_haven,Gender,Female,0.86
+not_anxious,2018,greater_new_haven,Age,Ages 18-34,0.81
+not_anxious,2018,greater_new_haven,Age,Ages 35-49,0.8400000000000001
+not_anxious,2018,greater_new_haven,Age,Ages 50-64,0.9
+not_anxious,2018,greater_new_haven,Age,Ages 65+,0.9285714285714286
+not_anxious,2018,greater_new_haven,Race/Ethnicity,White,0.87
+not_anxious,2018,greater_new_haven,Race/Ethnicity,Black,0.8585858585858586
+not_anxious,2018,greater_new_haven,Race/Ethnicity,Latino,0.79
+not_anxious,2018,greater_new_haven,Education,High school or less,0.82
+not_anxious,2018,greater_new_haven,Education,Some college or Associate's,0.84
+not_anxious,2018,greater_new_haven,Education,Bachelor's or higher,0.89
+not_anxious,2018,greater_new_haven,Income,<$15K,0.7448979591836735
+not_anxious,2018,greater_new_haven,Income,$15K-$30K,0.8
+not_anxious,2018,greater_new_haven,Income,$30K-$50K,0.86
+not_anxious,2018,greater_new_haven,Income,$50K-$75K,0.8484848484848485
+not_anxious,2018,greater_new_haven,Income,$75K-$100K,0.9299999999999999
+not_anxious,2018,greater_new_haven,Income,$100K-$200K,0.89
+not_anxious,2018,greater_new_haven,Income,$200K+,0.89
+not_anxious,2018,greater_new_haven,With children,No children,0.87
+not_anxious,2018,greater_new_haven,With children,Children in household,0.8300000000000001
+not_anxious,2018,greater_new_london,Total,Total,0.8787878787878788
+not_anxious,2018,greater_new_london,Gender,Male,0.8775510204081632
+not_anxious,2018,greater_new_london,Gender,Female,0.8787878787878788
+not_anxious,2018,greater_new_london,Age,Ages 18-34,0.797979797979798
+not_anxious,2018,greater_new_london,Age,Ages 35-49,0.8787878787878788
+not_anxious,2018,greater_new_london,Age,Ages 50-64,0.93
+not_anxious,2018,greater_new_london,Age,Ages 65+,0.8979591836734694
+not_anxious,2018,greater_new_london,Race/Ethnicity,White,0.9090909090909091
+not_anxious,2018,greater_new_london,Race/Ethnicity,Not white,0.8061224489795918
+not_anxious,2018,greater_new_london,Education,High school or less,0.8163265306122449
+not_anxious,2018,greater_new_london,Education,Some college or Associate's,0.826530612244898
+not_anxious,2018,greater_new_london,Education,Bachelor's or higher,0.9292929292929294
+not_anxious,2018,greater_new_london,Income,<$30K,0.7346938775510204
+not_anxious,2018,greater_new_london,Income,$30K-$75K,0.8775510204081632
+not_anxious,2018,greater_new_london,Income,$75K+,0.92
+not_anxious,2018,greater_new_london,With children,No children,0.8775510204081632
+not_anxious,2018,greater_new_london,With children,Children in household,0.8700000000000001
+not_anxious,2018,greater_waterbury,Total,Total,0.8686868686868687
+not_anxious,2018,greater_waterbury,Gender,Male,0.8787878787878788
+not_anxious,2018,greater_waterbury,Gender,Female,0.8484848484848486
+not_anxious,2018,greater_waterbury,Age,Ages 18-34,0.8
+not_anxious,2018,greater_waterbury,Age,Ages 35-49,0.8787878787878788
+not_anxious,2018,greater_waterbury,Age,Ages 50-64,0.9090909090909092
+not_anxious,2018,greater_waterbury,Age,Ages 65+,0.8969072164948455
+not_anxious,2018,greater_waterbury,Race/Ethnicity,White,0.888888888888889
+not_anxious,2018,greater_waterbury,Race/Ethnicity,Black,0.898989898989899
+not_anxious,2018,greater_waterbury,Race/Ethnicity,Latino,0.8061224489795918
+not_anxious,2018,greater_waterbury,Education,High school or less,0.8181818181818182
+not_anxious,2018,greater_waterbury,Education,Some college or Associate's,0.8585858585858586
+not_anxious,2018,greater_waterbury,Education,Bachelor's or higher,0.898989898989899
+not_anxious,2018,greater_waterbury,Income,<$15K,0.7373737373737373
+not_anxious,2018,greater_waterbury,Income,$15K-$30K,0.826530612244898
+not_anxious,2018,greater_waterbury,Income,$30K-$50K,0.8484848484848485
+not_anxious,2018,greater_waterbury,Income,$50K-$75K,0.83
+not_anxious,2018,greater_waterbury,Income,$75K-$100K,0.91
+not_anxious,2018,greater_waterbury,Income,$100K-$200K,0.94
+not_anxious,2018,greater_waterbury,Income,$200K+,0.95
+not_anxious,2018,greater_waterbury,With children,No children,0.8686868686868687
+not_anxious,2018,greater_waterbury,With children,Children in household,0.87
+not_anxious,2018,greenwich,Total,Total,0.888888888888889
+not_anxious,2018,greenwich,Gender,Male,0.8673469387755103
+not_anxious,2018,greenwich,Gender,Female,0.9191919191919192
+not_anxious,2018,greenwich,Age,Ages 18-34,0.8400000000000001
+not_anxious,2018,greenwich,Age,Ages 35-54,0.89
+not_anxious,2018,greenwich,Age,Ages 55+,0.8979591836734694
+not_anxious,2018,greenwich,Race/Ethnicity,White,0.9081632653061225
+not_anxious,2018,greenwich,Race/Ethnicity,Not white,0.88
+not_anxious,2018,greenwich,Income,$75K+,0.888888888888889
+not_anxious,2018,greenwich,Income,<$75K,0.87
+not_anxious,2018,greenwich,With children,No children,0.8979591836734694
+not_anxious,2018,greenwich,With children,Children in household,0.9191919191919192
+not_anxious,2018,hamden,Total,Total,0.8484848484848486
+not_anxious,2018,hamden,Gender,Male,0.888888888888889
+not_anxious,2018,hamden,Gender,Female,0.8181818181818182
+not_anxious,2018,hamden,Age,Under age 55,0.8400000000000001
+not_anxious,2018,hamden,Age,Age 55 or older,0.8762886597938145
+not_anxious,2018,hamden,Race/Ethnicity,White,0.8787878787878789
+not_anxious,2018,hamden,Race/Ethnicity,Not white,0.8
+not_anxious,2018,hamden,Education,High school or less,0.81
+not_anxious,2018,hamden,Education,Some college or Associate's,0.8469387755102041
+not_anxious,2018,hamden,Education,Bachelor's or higher,0.86
+not_anxious,2018,hamden,Income,$75K+,0.8999999999999999
+not_anxious,2018,hamden,Income,<$75K,0.81
+not_anxious,2018,hamden,With children,No children,0.8585858585858586
+not_anxious,2018,hamden,With children,Children in household,0.86
+not_anxious,2018,hartford,Total,Total,0.8367346938775511
+not_anxious,2018,hartford,Gender,Male,0.8571428571428571
+not_anxious,2018,hartford,Gender,Female,0.8247422680412372
+not_anxious,2018,hartford,Age,Ages 18-34,0.82
+not_anxious,2018,hartford,Age,Ages 35-49,0.8686868686868687
+not_anxious,2018,hartford,Age,Ages 50-64,0.888888888888889
+not_anxious,2018,hartford,Age,Ages 65+,0.8191489361702128
+not_anxious,2018,hartford,Race/Ethnicity,White,0.8979591836734694
+not_anxious,2018,hartford,Race/Ethnicity,Black,0.8181818181818181
+not_anxious,2018,hartford,Race/Ethnicity,Latino,0.7777777777777778
+not_anxious,2018,hartford,Education,High school or less,0.7835051546391752
+not_anxious,2018,hartford,Education,Some college or Associate's,0.8686868686868687
+not_anxious,2018,hartford,Education,Bachelor's or higher,0.9081632653061225
+not_anxious,2018,hartford,Income,<$30K,0.787878787878788
+not_anxious,2018,hartford,Income,$30K-$75K,0.89
+not_anxious,2018,hartford,Income,$75K+,0.88
+not_anxious,2018,hartford,With children,No children,0.8556701030927836
+not_anxious,2018,hartford,With children,Children in household,0.8200000000000001
+not_anxious,2018,hartford_inner_ring,Total,Total,0.85
+not_anxious,2018,hartford_inner_ring,Gender,Male,0.86
+not_anxious,2018,hartford_inner_ring,Gender,Female,0.85
+not_anxious,2018,hartford_inner_ring,Age,Ages 18-34,0.77
+not_anxious,2018,hartford_inner_ring,Age,Ages 35-49,0.8686868686868687
+not_anxious,2018,hartford_inner_ring,Age,Ages 50-64,0.88
+not_anxious,2018,hartford_inner_ring,Age,Ages 65+,0.9090909090909092
+not_anxious,2018,hartford_inner_ring,Race/Ethnicity,White,0.86
+not_anxious,2018,hartford_inner_ring,Race/Ethnicity,Black,0.9
+not_anxious,2018,hartford_inner_ring,Race/Ethnicity,Latino,0.76
+not_anxious,2018,hartford_inner_ring,Education,High school or less,0.8400000000000001
+not_anxious,2018,hartford_inner_ring,Education,Some college or Associate's,0.8400000000000001
+not_anxious,2018,hartford_inner_ring,Education,Bachelor's or higher,0.87
+not_anxious,2018,hartford_inner_ring,Income,<$15K,0.686868686868687
+not_anxious,2018,hartford_inner_ring,Income,$15K-$30K,0.8484848484848486
+not_anxious,2018,hartford_inner_ring,Income,$30K-$50K,0.83
+not_anxious,2018,hartford_inner_ring,Income,$50K-$75K,0.85
+not_anxious,2018,hartford_inner_ring,Income,$75K-$100K,0.9090909090909091
+not_anxious,2018,hartford_inner_ring,Income,$100K+,0.8999999999999999
+not_anxious,2018,hartford_inner_ring,With children,No children,0.86
+not_anxious,2018,hartford_inner_ring,With children,Children in household,0.8484848484848486
+not_anxious,2018,hartford_outer_ring,Total,Total,0.9183673469387755
+not_anxious,2018,hartford_outer_ring,Gender,Male,0.8999999999999999
+not_anxious,2018,hartford_outer_ring,Gender,Female,0.9081632653061225
+not_anxious,2018,hartford_outer_ring,Age,Ages 18-34,0.81
+not_anxious,2018,hartford_outer_ring,Age,Ages 35-49,0.95
+not_anxious,2018,hartford_outer_ring,Age,Ages 50-64,0.9393939393939393
+not_anxious,2018,hartford_outer_ring,Age,Ages 65+,0.88659793814433
+not_anxious,2018,hartford_outer_ring,Race/Ethnicity,White,0.9
+not_anxious,2018,hartford_outer_ring,Race/Ethnicity,Not white,0.8484848484848486
+not_anxious,2018,hartford_outer_ring,Education,High school or less,0.8556701030927835
+not_anxious,2018,hartford_outer_ring,Education,Some college or Associate's,0.9
+not_anxious,2018,hartford_outer_ring,Education,Bachelor's or higher,0.9292929292929293
+not_anxious,2018,hartford_outer_ring,Income,<$30K,0.8400000000000001
+not_anxious,2018,hartford_outer_ring,Income,$30K-$75K,0.9
+not_anxious,2018,hartford_outer_ring,Income,$75K+,0.9090909090909092
+not_anxious,2018,hartford_outer_ring,With children,No children,0.9081632653061225
+not_anxious,2018,hartford_outer_ring,With children,Children in household,0.91
+not_anxious,2018,manchester,Total,Total,0.8
+not_anxious,2018,manchester,Gender,Male,0.81
+not_anxious,2018,manchester,Gender,Female,0.79
+not_anxious,2018,manchester,Age,Under age 55,0.74
+not_anxious,2018,manchester,Age,Age 55 or older,0.9
+not_anxious,2018,manchester,Education,Bachelor's or higher,0.88
+not_anxious,2018,manchester,Education,Some college or less,0.73
+not_anxious,2018,manchester,Income,$75K+,0.81
+not_anxious,2018,manchester,Income,<$75K,0.75
+not_anxious,2018,meriden,Total,Total,0.8673469387755102
+not_anxious,2018,meriden,Gender,Male,0.8673469387755102
+not_anxious,2018,meriden,Gender,Female,0.8484848484848485
+not_anxious,2018,meriden,Age,Under age 55,0.8282828282828284
+not_anxious,2018,meriden,Age,Age 55 or older,0.9285714285714286
+not_anxious,2018,meriden,Race/Ethnicity,White,0.8775510204081632
+not_anxious,2018,meriden,Race/Ethnicity,Not white,0.84
+not_anxious,2018,meriden,Education,High school or less,0.7755102040816326
+not_anxious,2018,meriden,Education,Some college or Associate's,0.8282828282828284
+not_anxious,2018,meriden,Education,Bachelor's or higher,0.97
+not_anxious,2018,meriden,Income,<$30K,0.7142857142857143
+not_anxious,2018,meriden,Income,$30K-$75K,0.8686868686868687
+not_anxious,2018,meriden,Income,$75K+,0.95
+not_anxious,2018,meriden,With children,No children,0.8367346938775511
+not_anxious,2018,meriden,With children,Children in household,0.9191919191919191
+not_anxious,2018,middlesex_county,Total,Total,0.9099999999999999
+not_anxious,2018,middlesex_county,Gender,Male,0.92
+not_anxious,2018,middlesex_county,Gender,Female,0.89
+not_anxious,2018,middlesex_county,Age,Under age 55,0.9299999999999999
+not_anxious,2018,middlesex_county,Age,Age 55 or older,0.8979591836734694
+not_anxious,2018,middlesex_county,Education,High school or less,0.86
+not_anxious,2018,middlesex_county,Education,Some college or Associate's,0.8979591836734694
+not_anxious,2018,middlesex_county,Education,Bachelor's or higher,0.9400000000000001
+not_anxious,2018,middlesex_county,Income,$75K+,0.9299999999999999
+not_anxious,2018,middlesex_county,Income,<$75K,0.8999999999999999
+not_anxious,2018,middlesex_county,With children,No children,0.9191919191919191
+not_anxious,2018,middlesex_county,With children,Children in household,0.91
+not_anxious,2018,middletown,Total,Total,0.9183673469387754
+not_anxious,2018,middletown,Gender,Male,0.9489795918367347
+not_anxious,2018,middletown,Gender,Female,0.8686868686868688
+not_anxious,2018,middletown,Age,Under age 55,0.9090909090909093
+not_anxious,2018,middletown,Age,Age 55 or older,0.9175257731958764
+not_anxious,2018,middletown,Education,Bachelor's or higher,0.9090909090909091
+not_anxious,2018,middletown,Education,Some college or less,0.9090909090909092
+not_anxious,2018,middletown,Income,$75K+,0.9494949494949495
+not_anxious,2018,middletown,Income,<$75K,0.8699999999999999
+not_anxious,2018,milford,Total,Total,0.89
+not_anxious,2018,milford,Gender,Male,0.87
+not_anxious,2018,milford,Gender,Female,0.9489795918367346
+not_anxious,2018,milford,Age,Under age 55,0.87
+not_anxious,2018,milford,Age,Age 55 or older,0.9292929292929294
+not_anxious,2018,milford,Education,Bachelor's or higher,0.9090909090909092
+not_anxious,2018,milford,Education,Some college or less,0.898989898989899
+not_anxious,2018,milford,Income,$75K+,0.9
+not_anxious,2018,milford,Income,<$75K,0.9
+not_anxious,2018,milford,With children,No children,0.9292929292929294
+not_anxious,2018,milford,With children,Children in household,0.85
+not_anxious,2018,monroe,Total,Total,0.88
+not_anxious,2018,ncdhd,Total,Total,0.8181818181818182
+not_anxious,2018,ncdhd,Gender,Male,0.81
+not_anxious,2018,ncdhd,Gender,Female,0.8181818181818182
+not_anxious,2018,ncdhd,Age,Under age 55,0.78
+not_anxious,2018,ncdhd,Age,Age 55 or older,0.8877551020408164
+not_anxious,2018,ncdhd,Race/Ethnicity,White,0.83
+not_anxious,2018,ncdhd,Race/Ethnicity,Not white,0.7373737373737373
+not_anxious,2018,ncdhd,Education,High school or less,0.8673469387755102
+not_anxious,2018,ncdhd,Education,Some college or Associate's,0.81
+not_anxious,2018,ncdhd,Education,Bachelor's or higher,0.8
+not_anxious,2018,ncdhd,Income,<$30K,0.75
+not_anxious,2018,ncdhd,Income,$30K-$75K,0.77
+not_anxious,2018,ncdhd,Income,$75K+,0.88
+not_anxious,2018,ncdhd,With children,No children,0.8080808080808082
+not_anxious,2018,ncdhd,With children,Children in household,0.82
+not_anxious,2018,nddh,Total,Total,0.888888888888889
+not_anxious,2018,nddh,Gender,Male,0.888888888888889
+not_anxious,2018,nddh,Gender,Female,0.89
+not_anxious,2018,nddh,Age,Under age 55,0.87
+not_anxious,2018,nddh,Age,Age 55 or older,0.9090909090909092
+not_anxious,2018,nddh,Education,High school or less,0.9183673469387755
+not_anxious,2018,nddh,Education,Some college or Associate's,0.82
+not_anxious,2018,nddh,Education,Bachelor's or higher,0.9199999999999999
+not_anxious,2018,nddh,Income,<$30K,0.8181818181818182
+not_anxious,2018,nddh,Income,$30K-$75K,0.898989898989899
+not_anxious,2018,nddh,Income,$75K+,0.93
+not_anxious,2018,nddh,With children,No children,0.888888888888889
+not_anxious,2018,nddh,With children,Children in household,0.89
+not_anxious,2018,new_britain,Total,Total,0.8585858585858586
+not_anxious,2018,new_britain,Gender,Male,0.8367346938775511
+not_anxious,2018,new_britain,Gender,Female,0.8686868686868688
+not_anxious,2018,new_britain,Age,Under age 55,0.8484848484848485
+not_anxious,2018,new_britain,Age,Age 55 or older,0.8571428571428572
+not_anxious,2018,new_britain,Race/Ethnicity,White,0.8571428571428571
+not_anxious,2018,new_britain,Race/Ethnicity,Not white,0.8686868686868687
+not_anxious,2018,new_britain,Education,High school or less,0.797979797979798
+not_anxious,2018,new_britain,Education,Some college or Associate's,0.8787878787878788
+not_anxious,2018,new_britain,Education,Bachelor's or higher,0.9081632653061225
+not_anxious,2018,new_britain,Income,<$30K,0.79
+not_anxious,2018,new_britain,Income,$30K-$75K,0.8775510204081632
+not_anxious,2018,new_britain,Income,$75K+,0.9299999999999999
+not_anxious,2018,new_britain,With children,No children,0.846938775510204
+not_anxious,2018,new_britain,With children,Children in household,0.85
+not_anxious,2018,new_haven,Total,Total,0.8484848484848486
+not_anxious,2018,new_haven,Gender,Male,0.8484848484848485
+not_anxious,2018,new_haven,Gender,Female,0.8383838383838383
+not_anxious,2018,new_haven,Age,Ages 18-34,0.8300000000000001
+not_anxious,2018,new_haven,Age,Ages 35-49,0.8080808080808082
+not_anxious,2018,new_haven,Age,Ages 50-64,0.89
+not_anxious,2018,new_haven,Age,Ages 65+,0.8469387755102041
+not_anxious,2018,new_haven,Race/Ethnicity,White,0.8686868686868688
+not_anxious,2018,new_haven,Race/Ethnicity,Black,0.8282828282828284
+not_anxious,2018,new_haven,Race/Ethnicity,Latino,0.7777777777777778
+not_anxious,2018,new_haven,Education,High school or less,0.7676767676767677
+not_anxious,2018,new_haven,Education,Some college or Associate's,0.8282828282828284
+not_anxious,2018,new_haven,Education,Bachelor's or higher,0.9090909090909092
+not_anxious,2018,new_haven,Income,<$30K,0.7474747474747475
+not_anxious,2018,new_haven,Income,$30K-$75K,0.9090909090909092
+not_anxious,2018,new_haven,Income,$75K+,0.94
+not_anxious,2018,new_haven,With children,No children,0.8400000000000001
+not_anxious,2018,new_haven,With children,Children in household,0.8282828282828284
+not_anxious,2018,new_haven_inner_ring,Total,Total,0.83
+not_anxious,2018,new_haven_inner_ring,Gender,Male,0.8585858585858587
+not_anxious,2018,new_haven_inner_ring,Gender,Female,0.8300000000000001
+not_anxious,2018,new_haven_inner_ring,Age,Ages 18-34,0.8
+not_anxious,2018,new_haven_inner_ring,Age,Ages 35-49,0.83
+not_anxious,2018,new_haven_inner_ring,Age,Ages 50-64,0.86
+not_anxious,2018,new_haven_inner_ring,Age,Ages 65+,0.9285714285714285
+not_anxious,2018,new_haven_inner_ring,Race/Ethnicity,White,0.87
+not_anxious,2018,new_haven_inner_ring,Race/Ethnicity,Black,0.8787878787878789
+not_anxious,2018,new_haven_inner_ring,Race/Ethnicity,Latino,0.79
+not_anxious,2018,new_haven_inner_ring,Education,High school or less,0.83
+not_anxious,2018,new_haven_inner_ring,Education,Some college or Associate's,0.8585858585858586
+not_anxious,2018,new_haven_inner_ring,Education,Bachelor's or higher,0.8400000000000001
+not_anxious,2018,new_haven_inner_ring,Income,<$30K,0.77
+not_anxious,2018,new_haven_inner_ring,Income,$30K-$75K,0.83
+not_anxious,2018,new_haven_inner_ring,Income,$75K+,0.87
+not_anxious,2018,new_haven_inner_ring,With children,No children,0.8484848484848485
+not_anxious,2018,new_haven_inner_ring,With children,Children in household,0.82
+not_anxious,2018,new_haven_outer_ring,Total,Total,0.88
+not_anxious,2018,new_haven_outer_ring,Gender,Male,0.87
+not_anxious,2018,new_haven_outer_ring,Gender,Female,0.8989898989898989
+not_anxious,2018,new_haven_outer_ring,Age,Ages 18-34,0.8500000000000001
+not_anxious,2018,new_haven_outer_ring,Age,Ages 35-49,0.8200000000000001
+not_anxious,2018,new_haven_outer_ring,Age,Ages 50-64,0.9
+not_anxious,2018,new_haven_outer_ring,Age,Ages 65+,0.96
+not_anxious,2018,new_haven_outer_ring,Education,High school or less,0.9
+not_anxious,2018,new_haven_outer_ring,Education,Some college or Associate's,0.81
+not_anxious,2018,new_haven_outer_ring,Education,Bachelor's or higher,0.9199999999999999
+not_anxious,2018,new_haven_outer_ring,Income,<$30K,0.94
+not_anxious,2018,new_haven_outer_ring,Income,$30K-$75K,0.81
+not_anxious,2018,new_haven_outer_ring,Income,$75K+,0.8999999999999999
+not_anxious,2018,new_haven_outer_ring,With children,No children,0.9199999999999999
+not_anxious,2018,new_haven_outer_ring,With children,Children in household,0.81
+not_anxious,2018,new_london,Total,Total,0.7628865979381444
+not_anxious,2018,new_london,Gender,Male,0.7894736842105263
+not_anxious,2018,new_london,Gender,Female,0.7551020408163265
+not_anxious,2018,new_london,Age,Under age 55,0.7113402061855669
+not_anxious,2018,new_london,Age,Age 55 or older,0.8958333333333334
+not_anxious,2018,new_london,Race/Ethnicity,White,0.75
+not_anxious,2018,new_london,Race/Ethnicity,Not white,0.768421052631579
+not_anxious,2018,new_london,Education,Bachelor's or higher,0.78
+not_anxious,2018,new_london,Education,Less than Bachelor's degree,0.7473684210526316
+not_anxious,2018,new_london,Income,$75K+,0.8300000000000001
+not_anxious,2018,new_london,Income,<$75K,0.7187500000000001
+not_anxious,2018,new_milford,Total,Total,0.86
+not_anxious,2018,new_milford,Gender,Male,0.8787878787878788
+not_anxious,2018,new_milford,Gender,Female,0.84
+not_anxious,2018,new_milford,Age,Under age 55,0.84
+not_anxious,2018,new_milford,Age,Age 55 or older,0.9081632653061223
+not_anxious,2018,new_milford,Education,High school or less,0.898989898989899
+not_anxious,2018,new_milford,Education,Some college or Associate's,0.7676767676767677
+not_anxious,2018,new_milford,Education,Bachelor's or higher,0.9
+not_anxious,2018,new_milford,Income,$75K+,0.91
+not_anxious,2018,new_milford,Income,<$75K,0.8181818181818182
+not_anxious,2018,new_milford,With children,No children,0.85
+not_anxious,2018,new_milford,With children,Children in household,0.898989898989899
+not_anxious,2018,newtown,Total,Total,0.8686868686868687
+not_anxious,2018,newtown,Gender,Male,0.888888888888889
+not_anxious,2018,newtown,Gender,Female,0.8686868686868687
+not_anxious,2018,newtown,Age,Under age 55,0.8469387755102041
+not_anxious,2018,newtown,Age,Age 55 or older,0.9191919191919192
+not_anxious,2018,newtown,Education,Bachelor's or higher,0.9
+not_anxious,2018,newtown,Education,Some college or less,0.836734693877551
+not_anxious,2018,newtown,Income,$75K+,0.888888888888889
+not_anxious,2018,newtown,Income,<$75K,0.8099999999999999
+not_anxious,2018,newtown,With children,No children,0.8775510204081632
+not_anxious,2018,newtown,With children,Children in household,0.88
+not_anxious,2018,norwalk,Total,Total,0.8673469387755102
+not_anxious,2018,norwalk,Gender,Male,0.8571428571428572
+not_anxious,2018,norwalk,Gender,Female,0.8787878787878788
+not_anxious,2018,norwalk,Age,Ages 18-34,0.79
+not_anxious,2018,norwalk,Age,Ages 35-49,0.8979591836734695
+not_anxious,2018,norwalk,Age,Ages 50-64,0.8969072164948454
+not_anxious,2018,norwalk,Age,Ages 65+,0.8673469387755102
+not_anxious,2018,norwalk,Race/Ethnicity,White,0.88
+not_anxious,2018,norwalk,Race/Ethnicity,Not white,0.826530612244898
+not_anxious,2018,norwalk,Education,High school or less,0.8229166666666667
+not_anxious,2018,norwalk,Education,Some college or Associate's,0.8181818181818182
+not_anxious,2018,norwalk,Education,Bachelor's or higher,0.898989898989899
+not_anxious,2018,norwalk,Income,<$30K,0.7916666666666667
+not_anxious,2018,norwalk,Income,$30K-$75K,0.8181818181818182
+not_anxious,2018,norwalk,Income,$75K+,0.9090909090909092
+not_anxious,2018,norwalk,With children,No children,0.8673469387755102
+not_anxious,2018,norwalk,With children,Children in household,0.8383838383838385
+not_anxious,2018,nyborder,Total,Total,0.8673469387755102
+not_anxious,2018,nyborder,Gender,Male,0.8571428571428571
+not_anxious,2018,nyborder,Gender,Female,0.8775510204081634
+not_anxious,2018,nyborder,Age,Ages 18-34,0.8163265306122449
+not_anxious,2018,nyborder,Age,Ages 35-49,0.8367346938775511
+not_anxious,2018,nyborder,Age,Ages 50-64,0.84
+not_anxious,2018,nyborder,Age,Ages 65+,0.9183673469387755
+not_anxious,2018,nyborder,Race/Ethnicity,White,0.888888888888889
+not_anxious,2018,nyborder,Race/Ethnicity,Not white,0.8181818181818182
+not_anxious,2018,nyborder,Education,High school or less,0.797979797979798
+not_anxious,2018,nyborder,Education,Some college or Associate's,0.8383838383838385
+not_anxious,2018,nyborder,Education,Bachelor's or higher,0.9175257731958764
+not_anxious,2018,nyborder,Income,<$30K,0.7525773195876289
+not_anxious,2018,nyborder,Income,$30K-$75K,0.8877551020408163
+not_anxious,2018,nyborder,Income,$75K+,0.87
+not_anxious,2018,nyborder,With children,No children,0.8888888888888891
+not_anxious,2018,nyborder,With children,Children in household,0.836734693877551
+not_anxious,2018,pomperaug,Total,Total,0.86
+not_anxious,2018,pomperaug,Gender,Male,0.8500000000000001
+not_anxious,2018,pomperaug,Gender,Female,0.87
+not_anxious,2018,pomperaug,Age,Under age 55,0.83
+not_anxious,2018,pomperaug,Age,Age 55 or older,0.88
+not_anxious,2018,pomperaug,Education,Bachelor's or higher,0.9
+not_anxious,2018,pomperaug,Education,Some college or less,0.79
+not_anxious,2018,pomperaug,Income,$75K+,0.9199999999999999
+not_anxious,2018,pomperaug,Income,<$75K,0.75
+not_anxious,2018,pomperaug,With children,No children,0.86
+not_anxious,2018,pomperaug,With children,Children in household,0.88
+not_anxious,2018,port_chester_ny,Total,Total,0.86
+not_anxious,2018,port_chester_ny,Gender,Male,0.9
+not_anxious,2018,port_chester_ny,Gender,Female,0.8484848484848486
+not_anxious,2018,port_chester_ny,Age,Under age 55,0.8484848484848486
+not_anxious,2018,port_chester_ny,Age,Age 55 or older,0.8888888888888891
+not_anxious,2018,port_chester_ny,Race/Ethnicity,White,0.8787878787878788
+not_anxious,2018,port_chester_ny,Race/Ethnicity,Not white,0.85
+not_anxious,2018,port_chester_ny,Education,High school or less,0.78
+not_anxious,2018,port_chester_ny,Education,Some college or Associate's,0.8673469387755103
+not_anxious,2018,port_chester_ny,Education,Bachelor's or higher,0.9393939393939394
+not_anxious,2018,port_chester_ny,Income,$75K+,0.87
+not_anxious,2018,port_chester_ny,Income,<$75K,0.85
+not_anxious,2018,port_chester_ny,With children,No children,0.88
+not_anxious,2018,port_chester_ny,With children,Children in household,0.8300000000000001
+not_anxious,2018,stamford,Total,Total,0.888888888888889
+not_anxious,2018,stamford,Gender,Male,0.9183673469387755
+not_anxious,2018,stamford,Gender,Female,0.8686868686868687
+not_anxious,2018,stamford,Age,Ages 18-34,0.87
+not_anxious,2018,stamford,Age,Ages 35-49,0.8877551020408163
+not_anxious,2018,stamford,Age,Ages 50-64,0.92
+not_anxious,2018,stamford,Age,Ages 65+,0.8877551020408163
+not_anxious,2018,stamford,Race/Ethnicity,White,0.898989898989899
+not_anxious,2018,stamford,Race/Ethnicity,Black,0.898989898989899
+not_anxious,2018,stamford,Race/Ethnicity,Latino,0.8300000000000001
+not_anxious,2018,stamford,Education,High school or less,0.787878787878788
+not_anxious,2018,stamford,Education,Some college or Associate's,0.888888888888889
+not_anxious,2018,stamford,Education,Bachelor's or higher,0.9285714285714286
+not_anxious,2018,stamford,Income,<$30K,0.7474747474747475
+not_anxious,2018,stamford,Income,$30K-$75K,0.8787878787878788
+not_anxious,2018,stamford,Income,$75K+,0.9393939393939393
+not_anxious,2018,stamford,With children,No children,0.8877551020408163
+not_anxious,2018,stamford,With children,Children in household,0.9090909090909091
+not_anxious,2018,stratford,Total,Total,0.84
+not_anxious,2018,stratford,Gender,Male,0.82
+not_anxious,2018,stratford,Gender,Female,0.8585858585858586
+not_anxious,2018,stratford,Age,Under age 55,0.8
+not_anxious,2018,stratford,Age,Age 55 or older,0.888888888888889
+not_anxious,2018,stratford,Education,High school or less,0.7575757575757576
+not_anxious,2018,stratford,Education,Some college or Associate's,0.8
+not_anxious,2018,stratford,Education,Bachelor's or higher,0.92
+not_anxious,2018,stratford,Income,$75K+,0.88
+not_anxious,2018,stratford,Income,<$75K,0.8181818181818182
+not_anxious,2018,stratford,With children,No children,0.8282828282828284
+not_anxious,2018,stratford,With children,Children in household,0.86
+not_anxious,2018,trumbull,Total,Total,0.9292929292929293
+not_anxious,2018,trumbull,Gender,Male,0.898989898989899
+not_anxious,2018,trumbull,Gender,Female,0.95
+not_anxious,2018,trumbull,Age,Under age 55,0.9199999999999999
+not_anxious,2018,trumbull,Age,Age 55 or older,0.9191919191919192
+not_anxious,2018,trumbull,Education,Bachelor's or higher,0.9494949494949495
+not_anxious,2018,trumbull,Education,Some college or less,0.91
+not_anxious,2018,trumbull,Income,$100K+,0.9292929292929293
+not_anxious,2018,trumbull,Income,<$100K,0.91
+not_anxious,2018,valley,Total,Total,0.898989898989899
+not_anxious,2018,valley,Gender,Male,0.8979591836734694
+not_anxious,2018,valley,Gender,Female,0.9
+not_anxious,2018,valley,Age,Ages 18-34,0.8484848484848485
+not_anxious,2018,valley,Age,Ages 35-49,0.9
+not_anxious,2018,valley,Age,Ages 50-64,0.9494949494949495
+not_anxious,2018,valley,Age,Ages 65+,0.8958333333333335
+not_anxious,2018,valley,Race/Ethnicity,White,0.888888888888889
+not_anxious,2018,valley,Race/Ethnicity,Not white,0.9191919191919192
+not_anxious,2018,valley,Education,High school or less,0.8571428571428572
+not_anxious,2018,valley,Education,Some college or Associate's,0.8775510204081632
+not_anxious,2018,valley,Education,Bachelor's or higher,0.93
+not_anxious,2018,valley,Income,<$30K,0.8775510204081632
+not_anxious,2018,valley,Income,$30K-$75K,0.8686868686868687
+not_anxious,2018,valley,Income,$75K+,0.9199999999999999
+not_anxious,2018,valley,With children,No children,0.898989898989899
+not_anxious,2018,valley,With children,Children in household,0.89
+not_anxious,2018,wallingford,Total,Total,0.888888888888889
+not_anxious,2018,wallingford,Gender,Male,0.9494949494949495
+not_anxious,2018,wallingford,Gender,Female,0.83
+not_anxious,2018,wallingford,Age,Under age 55,0.86
+not_anxious,2018,wallingford,Age,Age 55 or older,0.9191919191919192
+not_anxious,2018,wallingford,Education,Bachelor's or higher,0.9292929292929294
+not_anxious,2018,wallingford,Education,Some college or less,0.84
+not_anxious,2018,wallingford,Income,$75K+,0.9400000000000001
+not_anxious,2018,wallingford,Income,<$75K,0.8383838383838383
+not_anxious,2018,waterbury,Total,Total,0.8265306122448979
+not_anxious,2018,waterbury,Gender,Male,0.8571428571428572
+not_anxious,2018,waterbury,Gender,Female,0.8144329896907218
+not_anxious,2018,waterbury,Age,Ages 18-34,0.77
+not_anxious,2018,waterbury,Age,Ages 35-49,0.8282828282828284
+not_anxious,2018,waterbury,Age,Ages 50-64,0.8762886597938144
+not_anxious,2018,waterbury,Age,Ages 65+,0.8645833333333335
+not_anxious,2018,waterbury,Race/Ethnicity,White,0.8383838383838385
+not_anxious,2018,waterbury,Race/Ethnicity,Black,0.8787878787878788
+not_anxious,2018,waterbury,Race/Ethnicity,Latino,0.8080808080808082
+not_anxious,2018,waterbury,Education,High school or less,0.7857142857142857
+not_anxious,2018,waterbury,Education,Some college or Associate's,0.8383838383838385
+not_anxious,2018,waterbury,Education,Bachelor's or higher,0.8686868686868687
+not_anxious,2018,waterbury,Income,<$30K,0.7628865979381444
+not_anxious,2018,waterbury,Income,$30K-$75K,0.84
+not_anxious,2018,waterbury,Income,$75K+,0.91
+not_anxious,2018,waterbury,With children,No children,0.8469387755102041
+not_anxious,2018,waterbury,With children,Children in household,0.797979797979798
+not_anxious,2018,west_hartford,Total,Total,0.9166666666666667
+not_anxious,2018,west_hartford,Gender,Male,0.872340425531915
+not_anxious,2018,west_hartford,Gender,Female,0.9393939393939393
+not_anxious,2018,west_hartford,Age,Under age 55,0.9263157894736844
+not_anxious,2018,west_hartford,Age,Age 55 or older,0.9081632653061223
+not_anxious,2018,west_hartford,Education,Bachelor's or higher,0.9583333333333334
+not_anxious,2018,west_hartford,Education,Some college or less,0.8080808080808082
+not_anxious,2018,west_hartford,Income,$75K+,0.9473684210526316
+not_anxious,2018,west_hartford,Income,<$75K,0.8585858585858587
+not_anxious,2018,west_hartford,With children,No children,0.9255319148936171
+not_anxious,2018,west_hartford,With children,Children in household,0.8899999999999999
+not_anxious,2018,west_haven,Total,Total,0.8300000000000001
+not_anxious,2018,west_haven,Gender,Male,0.8383838383838385
+not_anxious,2018,west_haven,Gender,Female,0.8200000000000001
+not_anxious,2018,west_haven,Age,Under age 55,0.8
+not_anxious,2018,west_haven,Age,Age 55 or older,0.9292929292929294
+not_anxious,2018,west_haven,Race/Ethnicity,White,0.86
+not_anxious,2018,west_haven,Race/Ethnicity,Not white,0.8080808080808082
+not_anxious,2018,west_haven,Education,High school or less,0.85
+not_anxious,2018,west_haven,Education,Some college or Associate's,0.8
+not_anxious,2018,west_haven,Education,Bachelor's or higher,0.8484848484848485
+not_anxious,2018,west_haven,Income,$75K+,0.82
+not_anxious,2018,west_haven,Income,<$75K,0.8282828282828284
+not_anxious,2018,west_haven,With children,No children,0.83
+not_anxious,2018,west_haven,With children,Children in household,0.8383838383838385
+mostly_happy,2018,5ct,Wealthy,Wealthy,0.7373737373737373
+mostly_happy,2018,5ct,Suburban,Suburban,0.74
+mostly_happy,2018,5ct,Rural,Rural,0.6868686868686869
+mostly_happy,2018,5ct,Urban Periphery,Urban Periphery,0.6868686868686869
+mostly_happy,2018,5ct,Urban Core,Urban Core,0.6060606060606062
+mostly_happy,2018,bridgeport,Total,Total,0.6060606060606061
+mostly_happy,2018,bridgeport,Gender,Male,0.6161616161616161
+mostly_happy,2018,bridgeport,Gender,Female,0.595959595959596
+mostly_happy,2018,bridgeport,Age,Ages 18-34,0.5900000000000001
+mostly_happy,2018,bridgeport,Age,Ages 35-49,0.5700000000000001
+mostly_happy,2018,bridgeport,Age,Ages 50-64,0.62
+mostly_happy,2018,bridgeport,Age,Ages 65+,0.6736842105263159
+mostly_happy,2018,bridgeport,Race/Ethnicity,White,0.595959595959596
+mostly_happy,2018,bridgeport,Race/Ethnicity,Black,0.6161616161616161
+mostly_happy,2018,bridgeport,Race/Ethnicity,Latino,0.5700000000000001
+mostly_happy,2018,bridgeport,Education,High school or less,0.5757575757575758
+mostly_happy,2018,bridgeport,Education,Some college or Associate's,0.5918367346938777
+mostly_happy,2018,bridgeport,Education,Bachelor's or higher,0.66
+mostly_happy,2018,bridgeport,Income,<$30K,0.5252525252525253
+mostly_happy,2018,bridgeport,Income,$30K-$75K,0.62
+mostly_happy,2018,bridgeport,Income,$75K+,0.6599999999999999
+mostly_happy,2018,bridgeport,With children,No children,0.6224489795918368
+mostly_happy,2018,bridgeport,With children,Children in household,0.5900000000000001
+mostly_happy,2018,bristol,Total,Total,0.7
+mostly_happy,2018,bristol,Gender,Male,0.74
+mostly_happy,2018,bristol,Gender,Female,0.64
+mostly_happy,2018,bristol,Age,Under age 55,0.66
+mostly_happy,2018,bristol,Age,Age 55 or older,0.73
+mostly_happy,2018,bristol,Education,Bachelor's or higher,0.72
+mostly_happy,2018,bristol,Education,Some college or less,0.6799999999999999
+mostly_happy,2018,bristol,Income,$75K+,0.8400000000000001
+mostly_happy,2018,bristol,Income,<$75K,0.5800000000000001
+mostly_happy,2018,bristol,With children,No children,0.6699999999999999
+mostly_happy,2018,bristol,With children,Children in household,0.71
+mostly_happy,2018,cchd_central_ct_health_district,Total,Total,0.7346938775510204
+mostly_happy,2018,cchd_central_ct_health_district,Gender,Male,0.7422680412371134
+mostly_happy,2018,cchd_central_ct_health_district,Gender,Female,0.7272727272727273
+mostly_happy,2018,cchd_central_ct_health_district,Age,Under age 55,0.7070707070707071
+mostly_happy,2018,cchd_central_ct_health_district,Age,Age 55 or older,0.7835051546391752
+mostly_happy,2018,cchd_central_ct_health_district,Education,Bachelor's or higher,0.7395833333333334
+mostly_happy,2018,cchd_central_ct_health_district,Education,Some college or less,0.73
+mostly_happy,2018,cchd_central_ct_health_district,Income,$75K+,0.787878787878788
+mostly_happy,2018,cchd_central_ct_health_district,Income,<$75K,0.6354166666666666
+mostly_happy,2018,cchd_central_ct_health_district,With children,No children,0.7653061224489796
+mostly_happy,2018,cchd_central_ct_health_district,With children,Children in household,0.653061224489796
+mostly_happy,2018,chesprocott,Total,Total,0.74
+mostly_happy,2018,chesprocott,Gender,Male,0.74
+mostly_happy,2018,chesprocott,Gender,Female,0.75
+mostly_happy,2018,chesprocott,Age,Under age 55,0.75
+mostly_happy,2018,chesprocott,Age,Age 55 or older,0.76
+mostly_happy,2018,chesprocott,Education,Bachelor's or higher,0.74
+mostly_happy,2018,chesprocott,Education,Some college or less,0.76
+mostly_happy,2018,chesprocott,Income,$75K+,0.83
+mostly_happy,2018,chesprocott,Income,<$75K,0.6464646464646465
+mostly_happy,2018,chesprocott,With children,No children,0.72
+mostly_happy,2018,chesprocott,With children,Children in household,0.77
+mostly_happy,2018,connecticut,Total,Total,0.6969696969696969
+mostly_happy,2018,connecticut,Gender,Male,0.6868686868686869
+mostly_happy,2018,connecticut,Gender,Female,0.68
+mostly_happy,2018,connecticut,Age,Ages 18-34,0.62
+mostly_happy,2018,connecticut,Age,Ages 35-49,0.6799999999999999
+mostly_happy,2018,connecticut,Age,Ages 50-64,0.7
+mostly_happy,2018,connecticut,Age,Ages 65+,0.7653061224489796
+mostly_happy,2018,connecticut,Race/Ethnicity,White,0.7
+mostly_happy,2018,connecticut,Race/Ethnicity,Black,0.6565656565656566
+mostly_happy,2018,connecticut,Race/Ethnicity,Latino,0.6000000000000001
+mostly_happy,2018,connecticut,Education,High school or less,0.6363636363636364
+mostly_happy,2018,connecticut,Education,Some college or Associate's,0.64
+mostly_happy,2018,connecticut,Education,Bachelor's or higher,0.7474747474747475
+mostly_happy,2018,connecticut,Income,<$15K,0.49
+mostly_happy,2018,connecticut,Income,$15K-$30K,0.5656565656565657
+mostly_happy,2018,connecticut,Income,$30K-$50K,0.63
+mostly_happy,2018,connecticut,Income,$50K-$75K,0.6699999999999999
+mostly_happy,2018,connecticut,Income,$75K-$100K,0.73
+mostly_happy,2018,connecticut,Income,$100K-$200K,0.77
+mostly_happy,2018,connecticut,Income,$200K+,0.8
+mostly_happy,2018,connecticut,With children,No children,0.6969696969696969
+mostly_happy,2018,connecticut,With children,Children in household,0.69
+mostly_happy,2018,danbury,Total,Total,0.7070707070707071
+mostly_happy,2018,danbury,Gender,Male,0.6836734693877551
+mostly_happy,2018,danbury,Gender,Female,0.7373737373737373
+mostly_happy,2018,danbury,Age,Ages 18-34,0.61
+mostly_happy,2018,danbury,Age,Ages 35-49,0.7551020408163265
+mostly_happy,2018,danbury,Age,Ages 50-64,0.7551020408163265
+mostly_happy,2018,danbury,Age,Ages 65+,0.7857142857142857
+mostly_happy,2018,danbury,Race/Ethnicity,White,0.7346938775510204
+mostly_happy,2018,danbury,Race/Ethnicity,Not white,0.6666666666666667
+mostly_happy,2018,danbury,Education,High school or less,0.653061224489796
+mostly_happy,2018,danbury,Education,Some college or Associate's,0.69
+mostly_happy,2018,danbury,Education,Bachelor's or higher,0.7551020408163265
+mostly_happy,2018,danbury,Income,<$30K,0.5858585858585859
+mostly_happy,2018,danbury,Income,$30K-$75K,0.69
+mostly_happy,2018,danbury,Income,$75K+,0.7373737373737373
+mostly_happy,2018,danbury,With children,No children,0.7448979591836735
+mostly_happy,2018,danbury,With children,Children in household,0.6767676767676767
+mostly_happy,2018,darien,Total,Total,0.7171717171717171
+mostly_happy,2018,darien,Gender,Male,0.76
+mostly_happy,2018,darien,Gender,Female,0.6767676767676767
+mostly_happy,2018,east_hartford,Total,Total,0.67
+mostly_happy,2018,east_haven,Total,Total,0.6464646464646465
+mostly_happy,2018,east_haven,Gender,Male,0.5816326530612246
+mostly_happy,2018,east_haven,Gender,Female,0.69
+mostly_happy,2018,east_haven,Age,Under age 55,0.61
+mostly_happy,2018,east_haven,Age,Age 55 or older,0.6938775510204082
+mostly_happy,2018,east_haven,Education,High school or less,0.5670103092783506
+mostly_happy,2018,east_haven,Education,Some college or higher,0.68
+mostly_happy,2018,east_haven,Income,$75K+,0.61
+mostly_happy,2018,east_haven,Income,<$75K,0.66
+mostly_happy,2018,ehhd,Total,Total,0.65
+mostly_happy,2018,ehhd,Gender,Male,0.56
+mostly_happy,2018,ehhd,Gender,Female,0.7373737373737373
+mostly_happy,2018,ehhd,Age,Under age 55,0.59
+mostly_happy,2018,ehhd,Age,Age 55 or older,0.7575757575757576
+mostly_happy,2018,ehhd,Education,Bachelor's or higher,0.787878787878788
+mostly_happy,2018,ehhd,Education,Some college or less,0.5
+mostly_happy,2018,ehhd,Income,$75K+,0.686868686868687
+mostly_happy,2018,ehhd,Income,<$75K,0.62
+mostly_happy,2018,ehhd,With children,No children,0.6767676767676768
+mostly_happy,2018,ehhd,With children,Children in household,0.59
+mostly_happy,2018,fairfield,Total,Total,0.7676767676767677
+mostly_happy,2018,fairfield,Gender,Male,0.77
+mostly_happy,2018,fairfield,Gender,Female,0.7575757575757576
+mostly_happy,2018,fairfield,Age,Under age 55,0.79
+mostly_happy,2018,fairfield,Age,Age 55 or older,0.7171717171717171
+mostly_happy,2018,fairfield,Education,Bachelor's or higher,0.81
+mostly_happy,2018,fairfield,Education,Some college or less,0.6565656565656566
+mostly_happy,2018,fairfield,Income,$75K+,0.8500000000000001
+mostly_happy,2018,fairfield,Income,<$75K,0.57
+mostly_happy,2018,fairfield,With children,No children,0.73
+mostly_happy,2018,fairfield,With children,Children in household,0.8
+mostly_happy,2018,fairfield_county,Total,Total,0.7070707070707071
+mostly_happy,2018,fairfield_county,Gender,Male,0.6969696969696969
+mostly_happy,2018,fairfield_county,Gender,Female,0.71
+mostly_happy,2018,fairfield_county,Age,Ages 18-34,0.64
+mostly_happy,2018,fairfield_county,Age,Ages 35-49,0.7
+mostly_happy,2018,fairfield_county,Age,Ages 50-64,0.73
+mostly_happy,2018,fairfield_county,Age,Ages 65+,0.7653061224489796
+mostly_happy,2018,fairfield_county,Race/Ethnicity,White,0.72
+mostly_happy,2018,fairfield_county,Race/Ethnicity,Black,0.6767676767676767
+mostly_happy,2018,fairfield_county,Race/Ethnicity,Latino,0.6262626262626263
+mostly_happy,2018,fairfield_county,Education,High school or less,0.6363636363636364
+mostly_happy,2018,fairfield_county,Education,Some college or Associate's,0.6699999999999999
+mostly_happy,2018,fairfield_county,Education,Bachelor's or higher,0.7474747474747475
+mostly_happy,2018,fairfield_county,Income,<$15K,0.5408163265306123
+mostly_happy,2018,fairfield_county,Income,$15K-$30K,0.5252525252525253
+mostly_happy,2018,fairfield_county,Income,$30K-$50K,0.6599999999999999
+mostly_happy,2018,fairfield_county,Income,$50K-$75K,0.68
+mostly_happy,2018,fairfield_county,Income,$75K-$100K,0.7373737373737373
+mostly_happy,2018,fairfield_county,Income,$100K-$200K,0.75
+mostly_happy,2018,fairfield_county,Income,$200K+,0.8300000000000001
+mostly_happy,2018,fairfield_county,With children,No children,0.7070707070707071
+mostly_happy,2018,fairfield_county,With children,Children in household,0.71
+mostly_happy,2018,fcht,Total,Total,0.6938775510204082
+mostly_happy,2018,fcht,Gender,Male,0.7395833333333334
+mostly_happy,2018,fcht,Gender,Female,0.67
+mostly_happy,2018,fcht,Age,Under age 55,0.6804123711340205
+mostly_happy,2018,fcht,Age,Age 55 or older,0.7171717171717171
+mostly_happy,2018,fcht,Education,Bachelor's or higher,0.7777777777777778
+mostly_happy,2018,fcht,Education,Some college or less,0.6185567010309279
+mostly_happy,2018,fcht,Income,$75K+,0.8
+mostly_happy,2018,fcht,Income,<$75K,0.5800000000000001
+mostly_happy,2018,greater_bridgeport,Total,Total,0.6599999999999999
+mostly_happy,2018,greater_bridgeport,Gender,Male,0.66
+mostly_happy,2018,greater_bridgeport,Gender,Female,0.6599999999999999
+mostly_happy,2018,greater_bridgeport,Age,Ages 18-34,0.5900000000000001
+mostly_happy,2018,greater_bridgeport,Age,Ages 35-49,0.6799999999999999
+mostly_happy,2018,greater_bridgeport,Age,Ages 50-64,0.66
+mostly_happy,2018,greater_bridgeport,Age,Ages 65+,0.7525773195876289
+mostly_happy,2018,greater_bridgeport,Race/Ethnicity,White,0.6799999999999999
+mostly_happy,2018,greater_bridgeport,Race/Ethnicity,Black,0.6565656565656565
+mostly_happy,2018,greater_bridgeport,Race/Ethnicity,Latino,0.5800000000000001
+mostly_happy,2018,greater_bridgeport,Education,High school or less,0.6000000000000001
+mostly_happy,2018,greater_bridgeport,Education,Some college or Associate's,0.6363636363636364
+mostly_happy,2018,greater_bridgeport,Education,Bachelor's or higher,0.71
+mostly_happy,2018,greater_bridgeport,Income,<$15K,0.5
+mostly_happy,2018,greater_bridgeport,Income,$15K-$30K,0.53
+mostly_happy,2018,greater_bridgeport,Income,$30K-$50K,0.63
+mostly_happy,2018,greater_bridgeport,Income,$50K-$75K,0.69
+mostly_happy,2018,greater_bridgeport,Income,$75K-$100K,0.62
+mostly_happy,2018,greater_bridgeport,Income,$100K-$200K,0.8200000000000001
+mostly_happy,2018,greater_bridgeport,Income,$200K+,0.81
+mostly_happy,2018,greater_bridgeport,With children,No children,0.65
+mostly_happy,2018,greater_bridgeport,With children,Children in household,0.6699999999999999
+mostly_happy,2018,greater_greenwich,Total,Total,0.73
+mostly_happy,2018,greater_greenwich,Gender,Male,0.72
+mostly_happy,2018,greater_greenwich,Gender,Female,0.7474747474747475
+mostly_happy,2018,greater_greenwich,Age,Ages 18-34,0.73
+mostly_happy,2018,greater_greenwich,Age,Ages 35-49,0.69
+mostly_happy,2018,greater_greenwich,Age,Ages 50-64,0.76
+mostly_happy,2018,greater_greenwich,Age,Ages 65+,0.7755102040816326
+mostly_happy,2018,greater_greenwich,Race/Ethnicity,White,0.7575757575757576
+mostly_happy,2018,greater_greenwich,Race/Ethnicity,Black,0.7575757575757576
+mostly_happy,2018,greater_greenwich,Race/Ethnicity,Latino,0.7
+mostly_happy,2018,greater_greenwich,Education,High school or less,0.6969696969696969
+mostly_happy,2018,greater_greenwich,Education,Some college or Associate's,0.6868686868686869
+mostly_happy,2018,greater_greenwich,Education,Bachelor's or higher,0.77
+mostly_happy,2018,greater_greenwich,Income,<$30K,0.6
+mostly_happy,2018,greater_greenwich,Income,$30K-$75K,0.71
+mostly_happy,2018,greater_greenwich,Income,$75K+,0.78
+mostly_happy,2018,greater_greenwich,With children,No children,0.73
+mostly_happy,2018,greater_greenwich,With children,Children in household,0.7474747474747475
+mostly_happy,2018,greater_hartford,Total,Total,0.6969696969696969
+mostly_happy,2018,greater_hartford,Gender,Male,0.6868686868686869
+mostly_happy,2018,greater_hartford,Gender,Female,0.6868686868686869
+mostly_happy,2018,greater_hartford,Age,Ages 18-34,0.62
+mostly_happy,2018,greater_hartford,Age,Ages 35-49,0.6666666666666666
+mostly_happy,2018,greater_hartford,Age,Ages 50-64,0.7070707070707071
+mostly_happy,2018,greater_hartford,Age,Ages 65+,0.7653061224489796
+mostly_happy,2018,greater_hartford,Race/Ethnicity,White,0.7070707070707071
+mostly_happy,2018,greater_hartford,Race/Ethnicity,Black,0.63
+mostly_happy,2018,greater_hartford,Race/Ethnicity,Latino,0.6000000000000001
+mostly_happy,2018,greater_hartford,Education,High school or less,0.6161616161616161
+mostly_happy,2018,greater_hartford,Education,Some college or Associate's,0.6464646464646465
+mostly_happy,2018,greater_hartford,Education,Bachelor's or higher,0.7474747474747475
+mostly_happy,2018,greater_hartford,Income,<$15K,0.4242424242424243
+mostly_happy,2018,greater_hartford,Income,$15K-$30K,0.6060606060606062
+mostly_happy,2018,greater_hartford,Income,$30K-$50K,0.7
+mostly_happy,2018,greater_hartford,Income,$50K-$75K,0.6464646464646465
+mostly_happy,2018,greater_hartford,Income,$75K-$100K,0.72
+mostly_happy,2018,greater_hartford,Income,$100K-$200K,0.7676767676767677
+mostly_happy,2018,greater_hartford,Income,$200K+,0.797979797979798
+mostly_happy,2018,greater_hartford,With children,No children,0.6969696969696969
+mostly_happy,2018,greater_hartford,With children,Children in household,0.6699999999999999
+mostly_happy,2018,greater_new_haven,Total,Total,0.6666666666666666
+mostly_happy,2018,greater_new_haven,Gender,Male,0.6868686868686869
+mostly_happy,2018,greater_new_haven,Gender,Female,0.6565656565656566
+mostly_happy,2018,greater_new_haven,Age,Ages 18-34,0.62
+mostly_happy,2018,greater_new_haven,Age,Ages 35-49,0.62
+mostly_happy,2018,greater_new_haven,Age,Ages 50-64,0.6969696969696969
+mostly_happy,2018,greater_new_haven,Age,Ages 65+,0.7448979591836735
+mostly_happy,2018,greater_new_haven,Race/Ethnicity,White,0.6868686868686869
+mostly_happy,2018,greater_new_haven,Race/Ethnicity,Black,0.6326530612244898
+mostly_happy,2018,greater_new_haven,Race/Ethnicity,Latino,0.5757575757575758
+mostly_happy,2018,greater_new_haven,Education,High school or less,0.6262626262626263
+mostly_happy,2018,greater_new_haven,Education,Some college or Associate's,0.61
+mostly_happy,2018,greater_new_haven,Education,Bachelor's or higher,0.7346938775510204
+mostly_happy,2018,greater_new_haven,Income,<$15K,0.54
+mostly_happy,2018,greater_new_haven,Income,$15K-$30K,0.5714285714285715
+mostly_happy,2018,greater_new_haven,Income,$30K-$50K,0.5900000000000001
+mostly_happy,2018,greater_new_haven,Income,$50K-$75K,0.6969696969696969
+mostly_happy,2018,greater_new_haven,Income,$75K-$100K,0.67
+mostly_happy,2018,greater_new_haven,Income,$100K-$200K,0.77
+mostly_happy,2018,greater_new_haven,Income,$200K+,0.79
+mostly_happy,2018,greater_new_haven,With children,No children,0.6836734693877551
+mostly_happy,2018,greater_new_haven,With children,Children in household,0.6599999999999999
+mostly_happy,2018,greater_new_london,Total,Total,0.6699999999999999
+mostly_happy,2018,greater_new_london,Gender,Male,0.69
+mostly_happy,2018,greater_new_london,Gender,Female,0.6699999999999999
+mostly_happy,2018,greater_new_london,Age,Ages 18-34,0.5700000000000001
+mostly_happy,2018,greater_new_london,Age,Ages 35-49,0.73
+mostly_happy,2018,greater_new_london,Age,Ages 50-64,0.66
+mostly_happy,2018,greater_new_london,Age,Ages 65+,0.7959183673469388
+mostly_happy,2018,greater_new_london,Race/Ethnicity,White,0.72
+mostly_happy,2018,greater_new_london,Race/Ethnicity,Not white,0.5252525252525253
+mostly_happy,2018,greater_new_london,Education,High school or less,0.6262626262626263
+mostly_happy,2018,greater_new_london,Education,Some college or Associate's,0.62
+mostly_happy,2018,greater_new_london,Education,Bachelor's or higher,0.75
+mostly_happy,2018,greater_new_london,Income,<$30K,0.5700000000000001
+mostly_happy,2018,greater_new_london,Income,$30K-$75K,0.61
+mostly_happy,2018,greater_new_london,Income,$75K+,0.8
+mostly_happy,2018,greater_new_london,With children,No children,0.69
+mostly_happy,2018,greater_new_london,With children,Children in household,0.6499999999999999
+mostly_happy,2018,greater_waterbury,Total,Total,0.6836734693877551
+mostly_happy,2018,greater_waterbury,Gender,Male,0.6836734693877551
+mostly_happy,2018,greater_waterbury,Gender,Female,0.67
+mostly_happy,2018,greater_waterbury,Age,Ages 18-34,0.5959595959595959
+mostly_happy,2018,greater_waterbury,Age,Ages 35-49,0.6666666666666666
+mostly_happy,2018,greater_waterbury,Age,Ages 50-64,0.72
+mostly_happy,2018,greater_waterbury,Age,Ages 65+,0.7244897959183674
+mostly_happy,2018,greater_waterbury,Race/Ethnicity,White,0.6969696969696969
+mostly_happy,2018,greater_waterbury,Race/Ethnicity,Black,0.6399999999999999
+mostly_happy,2018,greater_waterbury,Race/Ethnicity,Latino,0.6499999999999999
+mostly_happy,2018,greater_waterbury,Education,High school or less,0.6363636363636364
+mostly_happy,2018,greater_waterbury,Education,Some college or Associate's,0.62
+mostly_happy,2018,greater_waterbury,Education,Bachelor's or higher,0.7474747474747475
+mostly_happy,2018,greater_waterbury,Income,<$15K,0.49
+mostly_happy,2018,greater_waterbury,Income,$15K-$30K,0.5204081632653061
+mostly_happy,2018,greater_waterbury,Income,$30K-$50K,0.6666666666666667
+mostly_happy,2018,greater_waterbury,Income,$50K-$75K,0.65
+mostly_happy,2018,greater_waterbury,Income,$75K-$100K,0.71
+mostly_happy,2018,greater_waterbury,Income,$100K-$200K,0.8181818181818182
+mostly_happy,2018,greater_waterbury,Income,$200K+,0.8400000000000001
+mostly_happy,2018,greater_waterbury,With children,No children,0.6632653061224489
+mostly_happy,2018,greater_waterbury,With children,Children in household,0.7171717171717171
+mostly_happy,2018,greenwich,Total,Total,0.77
+mostly_happy,2018,greenwich,Gender,Male,0.7575757575757576
+mostly_happy,2018,greenwich,Gender,Female,0.8080808080808082
+mostly_happy,2018,greenwich,Age,Ages 18-34,0.72
+mostly_happy,2018,greenwich,Age,Ages 35-54,0.74
+mostly_happy,2018,greenwich,Age,Ages 55+,0.8080808080808082
+mostly_happy,2018,greenwich,Race/Ethnicity,White,0.77
+mostly_happy,2018,greenwich,Race/Ethnicity,Not white,0.78
+mostly_happy,2018,greenwich,Income,$75K+,0.81
+mostly_happy,2018,greenwich,Income,<$75K,0.67
+mostly_happy,2018,greenwich,With children,No children,0.75
+mostly_happy,2018,greenwich,With children,Children in household,0.81
+mostly_happy,2018,hamden,Total,Total,0.7373737373737373
+mostly_happy,2018,hamden,Gender,Male,0.787878787878788
+mostly_happy,2018,hamden,Gender,Female,0.7070707070707071
+mostly_happy,2018,hamden,Age,Under age 55,0.76
+mostly_happy,2018,hamden,Age,Age 55 or older,0.6907216494845362
+mostly_happy,2018,hamden,Race/Ethnicity,White,0.73
+mostly_happy,2018,hamden,Race/Ethnicity,Not white,0.7373737373737373
+mostly_happy,2018,hamden,Education,High school or less,0.78
+mostly_happy,2018,hamden,Education,Some college or Associate's,0.6122448979591837
+mostly_happy,2018,hamden,Education,Bachelor's or higher,0.797979797979798
+mostly_happy,2018,hamden,Income,$75K+,0.8484848484848486
+mostly_happy,2018,hamden,Income,<$75K,0.66
+mostly_happy,2018,hamden,With children,No children,0.7171717171717171
+mostly_happy,2018,hamden,With children,Children in household,0.7676767676767677
+mostly_happy,2018,hartford,Total,Total,0.5858585858585859
+mostly_happy,2018,hartford,Gender,Male,0.6060606060606061
+mostly_happy,2018,hartford,Gender,Female,0.5714285714285715
+mostly_happy,2018,hartford,Age,Ages 18-34,0.56
+mostly_happy,2018,hartford,Age,Ages 35-49,0.6
+mostly_happy,2018,hartford,Age,Ages 50-64,0.6122448979591837
+mostly_happy,2018,hartford,Age,Ages 65+,0.6701030927835052
+mostly_happy,2018,hartford,Race/Ethnicity,White,0.6666666666666667
+mostly_happy,2018,hartford,Race/Ethnicity,Black,0.56
+mostly_happy,2018,hartford,Race/Ethnicity,Latino,0.52
+mostly_happy,2018,hartford,Education,High school or less,0.5656565656565657
+mostly_happy,2018,hartford,Education,Some college or Associate's,0.5454545454545455
+mostly_happy,2018,hartford,Education,Bachelor's or higher,0.6836734693877551
+mostly_happy,2018,hartford,Income,<$30K,0.48484848484848486
+mostly_happy,2018,hartford,Income,$30K-$75K,0.6161616161616161
+mostly_happy,2018,hartford,Income,$75K+,0.71
+mostly_happy,2018,hartford,With children,No children,0.6060606060606061
+mostly_happy,2018,hartford,With children,Children in household,0.5700000000000001
+mostly_happy,2018,hartford_inner_ring,Total,Total,0.6767676767676768
+mostly_happy,2018,hartford_inner_ring,Gender,Male,0.6666666666666666
+mostly_happy,2018,hartford_inner_ring,Gender,Female,0.673469387755102
+mostly_happy,2018,hartford_inner_ring,Age,Ages 18-34,0.63
+mostly_happy,2018,hartford_inner_ring,Age,Ages 35-49,0.6224489795918368
+mostly_happy,2018,hartford_inner_ring,Age,Ages 50-64,0.7070707070707071
+mostly_happy,2018,hartford_inner_ring,Age,Ages 65+,0.7551020408163265
+mostly_happy,2018,hartford_inner_ring,Race/Ethnicity,White,0.663265306122449
+mostly_happy,2018,hartford_inner_ring,Race/Ethnicity,Black,0.65
+mostly_happy,2018,hartford_inner_ring,Race/Ethnicity,Latino,0.64
+mostly_happy,2018,hartford_inner_ring,Education,High school or less,0.61
+mostly_happy,2018,hartford_inner_ring,Education,Some college or Associate's,0.6262626262626263
+mostly_happy,2018,hartford_inner_ring,Education,Bachelor's or higher,0.7373737373737373
+mostly_happy,2018,hartford_inner_ring,Income,<$15K,0.4489795918367347
+mostly_happy,2018,hartford_inner_ring,Income,$15K-$30K,0.6122448979591838
+mostly_happy,2018,hartford_inner_ring,Income,$30K-$50K,0.66
+mostly_happy,2018,hartford_inner_ring,Income,$50K-$75K,0.5900000000000001
+mostly_happy,2018,hartford_inner_ring,Income,$75K-$100K,0.73
+mostly_happy,2018,hartford_inner_ring,Income,$100K+,0.7857142857142857
+mostly_happy,2018,hartford_inner_ring,With children,No children,0.6836734693877551
+mostly_happy,2018,hartford_inner_ring,With children,Children in household,0.6599999999999999
+mostly_happy,2018,hartford_outer_ring,Total,Total,0.75
+mostly_happy,2018,hartford_outer_ring,Gender,Male,0.74
+mostly_happy,2018,hartford_outer_ring,Gender,Female,0.76
+mostly_happy,2018,hartford_outer_ring,Age,Ages 18-34,0.69
+mostly_happy,2018,hartford_outer_ring,Age,Ages 35-49,0.77
+mostly_happy,2018,hartford_outer_ring,Age,Ages 50-64,0.7373737373737373
+mostly_happy,2018,hartford_outer_ring,Age,Ages 65+,0.8181818181818182
+mostly_happy,2018,hartford_outer_ring,Race/Ethnicity,White,0.75
+mostly_happy,2018,hartford_outer_ring,Race/Ethnicity,Not white,0.7070707070707071
+mostly_happy,2018,hartford_outer_ring,Education,High school or less,0.6938775510204082
+mostly_happy,2018,hartford_outer_ring,Education,Some college or Associate's,0.74
+mostly_happy,2018,hartford_outer_ring,Education,Bachelor's or higher,0.78
+mostly_happy,2018,hartford_outer_ring,Income,<$30K,0.65
+mostly_happy,2018,hartford_outer_ring,Income,$30K-$75K,0.75
+mostly_happy,2018,hartford_outer_ring,Income,$75K+,0.78
+mostly_happy,2018,hartford_outer_ring,With children,No children,0.7474747474747475
+mostly_happy,2018,hartford_outer_ring,With children,Children in household,0.77
+mostly_happy,2018,manchester,Total,Total,0.6326530612244898
+mostly_happy,2018,manchester,Gender,Male,0.6464646464646465
+mostly_happy,2018,manchester,Gender,Female,0.6122448979591838
+mostly_happy,2018,manchester,Age,Under age 55,0.595959595959596
+mostly_happy,2018,manchester,Age,Age 55 or older,0.69
+mostly_happy,2018,manchester,Education,Bachelor's or higher,0.72
+mostly_happy,2018,manchester,Education,Some college or less,0.5714285714285715
+mostly_happy,2018,manchester,Income,$75K+,0.663265306122449
+mostly_happy,2018,manchester,Income,<$75K,0.5700000000000001
+mostly_happy,2018,meriden,Total,Total,0.653061224489796
+mostly_happy,2018,meriden,Gender,Male,0.6122448979591838
+mostly_happy,2018,meriden,Gender,Female,0.686868686868687
+mostly_happy,2018,meriden,Age,Under age 55,0.5757575757575758
+mostly_happy,2018,meriden,Age,Age 55 or older,0.7676767676767677
+mostly_happy,2018,meriden,Race/Ethnicity,White,0.6938775510204082
+mostly_happy,2018,meriden,Race/Ethnicity,Not white,0.55
+mostly_happy,2018,meriden,Education,High school or less,0.63
+mostly_happy,2018,meriden,Education,Some college or Associate's,0.5959595959595959
+mostly_happy,2018,meriden,Education,Bachelor's or higher,0.69
+mostly_happy,2018,meriden,Income,<$30K,0.4545454545454546
+mostly_happy,2018,meriden,Income,$30K-$75K,0.6363636363636364
+mostly_happy,2018,meriden,Income,$75K+,0.74
+mostly_happy,2018,meriden,With children,No children,0.6464646464646465
+mostly_happy,2018,meriden,With children,Children in household,0.6464646464646465
+mostly_happy,2018,middlesex_county,Total,Total,0.72
+mostly_happy,2018,middlesex_county,Gender,Male,0.76
+mostly_happy,2018,middlesex_county,Gender,Female,0.7070707070707071
+mostly_happy,2018,middlesex_county,Age,Under age 55,0.73
+mostly_happy,2018,middlesex_county,Age,Age 55 or older,0.7272727272727273
+mostly_happy,2018,middlesex_county,Education,High school or less,0.7373737373737373
+mostly_happy,2018,middlesex_county,Education,Some college or Associate's,0.7070707070707071
+mostly_happy,2018,middlesex_county,Education,Bachelor's or higher,0.74
+mostly_happy,2018,middlesex_county,Income,$75K+,0.82
+mostly_happy,2018,middlesex_county,Income,<$75K,0.6161616161616161
+mostly_happy,2018,middlesex_county,With children,No children,0.7171717171717171
+mostly_happy,2018,middlesex_county,With children,Children in household,0.79
+mostly_happy,2018,middletown,Total,Total,0.6868686868686869
+mostly_happy,2018,middletown,Gender,Male,0.75
+mostly_happy,2018,middletown,Gender,Female,0.6224489795918368
+mostly_happy,2018,middletown,Age,Under age 55,0.6666666666666666
+mostly_happy,2018,middletown,Age,Age 55 or older,0.7272727272727273
+mostly_happy,2018,middletown,Education,Bachelor's or higher,0.7171717171717171
+mostly_happy,2018,middletown,Education,Some college or less,0.6666666666666666
+mostly_happy,2018,middletown,Income,$75K+,0.81
+mostly_happy,2018,middletown,Income,<$75K,0.61
+mostly_happy,2018,milford,Total,Total,0.7040816326530612
+mostly_happy,2018,milford,Gender,Male,0.6666666666666666
+mostly_happy,2018,milford,Gender,Female,0.7346938775510204
+mostly_happy,2018,milford,Age,Under age 55,0.6938775510204082
+mostly_happy,2018,milford,Age,Age 55 or older,0.7448979591836735
+mostly_happy,2018,milford,Education,Bachelor's or higher,0.7676767676767677
+mostly_happy,2018,milford,Education,Some college or less,0.6597938144329896
+mostly_happy,2018,milford,Income,$75K+,0.81
+mostly_happy,2018,milford,Income,<$75K,0.6020408163265306
+mostly_happy,2018,milford,With children,No children,0.7113402061855669
+mostly_happy,2018,milford,With children,Children in household,0.69
+mostly_happy,2018,monroe,Total,Total,0.72
+mostly_happy,2018,ncdhd,Total,Total,0.6666666666666667
+mostly_happy,2018,ncdhd,Gender,Male,0.6868686868686869
+mostly_happy,2018,ncdhd,Gender,Female,0.6666666666666667
+mostly_happy,2018,ncdhd,Age,Under age 55,0.6565656565656566
+mostly_happy,2018,ncdhd,Age,Age 55 or older,0.7272727272727273
+mostly_happy,2018,ncdhd,Race/Ethnicity,White,0.6599999999999999
+mostly_happy,2018,ncdhd,Race/Ethnicity,Not white,0.7010309278350515
+mostly_happy,2018,ncdhd,Education,High school or less,0.5714285714285715
+mostly_happy,2018,ncdhd,Education,Some college or Associate's,0.6767676767676768
+mostly_happy,2018,ncdhd,Education,Bachelor's or higher,0.72
+mostly_happy,2018,ncdhd,Income,<$30K,0.53
+mostly_happy,2018,ncdhd,Income,$30K-$75K,0.6
+mostly_happy,2018,ncdhd,Income,$75K+,0.77
+mostly_happy,2018,ncdhd,With children,No children,0.6734693877551021
+mostly_happy,2018,ncdhd,With children,Children in household,0.6900000000000001
+mostly_happy,2018,nddh,Total,Total,0.65
+mostly_happy,2018,nddh,Gender,Male,0.66
+mostly_happy,2018,nddh,Gender,Female,0.63
+mostly_happy,2018,nddh,Age,Under age 55,0.5800000000000001
+mostly_happy,2018,nddh,Age,Age 55 or older,0.72
+mostly_happy,2018,nddh,Education,High school or less,0.55
+mostly_happy,2018,nddh,Education,Some college or Associate's,0.65
+mostly_happy,2018,nddh,Education,Bachelor's or higher,0.7
+mostly_happy,2018,nddh,Income,<$30K,0.43000000000000005
+mostly_happy,2018,nddh,Income,$30K-$75K,0.6699999999999999
+mostly_happy,2018,nddh,Income,$75K+,0.76
+mostly_happy,2018,nddh,With children,No children,0.6200000000000001
+mostly_happy,2018,nddh,With children,Children in household,0.6799999999999999
+mostly_happy,2018,new_britain,Total,Total,0.61
+mostly_happy,2018,new_britain,Gender,Male,0.5918367346938777
+mostly_happy,2018,new_britain,Gender,Female,0.64
+mostly_happy,2018,new_britain,Age,Under age 55,0.5900000000000001
+mostly_happy,2018,new_britain,Age,Age 55 or older,0.663265306122449
+mostly_happy,2018,new_britain,Race/Ethnicity,White,0.6060606060606061
+mostly_happy,2018,new_britain,Race/Ethnicity,Not white,0.6262626262626263
+mostly_happy,2018,new_britain,Education,High school or less,0.5816326530612246
+mostly_happy,2018,new_britain,Education,Some college or Associate's,0.6100000000000001
+mostly_happy,2018,new_britain,Education,Bachelor's or higher,0.69
+mostly_happy,2018,new_britain,Income,<$30K,0.4444444444444445
+mostly_happy,2018,new_britain,Income,$30K-$75K,0.6868686868686869
+mostly_happy,2018,new_britain,Income,$75K+,0.67
+mostly_happy,2018,new_britain,With children,No children,0.6262626262626263
+mostly_happy,2018,new_britain,With children,Children in household,0.61
+mostly_happy,2018,new_haven,Total,Total,0.6060606060606062
+mostly_happy,2018,new_haven,Gender,Male,0.6399999999999999
+mostly_happy,2018,new_haven,Gender,Female,0.5656565656565657
+mostly_happy,2018,new_haven,Age,Ages 18-34,0.5900000000000001
+mostly_happy,2018,new_haven,Age,Ages 35-49,0.51
+mostly_happy,2018,new_haven,Age,Ages 50-64,0.6464646464646465
+mostly_happy,2018,new_haven,Age,Ages 65+,0.6836734693877551
+mostly_happy,2018,new_haven,Race/Ethnicity,White,0.64
+mostly_happy,2018,new_haven,Race/Ethnicity,Black,0.6060606060606061
+mostly_happy,2018,new_haven,Race/Ethnicity,Latino,0.55
+mostly_happy,2018,new_haven,Education,High school or less,0.5757575757575758
+mostly_happy,2018,new_haven,Education,Some college or Associate's,0.5800000000000001
+mostly_happy,2018,new_haven,Education,Bachelor's or higher,0.6428571428571429
+mostly_happy,2018,new_haven,Income,<$30K,0.48
+mostly_happy,2018,new_haven,Income,$30K-$75K,0.65
+mostly_happy,2018,new_haven,Income,$75K+,0.7
+mostly_happy,2018,new_haven,With children,No children,0.6200000000000001
+mostly_happy,2018,new_haven,With children,Children in household,0.5656565656565657
+mostly_happy,2018,new_haven_inner_ring,Total,Total,0.6767676767676767
+mostly_happy,2018,new_haven_inner_ring,Gender,Male,0.6868686868686869
+mostly_happy,2018,new_haven_inner_ring,Gender,Female,0.6666666666666666
+mostly_happy,2018,new_haven_inner_ring,Age,Ages 18-34,0.61
+mostly_happy,2018,new_haven_inner_ring,Age,Ages 35-49,0.62
+mostly_happy,2018,new_haven_inner_ring,Age,Ages 50-64,0.77
+mostly_happy,2018,new_haven_inner_ring,Age,Ages 65+,0.7216494845360825
+mostly_happy,2018,new_haven_inner_ring,Race/Ethnicity,White,0.66
+mostly_happy,2018,new_haven_inner_ring,Race/Ethnicity,Black,0.6767676767676767
+mostly_happy,2018,new_haven_inner_ring,Race/Ethnicity,Latino,0.6262626262626263
+mostly_happy,2018,new_haven_inner_ring,Education,High school or less,0.6868686868686869
+mostly_happy,2018,new_haven_inner_ring,Education,Some college or Associate's,0.595959595959596
+mostly_happy,2018,new_haven_inner_ring,Education,Bachelor's or higher,0.7171717171717171
+mostly_happy,2018,new_haven_inner_ring,Income,<$30K,0.6224489795918368
+mostly_happy,2018,new_haven_inner_ring,Income,$30K-$75K,0.64
+mostly_happy,2018,new_haven_inner_ring,Income,$75K+,0.7373737373737373
+mostly_happy,2018,new_haven_inner_ring,With children,No children,0.663265306122449
+mostly_happy,2018,new_haven_inner_ring,With children,Children in household,0.6868686868686869
+mostly_happy,2018,new_haven_outer_ring,Total,Total,0.6767676767676768
+mostly_happy,2018,new_haven_outer_ring,Gender,Male,0.6767676767676768
+mostly_happy,2018,new_haven_outer_ring,Gender,Female,0.6767676767676768
+mostly_happy,2018,new_haven_outer_ring,Age,Ages 18-34,0.6326530612244898
+mostly_happy,2018,new_haven_outer_ring,Age,Ages 35-49,0.6699999999999999
+mostly_happy,2018,new_haven_outer_ring,Age,Ages 50-64,0.6464646464646465
+mostly_happy,2018,new_haven_outer_ring,Age,Ages 65+,0.73
+mostly_happy,2018,new_haven_outer_ring,Education,High school or less,0.6122448979591837
+mostly_happy,2018,new_haven_outer_ring,Education,Some college or Associate's,0.6363636363636364
+mostly_happy,2018,new_haven_outer_ring,Education,Bachelor's or higher,0.72
+mostly_happy,2018,new_haven_outer_ring,Income,<$30K,0.55
+mostly_happy,2018,new_haven_outer_ring,Income,$30K-$75K,0.6224489795918368
+mostly_happy,2018,new_haven_outer_ring,Income,$75K+,0.73
+mostly_happy,2018,new_haven_outer_ring,With children,No children,0.6938775510204082
+mostly_happy,2018,new_haven_outer_ring,With children,Children in household,0.64
+mostly_happy,2018,new_london,Total,Total,0.5757575757575757
+mostly_happy,2018,new_london,Gender,Male,0.6161616161616161
+mostly_happy,2018,new_london,Gender,Female,0.5353535353535354
+mostly_happy,2018,new_london,Age,Under age 55,0.51
+mostly_happy,2018,new_london,Age,Age 55 or older,0.7368421052631579
+mostly_happy,2018,new_london,Race/Ethnicity,White,0.65
+mostly_happy,2018,new_london,Race/Ethnicity,Not white,0.494949494949495
+mostly_happy,2018,new_london,Education,Bachelor's or higher,0.66
+mostly_happy,2018,new_london,Education,Less than Bachelor's degree,0.5306122448979592
+mostly_happy,2018,new_london,Income,$75K+,0.84
+mostly_happy,2018,new_london,Income,<$75K,0.49
+mostly_happy,2018,new_milford,Total,Total,0.72
+mostly_happy,2018,new_milford,Gender,Male,0.7
+mostly_happy,2018,new_milford,Gender,Female,0.7373737373737373
+mostly_happy,2018,new_milford,Age,Under age 55,0.6363636363636364
+mostly_happy,2018,new_milford,Age,Age 55 or older,0.8686868686868687
+mostly_happy,2018,new_milford,Education,High school or less,0.6262626262626263
+mostly_happy,2018,new_milford,Education,Some college or Associate's,0.58
+mostly_happy,2018,new_milford,Education,Bachelor's or higher,0.8484848484848485
+mostly_happy,2018,new_milford,Income,$75K+,0.797979797979798
+mostly_happy,2018,new_milford,Income,<$75K,0.6262626262626263
+mostly_happy,2018,new_milford,With children,No children,0.686868686868687
+mostly_happy,2018,new_milford,With children,Children in household,0.79
+mostly_happy,2018,newtown,Total,Total,0.7272727272727273
+mostly_happy,2018,newtown,Gender,Male,0.7777777777777778
+mostly_happy,2018,newtown,Gender,Female,0.6938775510204082
+mostly_happy,2018,newtown,Age,Under age 55,0.7272727272727273
+mostly_happy,2018,newtown,Age,Age 55 or older,0.7448979591836735
+mostly_happy,2018,newtown,Education,Bachelor's or higher,0.8
+mostly_happy,2018,newtown,Education,Some college or less,0.6262626262626263
+mostly_happy,2018,newtown,Income,$75K+,0.78
+mostly_happy,2018,newtown,Income,<$75K,0.56
+mostly_happy,2018,newtown,With children,No children,0.7272727272727273
+mostly_happy,2018,newtown,With children,Children in household,0.74
+mostly_happy,2018,norwalk,Total,Total,0.7319587628865979
+mostly_happy,2018,norwalk,Gender,Male,0.7040816326530612
+mostly_happy,2018,norwalk,Gender,Female,0.7422680412371134
+mostly_happy,2018,norwalk,Age,Ages 18-34,0.6499999999999999
+mostly_happy,2018,norwalk,Age,Ages 35-49,0.7731958762886598
+mostly_happy,2018,norwalk,Age,Ages 50-64,0.7171717171717171
+mostly_happy,2018,norwalk,Age,Ages 65+,0.7578947368421053
+mostly_happy,2018,norwalk,Race/Ethnicity,White,0.7373737373737373
+mostly_happy,2018,norwalk,Race/Ethnicity,Not white,0.6979166666666666
+mostly_happy,2018,norwalk,Education,High school or less,0.7052631578947369
+mostly_happy,2018,norwalk,Education,Some college or Associate's,0.663265306122449
+mostly_happy,2018,norwalk,Education,Bachelor's or higher,0.7474747474747475
+mostly_happy,2018,norwalk,Income,<$30K,0.5217391304347826
+mostly_happy,2018,norwalk,Income,$30K-$75K,0.6363636363636364
+mostly_happy,2018,norwalk,Income,$75K+,0.8200000000000001
+mostly_happy,2018,norwalk,With children,No children,0.7040816326530612
+mostly_happy,2018,norwalk,With children,Children in household,0.7448979591836735
+mostly_happy,2018,nyborder,Total,Total,0.7272727272727273
+mostly_happy,2018,nyborder,Gender,Male,0.7171717171717171
+mostly_happy,2018,nyborder,Gender,Female,0.7373737373737373
+mostly_happy,2018,nyborder,Age,Ages 18-34,0.7
+mostly_happy,2018,nyborder,Age,Ages 35-49,0.79
+mostly_happy,2018,nyborder,Age,Ages 50-64,0.72
+mostly_happy,2018,nyborder,Age,Ages 65+,0.73
+mostly_happy,2018,nyborder,Race/Ethnicity,White,0.73
+mostly_happy,2018,nyborder,Race/Ethnicity,Not white,0.7171717171717171
+mostly_happy,2018,nyborder,Education,High school or less,0.6262626262626263
+mostly_happy,2018,nyborder,Education,Some college or Associate's,0.7551020408163265
+mostly_happy,2018,nyborder,Education,Bachelor's or higher,0.77
+mostly_happy,2018,nyborder,Income,<$30K,0.62
+mostly_happy,2018,nyborder,Income,$30K-$75K,0.6666666666666667
+mostly_happy,2018,nyborder,Income,$75K+,0.8300000000000001
+mostly_happy,2018,nyborder,With children,No children,0.7474747474747475
+mostly_happy,2018,nyborder,With children,Children in household,0.7551020408163265
+mostly_happy,2018,pomperaug,Total,Total,0.7575757575757576
+mostly_happy,2018,pomperaug,Gender,Male,0.6868686868686869
+mostly_happy,2018,pomperaug,Gender,Female,0.8080808080808082
+mostly_happy,2018,pomperaug,Age,Under age 55,0.71
+mostly_happy,2018,pomperaug,Age,Age 55 or older,0.7857142857142857
+mostly_happy,2018,pomperaug,Education,Bachelor's or higher,0.8163265306122449
+mostly_happy,2018,pomperaug,Education,Some college or less,0.6499999999999999
+mostly_happy,2018,pomperaug,Income,$75K+,0.8500000000000001
+mostly_happy,2018,pomperaug,Income,<$75K,0.6288659793814433
+mostly_happy,2018,pomperaug,With children,No children,0.7142857142857143
+mostly_happy,2018,pomperaug,With children,Children in household,0.8200000000000001
+mostly_happy,2018,port_chester_ny,Total,Total,0.6969696969696969
+mostly_happy,2018,port_chester_ny,Gender,Male,0.7
+mostly_happy,2018,port_chester_ny,Gender,Female,0.6868686868686869
+mostly_happy,2018,port_chester_ny,Age,Under age 55,0.7171717171717171
+mostly_happy,2018,port_chester_ny,Age,Age 55 or older,0.6666666666666666
+mostly_happy,2018,port_chester_ny,Race/Ethnicity,White,0.686868686868687
+mostly_happy,2018,port_chester_ny,Race/Ethnicity,Not white,0.6969696969696969
+mostly_happy,2018,port_chester_ny,Education,High school or less,0.6399999999999999
+mostly_happy,2018,port_chester_ny,Education,Some college or Associate's,0.6804123711340206
+mostly_happy,2018,port_chester_ny,Education,Bachelor's or higher,0.7474747474747475
+mostly_happy,2018,port_chester_ny,Income,$75K+,0.8
+mostly_happy,2018,port_chester_ny,Income,<$75K,0.67
+mostly_happy,2018,port_chester_ny,With children,No children,0.72
+mostly_happy,2018,port_chester_ny,With children,Children in household,0.7474747474747475
+mostly_happy,2018,stamford,Total,Total,0.7373737373737373
+mostly_happy,2018,stamford,Gender,Male,0.7171717171717171
+mostly_happy,2018,stamford,Gender,Female,0.7474747474747475
+mostly_happy,2018,stamford,Age,Ages 18-34,0.73
+mostly_happy,2018,stamford,Age,Ages 35-49,0.7070707070707071
+mostly_happy,2018,stamford,Age,Ages 50-64,0.77
+mostly_happy,2018,stamford,Age,Ages 65+,0.7938144329896908
+mostly_happy,2018,stamford,Race/Ethnicity,White,0.7474747474747475
+mostly_happy,2018,stamford,Race/Ethnicity,Black,0.7272727272727273
+mostly_happy,2018,stamford,Race/Ethnicity,Latino,0.6799999999999999
+mostly_happy,2018,stamford,Education,High school or less,0.7373737373737373
+mostly_happy,2018,stamford,Education,Some college or Associate's,0.7171717171717171
+mostly_happy,2018,stamford,Education,Bachelor's or higher,0.7575757575757576
+mostly_happy,2018,stamford,Income,<$30K,0.585858585858586
+mostly_happy,2018,stamford,Income,$30K-$75K,0.74
+mostly_happy,2018,stamford,Income,$75K+,0.7676767676767677
+mostly_happy,2018,stamford,With children,No children,0.7373737373737373
+mostly_happy,2018,stamford,With children,Children in household,0.7373737373737373
+mostly_happy,2018,stratford,Total,Total,0.6699999999999999
+mostly_happy,2018,stratford,Gender,Male,0.62
+mostly_happy,2018,stratford,Gender,Female,0.71
+mostly_happy,2018,stratford,Age,Under age 55,0.66
+mostly_happy,2018,stratford,Age,Age 55 or older,0.6969696969696969
+mostly_happy,2018,stratford,Education,High school or less,0.6699999999999999
+mostly_happy,2018,stratford,Education,Some college or Associate's,0.5900000000000001
+mostly_happy,2018,stratford,Education,Bachelor's or higher,0.7373737373737373
+mostly_happy,2018,stratford,Income,$75K+,0.75
+mostly_happy,2018,stratford,Income,<$75K,0.61
+mostly_happy,2018,stratford,With children,No children,0.65
+mostly_happy,2018,stratford,With children,Children in household,0.7
+mostly_happy,2018,trumbull,Total,Total,0.6969696969696969
+mostly_happy,2018,trumbull,Gender,Male,0.7171717171717171
+mostly_happy,2018,trumbull,Gender,Female,0.6799999999999999
+mostly_happy,2018,trumbull,Age,Under age 55,0.66
+mostly_happy,2018,trumbull,Age,Age 55 or older,0.7474747474747475
+mostly_happy,2018,trumbull,Education,Bachelor's or higher,0.7070707070707071
+mostly_happy,2018,trumbull,Education,Some college or less,0.66
+mostly_happy,2018,trumbull,Income,$100K+,0.7474747474747475
+mostly_happy,2018,trumbull,Income,<$100K,0.61
+mostly_happy,2018,valley,Total,Total,0.66
+mostly_happy,2018,valley,Gender,Male,0.6799999999999999
+mostly_happy,2018,valley,Gender,Female,0.64
+mostly_happy,2018,valley,Age,Ages 18-34,0.62
+mostly_happy,2018,valley,Age,Ages 35-49,0.64
+mostly_happy,2018,valley,Age,Ages 50-64,0.6599999999999999
+mostly_happy,2018,valley,Age,Ages 65+,0.7142857142857143
+mostly_happy,2018,valley,Race/Ethnicity,White,0.64
+mostly_happy,2018,valley,Race/Ethnicity,Not white,0.73
+mostly_happy,2018,valley,Education,High school or less,0.6000000000000001
+mostly_happy,2018,valley,Education,Some college or Associate's,0.66
+mostly_happy,2018,valley,Education,Bachelor's or higher,0.71
+mostly_happy,2018,valley,Income,<$30K,0.5858585858585859
+mostly_happy,2018,valley,Income,$30K-$75K,0.6464646464646465
+mostly_happy,2018,valley,Income,$75K+,0.7
+mostly_happy,2018,valley,With children,No children,0.6699999999999999
+mostly_happy,2018,valley,With children,Children in household,0.6599999999999999
+mostly_happy,2018,wallingford,Total,Total,0.72
+mostly_happy,2018,wallingford,Gender,Male,0.78
+mostly_happy,2018,wallingford,Gender,Female,0.686868686868687
+mostly_happy,2018,wallingford,Age,Under age 55,0.69
+mostly_happy,2018,wallingford,Age,Age 55 or older,0.787878787878788
+mostly_happy,2018,wallingford,Education,Bachelor's or higher,0.76
+mostly_happy,2018,wallingford,Education,Some college or less,0.6969696969696969
+mostly_happy,2018,wallingford,Income,$75K+,0.8300000000000001
+mostly_happy,2018,wallingford,Income,<$75K,0.61
+mostly_happy,2018,waterbury,Total,Total,0.6224489795918369
+mostly_happy,2018,waterbury,Gender,Male,0.6326530612244898
+mostly_happy,2018,waterbury,Gender,Female,0.585858585858586
+mostly_happy,2018,waterbury,Age,Ages 18-34,0.56
+mostly_happy,2018,waterbury,Age,Ages 35-49,0.5800000000000001
+mostly_happy,2018,waterbury,Age,Ages 50-64,0.6632653061224489
+mostly_happy,2018,waterbury,Age,Ages 65+,0.6666666666666667
+mostly_happy,2018,waterbury,Race/Ethnicity,White,0.6060606060606061
+mostly_happy,2018,waterbury,Race/Ethnicity,Black,0.63
+mostly_happy,2018,waterbury,Race/Ethnicity,Latino,0.6399999999999999
+mostly_happy,2018,waterbury,Education,High school or less,0.5800000000000001
+mostly_happy,2018,waterbury,Education,Some college or Associate's,0.585858585858586
+mostly_happy,2018,waterbury,Education,Bachelor's or higher,0.6938775510204082
+mostly_happy,2018,waterbury,Income,<$30K,0.5252525252525253
+mostly_happy,2018,waterbury,Income,$30K-$75K,0.65
+mostly_happy,2018,waterbury,Income,$75K+,0.7070707070707071
+mostly_happy,2018,waterbury,With children,No children,0.6122448979591838
+mostly_happy,2018,waterbury,With children,Children in household,0.63
+mostly_happy,2018,west_hartford,Total,Total,0.7575757575757576
+mostly_happy,2018,west_hartford,Gender,Male,0.81
+mostly_happy,2018,west_hartford,Gender,Female,0.7070707070707071
+mostly_happy,2018,west_hartford,Age,Under age 55,0.7373737373737373
+mostly_happy,2018,west_hartford,Age,Age 55 or older,0.78
+mostly_happy,2018,west_hartford,Education,Bachelor's or higher,0.7676767676767677
+mostly_happy,2018,west_hartford,Education,Some college or less,0.71
+mostly_happy,2018,west_hartford,Income,$75K+,0.7777777777777778
+mostly_happy,2018,west_hartford,Income,<$75K,0.64
+mostly_happy,2018,west_hartford,With children,No children,0.7272727272727273
+mostly_happy,2018,west_hartford,With children,Children in household,0.8
+mostly_happy,2018,west_haven,Total,Total,0.6122448979591838
+mostly_happy,2018,west_haven,Gender,Male,0.6020408163265307
+mostly_happy,2018,west_haven,Gender,Female,0.6161616161616161
+mostly_happy,2018,west_haven,Age,Under age 55,0.5656565656565656
+mostly_happy,2018,west_haven,Age,Age 55 or older,0.7216494845360825
+mostly_happy,2018,west_haven,Race/Ethnicity,White,0.6060606060606061
+mostly_happy,2018,west_haven,Race/Ethnicity,Not white,0.6262626262626263
+mostly_happy,2018,west_haven,Education,High school or less,0.6599999999999999
+mostly_happy,2018,west_haven,Education,Some college or Associate's,0.48484848484848486
+mostly_happy,2018,west_haven,Education,Bachelor's or higher,0.6701030927835052
+mostly_happy,2018,west_haven,Income,$75K+,0.7
+mostly_happy,2018,west_haven,Income,<$75K,0.5510204081632654
+mostly_happy,2018,west_haven,With children,No children,0.6060606060606061
+mostly_happy,2018,west_haven,With children,Children in household,0.6060606060606061
+satisfied_with_life,2018,5ct,Wealthy,Wealthy,0.7575757575757576
+satisfied_with_life,2018,5ct,Suburban,Suburban,0.74
+satisfied_with_life,2018,5ct,Rural,Rural,0.69
+satisfied_with_life,2018,5ct,Urban Periphery,Urban Periphery,0.64
+satisfied_with_life,2018,5ct,Urban Core,Urban Core,0.55
+satisfied_with_life,2018,bridgeport,Total,Total,0.5555555555555556
+satisfied_with_life,2018,bridgeport,Gender,Male,0.5306122448979592
+satisfied_with_life,2018,bridgeport,Gender,Female,0.57
+satisfied_with_life,2018,bridgeport,Age,Ages 18-34,0.51
+satisfied_with_life,2018,bridgeport,Age,Ages 35-49,0.51
+satisfied_with_life,2018,bridgeport,Age,Ages 50-64,0.5599999999999999
+satisfied_with_life,2018,bridgeport,Age,Ages 65+,0.6082474226804123
+satisfied_with_life,2018,bridgeport,Race/Ethnicity,White,0.5656565656565657
+satisfied_with_life,2018,bridgeport,Race/Ethnicity,Black,0.5555555555555556
+satisfied_with_life,2018,bridgeport,Race/Ethnicity,Latino,0.5353535353535354
+satisfied_with_life,2018,bridgeport,Education,High school or less,0.54
+satisfied_with_life,2018,bridgeport,Education,Some college or Associate's,0.47474747474747475
+satisfied_with_life,2018,bridgeport,Education,Bachelor's or higher,0.62
+satisfied_with_life,2018,bridgeport,Income,<$30K,0.4387755102040816
+satisfied_with_life,2018,bridgeport,Income,$30K-$75K,0.54
+satisfied_with_life,2018,bridgeport,Income,$75K+,0.73
+satisfied_with_life,2018,bridgeport,With children,No children,0.5656565656565657
+satisfied_with_life,2018,bridgeport,With children,Children in household,0.52
+satisfied_with_life,2018,bristol,Total,Total,0.61
+satisfied_with_life,2018,bristol,Gender,Male,0.64
+satisfied_with_life,2018,bristol,Gender,Female,0.58
+satisfied_with_life,2018,bristol,Age,Under age 55,0.59
+satisfied_with_life,2018,bristol,Age,Age 55 or older,0.63
+satisfied_with_life,2018,bristol,Education,Bachelor's or higher,0.6900000000000001
+satisfied_with_life,2018,bristol,Education,Some college or less,0.58
+satisfied_with_life,2018,bristol,Income,$75K+,0.8400000000000001
+satisfied_with_life,2018,bristol,Income,<$75K,0.43000000000000005
+satisfied_with_life,2018,bristol,With children,No children,0.6
+satisfied_with_life,2018,bristol,With children,Children in household,0.64
+satisfied_with_life,2018,cchd_central_ct_health_district,Total,Total,0.67
+satisfied_with_life,2018,cchd_central_ct_health_district,Gender,Male,0.6836734693877551
+satisfied_with_life,2018,cchd_central_ct_health_district,Gender,Female,0.66
+satisfied_with_life,2018,cchd_central_ct_health_district,Age,Under age 55,0.6363636363636364
+satisfied_with_life,2018,cchd_central_ct_health_district,Age,Age 55 or older,0.7272727272727273
+satisfied_with_life,2018,cchd_central_ct_health_district,Education,Bachelor's or higher,0.7070707070707071
+satisfied_with_life,2018,cchd_central_ct_health_district,Education,Some college or less,0.6464646464646465
+satisfied_with_life,2018,cchd_central_ct_health_district,Income,$75K+,0.7551020408163265
+satisfied_with_life,2018,cchd_central_ct_health_district,Income,<$75K,0.56
+satisfied_with_life,2018,cchd_central_ct_health_district,With children,No children,0.6969696969696969
+satisfied_with_life,2018,cchd_central_ct_health_district,With children,Children in household,0.61
+satisfied_with_life,2018,chesprocott,Total,Total,0.72
+satisfied_with_life,2018,chesprocott,Gender,Male,0.7575757575757576
+satisfied_with_life,2018,chesprocott,Gender,Female,0.71
+satisfied_with_life,2018,chesprocott,Age,Under age 55,0.73
+satisfied_with_life,2018,chesprocott,Age,Age 55 or older,0.7474747474747475
+satisfied_with_life,2018,chesprocott,Education,Bachelor's or higher,0.75
+satisfied_with_life,2018,chesprocott,Education,Some college or less,0.7070707070707071
+satisfied_with_life,2018,chesprocott,Income,$75K+,0.79
+satisfied_with_life,2018,chesprocott,Income,<$75K,0.6464646464646465
+satisfied_with_life,2018,chesprocott,With children,No children,0.7070707070707071
+satisfied_with_life,2018,chesprocott,With children,Children in household,0.77
+satisfied_with_life,2018,connecticut,Total,Total,0.67
+satisfied_with_life,2018,connecticut,Gender,Male,0.6799999999999999
+satisfied_with_life,2018,connecticut,Gender,Female,0.65
+satisfied_with_life,2018,connecticut,Age,Ages 18-34,0.5800000000000001
+satisfied_with_life,2018,connecticut,Age,Ages 35-49,0.62
+satisfied_with_life,2018,connecticut,Age,Ages 50-64,0.69
+satisfied_with_life,2018,connecticut,Age,Ages 65+,0.7676767676767677
+satisfied_with_life,2018,connecticut,Race/Ethnicity,White,0.68
+satisfied_with_life,2018,connecticut,Race/Ethnicity,Black,0.5757575757575757
+satisfied_with_life,2018,connecticut,Race/Ethnicity,Latino,0.5700000000000001
+satisfied_with_life,2018,connecticut,Education,High school or less,0.59
+satisfied_with_life,2018,connecticut,Education,Some college or Associate's,0.61
+satisfied_with_life,2018,connecticut,Education,Bachelor's or higher,0.73
+satisfied_with_life,2018,connecticut,Income,<$15K,0.43000000000000005
+satisfied_with_life,2018,connecticut,Income,$15K-$30K,0.48
+satisfied_with_life,2018,connecticut,Income,$30K-$50K,0.57
+satisfied_with_life,2018,connecticut,Income,$50K-$75K,0.62
+satisfied_with_life,2018,connecticut,Income,$75K-$100K,0.72
+satisfied_with_life,2018,connecticut,Income,$100K-$200K,0.77
+satisfied_with_life,2018,connecticut,Income,$200K+,0.88
+satisfied_with_life,2018,connecticut,With children,No children,0.66
+satisfied_with_life,2018,connecticut,With children,Children in household,0.67
+satisfied_with_life,2018,danbury,Total,Total,0.67
+satisfied_with_life,2018,danbury,Gender,Male,0.69
+satisfied_with_life,2018,danbury,Gender,Female,0.653061224489796
+satisfied_with_life,2018,danbury,Age,Ages 18-34,0.54
+satisfied_with_life,2018,danbury,Age,Ages 35-49,0.63
+satisfied_with_life,2018,danbury,Age,Ages 50-64,0.77
+satisfied_with_life,2018,danbury,Age,Ages 65+,0.7731958762886598
+satisfied_with_life,2018,danbury,Race/Ethnicity,White,0.7171717171717171
+satisfied_with_life,2018,danbury,Race/Ethnicity,Not white,0.5700000000000001
+satisfied_with_life,2018,danbury,Education,High school or less,0.66
+satisfied_with_life,2018,danbury,Education,Some college or Associate's,0.56
+satisfied_with_life,2018,danbury,Education,Bachelor's or higher,0.72
+satisfied_with_life,2018,danbury,Income,<$30K,0.48
+satisfied_with_life,2018,danbury,Income,$30K-$75K,0.66
+satisfied_with_life,2018,danbury,Income,$75K+,0.69
+satisfied_with_life,2018,danbury,With children,No children,0.67
+satisfied_with_life,2018,danbury,With children,Children in household,0.67
+satisfied_with_life,2018,darien,Total,Total,0.78
+satisfied_with_life,2018,darien,Gender,Male,0.8500000000000001
+satisfied_with_life,2018,darien,Gender,Female,0.73
+satisfied_with_life,2018,east_hartford,Total,Total,0.5
+satisfied_with_life,2018,east_haven,Total,Total,0.6499999999999999
+satisfied_with_life,2018,east_haven,Gender,Male,0.63
+satisfied_with_life,2018,east_haven,Gender,Female,0.6666666666666666
+satisfied_with_life,2018,east_haven,Age,Under age 55,0.65
+satisfied_with_life,2018,east_haven,Age,Age 55 or older,0.6363636363636364
+satisfied_with_life,2018,east_haven,Education,High school or less,0.54
+satisfied_with_life,2018,east_haven,Education,Some college or higher,0.7171717171717171
+satisfied_with_life,2018,east_haven,Income,$75K+,0.6799999999999999
+satisfied_with_life,2018,east_haven,Income,<$75K,0.6000000000000001
+satisfied_with_life,2018,ehhd,Total,Total,0.6599999999999999
+satisfied_with_life,2018,ehhd,Gender,Male,0.61
+satisfied_with_life,2018,ehhd,Gender,Female,0.7000000000000001
+satisfied_with_life,2018,ehhd,Age,Under age 55,0.5800000000000001
+satisfied_with_life,2018,ehhd,Age,Age 55 or older,0.81
+satisfied_with_life,2018,ehhd,Education,Bachelor's or higher,0.76
+satisfied_with_life,2018,ehhd,Education,Some college or less,0.55
+satisfied_with_life,2018,ehhd,Income,$75K+,0.75
+satisfied_with_life,2018,ehhd,Income,<$75K,0.5599999999999999
+satisfied_with_life,2018,ehhd,With children,No children,0.64
+satisfied_with_life,2018,ehhd,With children,Children in household,0.69
+satisfied_with_life,2018,fairfield,Total,Total,0.73
+satisfied_with_life,2018,fairfield,Gender,Male,0.74
+satisfied_with_life,2018,fairfield,Gender,Female,0.7373737373737373
+satisfied_with_life,2018,fairfield,Age,Under age 55,0.6900000000000001
+satisfied_with_life,2018,fairfield,Age,Age 55 or older,0.79
+satisfied_with_life,2018,fairfield,Education,Bachelor's or higher,0.77
+satisfied_with_life,2018,fairfield,Education,Some college or less,0.6363636363636364
+satisfied_with_life,2018,fairfield,Income,$75K+,0.79
+satisfied_with_life,2018,fairfield,Income,<$75K,0.57
+satisfied_with_life,2018,fairfield,With children,No children,0.74
+satisfied_with_life,2018,fairfield,With children,Children in household,0.71
+satisfied_with_life,2018,fairfield_county,Total,Total,0.6900000000000001
+satisfied_with_life,2018,fairfield_county,Gender,Male,0.6969696969696969
+satisfied_with_life,2018,fairfield_county,Gender,Female,0.6900000000000001
+satisfied_with_life,2018,fairfield_county,Age,Ages 18-34,0.6
+satisfied_with_life,2018,fairfield_county,Age,Ages 35-49,0.65
+satisfied_with_life,2018,fairfield_county,Age,Ages 50-64,0.72
+satisfied_with_life,2018,fairfield_county,Age,Ages 65+,0.787878787878788
+satisfied_with_life,2018,fairfield_county,Race/Ethnicity,White,0.72
+satisfied_with_life,2018,fairfield_county,Race/Ethnicity,Black,0.6060606060606062
+satisfied_with_life,2018,fairfield_county,Race/Ethnicity,Latino,0.64
+satisfied_with_life,2018,fairfield_county,Education,High school or less,0.61
+satisfied_with_life,2018,fairfield_county,Education,Some college or Associate's,0.63
+satisfied_with_life,2018,fairfield_county,Education,Bachelor's or higher,0.74
+satisfied_with_life,2018,fairfield_county,Income,<$15K,0.44999999999999996
+satisfied_with_life,2018,fairfield_county,Income,$15K-$30K,0.44999999999999996
+satisfied_with_life,2018,fairfield_county,Income,$30K-$50K,0.62
+satisfied_with_life,2018,fairfield_county,Income,$50K-$75K,0.63
+satisfied_with_life,2018,fairfield_county,Income,$75K-$100K,0.73
+satisfied_with_life,2018,fairfield_county,Income,$100K-$200K,0.75
+satisfied_with_life,2018,fairfield_county,Income,$200K+,0.8700000000000001
+satisfied_with_life,2018,fairfield_county,With children,No children,0.6900000000000001
+satisfied_with_life,2018,fairfield_county,With children,Children in household,0.7
+satisfied_with_life,2018,fcht,Total,Total,0.74
+satisfied_with_life,2018,fcht,Gender,Male,0.7676767676767677
+satisfied_with_life,2018,fcht,Gender,Female,0.72
+satisfied_with_life,2018,fcht,Age,Under age 55,0.7000000000000001
+satisfied_with_life,2018,fcht,Age,Age 55 or older,0.787878787878788
+satisfied_with_life,2018,fcht,Education,Bachelor's or higher,0.7777777777777778
+satisfied_with_life,2018,fcht,Education,Some college or less,0.72
+satisfied_with_life,2018,fcht,Income,$75K+,0.82
+satisfied_with_life,2018,fcht,Income,<$75K,0.6000000000000001
+satisfied_with_life,2018,greater_bridgeport,Total,Total,0.62
+satisfied_with_life,2018,greater_bridgeport,Gender,Male,0.61
+satisfied_with_life,2018,greater_bridgeport,Gender,Female,0.64
+satisfied_with_life,2018,greater_bridgeport,Age,Ages 18-34,0.54
+satisfied_with_life,2018,greater_bridgeport,Age,Ages 35-49,0.62
+satisfied_with_life,2018,greater_bridgeport,Age,Ages 50-64,0.64
+satisfied_with_life,2018,greater_bridgeport,Age,Ages 65+,0.7474747474747475
+satisfied_with_life,2018,greater_bridgeport,Race/Ethnicity,White,0.6699999999999999
+satisfied_with_life,2018,greater_bridgeport,Race/Ethnicity,Black,0.5555555555555556
+satisfied_with_life,2018,greater_bridgeport,Race/Ethnicity,Latino,0.55
+satisfied_with_life,2018,greater_bridgeport,Education,High school or less,0.53
+satisfied_with_life,2018,greater_bridgeport,Education,Some college or Associate's,0.585858585858586
+satisfied_with_life,2018,greater_bridgeport,Education,Bachelor's or higher,0.71
+satisfied_with_life,2018,greater_bridgeport,Income,<$15K,0.43000000000000005
+satisfied_with_life,2018,greater_bridgeport,Income,$15K-$30K,0.4141414141414142
+satisfied_with_life,2018,greater_bridgeport,Income,$30K-$50K,0.58
+satisfied_with_life,2018,greater_bridgeport,Income,$50K-$75K,0.6363636363636364
+satisfied_with_life,2018,greater_bridgeport,Income,$75K-$100K,0.71
+satisfied_with_life,2018,greater_bridgeport,Income,$100K-$200K,0.77
+satisfied_with_life,2018,greater_bridgeport,Income,$200K+,0.86
+satisfied_with_life,2018,greater_bridgeport,With children,No children,0.63
+satisfied_with_life,2018,greater_bridgeport,With children,Children in household,0.62
+satisfied_with_life,2018,greater_greenwich,Total,Total,0.75
+satisfied_with_life,2018,greater_greenwich,Gender,Male,0.75
+satisfied_with_life,2018,greater_greenwich,Gender,Female,0.74
+satisfied_with_life,2018,greater_greenwich,Age,Ages 18-34,0.71
+satisfied_with_life,2018,greater_greenwich,Age,Ages 35-49,0.72
+satisfied_with_life,2018,greater_greenwich,Age,Ages 50-64,0.77
+satisfied_with_life,2018,greater_greenwich,Age,Ages 65+,0.8282828282828283
+satisfied_with_life,2018,greater_greenwich,Race/Ethnicity,White,0.77
+satisfied_with_life,2018,greater_greenwich,Race/Ethnicity,Black,0.73
+satisfied_with_life,2018,greater_greenwich,Race/Ethnicity,Latino,0.7
+satisfied_with_life,2018,greater_greenwich,Education,High school or less,0.69
+satisfied_with_life,2018,greater_greenwich,Education,Some college or Associate's,0.66
+satisfied_with_life,2018,greater_greenwich,Education,Bachelor's or higher,0.8
+satisfied_with_life,2018,greater_greenwich,Income,<$30K,0.58
+satisfied_with_life,2018,greater_greenwich,Income,$30K-$75K,0.7
+satisfied_with_life,2018,greater_greenwich,Income,$75K+,0.81
+satisfied_with_life,2018,greater_greenwich,With children,No children,0.75
+satisfied_with_life,2018,greater_greenwich,With children,Children in household,0.76
+satisfied_with_life,2018,greater_hartford,Total,Total,0.65
+satisfied_with_life,2018,greater_hartford,Gender,Male,0.67
+satisfied_with_life,2018,greater_hartford,Gender,Female,0.63
+satisfied_with_life,2018,greater_hartford,Age,Ages 18-34,0.5700000000000001
+satisfied_with_life,2018,greater_hartford,Age,Ages 35-49,0.63
+satisfied_with_life,2018,greater_hartford,Age,Ages 50-64,0.67
+satisfied_with_life,2018,greater_hartford,Age,Ages 65+,0.78
+satisfied_with_life,2018,greater_hartford,Race/Ethnicity,White,0.6900000000000001
+satisfied_with_life,2018,greater_hartford,Race/Ethnicity,Black,0.5454545454545455
+satisfied_with_life,2018,greater_hartford,Race/Ethnicity,Latino,0.5700000000000001
+satisfied_with_life,2018,greater_hartford,Education,High school or less,0.55
+satisfied_with_life,2018,greater_hartford,Education,Some college or Associate's,0.59
+satisfied_with_life,2018,greater_hartford,Education,Bachelor's or higher,0.75
+satisfied_with_life,2018,greater_hartford,Income,<$15K,0.42000000000000004
+satisfied_with_life,2018,greater_hartford,Income,$15K-$30K,0.53
+satisfied_with_life,2018,greater_hartford,Income,$30K-$50K,0.56
+satisfied_with_life,2018,greater_hartford,Income,$50K-$75K,0.6
+satisfied_with_life,2018,greater_hartford,Income,$75K-$100K,0.7
+satisfied_with_life,2018,greater_hartford,Income,$100K-$200K,0.77
+satisfied_with_life,2018,greater_hartford,Income,$200K+,0.9199999999999999
+satisfied_with_life,2018,greater_hartford,With children,No children,0.66
+satisfied_with_life,2018,greater_hartford,With children,Children in household,0.64
+satisfied_with_life,2018,greater_new_haven,Total,Total,0.66
+satisfied_with_life,2018,greater_new_haven,Gender,Male,0.6599999999999999
+satisfied_with_life,2018,greater_new_haven,Gender,Female,0.66
+satisfied_with_life,2018,greater_new_haven,Age,Ages 18-34,0.5800000000000001
+satisfied_with_life,2018,greater_new_haven,Age,Ages 35-49,0.62
+satisfied_with_life,2018,greater_new_haven,Age,Ages 50-64,0.74
+satisfied_with_life,2018,greater_new_haven,Age,Ages 65+,0.7272727272727273
+satisfied_with_life,2018,greater_new_haven,Race/Ethnicity,White,0.6699999999999999
+satisfied_with_life,2018,greater_new_haven,Race/Ethnicity,Black,0.5757575757575758
+satisfied_with_life,2018,greater_new_haven,Race/Ethnicity,Latino,0.5
+satisfied_with_life,2018,greater_new_haven,Education,High school or less,0.59
+satisfied_with_life,2018,greater_new_haven,Education,Some college or Associate's,0.5900000000000001
+satisfied_with_life,2018,greater_new_haven,Education,Bachelor's or higher,0.74
+satisfied_with_life,2018,greater_new_haven,Income,<$15K,0.5
+satisfied_with_life,2018,greater_new_haven,Income,$15K-$30K,0.48
+satisfied_with_life,2018,greater_new_haven,Income,$30K-$50K,0.55
+satisfied_with_life,2018,greater_new_haven,Income,$50K-$75K,0.65
+satisfied_with_life,2018,greater_new_haven,Income,$75K-$100K,0.6699999999999999
+satisfied_with_life,2018,greater_new_haven,Income,$100K-$200K,0.83
+satisfied_with_life,2018,greater_new_haven,Income,$200K+,0.86
+satisfied_with_life,2018,greater_new_haven,With children,No children,0.66
+satisfied_with_life,2018,greater_new_haven,With children,Children in household,0.67
+satisfied_with_life,2018,greater_new_london,Total,Total,0.6799999999999999
+satisfied_with_life,2018,greater_new_london,Gender,Male,0.7
+satisfied_with_life,2018,greater_new_london,Gender,Female,0.65
+satisfied_with_life,2018,greater_new_london,Age,Ages 18-34,0.63
+satisfied_with_life,2018,greater_new_london,Age,Ages 35-49,0.5900000000000001
+satisfied_with_life,2018,greater_new_london,Age,Ages 50-64,0.6499999999999999
+satisfied_with_life,2018,greater_new_london,Age,Ages 65+,0.8163265306122449
+satisfied_with_life,2018,greater_new_london,Race/Ethnicity,White,0.71
+satisfied_with_life,2018,greater_new_london,Race/Ethnicity,Not white,0.55
+satisfied_with_life,2018,greater_new_london,Education,High school or less,0.6060606060606062
+satisfied_with_life,2018,greater_new_london,Education,Some college or Associate's,0.6767676767676767
+satisfied_with_life,2018,greater_new_london,Education,Bachelor's or higher,0.72
+satisfied_with_life,2018,greater_new_london,Income,<$30K,0.47
+satisfied_with_life,2018,greater_new_london,Income,$30K-$75K,0.5800000000000001
+satisfied_with_life,2018,greater_new_london,Income,$75K+,0.81
+satisfied_with_life,2018,greater_new_london,With children,No children,0.7
+satisfied_with_life,2018,greater_new_london,With children,Children in household,0.63
+satisfied_with_life,2018,greater_waterbury,Total,Total,0.65
+satisfied_with_life,2018,greater_waterbury,Gender,Male,0.67
+satisfied_with_life,2018,greater_waterbury,Gender,Female,0.62
+satisfied_with_life,2018,greater_waterbury,Age,Ages 18-34,0.53
+satisfied_with_life,2018,greater_waterbury,Age,Ages 35-49,0.6
+satisfied_with_life,2018,greater_waterbury,Age,Ages 50-64,0.7
+satisfied_with_life,2018,greater_waterbury,Age,Ages 65+,0.7474747474747475
+satisfied_with_life,2018,greater_waterbury,Race/Ethnicity,White,0.67
+satisfied_with_life,2018,greater_waterbury,Race/Ethnicity,Black,0.5700000000000001
+satisfied_with_life,2018,greater_waterbury,Race/Ethnicity,Latino,0.55
+satisfied_with_life,2018,greater_waterbury,Education,High school or less,0.57
+satisfied_with_life,2018,greater_waterbury,Education,Some college or Associate's,0.5900000000000001
+satisfied_with_life,2018,greater_waterbury,Education,Bachelor's or higher,0.74
+satisfied_with_life,2018,greater_waterbury,Income,<$15K,0.4343434343434344
+satisfied_with_life,2018,greater_waterbury,Income,$15K-$30K,0.4545454545454546
+satisfied_with_life,2018,greater_waterbury,Income,$30K-$50K,0.56
+satisfied_with_life,2018,greater_waterbury,Income,$50K-$75K,0.61
+satisfied_with_life,2018,greater_waterbury,Income,$75K-$100K,0.72
+satisfied_with_life,2018,greater_waterbury,Income,$100K-$200K,0.81
+satisfied_with_life,2018,greater_waterbury,Income,$200K+,0.89
+satisfied_with_life,2018,greater_waterbury,With children,No children,0.65
+satisfied_with_life,2018,greater_waterbury,With children,Children in household,0.65
+satisfied_with_life,2018,greenwich,Total,Total,0.7777777777777778
+satisfied_with_life,2018,greenwich,Gender,Male,0.787878787878788
+satisfied_with_life,2018,greenwich,Gender,Female,0.7653061224489796
+satisfied_with_life,2018,greenwich,Age,Ages 18-34,0.74
+satisfied_with_life,2018,greenwich,Age,Ages 35-54,0.7070707070707071
+satisfied_with_life,2018,greenwich,Age,Ages 55+,0.826530612244898
+satisfied_with_life,2018,greenwich,Race/Ethnicity,White,0.7777777777777778
+satisfied_with_life,2018,greenwich,Race/Ethnicity,Not white,0.74
+satisfied_with_life,2018,greenwich,Income,$75K+,0.787878787878788
+satisfied_with_life,2018,greenwich,Income,<$75K,0.71
+satisfied_with_life,2018,greenwich,With children,No children,0.7551020408163265
+satisfied_with_life,2018,greenwich,With children,Children in household,0.81
+satisfied_with_life,2018,hamden,Total,Total,0.68
+satisfied_with_life,2018,hamden,Gender,Male,0.68
+satisfied_with_life,2018,hamden,Gender,Female,0.67
+satisfied_with_life,2018,hamden,Age,Under age 55,0.6599999999999999
+satisfied_with_life,2018,hamden,Age,Age 55 or older,0.71
+satisfied_with_life,2018,hamden,Race/Ethnicity,White,0.67
+satisfied_with_life,2018,hamden,Race/Ethnicity,Not white,0.6699999999999999
+satisfied_with_life,2018,hamden,Education,High school or less,0.7
+satisfied_with_life,2018,hamden,Education,Some college or Associate's,0.52
+satisfied_with_life,2018,hamden,Education,Bachelor's or higher,0.75
+satisfied_with_life,2018,hamden,Income,$75K+,0.81
+satisfied_with_life,2018,hamden,Income,<$75K,0.5800000000000001
+satisfied_with_life,2018,hamden,With children,No children,0.62
+satisfied_with_life,2018,hamden,With children,Children in household,0.77
+satisfied_with_life,2018,hartford,Total,Total,0.5252525252525253
+satisfied_with_life,2018,hartford,Gender,Male,0.5454545454545455
+satisfied_with_life,2018,hartford,Gender,Female,0.5204081632653061
+satisfied_with_life,2018,hartford,Age,Ages 18-34,0.44
+satisfied_with_life,2018,hartford,Age,Ages 35-49,0.5454545454545455
+satisfied_with_life,2018,hartford,Age,Ages 50-64,0.5408163265306123
+satisfied_with_life,2018,hartford,Age,Ages 65+,0.6969696969696969
+satisfied_with_life,2018,hartford,Race/Ethnicity,White,0.59
+satisfied_with_life,2018,hartford,Race/Ethnicity,Black,0.4693877551020408
+satisfied_with_life,2018,hartford,Race/Ethnicity,Latino,0.49
+satisfied_with_life,2018,hartford,Education,High school or less,0.4444444444444445
+satisfied_with_life,2018,hartford,Education,Some college or Associate's,0.49
+satisfied_with_life,2018,hartford,Education,Bachelor's or higher,0.69
+satisfied_with_life,2018,hartford,Income,<$30K,0.41000000000000003
+satisfied_with_life,2018,hartford,Income,$30K-$75K,0.51
+satisfied_with_life,2018,hartford,Income,$75K+,0.6969696969696969
+satisfied_with_life,2018,hartford,With children,No children,0.5555555555555556
+satisfied_with_life,2018,hartford,With children,Children in household,0.48
+satisfied_with_life,2018,hartford_inner_ring,Total,Total,0.61
+satisfied_with_life,2018,hartford_inner_ring,Gender,Male,0.63
+satisfied_with_life,2018,hartford_inner_ring,Gender,Female,0.5900000000000001
+satisfied_with_life,2018,hartford_inner_ring,Age,Ages 18-34,0.55
+satisfied_with_life,2018,hartford_inner_ring,Age,Ages 35-49,0.56
+satisfied_with_life,2018,hartford_inner_ring,Age,Ages 50-64,0.62
+satisfied_with_life,2018,hartford_inner_ring,Age,Ages 65+,0.74
+satisfied_with_life,2018,hartford_inner_ring,Race/Ethnicity,White,0.6
+satisfied_with_life,2018,hartford_inner_ring,Race/Ethnicity,Black,0.6000000000000001
+satisfied_with_life,2018,hartford_inner_ring,Race/Ethnicity,Latino,0.54
+satisfied_with_life,2018,hartford_inner_ring,Education,High school or less,0.52
+satisfied_with_life,2018,hartford_inner_ring,Education,Some college or Associate's,0.5599999999999999
+satisfied_with_life,2018,hartford_inner_ring,Education,Bachelor's or higher,0.7
+satisfied_with_life,2018,hartford_inner_ring,Income,<$15K,0.51
+satisfied_with_life,2018,hartford_inner_ring,Income,$15K-$30K,0.52
+satisfied_with_life,2018,hartford_inner_ring,Income,$30K-$50K,0.51
+satisfied_with_life,2018,hartford_inner_ring,Income,$50K-$75K,0.55
+satisfied_with_life,2018,hartford_inner_ring,Income,$75K-$100K,0.6767676767676767
+satisfied_with_life,2018,hartford_inner_ring,Income,$100K+,0.73
+satisfied_with_life,2018,hartford_inner_ring,With children,No children,0.63
+satisfied_with_life,2018,hartford_inner_ring,With children,Children in household,0.59
+satisfied_with_life,2018,hartford_outer_ring,Total,Total,0.78
+satisfied_with_life,2018,hartford_outer_ring,Gender,Male,0.79
+satisfied_with_life,2018,hartford_outer_ring,Gender,Female,0.76
+satisfied_with_life,2018,hartford_outer_ring,Age,Ages 18-34,0.68
+satisfied_with_life,2018,hartford_outer_ring,Age,Ages 35-49,0.77
+satisfied_with_life,2018,hartford_outer_ring,Age,Ages 50-64,0.79
+satisfied_with_life,2018,hartford_outer_ring,Age,Ages 65+,0.86
+satisfied_with_life,2018,hartford_outer_ring,Race/Ethnicity,White,0.79
+satisfied_with_life,2018,hartford_outer_ring,Race/Ethnicity,Not white,0.7000000000000001
+satisfied_with_life,2018,hartford_outer_ring,Education,High school or less,0.75
+satisfied_with_life,2018,hartford_outer_ring,Education,Some college or Associate's,0.7474747474747475
+satisfied_with_life,2018,hartford_outer_ring,Education,Bachelor's or higher,0.81
+satisfied_with_life,2018,hartford_outer_ring,Income,<$30K,0.62
+satisfied_with_life,2018,hartford_outer_ring,Income,$30K-$75K,0.7373737373737373
+satisfied_with_life,2018,hartford_outer_ring,Income,$75K+,0.8300000000000001
+satisfied_with_life,2018,hartford_outer_ring,With children,No children,0.78
+satisfied_with_life,2018,hartford_outer_ring,With children,Children in household,0.78
+satisfied_with_life,2018,manchester,Total,Total,0.53
+satisfied_with_life,2018,manchester,Gender,Male,0.5
+satisfied_with_life,2018,manchester,Gender,Female,0.55
+satisfied_with_life,2018,manchester,Age,Under age 55,0.47
+satisfied_with_life,2018,manchester,Age,Age 55 or older,0.65
+satisfied_with_life,2018,manchester,Education,Bachelor's or higher,0.6799999999999999
+satisfied_with_life,2018,manchester,Education,Some college or less,0.43
+satisfied_with_life,2018,manchester,Income,$75K+,0.56
+satisfied_with_life,2018,manchester,Income,<$75K,0.49
+satisfied_with_life,2018,meriden,Total,Total,0.6224489795918368
+satisfied_with_life,2018,meriden,Gender,Male,0.6122448979591837
+satisfied_with_life,2018,meriden,Gender,Female,0.6161616161616161
+satisfied_with_life,2018,meriden,Age,Under age 55,0.5555555555555556
+satisfied_with_life,2018,meriden,Age,Age 55 or older,0.7474747474747475
+satisfied_with_life,2018,meriden,Race/Ethnicity,White,0.6020408163265306
+satisfied_with_life,2018,meriden,Race/Ethnicity,Not white,0.64
+satisfied_with_life,2018,meriden,Education,High school or less,0.6
+satisfied_with_life,2018,meriden,Education,Some college or Associate's,0.6060606060606061
+satisfied_with_life,2018,meriden,Education,Bachelor's or higher,0.64
+satisfied_with_life,2018,meriden,Income,<$30K,0.37373737373737376
+satisfied_with_life,2018,meriden,Income,$30K-$75K,0.6060606060606061
+satisfied_with_life,2018,meriden,Income,$75K+,0.74
+satisfied_with_life,2018,meriden,With children,No children,0.6060606060606061
+satisfied_with_life,2018,meriden,With children,Children in household,0.6363636363636364
+satisfied_with_life,2018,middlesex_county,Total,Total,0.67
+satisfied_with_life,2018,middlesex_county,Gender,Male,0.71
+satisfied_with_life,2018,middlesex_county,Gender,Female,0.6363636363636364
+satisfied_with_life,2018,middlesex_county,Age,Under age 55,0.6599999999999999
+satisfied_with_life,2018,middlesex_county,Age,Age 55 or older,0.6767676767676768
+satisfied_with_life,2018,middlesex_county,Education,High school or less,0.6464646464646465
+satisfied_with_life,2018,middlesex_county,Education,Some college or Associate's,0.6262626262626263
+satisfied_with_life,2018,middlesex_county,Education,Bachelor's or higher,0.7
+satisfied_with_life,2018,middlesex_county,Income,$75K+,0.77
+satisfied_with_life,2018,middlesex_county,Income,<$75K,0.5151515151515151
+satisfied_with_life,2018,middlesex_county,With children,No children,0.6565656565656566
+satisfied_with_life,2018,middlesex_county,With children,Children in household,0.7
+satisfied_with_life,2018,middletown,Total,Total,0.6565656565656566
+satisfied_with_life,2018,middletown,Gender,Male,0.7575757575757576
+satisfied_with_life,2018,middletown,Gender,Female,0.5555555555555556
+satisfied_with_life,2018,middletown,Age,Under age 55,0.6161616161616161
+satisfied_with_life,2018,middletown,Age,Age 55 or older,0.7142857142857143
+satisfied_with_life,2018,middletown,Education,Bachelor's or higher,0.7244897959183674
+satisfied_with_life,2018,middletown,Education,Some college or less,0.58
+satisfied_with_life,2018,middletown,Income,$75K+,0.8484848484848485
+satisfied_with_life,2018,middletown,Income,<$75K,0.51
+satisfied_with_life,2018,milford,Total,Total,0.6868686868686869
+satisfied_with_life,2018,milford,Gender,Male,0.63
+satisfied_with_life,2018,milford,Gender,Female,0.7448979591836735
+satisfied_with_life,2018,milford,Age,Under age 55,0.6363636363636364
+satisfied_with_life,2018,milford,Age,Age 55 or older,0.7676767676767677
+satisfied_with_life,2018,milford,Education,Bachelor's or higher,0.7373737373737373
+satisfied_with_life,2018,milford,Education,Some college or less,0.6565656565656566
+satisfied_with_life,2018,milford,Income,$75K+,0.83
+satisfied_with_life,2018,milford,Income,<$75K,0.53
+satisfied_with_life,2018,milford,With children,No children,0.6734693877551021
+satisfied_with_life,2018,milford,With children,Children in household,0.72
+satisfied_with_life,2018,monroe,Total,Total,0.77
+satisfied_with_life,2018,ncdhd,Total,Total,0.63
+satisfied_with_life,2018,ncdhd,Gender,Male,0.67
+satisfied_with_life,2018,ncdhd,Gender,Female,0.6000000000000001
+satisfied_with_life,2018,ncdhd,Age,Under age 55,0.59
+satisfied_with_life,2018,ncdhd,Age,Age 55 or older,0.72
+satisfied_with_life,2018,ncdhd,Race/Ethnicity,White,0.63
+satisfied_with_life,2018,ncdhd,Race/Ethnicity,Not white,0.63
+satisfied_with_life,2018,ncdhd,Education,High school or less,0.56
+satisfied_with_life,2018,ncdhd,Education,Some college or Associate's,0.61
+satisfied_with_life,2018,ncdhd,Education,Bachelor's or higher,0.69
+satisfied_with_life,2018,ncdhd,Income,<$30K,0.54
+satisfied_with_life,2018,ncdhd,Income,$30K-$75K,0.53
+satisfied_with_life,2018,ncdhd,Income,$75K+,0.72
+satisfied_with_life,2018,ncdhd,With children,No children,0.64
+satisfied_with_life,2018,ncdhd,With children,Children in household,0.62
+satisfied_with_life,2018,nddh,Total,Total,0.6799999999999999
+satisfied_with_life,2018,nddh,Gender,Male,0.71
+satisfied_with_life,2018,nddh,Gender,Female,0.6565656565656566
+satisfied_with_life,2018,nddh,Age,Under age 55,0.63
+satisfied_with_life,2018,nddh,Age,Age 55 or older,0.7474747474747475
+satisfied_with_life,2018,nddh,Education,High school or less,0.6767676767676768
+satisfied_with_life,2018,nddh,Education,Some college or Associate's,0.61
+satisfied_with_life,2018,nddh,Education,Bachelor's or higher,0.75
+satisfied_with_life,2018,nddh,Income,<$30K,0.47474747474747475
+satisfied_with_life,2018,nddh,Income,$30K-$75K,0.76
+satisfied_with_life,2018,nddh,Income,$75K+,0.77
+satisfied_with_life,2018,nddh,With children,No children,0.6699999999999999
+satisfied_with_life,2018,nddh,With children,Children in household,0.71
+satisfied_with_life,2018,new_britain,Total,Total,0.5800000000000001
+satisfied_with_life,2018,new_britain,Gender,Male,0.59
+satisfied_with_life,2018,new_britain,Gender,Female,0.58
+satisfied_with_life,2018,new_britain,Age,Under age 55,0.54
+satisfied_with_life,2018,new_britain,Age,Age 55 or older,0.6599999999999999
+satisfied_with_life,2018,new_britain,Race/Ethnicity,White,0.56
+satisfied_with_life,2018,new_britain,Race/Ethnicity,Not white,0.6
+satisfied_with_life,2018,new_britain,Education,High school or less,0.54
+satisfied_with_life,2018,new_britain,Education,Some college or Associate's,0.63
+satisfied_with_life,2018,new_britain,Education,Bachelor's or higher,0.61
+satisfied_with_life,2018,new_britain,Income,<$30K,0.47
+satisfied_with_life,2018,new_britain,Income,$30K-$75K,0.62
+satisfied_with_life,2018,new_britain,Income,$75K+,0.63
+satisfied_with_life,2018,new_britain,With children,No children,0.62
+satisfied_with_life,2018,new_britain,With children,Children in household,0.52
+satisfied_with_life,2018,new_haven,Total,Total,0.5959595959595959
+satisfied_with_life,2018,new_haven,Gender,Male,0.6161616161616161
+satisfied_with_life,2018,new_haven,Gender,Female,0.57
+satisfied_with_life,2018,new_haven,Age,Ages 18-34,0.585858585858586
+satisfied_with_life,2018,new_haven,Age,Ages 35-49,0.49
+satisfied_with_life,2018,new_haven,Age,Ages 50-64,0.6799999999999999
+satisfied_with_life,2018,new_haven,Age,Ages 65+,0.6666666666666666
+satisfied_with_life,2018,new_haven,Race/Ethnicity,White,0.64
+satisfied_with_life,2018,new_haven,Race/Ethnicity,Black,0.5306122448979592
+satisfied_with_life,2018,new_haven,Race/Ethnicity,Latino,0.45999999999999996
+satisfied_with_life,2018,new_haven,Education,High school or less,0.5102040816326531
+satisfied_with_life,2018,new_haven,Education,Some college or Associate's,0.54
+satisfied_with_life,2018,new_haven,Education,Bachelor's or higher,0.6900000000000001
+satisfied_with_life,2018,new_haven,Income,<$30K,0.4
+satisfied_with_life,2018,new_haven,Income,$30K-$75K,0.61
+satisfied_with_life,2018,new_haven,Income,$75K+,0.74
+satisfied_with_life,2018,new_haven,With children,No children,0.6060606060606061
+satisfied_with_life,2018,new_haven,With children,Children in household,0.5800000000000001
+satisfied_with_life,2018,new_haven_inner_ring,Total,Total,0.65
+satisfied_with_life,2018,new_haven_inner_ring,Gender,Male,0.66
+satisfied_with_life,2018,new_haven_inner_ring,Gender,Female,0.64
+satisfied_with_life,2018,new_haven_inner_ring,Age,Ages 18-34,0.62
+satisfied_with_life,2018,new_haven_inner_ring,Age,Ages 35-49,0.5900000000000001
+satisfied_with_life,2018,new_haven_inner_ring,Age,Ages 50-64,0.74
+satisfied_with_life,2018,new_haven_inner_ring,Age,Ages 65+,0.6464646464646465
+satisfied_with_life,2018,new_haven_inner_ring,Race/Ethnicity,White,0.62
+satisfied_with_life,2018,new_haven_inner_ring,Race/Ethnicity,Black,0.69
+satisfied_with_life,2018,new_haven_inner_ring,Race/Ethnicity,Latino,0.5454545454545455
+satisfied_with_life,2018,new_haven_inner_ring,Education,High school or less,0.64
+satisfied_with_life,2018,new_haven_inner_ring,Education,Some college or Associate's,0.5757575757575758
+satisfied_with_life,2018,new_haven_inner_ring,Education,Bachelor's or higher,0.72
+satisfied_with_life,2018,new_haven_inner_ring,Income,<$30K,0.55
+satisfied_with_life,2018,new_haven_inner_ring,Income,$30K-$75K,0.6
+satisfied_with_life,2018,new_haven_inner_ring,Income,$75K+,0.75
+satisfied_with_life,2018,new_haven_inner_ring,With children,No children,0.64
+satisfied_with_life,2018,new_haven_inner_ring,With children,Children in household,0.7
+satisfied_with_life,2018,new_haven_outer_ring,Total,Total,0.72
+satisfied_with_life,2018,new_haven_outer_ring,Gender,Male,0.68
+satisfied_with_life,2018,new_haven_outer_ring,Gender,Female,0.7575757575757576
+satisfied_with_life,2018,new_haven_outer_ring,Age,Ages 18-34,0.53
+satisfied_with_life,2018,new_haven_outer_ring,Age,Ages 35-49,0.7300000000000001
+satisfied_with_life,2018,new_haven_outer_ring,Age,Ages 50-64,0.8080808080808082
+satisfied_with_life,2018,new_haven_outer_ring,Age,Ages 65+,0.76
+satisfied_with_life,2018,new_haven_outer_ring,Education,High school or less,0.66
+satisfied_with_life,2018,new_haven_outer_ring,Education,Some college or Associate's,0.6868686868686869
+satisfied_with_life,2018,new_haven_outer_ring,Education,Bachelor's or higher,0.76
+satisfied_with_life,2018,new_haven_outer_ring,Income,<$30K,0.5
+satisfied_with_life,2018,new_haven_outer_ring,Income,$30K-$75K,0.61
+satisfied_with_life,2018,new_haven_outer_ring,Income,$75K+,0.8
+satisfied_with_life,2018,new_haven_outer_ring,With children,No children,0.7171717171717171
+satisfied_with_life,2018,new_haven_outer_ring,With children,Children in household,0.7100000000000001
+satisfied_with_life,2018,new_london,Total,Total,0.53
+satisfied_with_life,2018,new_london,Gender,Male,0.51
+satisfied_with_life,2018,new_london,Gender,Female,0.5454545454545455
+satisfied_with_life,2018,new_london,Age,Under age 55,0.43
+satisfied_with_life,2018,new_london,Age,Age 55 or older,0.7373737373737373
+satisfied_with_life,2018,new_london,Race/Ethnicity,White,0.64
+satisfied_with_life,2018,new_london,Race/Ethnicity,Not white,0.42000000000000004
+satisfied_with_life,2018,new_london,Education,Bachelor's or higher,0.64
+satisfied_with_life,2018,new_london,Education,Less than Bachelor's degree,0.47474747474747475
+satisfied_with_life,2018,new_london,Income,$75K+,0.79
+satisfied_with_life,2018,new_london,Income,<$75K,0.44999999999999996
+satisfied_with_life,2018,new_milford,Total,Total,0.7
+satisfied_with_life,2018,new_milford,Gender,Male,0.72
+satisfied_with_life,2018,new_milford,Gender,Female,0.6699999999999999
+satisfied_with_life,2018,new_milford,Age,Under age 55,0.5900000000000001
+satisfied_with_life,2018,new_milford,Age,Age 55 or older,0.86
+satisfied_with_life,2018,new_milford,Education,High school or less,0.6
+satisfied_with_life,2018,new_milford,Education,Some college or Associate's,0.54
+satisfied_with_life,2018,new_milford,Education,Bachelor's or higher,0.8099999999999999
+satisfied_with_life,2018,new_milford,Income,$75K+,0.75
+satisfied_with_life,2018,new_milford,Income,<$75K,0.61
+satisfied_with_life,2018,new_milford,With children,No children,0.69
+satisfied_with_life,2018,new_milford,With children,Children in household,0.6799999999999999
+satisfied_with_life,2018,newtown,Total,Total,0.7373737373737373
+satisfied_with_life,2018,newtown,Gender,Male,0.76
+satisfied_with_life,2018,newtown,Gender,Female,0.7070707070707071
+satisfied_with_life,2018,newtown,Age,Under age 55,0.6969696969696969
+satisfied_with_life,2018,newtown,Age,Age 55 or older,0.78
+satisfied_with_life,2018,newtown,Education,Bachelor's or higher,0.8
+satisfied_with_life,2018,newtown,Education,Some college or less,0.63
+satisfied_with_life,2018,newtown,Income,$75K+,0.79
+satisfied_with_life,2018,newtown,Income,<$75K,0.5353535353535354
+satisfied_with_life,2018,newtown,With children,No children,0.73
+satisfied_with_life,2018,newtown,With children,Children in household,0.74
+satisfied_with_life,2018,norwalk,Total,Total,0.6699999999999999
+satisfied_with_life,2018,norwalk,Gender,Male,0.74
+satisfied_with_life,2018,norwalk,Gender,Female,0.6262626262626263
+satisfied_with_life,2018,norwalk,Age,Ages 18-34,0.5800000000000001
+satisfied_with_life,2018,norwalk,Age,Ages 35-49,0.7244897959183674
+satisfied_with_life,2018,norwalk,Age,Ages 50-64,0.71
+satisfied_with_life,2018,norwalk,Age,Ages 65+,0.74
+satisfied_with_life,2018,norwalk,Race/Ethnicity,White,0.72
+satisfied_with_life,2018,norwalk,Race/Ethnicity,Not white,0.6363636363636364
+satisfied_with_life,2018,norwalk,Education,High school or less,0.62
+satisfied_with_life,2018,norwalk,Education,Some college or Associate's,0.6262626262626263
+satisfied_with_life,2018,norwalk,Education,Bachelor's or higher,0.74
+satisfied_with_life,2018,norwalk,Income,<$30K,0.4489795918367347
+satisfied_with_life,2018,norwalk,Income,$30K-$75K,0.56
+satisfied_with_life,2018,norwalk,Income,$75K+,0.8
+satisfied_with_life,2018,norwalk,With children,No children,0.6799999999999999
+satisfied_with_life,2018,norwalk,With children,Children in household,0.7070707070707071
+satisfied_with_life,2018,nyborder,Total,Total,0.7575757575757576
+satisfied_with_life,2018,nyborder,Gender,Male,0.7346938775510204
+satisfied_with_life,2018,nyborder,Gender,Female,0.79
+satisfied_with_life,2018,nyborder,Age,Ages 18-34,0.72
+satisfied_with_life,2018,nyborder,Age,Ages 35-49,0.78
+satisfied_with_life,2018,nyborder,Age,Ages 50-64,0.75
+satisfied_with_life,2018,nyborder,Age,Ages 65+,0.8181818181818182
+satisfied_with_life,2018,nyborder,Race/Ethnicity,White,0.78
+satisfied_with_life,2018,nyborder,Race/Ethnicity,Not white,0.7272727272727273
+satisfied_with_life,2018,nyborder,Education,High school or less,0.6060606060606062
+satisfied_with_life,2018,nyborder,Education,Some college or Associate's,0.7857142857142857
+satisfied_with_life,2018,nyborder,Education,Bachelor's or higher,0.8300000000000001
+satisfied_with_life,2018,nyborder,Income,<$30K,0.59
+satisfied_with_life,2018,nyborder,Income,$30K-$75K,0.7857142857142857
+satisfied_with_life,2018,nyborder,Income,$75K+,0.85
+satisfied_with_life,2018,nyborder,With children,No children,0.78
+satisfied_with_life,2018,nyborder,With children,Children in household,0.7575757575757576
+satisfied_with_life,2018,pomperaug,Total,Total,0.7373737373737373
+satisfied_with_life,2018,pomperaug,Gender,Male,0.7474747474747475
+satisfied_with_life,2018,pomperaug,Gender,Female,0.71
+satisfied_with_life,2018,pomperaug,Age,Under age 55,0.64
+satisfied_with_life,2018,pomperaug,Age,Age 55 or older,0.8080808080808082
+satisfied_with_life,2018,pomperaug,Education,Bachelor's or higher,0.8080808080808082
+satisfied_with_life,2018,pomperaug,Education,Some college or less,0.62
+satisfied_with_life,2018,pomperaug,Income,$75K+,0.82
+satisfied_with_life,2018,pomperaug,Income,<$75K,0.5714285714285715
+satisfied_with_life,2018,pomperaug,With children,No children,0.7474747474747475
+satisfied_with_life,2018,pomperaug,With children,Children in household,0.7100000000000001
+satisfied_with_life,2018,port_chester_ny,Total,Total,0.7474747474747475
+satisfied_with_life,2018,port_chester_ny,Gender,Male,0.7070707070707071
+satisfied_with_life,2018,port_chester_ny,Gender,Female,0.77
+satisfied_with_life,2018,port_chester_ny,Age,Under age 55,0.76
+satisfied_with_life,2018,port_chester_ny,Age,Age 55 or older,0.7040816326530612
+satisfied_with_life,2018,port_chester_ny,Race/Ethnicity,White,0.76
+satisfied_with_life,2018,port_chester_ny,Race/Ethnicity,Not white,0.7171717171717171
+satisfied_with_life,2018,port_chester_ny,Education,High school or less,0.663265306122449
+satisfied_with_life,2018,port_chester_ny,Education,Some college or Associate's,0.7448979591836735
+satisfied_with_life,2018,port_chester_ny,Education,Bachelor's or higher,0.79
+satisfied_with_life,2018,port_chester_ny,Income,$75K+,0.8400000000000001
+satisfied_with_life,2018,port_chester_ny,Income,<$75K,0.71
+satisfied_with_life,2018,port_chester_ny,With children,No children,0.76
+satisfied_with_life,2018,port_chester_ny,With children,Children in household,0.76
+satisfied_with_life,2018,stamford,Total,Total,0.7373737373737373
+satisfied_with_life,2018,stamford,Gender,Male,0.76
+satisfied_with_life,2018,stamford,Gender,Female,0.7272727272727273
+satisfied_with_life,2018,stamford,Age,Ages 18-34,0.66
+satisfied_with_life,2018,stamford,Age,Ages 35-49,0.72
+satisfied_with_life,2018,stamford,Age,Ages 50-64,0.77
+satisfied_with_life,2018,stamford,Age,Ages 65+,0.8080808080808082
+satisfied_with_life,2018,stamford,Race/Ethnicity,White,0.75
+satisfied_with_life,2018,stamford,Race/Ethnicity,Black,0.71
+satisfied_with_life,2018,stamford,Race/Ethnicity,Latino,0.7
+satisfied_with_life,2018,stamford,Education,High school or less,0.6699999999999999
+satisfied_with_life,2018,stamford,Education,Some college or Associate's,0.63
+satisfied_with_life,2018,stamford,Education,Bachelor's or higher,0.79
+satisfied_with_life,2018,stamford,Income,<$30K,0.52
+satisfied_with_life,2018,stamford,Income,$30K-$75K,0.65
+satisfied_with_life,2018,stamford,Income,$75K+,0.8200000000000001
+satisfied_with_life,2018,stamford,With children,No children,0.73
+satisfied_with_life,2018,stamford,With children,Children in household,0.7474747474747475
+satisfied_with_life,2018,stratford,Total,Total,0.6262626262626263
+satisfied_with_life,2018,stratford,Gender,Male,0.59
+satisfied_with_life,2018,stratford,Gender,Female,0.6464646464646465
+satisfied_with_life,2018,stratford,Age,Under age 55,0.585858585858586
+satisfied_with_life,2018,stratford,Age,Age 55 or older,0.6799999999999999
+satisfied_with_life,2018,stratford,Education,High school or less,0.56
+satisfied_with_life,2018,stratford,Education,Some college or Associate's,0.5599999999999999
+satisfied_with_life,2018,stratford,Education,Bachelor's or higher,0.7171717171717171
+satisfied_with_life,2018,stratford,Income,$75K+,0.74
+satisfied_with_life,2018,stratford,Income,<$75K,0.5353535353535354
+satisfied_with_life,2018,stratford,With children,No children,0.6060606060606061
+satisfied_with_life,2018,stratford,With children,Children in household,0.6699999999999999
+satisfied_with_life,2018,trumbull,Total,Total,0.71
+satisfied_with_life,2018,trumbull,Gender,Male,0.71
+satisfied_with_life,2018,trumbull,Gender,Female,0.72
+satisfied_with_life,2018,trumbull,Age,Under age 55,0.7
+satisfied_with_life,2018,trumbull,Age,Age 55 or older,0.72
+satisfied_with_life,2018,trumbull,Education,Bachelor's or higher,0.71
+satisfied_with_life,2018,trumbull,Education,Some college or less,0.72
+satisfied_with_life,2018,trumbull,Income,$100K+,0.82
+satisfied_with_life,2018,trumbull,Income,<$100K,0.58
+satisfied_with_life,2018,valley,Total,Total,0.65
+satisfied_with_life,2018,valley,Gender,Male,0.67
+satisfied_with_life,2018,valley,Gender,Female,0.63
+satisfied_with_life,2018,valley,Age,Ages 18-34,0.5555555555555556
+satisfied_with_life,2018,valley,Age,Ages 35-49,0.62
+satisfied_with_life,2018,valley,Age,Ages 50-64,0.68
+satisfied_with_life,2018,valley,Age,Ages 65+,0.7070707070707071
+satisfied_with_life,2018,valley,Race/Ethnicity,White,0.65
+satisfied_with_life,2018,valley,Race/Ethnicity,Not white,0.6161616161616161
+satisfied_with_life,2018,valley,Education,High school or less,0.5900000000000001
+satisfied_with_life,2018,valley,Education,Some college or Associate's,0.62
+satisfied_with_life,2018,valley,Education,Bachelor's or higher,0.71
+satisfied_with_life,2018,valley,Income,<$30K,0.494949494949495
+satisfied_with_life,2018,valley,Income,$30K-$75K,0.57
+satisfied_with_life,2018,valley,Income,$75K+,0.76
+satisfied_with_life,2018,valley,With children,No children,0.65
+satisfied_with_life,2018,valley,With children,Children in household,0.65
+satisfied_with_life,2018,wallingford,Total,Total,0.6799999999999999
+satisfied_with_life,2018,wallingford,Gender,Male,0.7575757575757576
+satisfied_with_life,2018,wallingford,Gender,Female,0.62
+satisfied_with_life,2018,wallingford,Age,Under age 55,0.62
+satisfied_with_life,2018,wallingford,Age,Age 55 or older,0.787878787878788
+satisfied_with_life,2018,wallingford,Education,Bachelor's or higher,0.72
+satisfied_with_life,2018,wallingford,Education,Some college or less,0.6565656565656566
+satisfied_with_life,2018,wallingford,Income,$75K+,0.8099999999999999
+satisfied_with_life,2018,wallingford,Income,<$75K,0.5454545454545455
+satisfied_with_life,2018,waterbury,Total,Total,0.53
+satisfied_with_life,2018,waterbury,Gender,Male,0.54
+satisfied_with_life,2018,waterbury,Gender,Female,0.54
+satisfied_with_life,2018,waterbury,Age,Ages 18-34,0.47
+satisfied_with_life,2018,waterbury,Age,Ages 35-49,0.47
+satisfied_with_life,2018,waterbury,Age,Ages 50-64,0.62
+satisfied_with_life,2018,waterbury,Age,Ages 65+,0.6565656565656566
+satisfied_with_life,2018,waterbury,Race/Ethnicity,White,0.54
+satisfied_with_life,2018,waterbury,Race/Ethnicity,Black,0.54
+satisfied_with_life,2018,waterbury,Race/Ethnicity,Latino,0.55
+satisfied_with_life,2018,waterbury,Education,High school or less,0.47000000000000003
+satisfied_with_life,2018,waterbury,Education,Some college or Associate's,0.52
+satisfied_with_life,2018,waterbury,Education,Bachelor's or higher,0.65
+satisfied_with_life,2018,waterbury,Income,<$30K,0.44
+satisfied_with_life,2018,waterbury,Income,$30K-$75K,0.5700000000000001
+satisfied_with_life,2018,waterbury,Income,$75K+,0.6499999999999999
+satisfied_with_life,2018,waterbury,With children,No children,0.55
+satisfied_with_life,2018,waterbury,With children,Children in household,0.53
+satisfied_with_life,2018,west_hartford,Total,Total,0.75
+satisfied_with_life,2018,west_hartford,Gender,Male,0.86
+satisfied_with_life,2018,west_hartford,Gender,Female,0.6666666666666667
+satisfied_with_life,2018,west_hartford,Age,Under age 55,0.74
+satisfied_with_life,2018,west_hartford,Age,Age 55 or older,0.7777777777777778
+satisfied_with_life,2018,west_hartford,Education,Bachelor's or higher,0.8
+satisfied_with_life,2018,west_hartford,Education,Some college or less,0.65
+satisfied_with_life,2018,west_hartford,Income,$75K+,0.8787878787878788
+satisfied_with_life,2018,west_hartford,Income,<$75K,0.51
+satisfied_with_life,2018,west_hartford,With children,No children,0.69
+satisfied_with_life,2018,west_hartford,With children,Children in household,0.87
+satisfied_with_life,2018,west_haven,Total,Total,0.5900000000000001
+satisfied_with_life,2018,west_haven,Gender,Male,0.6161616161616161
+satisfied_with_life,2018,west_haven,Gender,Female,0.58
+satisfied_with_life,2018,west_haven,Age,Under age 55,0.54
+satisfied_with_life,2018,west_haven,Age,Age 55 or older,0.6767676767676768
+satisfied_with_life,2018,west_haven,Race/Ethnicity,White,0.55
+satisfied_with_life,2018,west_haven,Race/Ethnicity,Not white,0.63
+satisfied_with_life,2018,west_haven,Education,High school or less,0.65
+satisfied_with_life,2018,west_haven,Education,Some college or Associate's,0.46464646464646464
+satisfied_with_life,2018,west_haven,Education,Bachelor's or higher,0.67
+satisfied_with_life,2018,west_haven,Income,$75K+,0.69
+satisfied_with_life,2018,west_haven,Income,<$75K,0.51
+satisfied_with_life,2018,west_haven,With children,No children,0.5900000000000001
+satisfied_with_life,2018,west_haven,With children,Children in household,0.6

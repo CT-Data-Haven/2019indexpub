@@ -1,0 +1,20 @@
+group,weight,year
+Male,0.47,2018
+Female,0.53,2018
+Ages 18-34,0.39,2018
+Ages 35-49,0.24,2018
+Ages 50-64,0.14,2018
+Ages 65+,0.16,2018
+White,0.23,2018
+Black,0.35,2018
+Latino,0.19,2018
+Other,0.19,2018
+High school or less,0.39,2018
+Some college or Associate's,0.3,2018
+Bachelor's or higher,0.29,2018
+<$30K,0.42,2018
+$30K-$75K,0.26,2018
+$75K+,0.17,2018
+Children in household,0.36,2018
+No children in household,0.61,2018
+Total,1,2018

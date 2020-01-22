@@ -13,21 +13,17 @@ Q8,during the past 12 months how often have you utilized arts and cultural resou
 Q9,do you have access to a car when you need it would you say you have access
 Q57,now tell us more about yourself what is your marital status
 Q60,what is the number of adults 18 and older including yourself living in the household
-Q58,how many children under the age of 18 are living in your household
 CHILDCARE,if living with children who have not yet started kindergarten how easy or hard do you think it is to find child care for
 Q11,do you own your home rent or something else
 Q12,do you live in a subsidized apartment or are you receiving rental assistance through either a state or federal program
 MOVEYEAR,in what year did you move into your current home
 RECENTMOVE,where were you living just before you moved to your current home in <year>
-OWNRECEMOV,please tell me which of the following are reasons that you moved to your current home in <year>
 RENTPREVST,did you own your previous home that you moved from in <year>
-RENTEVICT,were you or a person you were staying with evicted from the home you moved from in <year>
+RENTEVICTx1,were you or a person you were staying with evicted from the home you moved from in <year>
+RENTEVICTx2,did you own your previous home that you moved from in <year>
 RENTEVICTRA,received an eviction notice
 RENTEVICTRAB,your landlord told you or a person you were staying with to leave
 RENTEVICTRC,you or a person you were staying with missed a rent payment and thought that if you didnt move you would be evicted
-RENTFORECLAx1,bank took possession of your home in foreclosure
-RENTFORECLAx2,missed mortgage payments and thought that if you didnt move the bank would foreclose on your home
-RENTFORECLB,received a notice from the bank that they planned to foreclose
 RENTMOVEOT,if moved since 2016 currently own or rent a home and not evicted please tell me which of the following reasons contribut
 Q13R1,in the past 12 months have you experienced any problems with your house or apartment that you felt needed to be fixed su
 Q13R2,did you contact your landlord about the problem that needed to be fixed
@@ -64,7 +60,7 @@ Q23E,asthma
 Q23E2,do you still have asthma
 Q23E3,during the past 12 months how many times did you visit an emergency room or urgent care center because of your asthma
 Q23E1,during the past 30 days how often have you used a prescription asthma inhaler during an asthma attack to stop it
-BMIR,bmi based on height and weight
+BMI,bmi based on height and weight
 Q26,do you have health insurance
 Q27,what type of health insurance do you have
 Q28,during the past 12 months was there any time when you didnt get the medical care you needed
@@ -87,9 +83,6 @@ Q37,do you have relatives or friends who you can count on to help you when you n
 Q37_1,how often do you get the social and emotional support you need
 Q37_2,little interest or pleasure in doing things
 Q37_3,feeling down depressed or hopeless
-HIV1,the next few questions are about the national health problem of hiv the virus that causes aids please remember that your
-HIV2,have you been offered an hiv test in the past year ie 12 months by your doctor
-HIV3,i am going to read you a list when i am done please tell me if any of the situations apply to you during the past year y
 Q38,in an average week how many days per week do you exercise
 Q39,have you smoked at least 100 cigarettes in your entire life
 Q40,do you currently smoke cigarettes every day some days or not at all
@@ -110,13 +103,7 @@ Q47,have you had a paid job in the last 30 days
 Q48,for how long have you not had a paid job
 Q49,during this time has your job been full time or part time
 Q50,are you working parttime by choice or would you rather have a fulltime job
-Q51,in total how many hours per week do you work at paying jobs
-Q52,over the past 5 years was there ever a time when you were out of work and looking for a job
-Q53,does your current job pay more less or about the same as your last job
-Q54,do you feel you have both the education and training necessary to get ahead in your job or career or do you need either 
-Q55,do you feel you have both the education and training necessary to get the kind of job you want or do you need either mor
 Q56,what is your primary means of transportation to work school or the place where you spend most of your time outside of ho
-Q56NEW,how many minutes does it usually take to get from home to work one way
 Q61,which of these devices do you have
 Q62,have there been times in the past 12 months when you did not have enough money to buy food that you or your family neede
 Q63,how often did this happen almost every month some months but not every month or in only 1 or 2 months
@@ -127,12 +114,6 @@ Q65_1,in the past 12 months did you ever stay home from a doctors appointment or
 Q66,in the last 12 months have you held a checking or savings account
 Q68,in the past 12 months have you had anyone deliberately vandalize try to steal or steal any property that you own or anyo
 Q69,in the past 12 months have you had an experience in which someone attacked you tried to take something from you by force
-Q70,how many times did this happen to you in the last 12 months
-Q71,were you physically injured in any way
-Q72,did you receive medical attention from a doctor or nurse for any of these injuries
-Q73,did it get reported to the police in any way
-Q74,did the police take any actions such as visiting the scene making a report looking for a suspect filing any charges maki
-Q77NEW,thinking of any of the experiences in which you were attacked or threatened did any of them involve someone that you kno
 DISCRIM1,at any time in your life have you ever been unfairly fired unfairly denied a promotion or raise or not hired for a job f
 DISCRIM1_2,what do you think is the main reason for these experiences
 DISCRIM1_1,how many times did this happen to you during the past 3 years
@@ -140,12 +121,7 @@ DISCRIM2,have you ever been unfairly stopped searched questioned physically thre
 DISCRIM2_2,what do you think is the main reason for these experiences
 DISCRIM2_1,how many times did this happen to you during the past 3 years
 DISCRIM2_3,when this happened during the past 3 years where did this happen
-DISCRIM3,have you ever received service from someone such as a plumber car mechanic or other service provider that was worse than
-DISCRIM3_2,what do you think is the main reason for these experiences
-DISCRIM3_1,how many times did this happen to you during the past 3 years
 DISCRIM4,have you ever been unfairly prevented from moving into a neighborhood because the landlord or a realtor refused to sell 
-DISCRIM4_2,what do you think is the main reason for these experiences
-DISCRIM4_1,how many times did this happen to you during the past 3 years
 DISCRIM5,when seeking health care have you ever been treated with less respect or received services that were not as good as what
 DISCRIM5_2,what do you think is the main reason for these experiences
 DISCRIM5_1,how many times did this happen to you during the past 3 years
@@ -156,15 +132,40 @@ Q79,were you born in the united states
 Q80,how many years have you lived in the united states
 MILITARY,have you ever served on active duty in the united states armed forces either in the regular military or in a national gu
 DISABILITY,does any disability handicap or chronic disease keep you from participating fully in work school housework or other acti
+SOCI1,the next two questions are about sexual orientation and gender identity which of the following best represents how you t
+SOCI2,do you consider yourself to be transgender
+Q4B,the availability of the goods and services that meet your needs
+Q58,how many children under the age of 18 are living in your household
+OWNRECEMOV,please tell me which of the following are reasons that you moved to your current home in <year>
+RENTEVICTRB,your landlord told you or a person you were staying with to leave
+RENTFORECLAx1,bank took possession of your home in foreclosure
+RENTFORECLAx2,missed mortgage payments and thought that if you didnt move the bank would foreclose on your home
+RENTFORECLB,received a notice from the bank that they planned to foreclose
+BMIR,bmi based on height and weight
+HIV1,the next few questions are about the national health problem of hiv the virus that causes aids please remember that your
+HIV2,have you been offered an hiv test in the past year ie 12 months by your doctor
+HIV3,i am going to read you a list when i am done please tell me if any of the situations apply to you during the past year y
+Q51,in total how many hours per week do you work at paying jobs
+Q52,over the past 5 years was there ever a time when you were out of work and looking for a job
+Q53,does your current job pay more less or about the same as your last job
+Q54,do you feel you have both the education and training necessary to get ahead in your job or career or do you need either 
+Q55,do you feel you have both the education and training necessary to get the kind of job you want or do you need either mor
+Q56NEW,how many minutes does it usually take to get from home to work one way
+Q70,how many times did this happen to you in the last 12 months
+Q71,were you physically injured in any way
+Q72,did you receive medical attention from a doctor or nurse for any of these injuries
+Q73,did it get reported to the police in any way
+Q74,did the police take any actions such as visiting the scene making a report looking for a suspect filing any charges maki
+Q77NEW,thinking of any of the experiences in which you were attacked or threatened did any of them involve someone that you kno
+DISCRIM3,have you ever received service from someone such as a plumber car mechanic or other service provider that was worse than
+DISCRIM3_2,what do you think is the main reason for these experiences
+DISCRIM3_1,how many times did this happen to you during the past 3 years
+DISCRIM4_2,what do you think is the main reason for these experiences
+DISCRIM4_1,how many times did this happen to you during the past 3 years
 ENROLLED,if age is 1834 are you currently enrolled in any school college or other posthigh school educational program that will l
 NOCOLLEGE1,if age is 1834 did not enroll in college previously and not currently enrolled which of the following are reasons why yo
 SOMECOLLEG,if age is 1834 enrolled in college previously but did not complete a college degree and not currently enrolled which of 
-SOCI1,the next two questions are about sexual orientation and gender identity which of the following best represents how you t
-SOCI2,do you consider yourself to be transgender
 TRANSG1,we have a few additional questions about your experiences with doctors or health care providers do you feel that your pr
 TRANSG2,if transgender and transg1yes why do you feel that your primary health care provider does provide transgender inclusive 
 TRANSG3,if transgender and transg1no why do you feel that your primary health care provider does not provide transgender inclusi
 TRANSG4,was there ever a time in the past 12 months when you needed to see a doctor or other health care provider but did not be
-Q4B,the availability of the goods and services that meet your needs
-RENTEVICTRB,your landlord told you or a person you were staying with to leave
-BMI,bmi based on height and weight

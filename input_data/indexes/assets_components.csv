@@ -1,0 +1,937 @@
+indicator,year,proper_name,name,category,group,response,value
+govt_is_responsive,2018,5ct,5ct,Wealthy,Wealthy,excellent_or_good,0.72
+govt_is_responsive,2018,5ct,5ct,Suburban,Suburban,excellent_or_good,0.62
+govt_is_responsive,2018,5ct,5ct,Rural,Rural,excellent_or_good,0.54
+govt_is_responsive,2018,5ct,5ct,Urban Periphery,Urban Periphery,excellent_or_good,0.48
+govt_is_responsive,2018,5ct,5ct,Urban Core,Urban Core,excellent_or_good,0.32
+govt_is_responsive,2018,Bridgeport,bridgeport,Total,Bridgeport,excellent_or_good,0.31
+govt_is_responsive,2018,Bristol,bristol,Total,Bristol,excellent_or_good,0.45
+govt_is_responsive,2018,Cchd Central Ct Health District,cchd_central_ct_health_district,Total,Cchd Central Ct Health District,excellent_or_good,0.57
+govt_is_responsive,2018,Chesprocott,chesprocott,Total,Chesprocott,excellent_or_good,0.61
+govt_is_responsive,2018,Connecticut,connecticut,Total,Connecticut,excellent_or_good,0.51
+govt_is_responsive,2018,Connecticut,connecticut,Gender,Male,excellent_or_good,0.51
+govt_is_responsive,2018,Connecticut,connecticut,Gender,Female,excellent_or_good,0.53
+govt_is_responsive,2018,Connecticut,connecticut,Age,Ages 18-34,excellent_or_good,0.44
+govt_is_responsive,2018,Connecticut,connecticut,Age,Ages 35-49,excellent_or_good,0.48
+govt_is_responsive,2018,Connecticut,connecticut,Age,Ages 50-64,excellent_or_good,0.52
+govt_is_responsive,2018,Connecticut,connecticut,Age,Ages 65+,excellent_or_good,0.62
+govt_is_responsive,2018,Connecticut,connecticut,Race/Ethnicity,White,excellent_or_good,0.55
+govt_is_responsive,2018,Connecticut,connecticut,Race/Ethnicity,Black,excellent_or_good,0.35
+govt_is_responsive,2018,Connecticut,connecticut,Race/Ethnicity,Latino,excellent_or_good,0.46
+govt_is_responsive,2018,Connecticut,connecticut,Education,High school or less,excellent_or_good,0.43
+govt_is_responsive,2018,Connecticut,connecticut,Education,Some college or Associate's,excellent_or_good,0.48
+govt_is_responsive,2018,Connecticut,connecticut,Education,Bachelor's or higher,excellent_or_good,0.57
+govt_is_responsive,2018,Connecticut,connecticut,Income,<$15K,excellent_or_good,0.4
+govt_is_responsive,2018,Connecticut,connecticut,Income,$15K-$30K,excellent_or_good,0.43
+govt_is_responsive,2018,Connecticut,connecticut,Income,$30K-$50K,excellent_or_good,0.47
+govt_is_responsive,2018,Connecticut,connecticut,Income,$50K-$75K,excellent_or_good,0.51
+govt_is_responsive,2018,Connecticut,connecticut,Income,$75K-$100K,excellent_or_good,0.5
+govt_is_responsive,2018,Connecticut,connecticut,Income,$100K-$200K,excellent_or_good,0.58
+govt_is_responsive,2018,Connecticut,connecticut,Income,$200K+,excellent_or_good,0.62
+govt_is_responsive,2018,Connecticut,connecticut,With children,No children,excellent_or_good,0.51
+govt_is_responsive,2018,Connecticut,connecticut,With children,Children in household,excellent_or_good,0.51
+govt_is_responsive,2018,Danbury,danbury,Total,Danbury,excellent_or_good,0.58
+govt_is_responsive,2018,Darien,darien,Total,Darien,excellent_or_good,0.72
+govt_is_responsive,2018,East Hartford,east_hartford,Total,East Hartford,excellent_or_good,0.34
+govt_is_responsive,2018,East Haven,east_haven,Total,East Haven,excellent_or_good,0.46
+govt_is_responsive,2018,Ehhd,ehhd,Total,Ehhd,excellent_or_good,0.59
+govt_is_responsive,2018,Fairfield,fairfield,Total,Fairfield,excellent_or_good,0.64
+govt_is_responsive,2018,Fairfield County,fairfield_county,Total,Fairfield County,excellent_or_good,0.55
+govt_is_responsive,2018,Fairfield County,fairfield_county,Gender,Male,excellent_or_good,0.54
+govt_is_responsive,2018,Fairfield County,fairfield_county,Gender,Female,excellent_or_good,0.55
+govt_is_responsive,2018,Fairfield County,fairfield_county,Age,Ages 18-34,excellent_or_good,0.48
+govt_is_responsive,2018,Fairfield County,fairfield_county,Age,Ages 35-49,excellent_or_good,0.52
+govt_is_responsive,2018,Fairfield County,fairfield_county,Age,Ages 50-64,excellent_or_good,0.56
+govt_is_responsive,2018,Fairfield County,fairfield_county,Age,Ages 65+,excellent_or_good,0.62
+govt_is_responsive,2018,Fairfield County,fairfield_county,Race/Ethnicity,White,excellent_or_good,0.6
+govt_is_responsive,2018,Fairfield County,fairfield_county,Race/Ethnicity,Black,excellent_or_good,0.35
+govt_is_responsive,2018,Fairfield County,fairfield_county,Race/Ethnicity,Latino,excellent_or_good,0.51
+govt_is_responsive,2018,Fairfield County,fairfield_county,Education,High school or less,excellent_or_good,0.47
+govt_is_responsive,2018,Fairfield County,fairfield_county,Education,Some college or Associate's,excellent_or_good,0.48
+govt_is_responsive,2018,Fairfield County,fairfield_county,Education,Bachelor's or higher,excellent_or_good,0.6
+govt_is_responsive,2018,Fairfield County,fairfield_county,Income,<$15K,excellent_or_good,0.39
+govt_is_responsive,2018,Fairfield County,fairfield_county,Income,$15K-$30K,excellent_or_good,0.42
+govt_is_responsive,2018,Fairfield County,fairfield_county,Income,$30K-$50K,excellent_or_good,0.45
+govt_is_responsive,2018,Fairfield County,fairfield_county,Income,$50K-$75K,excellent_or_good,0.52
+govt_is_responsive,2018,Fairfield County,fairfield_county,Income,$75K-$100K,excellent_or_good,0.55
+govt_is_responsive,2018,Fairfield County,fairfield_county,Income,$100K-$200K,excellent_or_good,0.63
+govt_is_responsive,2018,Fairfield County,fairfield_county,Income,$200K+,excellent_or_good,0.61
+govt_is_responsive,2018,Fairfield County,fairfield_county,With children,No children,excellent_or_good,0.55
+govt_is_responsive,2018,Fairfield County,fairfield_county,With children,Children in household,excellent_or_good,0.57
+govt_is_responsive,2018,Fcht,fcht,Total,Fcht,excellent_or_good,0.69
+govt_is_responsive,2018,Greater Bridgeport,greater_bridgeport,Total,Greater Bridgeport,excellent_or_good,0.45
+govt_is_responsive,2018,Greater Greenwich,greater_greenwich,Total,Greater Greenwich,excellent_or_good,0.58
+govt_is_responsive,2018,Greater Hartford,greater_hartford,Total,Greater Hartford,excellent_or_good,0.52
+govt_is_responsive,2018,Greater Hartford,greater_hartford,Gender,Male,excellent_or_good,0.51
+govt_is_responsive,2018,Greater Hartford,greater_hartford,Gender,Female,excellent_or_good,0.53
+govt_is_responsive,2018,Greater Hartford,greater_hartford,Age,Ages 18-34,excellent_or_good,0.48
+govt_is_responsive,2018,Greater Hartford,greater_hartford,Age,Ages 35-49,excellent_or_good,0.46
+govt_is_responsive,2018,Greater Hartford,greater_hartford,Age,Ages 50-64,excellent_or_good,0.53
+govt_is_responsive,2018,Greater Hartford,greater_hartford,Age,Ages 65+,excellent_or_good,0.62
+govt_is_responsive,2018,Greater Hartford,greater_hartford,Race/Ethnicity,White,excellent_or_good,0.56
+govt_is_responsive,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Black,excellent_or_good,0.35
+govt_is_responsive,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Latino,excellent_or_good,0.42
+govt_is_responsive,2018,Greater Hartford,greater_hartford,Education,High school or less,excellent_or_good,0.44
+govt_is_responsive,2018,Greater Hartford,greater_hartford,Education,Some college or Associate's,excellent_or_good,0.45
+govt_is_responsive,2018,Greater Hartford,greater_hartford,Education,Bachelor's or higher,excellent_or_good,0.59
+govt_is_responsive,2018,Greater Hartford,greater_hartford,Income,<$15K,excellent_or_good,0.39
+govt_is_responsive,2018,Greater Hartford,greater_hartford,Income,$15K-$30K,excellent_or_good,0.45
+govt_is_responsive,2018,Greater Hartford,greater_hartford,Income,$30K-$50K,excellent_or_good,0.46
+govt_is_responsive,2018,Greater Hartford,greater_hartford,Income,$50K-$75K,excellent_or_good,0.52
+govt_is_responsive,2018,Greater Hartford,greater_hartford,Income,$75K-$100K,excellent_or_good,0.52
+govt_is_responsive,2018,Greater Hartford,greater_hartford,Income,$100K-$200K,excellent_or_good,0.58
+govt_is_responsive,2018,Greater Hartford,greater_hartford,Income,$200K+,excellent_or_good,0.64
+govt_is_responsive,2018,Greater Hartford,greater_hartford,With children,No children,excellent_or_good,0.52
+govt_is_responsive,2018,Greater Hartford,greater_hartford,With children,Children in household,excellent_or_good,0.52
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,Total,Greater New Haven,excellent_or_good,0.48
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,Gender,Male,excellent_or_good,0.47
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,Gender,Female,excellent_or_good,0.49
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,Age,Ages 18-34,excellent_or_good,0.42
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,Age,Ages 35-49,excellent_or_good,0.48
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,Age,Ages 50-64,excellent_or_good,0.44
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,Age,Ages 65+,excellent_or_good,0.6
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,White,excellent_or_good,0.52
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Black,excellent_or_good,0.31
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Latino,excellent_or_good,0.42
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,Education,High school or less,excellent_or_good,0.39
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,Education,Some college or Associate's,excellent_or_good,0.46
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,Education,Bachelor's or higher,excellent_or_good,0.54
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,Income,<$15K,excellent_or_good,0.4
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,Income,$15K-$30K,excellent_or_good,0.39
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,Income,$30K-$50K,excellent_or_good,0.47
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,Income,$50K-$75K,excellent_or_good,0.54
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,Income,$75K-$100K,excellent_or_good,0.47
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,Income,$100K-$200K,excellent_or_good,0.58
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,Income,$200K+,excellent_or_good,0.58
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,With children,No children,excellent_or_good,0.49
+govt_is_responsive,2018,Greater New Haven,greater_new_haven,With children,Children in household,excellent_or_good,0.47
+govt_is_responsive,2018,Greater New London,greater_new_london,Total,Greater New London,excellent_or_good,0.5
+govt_is_responsive,2018,Greater Waterbury,greater_waterbury,Total,Greater Waterbury,excellent_or_good,0.51
+govt_is_responsive,2018,Greenwich,greenwich,Total,Greenwich,excellent_or_good,0.77
+govt_is_responsive,2018,Hamden,hamden,Total,Hamden,excellent_or_good,0.53
+govt_is_responsive,2018,Hartford,hartford,Total,Hartford,excellent_or_good,0.3
+govt_is_responsive,2018,Hartford Inner Ring,hartford_inner_ring,Total,Hartford Inner Ring,excellent_or_good,0.46
+govt_is_responsive,2018,Hartford Outer Ring,hartford_outer_ring,Total,Hartford Outer Ring,excellent_or_good,0.62
+govt_is_responsive,2018,Manchester,manchester,Total,Manchester,excellent_or_good,0.51
+govt_is_responsive,2018,Meriden,meriden,Total,Meriden,excellent_or_good,0.31
+govt_is_responsive,2018,Middlesex County,middlesex_county,Total,Middlesex County,excellent_or_good,0.55
+govt_is_responsive,2018,Middletown,middletown,Total,Middletown,excellent_or_good,0.57
+govt_is_responsive,2018,Milford,milford,Total,Milford,excellent_or_good,0.59
+govt_is_responsive,2018,Monroe,monroe,Total,Monroe,excellent_or_good,0.61
+govt_is_responsive,2018,Ncdhd,ncdhd,Total,Ncdhd,excellent_or_good,0.43
+govt_is_responsive,2018,Nddh,nddh,Total,Nddh,excellent_or_good,0.49
+govt_is_responsive,2018,New Britain,new_britain,Total,New Britain,excellent_or_good,0.44
+govt_is_responsive,2018,New Haven,new_haven,Total,New Haven,excellent_or_good,0.34
+govt_is_responsive,2018,New Haven Inner Ring,new_haven_inner_ring,Total,New Haven Inner Ring,excellent_or_good,0.42
+govt_is_responsive,2018,New Haven Outer Ring,new_haven_outer_ring,Total,New Haven Outer Ring,excellent_or_good,0.62
+govt_is_responsive,2018,New London,new_london,Total,New London,excellent_or_good,0.31
+govt_is_responsive,2018,New Milford,new_milford,Total,New Milford,excellent_or_good,0.5
+govt_is_responsive,2018,Newtown,newtown,Total,Newtown,excellent_or_good,0.67
+govt_is_responsive,2018,Norwalk,norwalk,Total,Norwalk,excellent_or_good,0.48
+govt_is_responsive,2018,Nyborder,nyborder,Total,Nyborder,excellent_or_good,0.58
+govt_is_responsive,2018,Pomperaug,pomperaug,Total,Pomperaug,excellent_or_good,0.66
+govt_is_responsive,2018,Port Chester Ny,port_chester_ny,Total,Port Chester Ny,excellent_or_good,0.55
+govt_is_responsive,2018,Stamford,stamford,Total,Stamford,excellent_or_good,0.47
+govt_is_responsive,2018,Stratford,stratford,Total,Stratford,excellent_or_good,0.33
+govt_is_responsive,2018,Trumbull,trumbull,Total,Trumbull,excellent_or_good,0.66
+govt_is_responsive,2018,Valley,valley,Total,Valley,excellent_or_good,0.53
+govt_is_responsive,2018,Valley,valley,Gender,Male,excellent_or_good,0.55
+govt_is_responsive,2018,Valley,valley,Gender,Female,excellent_or_good,0.51
+govt_is_responsive,2018,Valley,valley,Age,Ages 18-34,excellent_or_good,0.47
+govt_is_responsive,2018,Valley,valley,Age,Ages 35-49,excellent_or_good,0.45
+govt_is_responsive,2018,Valley,valley,Age,Ages 50-64,excellent_or_good,0.58
+govt_is_responsive,2018,Valley,valley,Age,Ages 65+,excellent_or_good,0.63
+govt_is_responsive,2018,Valley,valley,Race/Ethnicity,White,excellent_or_good,0.54
+govt_is_responsive,2018,Valley,valley,Race/Ethnicity,Not white,excellent_or_good,0.52
+govt_is_responsive,2018,Valley,valley,Education,High school or less,excellent_or_good,0.55
+govt_is_responsive,2018,Valley,valley,Education,Some college or Associate's,excellent_or_good,0.5
+govt_is_responsive,2018,Valley,valley,Education,Bachelor's or higher,excellent_or_good,0.56
+govt_is_responsive,2018,Valley,valley,Income,<$30K,excellent_or_good,0.5
+govt_is_responsive,2018,Valley,valley,Income,$30K-$75K,excellent_or_good,0.5
+govt_is_responsive,2018,Valley,valley,Income,$75K+,excellent_or_good,0.54
+govt_is_responsive,2018,Valley,valley,With children,No children,excellent_or_good,0.54
+govt_is_responsive,2018,Valley,valley,With children,Children in household,excellent_or_good,0.5
+govt_is_responsive,2018,Wallingford,wallingford,Total,Wallingford,excellent_or_good,0.64
+govt_is_responsive,2018,Waterbury,waterbury,Total,Waterbury,excellent_or_good,0.32
+govt_is_responsive,2018,West Hartford,west_hartford,Total,West Hartford,excellent_or_good,0.68
+govt_is_responsive,2018,West Haven,west_haven,Total,West Haven,excellent_or_good,0.26
+good_to_raise_kids,2018,5ct,5ct,Wealthy,Wealthy,excellent_or_good,0.93
+good_to_raise_kids,2018,5ct,5ct,Suburban,Suburban,excellent_or_good,0.92
+good_to_raise_kids,2018,5ct,5ct,Rural,Rural,excellent_or_good,0.83
+good_to_raise_kids,2018,5ct,5ct,Urban Periphery,Urban Periphery,excellent_or_good,0.71
+good_to_raise_kids,2018,5ct,5ct,Urban Core,Urban Core,excellent_or_good,0.38
+good_to_raise_kids,2018,Bridgeport,bridgeport,Total,Bridgeport,excellent_or_good,0.31
+good_to_raise_kids,2018,Bristol,bristol,Total,Bristol,excellent_or_good,0.67
+good_to_raise_kids,2018,Cchd Central Ct Health District,cchd_central_ct_health_district,Total,Cchd Central Ct Health District,excellent_or_good,0.92
+good_to_raise_kids,2018,Chesprocott,chesprocott,Total,Chesprocott,excellent_or_good,0.91
+good_to_raise_kids,2018,Connecticut,connecticut,Total,Connecticut,excellent_or_good,0.75
+good_to_raise_kids,2018,Connecticut,connecticut,Gender,Male,excellent_or_good,0.76
+good_to_raise_kids,2018,Connecticut,connecticut,Gender,Female,excellent_or_good,0.73
+good_to_raise_kids,2018,Connecticut,connecticut,Age,Ages 18-34,excellent_or_good,0.66
+good_to_raise_kids,2018,Connecticut,connecticut,Age,Ages 35-49,excellent_or_good,0.72
+good_to_raise_kids,2018,Connecticut,connecticut,Age,Ages 50-64,excellent_or_good,0.77
+good_to_raise_kids,2018,Connecticut,connecticut,Age,Ages 65+,excellent_or_good,0.82
+good_to_raise_kids,2018,Connecticut,connecticut,Race/Ethnicity,White,excellent_or_good,0.79
+good_to_raise_kids,2018,Connecticut,connecticut,Race/Ethnicity,Black,excellent_or_good,0.55
+good_to_raise_kids,2018,Connecticut,connecticut,Race/Ethnicity,Latino,excellent_or_good,0.6
+good_to_raise_kids,2018,Connecticut,connecticut,Education,High school or less,excellent_or_good,0.65
+good_to_raise_kids,2018,Connecticut,connecticut,Education,Some college or Associate's,excellent_or_good,0.7
+good_to_raise_kids,2018,Connecticut,connecticut,Education,Bachelor's or higher,excellent_or_good,0.81
+good_to_raise_kids,2018,Connecticut,connecticut,Income,<$15K,excellent_or_good,0.54
+good_to_raise_kids,2018,Connecticut,connecticut,Income,$15K-$30K,excellent_or_good,0.62
+good_to_raise_kids,2018,Connecticut,connecticut,Income,$30K-$50K,excellent_or_good,0.67
+good_to_raise_kids,2018,Connecticut,connecticut,Income,$50K-$75K,excellent_or_good,0.73
+good_to_raise_kids,2018,Connecticut,connecticut,Income,$75K-$100K,excellent_or_good,0.76
+good_to_raise_kids,2018,Connecticut,connecticut,Income,$100K-$200K,excellent_or_good,0.83
+good_to_raise_kids,2018,Connecticut,connecticut,Income,$200K+,excellent_or_good,0.89
+good_to_raise_kids,2018,Connecticut,connecticut,With children,No children,excellent_or_good,0.74
+good_to_raise_kids,2018,Connecticut,connecticut,With children,Children in household,excellent_or_good,0.75
+good_to_raise_kids,2018,Danbury,danbury,Total,Danbury,excellent_or_good,0.73
+good_to_raise_kids,2018,Darien,darien,Total,Darien,excellent_or_good,0.9
+good_to_raise_kids,2018,East Hartford,east_hartford,Total,East Hartford,excellent_or_good,0.55
+good_to_raise_kids,2018,East Haven,east_haven,Total,East Haven,excellent_or_good,0.76
+good_to_raise_kids,2018,Ehhd,ehhd,Total,Ehhd,excellent_or_good,0.84
+good_to_raise_kids,2018,Fairfield,fairfield,Total,Fairfield,excellent_or_good,0.94
+good_to_raise_kids,2018,Fairfield County,fairfield_county,Total,Fairfield County,excellent_or_good,0.76
+good_to_raise_kids,2018,Fairfield County,fairfield_county,Gender,Male,excellent_or_good,0.78
+good_to_raise_kids,2018,Fairfield County,fairfield_county,Gender,Female,excellent_or_good,0.75
+good_to_raise_kids,2018,Fairfield County,fairfield_county,Age,Ages 18-34,excellent_or_good,0.66
+good_to_raise_kids,2018,Fairfield County,fairfield_county,Age,Ages 35-49,excellent_or_good,0.72
+good_to_raise_kids,2018,Fairfield County,fairfield_county,Age,Ages 50-64,excellent_or_good,0.81
+good_to_raise_kids,2018,Fairfield County,fairfield_county,Age,Ages 65+,excellent_or_good,0.84
+good_to_raise_kids,2018,Fairfield County,fairfield_county,Race/Ethnicity,White,excellent_or_good,0.83
+good_to_raise_kids,2018,Fairfield County,fairfield_county,Race/Ethnicity,Black,excellent_or_good,0.49
+good_to_raise_kids,2018,Fairfield County,fairfield_county,Race/Ethnicity,Latino,excellent_or_good,0.63
+good_to_raise_kids,2018,Fairfield County,fairfield_county,Education,High school or less,excellent_or_good,0.64
+good_to_raise_kids,2018,Fairfield County,fairfield_county,Education,Some college or Associate's,excellent_or_good,0.71
+good_to_raise_kids,2018,Fairfield County,fairfield_county,Education,Bachelor's or higher,excellent_or_good,0.82
+good_to_raise_kids,2018,Fairfield County,fairfield_county,Income,<$15K,excellent_or_good,0.57
+good_to_raise_kids,2018,Fairfield County,fairfield_county,Income,$15K-$30K,excellent_or_good,0.56
+good_to_raise_kids,2018,Fairfield County,fairfield_county,Income,$30K-$50K,excellent_or_good,0.65
+good_to_raise_kids,2018,Fairfield County,fairfield_county,Income,$50K-$75K,excellent_or_good,0.76
+good_to_raise_kids,2018,Fairfield County,fairfield_county,Income,$75K-$100K,excellent_or_good,0.77
+good_to_raise_kids,2018,Fairfield County,fairfield_county,Income,$100K-$200K,excellent_or_good,0.85
+good_to_raise_kids,2018,Fairfield County,fairfield_county,Income,$200K+,excellent_or_good,0.89
+good_to_raise_kids,2018,Fairfield County,fairfield_county,With children,No children,excellent_or_good,0.76
+good_to_raise_kids,2018,Fairfield County,fairfield_county,With children,Children in household,excellent_or_good,0.79
+good_to_raise_kids,2018,Fcht,fcht,Total,Fcht,excellent_or_good,0.83
+good_to_raise_kids,2018,Greater Bridgeport,greater_bridgeport,Total,Greater Bridgeport,excellent_or_good,0.62
+good_to_raise_kids,2018,Greater Greenwich,greater_greenwich,Total,Greater Greenwich,excellent_or_good,0.81
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,Total,Greater Hartford,excellent_or_good,0.75
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,Gender,Male,excellent_or_good,0.76
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,Gender,Female,excellent_or_good,0.74
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,Age,Ages 18-34,excellent_or_good,0.68
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,Age,Ages 35-49,excellent_or_good,0.72
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,Age,Ages 50-64,excellent_or_good,0.77
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,Age,Ages 65+,excellent_or_good,0.84
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,Race/Ethnicity,White,excellent_or_good,0.8
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Black,excellent_or_good,0.57
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Latino,excellent_or_good,0.55
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,Education,High school or less,excellent_or_good,0.65
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,Education,Some college or Associate's,excellent_or_good,0.68
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,Education,Bachelor's or higher,excellent_or_good,0.82
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,Income,<$15K,excellent_or_good,0.5
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,Income,$15K-$30K,excellent_or_good,0.66
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,Income,$30K-$50K,excellent_or_good,0.68
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,Income,$50K-$75K,excellent_or_good,0.74
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,Income,$75K-$100K,excellent_or_good,0.78
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,Income,$100K-$200K,excellent_or_good,0.85
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,Income,$200K+,excellent_or_good,0.93
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,With children,No children,excellent_or_good,0.74
+good_to_raise_kids,2018,Greater Hartford,greater_hartford,With children,Children in household,excellent_or_good,0.76
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,Total,Greater New Haven,excellent_or_good,0.73
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,Gender,Male,excellent_or_good,0.72
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,Gender,Female,excellent_or_good,0.72
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,Age,Ages 18-34,excellent_or_good,0.66
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,Age,Ages 35-49,excellent_or_good,0.72
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,Age,Ages 50-64,excellent_or_good,0.73
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,Age,Ages 65+,excellent_or_good,0.8
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,White,excellent_or_good,0.79
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Black,excellent_or_good,0.58
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Latino,excellent_or_good,0.57
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,Education,High school or less,excellent_or_good,0.62
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,Education,Some college or Associate's,excellent_or_good,0.69
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,Education,Bachelor's or higher,excellent_or_good,0.79
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,Income,<$15K,excellent_or_good,0.54
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,Income,$15K-$30K,excellent_or_good,0.6
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,Income,$30K-$50K,excellent_or_good,0.69
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,Income,$50K-$75K,excellent_or_good,0.76
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,Income,$75K-$100K,excellent_or_good,0.77
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,Income,$100K-$200K,excellent_or_good,0.81
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,Income,$200K+,excellent_or_good,0.87
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,With children,No children,excellent_or_good,0.74
+good_to_raise_kids,2018,Greater New Haven,greater_new_haven,With children,Children in household,excellent_or_good,0.7
+good_to_raise_kids,2018,Greater New London,greater_new_london,Total,Greater New London,excellent_or_good,0.8
+good_to_raise_kids,2018,Greater Waterbury,greater_waterbury,Total,Greater Waterbury,excellent_or_good,0.69
+good_to_raise_kids,2018,Greenwich,greenwich,Total,Greenwich,excellent_or_good,0.91
+good_to_raise_kids,2018,Hamden,hamden,Total,Hamden,excellent_or_good,0.79
+good_to_raise_kids,2018,Hartford,hartford,Total,Hartford,excellent_or_good,0.39
+good_to_raise_kids,2018,Hartford Inner Ring,hartford_inner_ring,Total,Hartford Inner Ring,excellent_or_good,0.69
+good_to_raise_kids,2018,Hartford Outer Ring,hartford_outer_ring,Total,Hartford Outer Ring,excellent_or_good,0.94
+good_to_raise_kids,2018,Manchester,manchester,Total,Manchester,excellent_or_good,0.65
+good_to_raise_kids,2018,Meriden,meriden,Total,Meriden,excellent_or_good,0.51
+good_to_raise_kids,2018,Middlesex County,middlesex_county,Total,Middlesex County,excellent_or_good,0.82
+good_to_raise_kids,2018,Middletown,middletown,Total,Middletown,excellent_or_good,0.72
+good_to_raise_kids,2018,Milford,milford,Total,Milford,excellent_or_good,0.87
+good_to_raise_kids,2018,Monroe,monroe,Total,Monroe,excellent_or_good,1
+good_to_raise_kids,2018,Ncdhd,ncdhd,Total,Ncdhd,excellent_or_good,0.69
+good_to_raise_kids,2018,Nddh,nddh,Total,Nddh,excellent_or_good,0.84
+good_to_raise_kids,2018,New Britain,new_britain,Total,New Britain,excellent_or_good,0.47
+good_to_raise_kids,2018,New Haven,new_haven,Total,New Haven,excellent_or_good,0.45
+good_to_raise_kids,2018,New Haven Inner Ring,new_haven_inner_ring,Total,New Haven Inner Ring,excellent_or_good,0.67
+good_to_raise_kids,2018,New Haven Outer Ring,new_haven_outer_ring,Total,New Haven Outer Ring,excellent_or_good,0.92
+good_to_raise_kids,2018,New London,new_london,Total,New London,excellent_or_good,0.47
+good_to_raise_kids,2018,New Milford,new_milford,Total,New Milford,excellent_or_good,0.86
+good_to_raise_kids,2018,Newtown,newtown,Total,Newtown,excellent_or_good,0.95
+good_to_raise_kids,2018,Norwalk,norwalk,Total,Norwalk,excellent_or_good,0.72
+good_to_raise_kids,2018,Nyborder,nyborder,Total,Nyborder,excellent_or_good,0.79
+good_to_raise_kids,2018,Pomperaug,pomperaug,Total,Pomperaug,excellent_or_good,0.92
+good_to_raise_kids,2018,Port Chester Ny,port_chester_ny,Total,Port Chester Ny,excellent_or_good,0.71
+good_to_raise_kids,2018,Stamford,stamford,Total,Stamford,excellent_or_good,0.75
+good_to_raise_kids,2018,Stratford,stratford,Total,Stratford,excellent_or_good,0.72
+good_to_raise_kids,2018,Trumbull,trumbull,Total,Trumbull,excellent_or_good,0.93
+good_to_raise_kids,2018,Valley,valley,Total,Valley,excellent_or_good,0.78
+good_to_raise_kids,2018,Valley,valley,Gender,Male,excellent_or_good,0.79
+good_to_raise_kids,2018,Valley,valley,Gender,Female,excellent_or_good,0.77
+good_to_raise_kids,2018,Valley,valley,Age,Ages 18-34,excellent_or_good,0.71
+good_to_raise_kids,2018,Valley,valley,Age,Ages 35-49,excellent_or_good,0.77
+good_to_raise_kids,2018,Valley,valley,Age,Ages 50-64,excellent_or_good,0.81
+good_to_raise_kids,2018,Valley,valley,Age,Ages 65+,excellent_or_good,0.82
+good_to_raise_kids,2018,Valley,valley,Race/Ethnicity,White,excellent_or_good,0.78
+good_to_raise_kids,2018,Valley,valley,Race/Ethnicity,Not white,excellent_or_good,0.75
+good_to_raise_kids,2018,Valley,valley,Education,High school or less,excellent_or_good,0.79
+good_to_raise_kids,2018,Valley,valley,Education,Some college or Associate's,excellent_or_good,0.76
+good_to_raise_kids,2018,Valley,valley,Education,Bachelor's or higher,excellent_or_good,0.79
+good_to_raise_kids,2018,Valley,valley,Income,<$30K,excellent_or_good,0.71
+good_to_raise_kids,2018,Valley,valley,Income,$30K-$75K,excellent_or_good,0.79
+good_to_raise_kids,2018,Valley,valley,Income,$75K+,excellent_or_good,0.8
+good_to_raise_kids,2018,Valley,valley,With children,No children,excellent_or_good,0.78
+good_to_raise_kids,2018,Valley,valley,With children,Children in household,excellent_or_good,0.79
+good_to_raise_kids,2018,Wallingford,wallingford,Total,Wallingford,excellent_or_good,0.89
+good_to_raise_kids,2018,Waterbury,waterbury,Total,Waterbury,excellent_or_good,0.35
+good_to_raise_kids,2018,West Hartford,west_hartford,Total,West Hartford,excellent_or_good,0.97
+good_to_raise_kids,2018,West Haven,west_haven,Total,West Haven,excellent_or_good,0.54
+good_cond_of_parks,2018,5ct,5ct,Wealthy,Wealthy,excellent_or_good,0.89
+good_cond_of_parks,2018,5ct,5ct,Suburban,Suburban,excellent_or_good,0.88
+good_cond_of_parks,2018,5ct,5ct,Rural,Rural,excellent_or_good,0.76
+good_cond_of_parks,2018,5ct,5ct,Urban Periphery,Urban Periphery,excellent_or_good,0.72
+good_cond_of_parks,2018,5ct,5ct,Urban Core,Urban Core,excellent_or_good,0.52
+good_cond_of_parks,2018,Bridgeport,bridgeport,Total,Bridgeport,excellent_or_good,0.54
+good_cond_of_parks,2018,Bristol,bristol,Total,Bristol,excellent_or_good,0.73
+good_cond_of_parks,2018,Cchd Central Ct Health District,cchd_central_ct_health_district,Total,Cchd Central Ct Health District,excellent_or_good,0.86
+good_cond_of_parks,2018,Chesprocott,chesprocott,Total,Chesprocott,excellent_or_good,0.86
+good_cond_of_parks,2018,Connecticut,connecticut,Total,Connecticut,excellent_or_good,0.75
+good_cond_of_parks,2018,Connecticut,connecticut,Gender,Male,excellent_or_good,0.74
+good_cond_of_parks,2018,Connecticut,connecticut,Gender,Female,excellent_or_good,0.74
+good_cond_of_parks,2018,Connecticut,connecticut,Age,Ages 18-34,excellent_or_good,0.66
+good_cond_of_parks,2018,Connecticut,connecticut,Age,Ages 35-49,excellent_or_good,0.72
+good_cond_of_parks,2018,Connecticut,connecticut,Age,Ages 50-64,excellent_or_good,0.76
+good_cond_of_parks,2018,Connecticut,connecticut,Age,Ages 65+,excellent_or_good,0.84
+good_cond_of_parks,2018,Connecticut,connecticut,Race/Ethnicity,White,excellent_or_good,0.79
+good_cond_of_parks,2018,Connecticut,connecticut,Race/Ethnicity,Black,excellent_or_good,0.59
+good_cond_of_parks,2018,Connecticut,connecticut,Race/Ethnicity,Latino,excellent_or_good,0.64
+good_cond_of_parks,2018,Connecticut,connecticut,Education,High school or less,excellent_or_good,0.66
+good_cond_of_parks,2018,Connecticut,connecticut,Education,Some college or Associate's,excellent_or_good,0.71
+good_cond_of_parks,2018,Connecticut,connecticut,Education,Bachelor's or higher,excellent_or_good,0.8
+good_cond_of_parks,2018,Connecticut,connecticut,Income,<$15K,excellent_or_good,0.61
+good_cond_of_parks,2018,Connecticut,connecticut,Income,$15K-$30K,excellent_or_good,0.65
+good_cond_of_parks,2018,Connecticut,connecticut,Income,$30K-$50K,excellent_or_good,0.72
+good_cond_of_parks,2018,Connecticut,connecticut,Income,$50K-$75K,excellent_or_good,0.74
+good_cond_of_parks,2018,Connecticut,connecticut,Income,$75K-$100K,excellent_or_good,0.74
+good_cond_of_parks,2018,Connecticut,connecticut,Income,$100K-$200K,excellent_or_good,0.81
+good_cond_of_parks,2018,Connecticut,connecticut,Income,$200K+,excellent_or_good,0.86
+good_cond_of_parks,2018,Connecticut,connecticut,With children,No children,excellent_or_good,0.75
+good_cond_of_parks,2018,Connecticut,connecticut,With children,Children in household,excellent_or_good,0.73
+good_cond_of_parks,2018,Danbury,danbury,Total,Danbury,excellent_or_good,0.7
+good_cond_of_parks,2018,Darien,darien,Total,Darien,excellent_or_good,0.91
+good_cond_of_parks,2018,East Hartford,east_hartford,Total,East Hartford,excellent_or_good,0.62
+good_cond_of_parks,2018,East Haven,east_haven,Total,East Haven,excellent_or_good,0.63
+good_cond_of_parks,2018,Ehhd,ehhd,Total,Ehhd,excellent_or_good,0.84
+good_cond_of_parks,2018,Fairfield,fairfield,Total,Fairfield,excellent_or_good,0.92
+good_cond_of_parks,2018,Fairfield County,fairfield_county,Total,Fairfield County,excellent_or_good,0.78
+good_cond_of_parks,2018,Fairfield County,fairfield_county,Gender,Male,excellent_or_good,0.78
+good_cond_of_parks,2018,Fairfield County,fairfield_county,Gender,Female,excellent_or_good,0.78
+good_cond_of_parks,2018,Fairfield County,fairfield_county,Age,Ages 18-34,excellent_or_good,0.71
+good_cond_of_parks,2018,Fairfield County,fairfield_county,Age,Ages 35-49,excellent_or_good,0.77
+good_cond_of_parks,2018,Fairfield County,fairfield_county,Age,Ages 50-64,excellent_or_good,0.79
+good_cond_of_parks,2018,Fairfield County,fairfield_county,Age,Ages 65+,excellent_or_good,0.84
+good_cond_of_parks,2018,Fairfield County,fairfield_county,Race/Ethnicity,White,excellent_or_good,0.84
+good_cond_of_parks,2018,Fairfield County,fairfield_county,Race/Ethnicity,Black,excellent_or_good,0.57
+good_cond_of_parks,2018,Fairfield County,fairfield_county,Race/Ethnicity,Latino,excellent_or_good,0.67
+good_cond_of_parks,2018,Fairfield County,fairfield_county,Education,High school or less,excellent_or_good,0.66
+good_cond_of_parks,2018,Fairfield County,fairfield_county,Education,Some college or Associate's,excellent_or_good,0.75
+good_cond_of_parks,2018,Fairfield County,fairfield_county,Education,Bachelor's or higher,excellent_or_good,0.82
+good_cond_of_parks,2018,Fairfield County,fairfield_county,Income,<$15K,excellent_or_good,0.63
+good_cond_of_parks,2018,Fairfield County,fairfield_county,Income,$15K-$30K,excellent_or_good,0.62
+good_cond_of_parks,2018,Fairfield County,fairfield_county,Income,$30K-$50K,excellent_or_good,0.71
+good_cond_of_parks,2018,Fairfield County,fairfield_county,Income,$50K-$75K,excellent_or_good,0.76
+good_cond_of_parks,2018,Fairfield County,fairfield_county,Income,$75K-$100K,excellent_or_good,0.8
+good_cond_of_parks,2018,Fairfield County,fairfield_county,Income,$100K-$200K,excellent_or_good,0.82
+good_cond_of_parks,2018,Fairfield County,fairfield_county,Income,$200K+,excellent_or_good,0.88
+good_cond_of_parks,2018,Fairfield County,fairfield_county,With children,No children,excellent_or_good,0.79
+good_cond_of_parks,2018,Fairfield County,fairfield_county,With children,Children in household,excellent_or_good,0.78
+good_cond_of_parks,2018,Fcht,fcht,Total,Fcht,excellent_or_good,0.81
+good_cond_of_parks,2018,Greater Bridgeport,greater_bridgeport,Total,Greater Bridgeport,excellent_or_good,0.73
+good_cond_of_parks,2018,Greater Greenwich,greater_greenwich,Total,Greater Greenwich,excellent_or_good,0.81
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,Total,Greater Hartford,excellent_or_good,0.77
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,Gender,Male,excellent_or_good,0.75
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,Gender,Female,excellent_or_good,0.77
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,Age,Ages 18-34,excellent_or_good,0.71
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,Age,Ages 35-49,excellent_or_good,0.72
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,Age,Ages 50-64,excellent_or_good,0.79
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,Age,Ages 65+,excellent_or_good,0.85
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,Race/Ethnicity,White,excellent_or_good,0.82
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Black,excellent_or_good,0.58
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Latino,excellent_or_good,0.6
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,Education,High school or less,excellent_or_good,0.67
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,Education,Some college or Associate's,excellent_or_good,0.72
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,Education,Bachelor's or higher,excellent_or_good,0.84
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,Income,<$15K,excellent_or_good,0.61
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,Income,$15K-$30K,excellent_or_good,0.68
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,Income,$30K-$50K,excellent_or_good,0.77
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,Income,$50K-$75K,excellent_or_good,0.73
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,Income,$75K-$100K,excellent_or_good,0.76
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,Income,$100K-$200K,excellent_or_good,0.84
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,Income,$200K+,excellent_or_good,0.88
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,With children,No children,excellent_or_good,0.77
+good_cond_of_parks,2018,Greater Hartford,greater_hartford,With children,Children in household,excellent_or_good,0.74
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,Total,Greater New Haven,excellent_or_good,0.7
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,Gender,Male,excellent_or_good,0.73
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,Gender,Female,excellent_or_good,0.7
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,Age,Ages 18-34,excellent_or_good,0.63
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,Age,Ages 35-49,excellent_or_good,0.69
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,Age,Ages 50-64,excellent_or_good,0.71
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,Age,Ages 65+,excellent_or_good,0.82
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,White,excellent_or_good,0.74
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Black,excellent_or_good,0.62
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Latino,excellent_or_good,0.6
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,Education,High school or less,excellent_or_good,0.64
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,Education,Some college or Associate's,excellent_or_good,0.68
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,Education,Bachelor's or higher,excellent_or_good,0.76
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,Income,<$15K,excellent_or_good,0.58
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,Income,$15K-$30K,excellent_or_good,0.63
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,Income,$30K-$50K,excellent_or_good,0.7
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,Income,$50K-$75K,excellent_or_good,0.74
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,Income,$75K-$100K,excellent_or_good,0.73
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,Income,$100K-$200K,excellent_or_good,0.78
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,Income,$200K+,excellent_or_good,0.83
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,With children,No children,excellent_or_good,0.72
+good_cond_of_parks,2018,Greater New Haven,greater_new_haven,With children,Children in household,excellent_or_good,0.69
+good_cond_of_parks,2018,Greater New London,greater_new_london,Total,Greater New London,excellent_or_good,0.77
+good_cond_of_parks,2018,Greater Waterbury,greater_waterbury,Total,Greater Waterbury,excellent_or_good,0.69
+good_cond_of_parks,2018,Greenwich,greenwich,Total,Greenwich,excellent_or_good,0.91
+good_cond_of_parks,2018,Hamden,hamden,Total,Hamden,excellent_or_good,0.8
+good_cond_of_parks,2018,Hartford,hartford,Total,Hartford,excellent_or_good,0.49
+good_cond_of_parks,2018,Hartford Inner Ring,hartford_inner_ring,Total,Hartford Inner Ring,excellent_or_good,0.71
+good_cond_of_parks,2018,Hartford Outer Ring,hartford_outer_ring,Total,Hartford Outer Ring,excellent_or_good,0.89
+good_cond_of_parks,2018,Manchester,manchester,Total,Manchester,excellent_or_good,0.69
+good_cond_of_parks,2018,Meriden,meriden,Total,Meriden,excellent_or_good,0.69
+good_cond_of_parks,2018,Middlesex County,middlesex_county,Total,Middlesex County,excellent_or_good,0.76
+good_cond_of_parks,2018,Middletown,middletown,Total,Middletown,excellent_or_good,0.73
+good_cond_of_parks,2018,Milford,milford,Total,Milford,excellent_or_good,0.8
+good_cond_of_parks,2018,Monroe,monroe,Total,Monroe,excellent_or_good,0.97
+good_cond_of_parks,2018,Ncdhd,ncdhd,Total,Ncdhd,excellent_or_good,0.66
+good_cond_of_parks,2018,Nddh,nddh,Total,Nddh,excellent_or_good,0.74
+good_cond_of_parks,2018,New Britain,new_britain,Total,New Britain,excellent_or_good,0.69
+good_cond_of_parks,2018,New Haven,new_haven,Total,New Haven,excellent_or_good,0.55
+good_cond_of_parks,2018,New Haven Inner Ring,new_haven_inner_ring,Total,New Haven Inner Ring,excellent_or_good,0.65
+good_cond_of_parks,2018,New Haven Outer Ring,new_haven_outer_ring,Total,New Haven Outer Ring,excellent_or_good,0.81
+good_cond_of_parks,2018,New London,new_london,Total,New London,excellent_or_good,0.56
+good_cond_of_parks,2018,New Milford,new_milford,Total,New Milford,excellent_or_good,0.84
+good_cond_of_parks,2018,Newtown,newtown,Total,Newtown,excellent_or_good,0.91
+good_cond_of_parks,2018,Norwalk,norwalk,Total,Norwalk,excellent_or_good,0.75
+good_cond_of_parks,2018,Nyborder,nyborder,Total,Nyborder,excellent_or_good,0.81
+good_cond_of_parks,2018,Pomperaug,pomperaug,Total,Pomperaug,excellent_or_good,0.88
+good_cond_of_parks,2018,Port Chester Ny,port_chester_ny,Total,Port Chester Ny,excellent_or_good,0.73
+good_cond_of_parks,2018,Stamford,stamford,Total,Stamford,excellent_or_good,0.77
+good_cond_of_parks,2018,Stratford,stratford,Total,Stratford,excellent_or_good,0.72
+good_cond_of_parks,2018,Trumbull,trumbull,Total,Trumbull,excellent_or_good,0.95
+good_cond_of_parks,2018,Valley,valley,Total,Valley,excellent_or_good,0.73
+good_cond_of_parks,2018,Valley,valley,Gender,Male,excellent_or_good,0.72
+good_cond_of_parks,2018,Valley,valley,Gender,Female,excellent_or_good,0.74
+good_cond_of_parks,2018,Valley,valley,Age,Ages 18-34,excellent_or_good,0.67
+good_cond_of_parks,2018,Valley,valley,Age,Ages 35-49,excellent_or_good,0.69
+good_cond_of_parks,2018,Valley,valley,Age,Ages 50-64,excellent_or_good,0.78
+good_cond_of_parks,2018,Valley,valley,Age,Ages 65+,excellent_or_good,0.77
+good_cond_of_parks,2018,Valley,valley,Race/Ethnicity,White,excellent_or_good,0.74
+good_cond_of_parks,2018,Valley,valley,Race/Ethnicity,Not white,excellent_or_good,0.74
+good_cond_of_parks,2018,Valley,valley,Education,High school or less,excellent_or_good,0.75
+good_cond_of_parks,2018,Valley,valley,Education,Some college or Associate's,excellent_or_good,0.7
+good_cond_of_parks,2018,Valley,valley,Education,Bachelor's or higher,excellent_or_good,0.75
+good_cond_of_parks,2018,Valley,valley,Income,<$30K,excellent_or_good,0.69
+good_cond_of_parks,2018,Valley,valley,Income,$30K-$75K,excellent_or_good,0.78
+good_cond_of_parks,2018,Valley,valley,Income,$75K+,excellent_or_good,0.7
+good_cond_of_parks,2018,Valley,valley,With children,No children,excellent_or_good,0.74
+good_cond_of_parks,2018,Valley,valley,With children,Children in household,excellent_or_good,0.71
+good_cond_of_parks,2018,Wallingford,wallingford,Total,Wallingford,excellent_or_good,0.87
+good_cond_of_parks,2018,Waterbury,waterbury,Total,Waterbury,excellent_or_good,0.43
+good_cond_of_parks,2018,West Hartford,west_hartford,Total,West Hartford,excellent_or_good,0.92
+good_cond_of_parks,2018,West Haven,west_haven,Total,West Haven,excellent_or_good,0.55
+safe_sidewalks,2018,5ct,5ct,Wealthy,Wealthy,agree,0.48
+safe_sidewalks,2018,5ct,5ct,Suburban,Suburban,agree,0.46
+safe_sidewalks,2018,5ct,5ct,Rural,Rural,agree,0.37
+safe_sidewalks,2018,5ct,5ct,Urban Periphery,Urban Periphery,agree,0.73
+safe_sidewalks,2018,5ct,5ct,Urban Core,Urban Core,agree,0.77
+safe_sidewalks,2018,Bridgeport,bridgeport,Total,Bridgeport,agree,0.78
+safe_sidewalks,2018,Bristol,bristol,Total,Bristol,agree,0.74
+safe_sidewalks,2018,Cchd Central Ct Health District,cchd_central_ct_health_district,Total,Cchd Central Ct Health District,agree,0.74
+safe_sidewalks,2018,Chesprocott,chesprocott,Total,Chesprocott,agree,0.42
+safe_sidewalks,2018,Connecticut,connecticut,Total,Connecticut,agree,0.61
+safe_sidewalks,2018,Connecticut,connecticut,Gender,Male,agree,0.62
+safe_sidewalks,2018,Connecticut,connecticut,Gender,Female,agree,0.59
+safe_sidewalks,2018,Connecticut,connecticut,Age,Ages 18-34,agree,0.69
+safe_sidewalks,2018,Connecticut,connecticut,Age,Ages 35-49,agree,0.6
+safe_sidewalks,2018,Connecticut,connecticut,Age,Ages 50-64,agree,0.56
+safe_sidewalks,2018,Connecticut,connecticut,Age,Ages 65+,agree,0.56
+safe_sidewalks,2018,Connecticut,connecticut,Race/Ethnicity,White,agree,0.56
+safe_sidewalks,2018,Connecticut,connecticut,Race/Ethnicity,Black,agree,0.79
+safe_sidewalks,2018,Connecticut,connecticut,Race/Ethnicity,Latino,agree,0.73
+safe_sidewalks,2018,Connecticut,connecticut,Education,High school or less,agree,0.67
+safe_sidewalks,2018,Connecticut,connecticut,Education,Some college or Associate's,agree,0.61
+safe_sidewalks,2018,Connecticut,connecticut,Education,Bachelor's or higher,agree,0.56
+safe_sidewalks,2018,Connecticut,connecticut,Income,<$15K,agree,0.69
+safe_sidewalks,2018,Connecticut,connecticut,Income,$15K-$30K,agree,0.68
+safe_sidewalks,2018,Connecticut,connecticut,Income,$30K-$50K,agree,0.67
+safe_sidewalks,2018,Connecticut,connecticut,Income,$50K-$75K,agree,0.62
+safe_sidewalks,2018,Connecticut,connecticut,Income,$75K-$100K,agree,0.6
+safe_sidewalks,2018,Connecticut,connecticut,Income,$100K-$200K,agree,0.53
+safe_sidewalks,2018,Connecticut,connecticut,Income,$200K+,agree,0.48
+safe_sidewalks,2018,Connecticut,connecticut,With children,No children,agree,0.6
+safe_sidewalks,2018,Connecticut,connecticut,With children,Children in household,agree,0.61
+safe_sidewalks,2018,Danbury,danbury,Total,Danbury,agree,0.43
+safe_sidewalks,2018,Darien,darien,Total,Darien,agree,0.65
+safe_sidewalks,2018,East Hartford,east_hartford,Total,East Hartford,agree,0.88
+safe_sidewalks,2018,East Haven,east_haven,Total,East Haven,agree,0.63
+safe_sidewalks,2018,Ehhd,ehhd,Total,Ehhd,agree,0.23
+safe_sidewalks,2018,Fairfield,fairfield,Total,Fairfield,agree,0.7
+safe_sidewalks,2018,Fairfield County,fairfield_county,Total,Fairfield County,agree,0.58
+safe_sidewalks,2018,Fairfield County,fairfield_county,Gender,Male,agree,0.6
+safe_sidewalks,2018,Fairfield County,fairfield_county,Gender,Female,agree,0.57
+safe_sidewalks,2018,Fairfield County,fairfield_county,Age,Ages 18-34,agree,0.69
+safe_sidewalks,2018,Fairfield County,fairfield_county,Age,Ages 35-49,agree,0.6
+safe_sidewalks,2018,Fairfield County,fairfield_county,Age,Ages 50-64,agree,0.5
+safe_sidewalks,2018,Fairfield County,fairfield_county,Age,Ages 65+,agree,0.55
+safe_sidewalks,2018,Fairfield County,fairfield_county,Race/Ethnicity,White,agree,0.52
+safe_sidewalks,2018,Fairfield County,fairfield_county,Race/Ethnicity,Black,agree,0.77
+safe_sidewalks,2018,Fairfield County,fairfield_county,Race/Ethnicity,Latino,agree,0.69
+safe_sidewalks,2018,Fairfield County,fairfield_county,Education,High school or less,agree,0.69
+safe_sidewalks,2018,Fairfield County,fairfield_county,Education,Some college or Associate's,agree,0.6
+safe_sidewalks,2018,Fairfield County,fairfield_county,Education,Bachelor's or higher,agree,0.53
+safe_sidewalks,2018,Fairfield County,fairfield_county,Income,<$15K,agree,0.7
+safe_sidewalks,2018,Fairfield County,fairfield_county,Income,$15K-$30K,agree,0.72
+safe_sidewalks,2018,Fairfield County,fairfield_county,Income,$30K-$50K,agree,0.7
+safe_sidewalks,2018,Fairfield County,fairfield_county,Income,$50K-$75K,agree,0.6
+safe_sidewalks,2018,Fairfield County,fairfield_county,Income,$75K-$100K,agree,0.6
+safe_sidewalks,2018,Fairfield County,fairfield_county,Income,$100K-$200K,agree,0.53
+safe_sidewalks,2018,Fairfield County,fairfield_county,Income,$200K+,agree,0.44
+safe_sidewalks,2018,Fairfield County,fairfield_county,With children,No children,agree,0.59
+safe_sidewalks,2018,Fairfield County,fairfield_county,With children,Children in household,agree,0.57
+safe_sidewalks,2018,Fcht,fcht,Total,Fcht,agree,0.31
+safe_sidewalks,2018,Greater Bridgeport,greater_bridgeport,Total,Greater Bridgeport,agree,0.67
+safe_sidewalks,2018,Greater Greenwich,greater_greenwich,Total,Greater Greenwich,agree,0.74
+safe_sidewalks,2018,Greater Hartford,greater_hartford,Total,Greater Hartford,agree,0.68
+safe_sidewalks,2018,Greater Hartford,greater_hartford,Gender,Male,agree,0.68
+safe_sidewalks,2018,Greater Hartford,greater_hartford,Gender,Female,agree,0.67
+safe_sidewalks,2018,Greater Hartford,greater_hartford,Age,Ages 18-34,agree,0.72
+safe_sidewalks,2018,Greater Hartford,greater_hartford,Age,Ages 35-49,agree,0.7
+safe_sidewalks,2018,Greater Hartford,greater_hartford,Age,Ages 50-64,agree,0.64
+safe_sidewalks,2018,Greater Hartford,greater_hartford,Age,Ages 65+,agree,0.67
+safe_sidewalks,2018,Greater Hartford,greater_hartford,Race/Ethnicity,White,agree,0.63
+safe_sidewalks,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Black,agree,0.84
+safe_sidewalks,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Latino,agree,0.8
+safe_sidewalks,2018,Greater Hartford,greater_hartford,Education,High school or less,agree,0.73
+safe_sidewalks,2018,Greater Hartford,greater_hartford,Education,Some college or Associate's,agree,0.67
+safe_sidewalks,2018,Greater Hartford,greater_hartford,Education,Bachelor's or higher,agree,0.67
+safe_sidewalks,2018,Greater Hartford,greater_hartford,Income,<$15K,agree,0.71
+safe_sidewalks,2018,Greater Hartford,greater_hartford,Income,$15K-$30K,agree,0.77
+safe_sidewalks,2018,Greater Hartford,greater_hartford,Income,$30K-$50K,agree,0.73
+safe_sidewalks,2018,Greater Hartford,greater_hartford,Income,$50K-$75K,agree,0.71
+safe_sidewalks,2018,Greater Hartford,greater_hartford,Income,$75K-$100K,agree,0.67
+safe_sidewalks,2018,Greater Hartford,greater_hartford,Income,$100K-$200K,agree,0.6
+safe_sidewalks,2018,Greater Hartford,greater_hartford,Income,$200K+,agree,0.66
+safe_sidewalks,2018,Greater Hartford,greater_hartford,With children,No children,agree,0.65
+safe_sidewalks,2018,Greater Hartford,greater_hartford,With children,Children in household,agree,0.72
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,Total,Greater New Haven,agree,0.68
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,Gender,Male,agree,0.7
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,Gender,Female,agree,0.66
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,Age,Ages 18-34,agree,0.73
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,Age,Ages 35-49,agree,0.7
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,Age,Ages 50-64,agree,0.62
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,Age,Ages 65+,agree,0.66
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,White,agree,0.64
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Black,agree,0.82
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Latino,agree,0.82
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,Education,High school or less,agree,0.71
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,Education,Some college or Associate's,agree,0.7
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,Education,Bachelor's or higher,agree,0.66
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,Income,<$15K,agree,0.73
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,Income,$15K-$30K,agree,0.76
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,Income,$30K-$50K,agree,0.78
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,Income,$50K-$75K,agree,0.69
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,Income,$75K-$100K,agree,0.69
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,Income,$100K-$200K,agree,0.63
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,Income,$200K+,agree,0.45
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,With children,No children,agree,0.67
+safe_sidewalks,2018,Greater New Haven,greater_new_haven,With children,Children in household,agree,0.7
+safe_sidewalks,2018,Greater New London,greater_new_london,Total,Greater New London,agree,0.56
+safe_sidewalks,2018,Greater Waterbury,greater_waterbury,Total,Greater Waterbury,agree,0.46
+safe_sidewalks,2018,Greenwich,greenwich,Total,Greenwich,agree,0.72
+safe_sidewalks,2018,Hamden,hamden,Total,Hamden,agree,0.79
+safe_sidewalks,2018,Hartford,hartford,Total,Hartford,agree,0.83
+safe_sidewalks,2018,Hartford Inner Ring,hartford_inner_ring,Total,Hartford Inner Ring,agree,0.79
+safe_sidewalks,2018,Hartford Outer Ring,hartford_outer_ring,Total,Hartford Outer Ring,agree,0.46
+safe_sidewalks,2018,Manchester,manchester,Total,Manchester,agree,0.81
+safe_sidewalks,2018,Meriden,meriden,Total,Meriden,agree,0.68
+safe_sidewalks,2018,Middlesex County,middlesex_county,Total,Middlesex County,agree,0.48
+safe_sidewalks,2018,Middletown,middletown,Total,Middletown,agree,0.71
+safe_sidewalks,2018,Milford,milford,Total,Milford,agree,0.81
+safe_sidewalks,2018,Monroe,monroe,Total,Monroe,agree,0.17
+safe_sidewalks,2018,Ncdhd,ncdhd,Total,Ncdhd,agree,0.62
+safe_sidewalks,2018,Nddh,nddh,Total,Nddh,agree,0.41
+safe_sidewalks,2018,New Britain,new_britain,Total,New Britain,agree,0.76
+safe_sidewalks,2018,New Haven,new_haven,Total,New Haven,agree,0.85
+safe_sidewalks,2018,New Haven Inner Ring,new_haven_inner_ring,Total,New Haven Inner Ring,agree,0.73
+safe_sidewalks,2018,New Haven Outer Ring,new_haven_outer_ring,Total,New Haven Outer Ring,agree,0.57
+safe_sidewalks,2018,New London,new_london,Total,New London,agree,0.87
+safe_sidewalks,2018,New Milford,new_milford,Total,New Milford,agree,0.22
+safe_sidewalks,2018,Newtown,newtown,Total,Newtown,agree,0.31
+safe_sidewalks,2018,Norwalk,norwalk,Total,Norwalk,agree,0.77
+safe_sidewalks,2018,Nyborder,nyborder,Total,Nyborder,agree,0.83
+safe_sidewalks,2018,Pomperaug,pomperaug,Total,Pomperaug,agree,0.35
+safe_sidewalks,2018,Port Chester Ny,port_chester_ny,Total,Port Chester Ny,agree,0.88
+safe_sidewalks,2018,Stamford,stamford,Total,Stamford,agree,0.72
+safe_sidewalks,2018,Stratford,stratford,Total,Stratford,agree,0.76
+safe_sidewalks,2018,Trumbull,trumbull,Total,Trumbull,agree,0.33
+safe_sidewalks,2018,Valley,valley,Total,Valley,agree,0.47
+safe_sidewalks,2018,Valley,valley,Gender,Male,agree,0.47
+safe_sidewalks,2018,Valley,valley,Gender,Female,agree,0.48
+safe_sidewalks,2018,Valley,valley,Age,Ages 18-34,agree,0.59
+safe_sidewalks,2018,Valley,valley,Age,Ages 35-49,agree,0.48
+safe_sidewalks,2018,Valley,valley,Age,Ages 50-64,agree,0.44
+safe_sidewalks,2018,Valley,valley,Age,Ages 65+,agree,0.39
+safe_sidewalks,2018,Valley,valley,Race/Ethnicity,White,agree,0.44
+safe_sidewalks,2018,Valley,valley,Race/Ethnicity,Not white,agree,0.62
+safe_sidewalks,2018,Valley,valley,Education,High school or less,agree,0.58
+safe_sidewalks,2018,Valley,valley,Education,Some college or Associate's,agree,0.49
+safe_sidewalks,2018,Valley,valley,Education,Bachelor's or higher,agree,0.41
+safe_sidewalks,2018,Valley,valley,Income,<$30K,agree,0.56
+safe_sidewalks,2018,Valley,valley,Income,$30K-$75K,agree,0.51
+safe_sidewalks,2018,Valley,valley,Income,$75K+,agree,0.42
+safe_sidewalks,2018,Valley,valley,With children,No children,agree,0.46
+safe_sidewalks,2018,Valley,valley,With children,Children in household,agree,0.5
+safe_sidewalks,2018,Wallingford,wallingford,Total,Wallingford,agree,0.71
+safe_sidewalks,2018,Waterbury,waterbury,Total,Waterbury,agree,0.6
+safe_sidewalks,2018,West Hartford,west_hartford,Total,West Hartford,agree,0.91
+safe_sidewalks,2018,West Haven,west_haven,Total,West Haven,agree,0.74
+safe_biking,2018,5ct,5ct,Wealthy,Wealthy,agree,0.56
+safe_biking,2018,5ct,5ct,Suburban,Suburban,agree,0.65
+safe_biking,2018,5ct,5ct,Rural,Rural,agree,0.56
+safe_biking,2018,5ct,5ct,Urban Periphery,Urban Periphery,agree,0.66
+safe_biking,2018,5ct,5ct,Urban Core,Urban Core,agree,0.61
+safe_biking,2018,Bridgeport,bridgeport,Total,Bridgeport,agree,0.48
+safe_biking,2018,Bristol,bristol,Total,Bristol,agree,0.55
+safe_biking,2018,Cchd Central Ct Health District,cchd_central_ct_health_district,Total,Cchd Central Ct Health District,agree,0.72
+safe_biking,2018,Chesprocott,chesprocott,Total,Chesprocott,agree,0.67
+safe_biking,2018,Connecticut,connecticut,Total,Connecticut,agree,0.63
+safe_biking,2018,Connecticut,connecticut,Gender,Male,agree,0.66
+safe_biking,2018,Connecticut,connecticut,Gender,Female,agree,0.6
+safe_biking,2018,Connecticut,connecticut,Age,Ages 18-34,agree,0.66
+safe_biking,2018,Connecticut,connecticut,Age,Ages 35-49,agree,0.63
+safe_biking,2018,Connecticut,connecticut,Age,Ages 50-64,agree,0.62
+safe_biking,2018,Connecticut,connecticut,Age,Ages 65+,agree,0.62
+safe_biking,2018,Connecticut,connecticut,Race/Ethnicity,White,agree,0.62
+safe_biking,2018,Connecticut,connecticut,Race/Ethnicity,Black,agree,0.66
+safe_biking,2018,Connecticut,connecticut,Race/Ethnicity,Latino,agree,0.64
+safe_biking,2018,Connecticut,connecticut,Education,High school or less,agree,0.61
+safe_biking,2018,Connecticut,connecticut,Education,Some college or Associate's,agree,0.63
+safe_biking,2018,Connecticut,connecticut,Education,Bachelor's or higher,agree,0.63
+safe_biking,2018,Connecticut,connecticut,Income,<$15K,agree,0.61
+safe_biking,2018,Connecticut,connecticut,Income,$15K-$30K,agree,0.6
+safe_biking,2018,Connecticut,connecticut,Income,$30K-$50K,agree,0.6
+safe_biking,2018,Connecticut,connecticut,Income,$50K-$75K,agree,0.65
+safe_biking,2018,Connecticut,connecticut,Income,$75K-$100K,agree,0.64
+safe_biking,2018,Connecticut,connecticut,Income,$100K-$200K,agree,0.65
+safe_biking,2018,Connecticut,connecticut,Income,$200K+,agree,0.64
+safe_biking,2018,Connecticut,connecticut,With children,No children,agree,0.62
+safe_biking,2018,Connecticut,connecticut,With children,Children in household,agree,0.63
+safe_biking,2018,Danbury,danbury,Total,Danbury,agree,0.42
+safe_biking,2018,Darien,darien,Total,Darien,agree,0.53
+safe_biking,2018,East Hartford,east_hartford,Total,East Hartford,agree,0.8
+safe_biking,2018,East Haven,east_haven,Total,East Haven,agree,0.54
+safe_biking,2018,Ehhd,ehhd,Total,Ehhd,agree,0.67
+safe_biking,2018,Fairfield,fairfield,Total,Fairfield,agree,0.69
+safe_biking,2018,Fairfield County,fairfield_county,Total,Fairfield County,agree,0.57
+safe_biking,2018,Fairfield County,fairfield_county,Gender,Male,agree,0.59
+safe_biking,2018,Fairfield County,fairfield_county,Gender,Female,agree,0.54
+safe_biking,2018,Fairfield County,fairfield_county,Age,Ages 18-34,agree,0.61
+safe_biking,2018,Fairfield County,fairfield_county,Age,Ages 35-49,agree,0.57
+safe_biking,2018,Fairfield County,fairfield_county,Age,Ages 50-64,agree,0.54
+safe_biking,2018,Fairfield County,fairfield_county,Age,Ages 65+,agree,0.56
+safe_biking,2018,Fairfield County,fairfield_county,Race/Ethnicity,White,agree,0.57
+safe_biking,2018,Fairfield County,fairfield_county,Race/Ethnicity,Black,agree,0.53
+safe_biking,2018,Fairfield County,fairfield_county,Race/Ethnicity,Latino,agree,0.54
+safe_biking,2018,Fairfield County,fairfield_county,Education,High school or less,agree,0.56
+safe_biking,2018,Fairfield County,fairfield_county,Education,Some college or Associate's,agree,0.55
+safe_biking,2018,Fairfield County,fairfield_county,Education,Bachelor's or higher,agree,0.58
+safe_biking,2018,Fairfield County,fairfield_county,Income,<$15K,agree,0.55
+safe_biking,2018,Fairfield County,fairfield_county,Income,$15K-$30K,agree,0.59
+safe_biking,2018,Fairfield County,fairfield_county,Income,$30K-$50K,agree,0.51
+safe_biking,2018,Fairfield County,fairfield_county,Income,$50K-$75K,agree,0.56
+safe_biking,2018,Fairfield County,fairfield_county,Income,$75K-$100K,agree,0.61
+safe_biking,2018,Fairfield County,fairfield_county,Income,$100K-$200K,agree,0.57
+safe_biking,2018,Fairfield County,fairfield_county,Income,$200K+,agree,0.59
+safe_biking,2018,Fairfield County,fairfield_county,With children,No children,agree,0.56
+safe_biking,2018,Fairfield County,fairfield_county,With children,Children in household,agree,0.57
+safe_biking,2018,Fcht,fcht,Total,Fcht,agree,0.61
+safe_biking,2018,Greater Bridgeport,greater_bridgeport,Total,Greater Bridgeport,agree,0.56
+safe_biking,2018,Greater Greenwich,greater_greenwich,Total,Greater Greenwich,agree,0.62
+safe_biking,2018,Greater Hartford,greater_hartford,Total,Greater Hartford,agree,0.73
+safe_biking,2018,Greater Hartford,greater_hartford,Gender,Male,agree,0.76
+safe_biking,2018,Greater Hartford,greater_hartford,Gender,Female,agree,0.7
+safe_biking,2018,Greater Hartford,greater_hartford,Age,Ages 18-34,agree,0.72
+safe_biking,2018,Greater Hartford,greater_hartford,Age,Ages 35-49,agree,0.72
+safe_biking,2018,Greater Hartford,greater_hartford,Age,Ages 50-64,agree,0.75
+safe_biking,2018,Greater Hartford,greater_hartford,Age,Ages 65+,agree,0.74
+safe_biking,2018,Greater Hartford,greater_hartford,Race/Ethnicity,White,agree,0.74
+safe_biking,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Black,agree,0.76
+safe_biking,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Latino,agree,0.73
+safe_biking,2018,Greater Hartford,greater_hartford,Education,High school or less,agree,0.72
+safe_biking,2018,Greater Hartford,greater_hartford,Education,Some college or Associate's,agree,0.73
+safe_biking,2018,Greater Hartford,greater_hartford,Education,Bachelor's or higher,agree,0.75
+safe_biking,2018,Greater Hartford,greater_hartford,Income,<$15K,agree,0.68
+safe_biking,2018,Greater Hartford,greater_hartford,Income,$15K-$30K,agree,0.74
+safe_biking,2018,Greater Hartford,greater_hartford,Income,$30K-$50K,agree,0.74
+safe_biking,2018,Greater Hartford,greater_hartford,Income,$50K-$75K,agree,0.75
+safe_biking,2018,Greater Hartford,greater_hartford,Income,$75K-$100K,agree,0.69
+safe_biking,2018,Greater Hartford,greater_hartford,Income,$100K-$200K,agree,0.75
+safe_biking,2018,Greater Hartford,greater_hartford,Income,$200K+,agree,0.79
+safe_biking,2018,Greater Hartford,greater_hartford,With children,No children,agree,0.72
+safe_biking,2018,Greater Hartford,greater_hartford,With children,Children in household,agree,0.75
+safe_biking,2018,Greater New Haven,greater_new_haven,Total,Greater New Haven,agree,0.7
+safe_biking,2018,Greater New Haven,greater_new_haven,Gender,Male,agree,0.73
+safe_biking,2018,Greater New Haven,greater_new_haven,Gender,Female,agree,0.67
+safe_biking,2018,Greater New Haven,greater_new_haven,Age,Ages 18-34,agree,0.74
+safe_biking,2018,Greater New Haven,greater_new_haven,Age,Ages 35-49,agree,0.7
+safe_biking,2018,Greater New Haven,greater_new_haven,Age,Ages 50-64,agree,0.66
+safe_biking,2018,Greater New Haven,greater_new_haven,Age,Ages 65+,agree,0.67
+safe_biking,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,White,agree,0.67
+safe_biking,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Black,agree,0.77
+safe_biking,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Latino,agree,0.73
+safe_biking,2018,Greater New Haven,greater_new_haven,Education,High school or less,agree,0.68
+safe_biking,2018,Greater New Haven,greater_new_haven,Education,Some college or Associate's,agree,0.69
+safe_biking,2018,Greater New Haven,greater_new_haven,Education,Bachelor's or higher,agree,0.71
+safe_biking,2018,Greater New Haven,greater_new_haven,Income,<$15K,agree,0.68
+safe_biking,2018,Greater New Haven,greater_new_haven,Income,$15K-$30K,agree,0.68
+safe_biking,2018,Greater New Haven,greater_new_haven,Income,$30K-$50K,agree,0.71
+safe_biking,2018,Greater New Haven,greater_new_haven,Income,$50K-$75K,agree,0.74
+safe_biking,2018,Greater New Haven,greater_new_haven,Income,$75K-$100K,agree,0.73
+safe_biking,2018,Greater New Haven,greater_new_haven,Income,$100K-$200K,agree,0.69
+safe_biking,2018,Greater New Haven,greater_new_haven,Income,$200K+,agree,0.62
+safe_biking,2018,Greater New Haven,greater_new_haven,With children,No children,agree,0.69
+safe_biking,2018,Greater New Haven,greater_new_haven,With children,Children in household,agree,0.71
+safe_biking,2018,Greater New London,greater_new_london,Total,Greater New London,agree,0.58
+safe_biking,2018,Greater Waterbury,greater_waterbury,Total,Greater Waterbury,agree,0.51
+safe_biking,2018,Greenwich,greenwich,Total,Greenwich,agree,0.6
+safe_biking,2018,Hamden,hamden,Total,Hamden,agree,0.85
+safe_biking,2018,Hartford,hartford,Total,Hartford,agree,0.71
+safe_biking,2018,Hartford Inner Ring,hartford_inner_ring,Total,Hartford Inner Ring,agree,0.71
+safe_biking,2018,Hartford Outer Ring,hartford_outer_ring,Total,Hartford Outer Ring,agree,0.7
+safe_biking,2018,Manchester,manchester,Total,Manchester,agree,0.78
+safe_biking,2018,Meriden,meriden,Total,Meriden,agree,0.57
+safe_biking,2018,Middlesex County,middlesex_county,Total,Middlesex County,agree,0.61
+safe_biking,2018,Middletown,middletown,Total,Middletown,agree,0.67
+safe_biking,2018,Milford,milford,Total,Milford,agree,0.76
+safe_biking,2018,Monroe,monroe,Total,Monroe,agree,0.55
+safe_biking,2018,Ncdhd,ncdhd,Total,Ncdhd,agree,0.65
+safe_biking,2018,Nddh,nddh,Total,Nddh,agree,0.54
+safe_biking,2018,New Britain,new_britain,Total,New Britain,agree,0.77
+safe_biking,2018,New Haven,new_haven,Total,New Haven,agree,0.76
+safe_biking,2018,New Haven Inner Ring,new_haven_inner_ring,Total,New Haven Inner Ring,agree,0.69
+safe_biking,2018,New Haven Outer Ring,new_haven_outer_ring,Total,New Haven Outer Ring,agree,0.66
+safe_biking,2018,New London,new_london,Total,New London,agree,0.65
+safe_biking,2018,New Milford,new_milford,Total,New Milford,agree,0.51
+safe_biking,2018,Newtown,newtown,Total,Newtown,agree,0.52
+safe_biking,2018,Norwalk,norwalk,Total,Norwalk,agree,0.66
+safe_biking,2018,Nyborder,nyborder,Total,Nyborder,agree,0.64
+safe_biking,2018,Pomperaug,pomperaug,Total,Pomperaug,agree,0.65
+safe_biking,2018,Port Chester Ny,port_chester_ny,Total,Port Chester Ny,agree,0.64
+safe_biking,2018,Stamford,stamford,Total,Stamford,agree,0.64
+safe_biking,2018,Stratford,stratford,Total,Stratford,agree,0.54
+safe_biking,2018,Trumbull,trumbull,Total,Trumbull,agree,0.7
+safe_biking,2018,Valley,valley,Total,Valley,agree,0.56
+safe_biking,2018,Valley,valley,Gender,Male,agree,0.6
+safe_biking,2018,Valley,valley,Gender,Female,agree,0.53
+safe_biking,2018,Valley,valley,Age,Ages 18-34,agree,0.65
+safe_biking,2018,Valley,valley,Age,Ages 35-49,agree,0.57
+safe_biking,2018,Valley,valley,Age,Ages 50-64,agree,0.54
+safe_biking,2018,Valley,valley,Age,Ages 65+,agree,0.5
+safe_biking,2018,Valley,valley,Race/Ethnicity,White,agree,0.55
+safe_biking,2018,Valley,valley,Race/Ethnicity,Not white,agree,0.64
+safe_biking,2018,Valley,valley,Education,High school or less,agree,0.61
+safe_biking,2018,Valley,valley,Education,Some college or Associate's,agree,0.58
+safe_biking,2018,Valley,valley,Education,Bachelor's or higher,agree,0.54
+safe_biking,2018,Valley,valley,Income,<$30K,agree,0.64
+safe_biking,2018,Valley,valley,Income,$30K-$75K,agree,0.53
+safe_biking,2018,Valley,valley,Income,$75K+,agree,0.54
+safe_biking,2018,Valley,valley,With children,No children,agree,0.56
+safe_biking,2018,Valley,valley,With children,Children in household,agree,0.57
+safe_biking,2018,Wallingford,wallingford,Total,Wallingford,agree,0.64
+safe_biking,2018,Waterbury,waterbury,Total,Waterbury,agree,0.37
+safe_biking,2018,West Hartford,west_hartford,Total,West Hartford,agree,0.89
+safe_biking,2018,West Haven,west_haven,Total,West Haven,agree,0.57
+rec_facilities_available,2018,5ct,5ct,Wealthy,Wealthy,agree,0.73
+rec_facilities_available,2018,5ct,5ct,Suburban,Suburban,agree,0.7
+rec_facilities_available,2018,5ct,5ct,Rural,Rural,agree,0.58
+rec_facilities_available,2018,5ct,5ct,Urban Periphery,Urban Periphery,agree,0.72
+rec_facilities_available,2018,5ct,5ct,Urban Core,Urban Core,agree,0.7
+rec_facilities_available,2018,Bridgeport,bridgeport,Total,Bridgeport,agree,0.61
+rec_facilities_available,2018,Bristol,bristol,Total,Bristol,agree,0.69
+rec_facilities_available,2018,Cchd Central Ct Health District,cchd_central_ct_health_district,Total,Cchd Central Ct Health District,agree,0.89
+rec_facilities_available,2018,Chesprocott,chesprocott,Total,Chesprocott,agree,0.7
+rec_facilities_available,2018,Connecticut,connecticut,Total,Connecticut,agree,0.7
+rec_facilities_available,2018,Connecticut,connecticut,Gender,Male,agree,0.72
+rec_facilities_available,2018,Connecticut,connecticut,Gender,Female,agree,0.67
+rec_facilities_available,2018,Connecticut,connecticut,Age,Ages 18-34,agree,0.71
+rec_facilities_available,2018,Connecticut,connecticut,Age,Ages 35-49,agree,0.71
+rec_facilities_available,2018,Connecticut,connecticut,Age,Ages 50-64,agree,0.68
+rec_facilities_available,2018,Connecticut,connecticut,Age,Ages 65+,agree,0.68
+rec_facilities_available,2018,Connecticut,connecticut,Race/Ethnicity,White,agree,0.68
+rec_facilities_available,2018,Connecticut,connecticut,Race/Ethnicity,Black,agree,0.72
+rec_facilities_available,2018,Connecticut,connecticut,Race/Ethnicity,Latino,agree,0.75
+rec_facilities_available,2018,Connecticut,connecticut,Education,High school or less,agree,0.66
+rec_facilities_available,2018,Connecticut,connecticut,Education,Some college or Associate's,agree,0.7
+rec_facilities_available,2018,Connecticut,connecticut,Education,Bachelor's or higher,agree,0.71
+rec_facilities_available,2018,Connecticut,connecticut,Income,<$15K,agree,0.63
+rec_facilities_available,2018,Connecticut,connecticut,Income,$15K-$30K,agree,0.65
+rec_facilities_available,2018,Connecticut,connecticut,Income,$30K-$50K,agree,0.71
+rec_facilities_available,2018,Connecticut,connecticut,Income,$50K-$75K,agree,0.7
+rec_facilities_available,2018,Connecticut,connecticut,Income,$75K-$100K,agree,0.72
+rec_facilities_available,2018,Connecticut,connecticut,Income,$100K-$200K,agree,0.72
+rec_facilities_available,2018,Connecticut,connecticut,Income,$200K+,agree,0.71
+rec_facilities_available,2018,Connecticut,connecticut,With children,No children,agree,0.68
+rec_facilities_available,2018,Connecticut,connecticut,With children,Children in household,agree,0.72
+rec_facilities_available,2018,Danbury,danbury,Total,Danbury,agree,0.57
+rec_facilities_available,2018,Darien,darien,Total,Darien,agree,0.77
+rec_facilities_available,2018,East Hartford,east_hartford,Total,East Hartford,agree,0.81
+rec_facilities_available,2018,East Haven,east_haven,Total,East Haven,agree,0.62
+rec_facilities_available,2018,Ehhd,ehhd,Total,Ehhd,agree,0.66
+rec_facilities_available,2018,Fairfield,fairfield,Total,Fairfield,agree,0.8
+rec_facilities_available,2018,Fairfield County,fairfield_county,Total,Fairfield County,agree,0.68
+rec_facilities_available,2018,Fairfield County,fairfield_county,Gender,Male,agree,0.73
+rec_facilities_available,2018,Fairfield County,fairfield_county,Gender,Female,agree,0.64
+rec_facilities_available,2018,Fairfield County,fairfield_county,Age,Ages 18-34,agree,0.68
+rec_facilities_available,2018,Fairfield County,fairfield_county,Age,Ages 35-49,agree,0.73
+rec_facilities_available,2018,Fairfield County,fairfield_county,Age,Ages 50-64,agree,0.68
+rec_facilities_available,2018,Fairfield County,fairfield_county,Age,Ages 65+,agree,0.63
+rec_facilities_available,2018,Fairfield County,fairfield_county,Race/Ethnicity,White,agree,0.69
+rec_facilities_available,2018,Fairfield County,fairfield_county,Race/Ethnicity,Black,agree,0.65
+rec_facilities_available,2018,Fairfield County,fairfield_county,Race/Ethnicity,Latino,agree,0.68
+rec_facilities_available,2018,Fairfield County,fairfield_county,Education,High school or less,agree,0.63
+rec_facilities_available,2018,Fairfield County,fairfield_county,Education,Some college or Associate's,agree,0.66
+rec_facilities_available,2018,Fairfield County,fairfield_county,Education,Bachelor's or higher,agree,0.71
+rec_facilities_available,2018,Fairfield County,fairfield_county,Income,<$15K,agree,0.59
+rec_facilities_available,2018,Fairfield County,fairfield_county,Income,$15K-$30K,agree,0.59
+rec_facilities_available,2018,Fairfield County,fairfield_county,Income,$30K-$50K,agree,0.66
+rec_facilities_available,2018,Fairfield County,fairfield_county,Income,$50K-$75K,agree,0.67
+rec_facilities_available,2018,Fairfield County,fairfield_county,Income,$75K-$100K,agree,0.71
+rec_facilities_available,2018,Fairfield County,fairfield_county,Income,$100K-$200K,agree,0.72
+rec_facilities_available,2018,Fairfield County,fairfield_county,Income,$200K+,agree,0.73
+rec_facilities_available,2018,Fairfield County,fairfield_county,With children,No children,agree,0.66
+rec_facilities_available,2018,Fairfield County,fairfield_county,With children,Children in household,agree,0.71
+rec_facilities_available,2018,Fcht,fcht,Total,Fcht,agree,0.65
+rec_facilities_available,2018,Greater Bridgeport,greater_bridgeport,Total,Greater Bridgeport,agree,0.7
+rec_facilities_available,2018,Greater Greenwich,greater_greenwich,Total,Greater Greenwich,agree,0.76
+rec_facilities_available,2018,Greater Hartford,greater_hartford,Total,Greater Hartford,agree,0.76
+rec_facilities_available,2018,Greater Hartford,greater_hartford,Gender,Male,agree,0.78
+rec_facilities_available,2018,Greater Hartford,greater_hartford,Gender,Female,agree,0.75
+rec_facilities_available,2018,Greater Hartford,greater_hartford,Age,Ages 18-34,agree,0.77
+rec_facilities_available,2018,Greater Hartford,greater_hartford,Age,Ages 35-49,agree,0.77
+rec_facilities_available,2018,Greater Hartford,greater_hartford,Age,Ages 50-64,agree,0.74
+rec_facilities_available,2018,Greater Hartford,greater_hartford,Age,Ages 65+,agree,0.77
+rec_facilities_available,2018,Greater Hartford,greater_hartford,Race/Ethnicity,White,agree,0.75
+rec_facilities_available,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Black,agree,0.8
+rec_facilities_available,2018,Greater Hartford,greater_hartford,Race/Ethnicity,Latino,agree,0.82
+rec_facilities_available,2018,Greater Hartford,greater_hartford,Education,High school or less,agree,0.73
+rec_facilities_available,2018,Greater Hartford,greater_hartford,Education,Some college or Associate's,agree,0.78
+rec_facilities_available,2018,Greater Hartford,greater_hartford,Education,Bachelor's or higher,agree,0.78
+rec_facilities_available,2018,Greater Hartford,greater_hartford,Income,<$15K,agree,0.72
+rec_facilities_available,2018,Greater Hartford,greater_hartford,Income,$15K-$30K,agree,0.79
+rec_facilities_available,2018,Greater Hartford,greater_hartford,Income,$30K-$50K,agree,0.83
+rec_facilities_available,2018,Greater Hartford,greater_hartford,Income,$50K-$75K,agree,0.72
+rec_facilities_available,2018,Greater Hartford,greater_hartford,Income,$75K-$100K,agree,0.81
+rec_facilities_available,2018,Greater Hartford,greater_hartford,Income,$100K-$200K,agree,0.74
+rec_facilities_available,2018,Greater Hartford,greater_hartford,Income,$200K+,agree,0.76
+rec_facilities_available,2018,Greater Hartford,greater_hartford,With children,No children,agree,0.74
+rec_facilities_available,2018,Greater Hartford,greater_hartford,With children,Children in household,agree,0.8
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,Total,Greater New Haven,agree,0.72
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,Gender,Male,agree,0.75
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,Gender,Female,agree,0.69
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,Age,Ages 18-34,agree,0.73
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,Age,Ages 35-49,agree,0.74
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,Age,Ages 50-64,agree,0.72
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,Age,Ages 65+,agree,0.69
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,White,agree,0.72
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Black,agree,0.72
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,Race/Ethnicity,Latino,agree,0.76
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,Education,High school or less,agree,0.65
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,Education,Some college or Associate's,agree,0.73
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,Education,Bachelor's or higher,agree,0.74
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,Income,<$15K,agree,0.61
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,Income,$15K-$30K,agree,0.69
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,Income,$30K-$50K,agree,0.73
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,Income,$50K-$75K,agree,0.76
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,Income,$75K-$100K,agree,0.71
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,Income,$100K-$200K,agree,0.78
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,Income,$200K+,agree,0.7
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,With children,No children,agree,0.71
+rec_facilities_available,2018,Greater New Haven,greater_new_haven,With children,Children in household,agree,0.74
+rec_facilities_available,2018,Greater New London,greater_new_london,Total,Greater New London,agree,0.65
+rec_facilities_available,2018,Greater Waterbury,greater_waterbury,Total,Greater Waterbury,agree,0.66
+rec_facilities_available,2018,Greenwich,greenwich,Total,Greenwich,agree,0.79
+rec_facilities_available,2018,Hamden,hamden,Total,Hamden,agree,0.77
+rec_facilities_available,2018,Hartford,hartford,Total,Hartford,agree,0.79
+rec_facilities_available,2018,Hartford Inner Ring,hartford_inner_ring,Total,Hartford Inner Ring,agree,0.79
+rec_facilities_available,2018,Hartford Outer Ring,hartford_outer_ring,Total,Hartford Outer Ring,agree,0.65
+rec_facilities_available,2018,Manchester,manchester,Total,Manchester,agree,0.86
+rec_facilities_available,2018,Meriden,meriden,Total,Meriden,agree,0.67
+rec_facilities_available,2018,Middlesex County,middlesex_county,Total,Middlesex County,agree,0.6
+rec_facilities_available,2018,Middletown,middletown,Total,Middletown,agree,0.65
+rec_facilities_available,2018,Milford,milford,Total,Milford,agree,0.78
+rec_facilities_available,2018,Monroe,monroe,Total,Monroe,agree,0.75
+rec_facilities_available,2018,Ncdhd,ncdhd,Total,Ncdhd,agree,0.62
+rec_facilities_available,2018,Nddh,nddh,Total,Nddh,agree,0.55
+rec_facilities_available,2018,New Britain,new_britain,Total,New Britain,agree,0.77
+rec_facilities_available,2018,New Haven,new_haven,Total,New Haven,agree,0.74
+rec_facilities_available,2018,New Haven Inner Ring,new_haven_inner_ring,Total,New Haven Inner Ring,agree,0.68
+rec_facilities_available,2018,New Haven Outer Ring,new_haven_outer_ring,Total,New Haven Outer Ring,agree,0.74
+rec_facilities_available,2018,New London,new_london,Total,New London,agree,0.67
+rec_facilities_available,2018,New Milford,new_milford,Total,New Milford,agree,0.56
+rec_facilities_available,2018,Newtown,newtown,Total,Newtown,agree,0.66
+rec_facilities_available,2018,Norwalk,norwalk,Total,Norwalk,agree,0.68
+rec_facilities_available,2018,Nyborder,nyborder,Total,Nyborder,agree,0.84
+rec_facilities_available,2018,Pomperaug,pomperaug,Total,Pomperaug,agree,0.74
+rec_facilities_available,2018,Port Chester Ny,port_chester_ny,Total,Port Chester Ny,agree,0.82
+rec_facilities_available,2018,Stamford,stamford,Total,Stamford,agree,0.71
+rec_facilities_available,2018,Stratford,stratford,Total,Stratford,agree,0.73
+rec_facilities_available,2018,Trumbull,trumbull,Total,Trumbull,agree,0.81
+rec_facilities_available,2018,Valley,valley,Total,Valley,agree,0.64
+rec_facilities_available,2018,Valley,valley,Gender,Male,agree,0.69
+rec_facilities_available,2018,Valley,valley,Gender,Female,agree,0.61
+rec_facilities_available,2018,Valley,valley,Age,Ages 18-34,agree,0.71
+rec_facilities_available,2018,Valley,valley,Age,Ages 35-49,agree,0.65
+rec_facilities_available,2018,Valley,valley,Age,Ages 50-64,agree,0.61
+rec_facilities_available,2018,Valley,valley,Age,Ages 65+,agree,0.6
+rec_facilities_available,2018,Valley,valley,Race/Ethnicity,White,agree,0.62
+rec_facilities_available,2018,Valley,valley,Race/Ethnicity,Not white,agree,0.77
+rec_facilities_available,2018,Valley,valley,Education,High school or less,agree,0.6
+rec_facilities_available,2018,Valley,valley,Education,Some college or Associate's,agree,0.66
+rec_facilities_available,2018,Valley,valley,Education,Bachelor's or higher,agree,0.66
+rec_facilities_available,2018,Valley,valley,Income,<$30K,agree,0.61
+rec_facilities_available,2018,Valley,valley,Income,$30K-$75K,agree,0.63
+rec_facilities_available,2018,Valley,valley,Income,$75K+,agree,0.65
+rec_facilities_available,2018,Valley,valley,With children,No children,agree,0.63
+rec_facilities_available,2018,Valley,valley,With children,Children in household,agree,0.68
+rec_facilities_available,2018,Wallingford,wallingford,Total,Wallingford,agree,0.72
+rec_facilities_available,2018,Waterbury,waterbury,Total,Waterbury,agree,0.65
+rec_facilities_available,2018,West Hartford,west_hartford,Total,West Hartford,agree,0.92
+rec_facilities_available,2018,West Haven,west_haven,Total,West Haven,agree,0.66

@@ -36,7 +36,7 @@ read_cws <- function(path, region) {
                fct_relabel(str_replace, "^\\b(?=\\d)", "Ages ") %>%
                fct_relabel(str_replace, " White", " white") %>%
                fct_relabel(str_remove, "(?<=\\<)\\s") %>%
-               fct_recode("Not white" = "Non-White")) %>%
+               fct_recode("Not white" = "Non-White", "Children in household" = "Yes", "No children in household" = "No")) %>%
       mutate(category = category %>%
                fct_relabel(str_remove, "^[\\w\\s]+(?=Total)") %>%
                fct_relabel(str_remove, "(?<=Total)[\\w\\s]+$") %>%
@@ -61,7 +61,7 @@ clean_weights <- function(path) {
              fct_relabel(str_replace, "^\\b(?=\\d)", "Ages ") %>%
              fct_recode(Black = "African American/Black", Latino = "Hispanic") %>%
              fct_relabel(str_replace, " White", " white") %>%
-             fct_recode("Not white" = "Non-White") %>%
+             fct_recode("Not white" = "Non-White", "Children in household" = "Yes", "No children in household" = "No") %>%
              fct_relabel(str_remove, " or GED"))
 }
 

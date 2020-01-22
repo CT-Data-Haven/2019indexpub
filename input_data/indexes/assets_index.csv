@@ -1,0 +1,719 @@
+"name","category","group","govt_is_responsive","good_to_raise_kids","good_cond_of_parks","safe_sidewalks","safe_biking","rec_facilities_available","composite","composite_scaled"
+"5ct","Rural","Rural",2.5,3.2,3,2.1,2.5,2.6,0.289688964697452,601
+"5ct","Suburban","Suburban",2.7,3.4,3.2,2.3,2.8,2.9,0.945303029586376,716
+"5ct","Urban Core","Urban Core",2.1,2.2,2.5,3.1,2.7,2.9,-1.66184667424291,260
+"5ct","Urban Periphery","Urban Periphery",2.4,2.9,2.9,3,2.8,3,-0.068630024336098,538
+"5ct","Wealthy","Wealthy",2.9,3.5,3.4,2.4,2.5,3,1.6846179982026,845
+"bridgeport","Income","<$30K",2,2.1,2.4,3.1,2.4,2.6,-1.79346289110633,237
+"bridgeport","Income","$30K-$75K",1.9,2,2.5,3.1,2.3,2.6,-1.77227472471863,240
+"bridgeport","Income","$75K+",2,1.9,2.7,3.3,2.5,2.8,-1.39293818249583,307
+"bridgeport","Age","Ages 18-34",2,2,2.5,3.1,2.5,2.7,-1.76365915055994,242
+"bridgeport","Age","Ages 35-49",1.9,1.9,2.4,3,2.4,2.6,-2.13623253233219,177
+"bridgeport","Age","Ages 50-64",1.9,2.1,2.5,3.1,2.2,2.8,-1.82781305805572,231
+"bridgeport","Age","Ages 65+",2.2,2.4,2.7,3.2,2.4,2.6,-0.641941363259323,438
+"bridgeport","Education","Bachelor's or higher",2,2,2.7,3.2,2.6,2.8,-1.38276250782682,308
+"bridgeport","Race/Ethnicity","Black",1.8,2,2.3,3,2.1,2.5,-2.25131964026601,156
+"bridgeport","With children","Children in household",1.9,2.1,2.5,3,2.4,2.6,-1.76209905004961,242
+"bridgeport","Gender","Female",2,2.1,2.5,3.1,2.2,2.5,-1.48679650012841,290
+"bridgeport","Education","High school or less",2,2.1,2.4,3.1,2.4,2.6,-1.79346289110633,237
+"bridgeport","Race/Ethnicity","Latino",2,2,2.5,3,2.5,2.7,-1.82555091815762,231
+"bridgeport","Gender","Male",2.1,2.1,2.6,3.2,2.5,2.8,-1.37822086336085,309
+"bridgeport","With children","No children",2,2,2.6,3.2,2.4,2.7,-1.48463369063991,291
+"bridgeport","Education","Some college or Associate's",1.9,2.1,2.5,3.1,2.2,2.6,-1.67447747159825,257
+"bridgeport","Total","Total",2,2.1,2.5,3.1,2.4,2.7,-1.66586189743956,259
+"bridgeport","Race/Ethnicity","White",2.1,2.1,2.7,3.1,2.4,2.7,-1.14631114540744,350
+"bristol","Income","<$75K",2.3,2.8,2.8,3,2.6,2.9,-0.366446733083827,486
+"bristol","Income","$75K+",2.4,2.7,2.9,3.1,2.6,2.9,-0.0742053480430678,537
+"bristol","Age","Age 55 or older",2.3,2.9,3.1,3,2.6,2.9,0.331291975296225,608
+"bristol","Education","Bachelor's or higher",2.3,2.8,2.9,2.8,2.7,2.8,-0.222158593581787,511
+"bristol","With children","Children in household",2.4,2.6,2.7,3,2.6,2.8,-0.552899243896558,454
+"bristol","Gender","Female",2.3,2.6,2.9,3,2.6,2.9,-0.332042641575387,492
+"bristol","Gender","Male",2.4,2.9,2.9,3.1,2.6,2.9,0.0956593473439984,567
+"bristol","With children","No children",2.3,2.8,2.9,3,2.6,2.9,-0.162177946188321,522
+"bristol","Education","Some college or less",2.4,2.8,2.9,3.1,2.6,3,-0.0659407935782703,539
+"bristol","Total","Total",2.4,2.8,2.9,3,2.6,2.9,-0.0511647679472154,541
+"bristol","Age","Under age 55",2.4,2.7,2.8,3,2.6,2.9,-0.340365902536255,491
+"cchd_central_ct_health_district","Income","<$75K",2.4,3.2,3.1,3.1,2.9,3.3,0.413728075020149,623
+"cchd_central_ct_health_district","Income","$75K+",2.6,3.3,3.2,3.2,3,3.4,0.897314635033504,707
+"cchd_central_ct_health_district","Age","Age 55 or older",2.6,3.3,3.1,3.2,2.9,3.3,0.782578546793574,687
+"cchd_central_ct_health_district","Education","Bachelor's or higher",2.6,3.3,3.1,3.1,2.9,3.3,0.720686779195893,676
+"cchd_central_ct_health_district","With children","Children in household",2.5,3.3,3.1,3.1,3,3.5,0.443473109070476,628
+"cchd_central_ct_health_district","Gender","Female",2.6,3.3,3.2,3.1,3,3.4,0.835422867435824,696
+"cchd_central_ct_health_district","Gender","Male",2.4,3.3,3.1,3.2,2.9,3.4,0.483884397082626,635
+"cchd_central_ct_health_district","With children","No children",2.5,3.3,3.2,3.1,2.9,3.3,0.813942387850294,693
+"cchd_central_ct_health_district","Education","Some college or less",2.5,3.3,3.2,3.2,3,3.4,0.786301456792398,688
+"cchd_central_ct_health_district","Total","Total",2.5,3.3,3.2,3.1,2.9,3.4,0.737274594621558,679
+"cchd_central_ct_health_district","Age","Under age 55",2.5,3.3,3.2,3.1,2.9,3.4,0.737274594621558,679
+"chesprocott","Income","<$75K",2.8,3.4,3.1,2.3,2.8,2.8,0.92871521416071,713
+"chesprocott","Income","$75K+",2.7,3.5,3.3,2.2,2.9,3,1.08307969792216,740
+"chesprocott","Age","Age 55 or older",2.9,3.5,3.3,2.3,2.9,3,1.36699782200205,789
+"chesprocott","Education","Bachelor's or higher",2.7,3.5,3.2,2.4,2.9,3,1.00259444622201,726
+"chesprocott","With children","Children in household",2.7,3.6,3.2,2.1,2.7,3.1,0.850913508747451,699
+"chesprocott","Gender","Female",2.8,3.5,3.2,2.3,2.9,2.9,1.12838365009417,748
+"chesprocott","Gender","Male",2.7,3.4,3.2,2.1,2.8,2.9,0.821519494391015,694
+"chesprocott","With children","No children",2.8,3.4,3.2,2.3,2.9,2.8,1.12011909562938,746
+"chesprocott","Education","Some college or less",2.8,3.5,3.2,2,2.8,2.9,0.955573252727973,717
+"chesprocott","Total","Total",2.8,3.5,3.2,2.2,2.9,2.9,1.06649188249649,737
+"chesprocott","Age","Under age 55",2.6,3.4,3.1,2.1,2.8,2.9,0.506237529254403,639
+"connecticut","Income","<$15K",2.3,2.6,2.7,2.9,2.6,2.7,-0.649136396506609,437
+"connecticut","Income","$100K-$200K",2.6,3.2,3.1,2.5,2.8,2.9,0.583939904258059,652
+"connecticut","Income","$15K-$30K",2.3,2.7,2.8,2.9,2.7,2.8,-0.449467960573146,472
+"connecticut","Income","$200K+",2.7,3.4,3.3,2.4,2.8,3,1.13479579085083,749
+"connecticut","Income","$30K-$50K",2.4,2.8,2.9,2.8,2.7,2.9,-0.187813208569417,517
+"connecticut","Income","$50K-$75K",2.5,2.9,2.9,2.7,2.8,2.9,-0.0666243556592981,539
+"connecticut","Income","$75K-$100K",2.5,3.1,3,2.6,2.7,2.9,0.258482264452434,595
+"connecticut","Age","Ages 18-34",2.4,2.8,2.8,2.9,2.8,2.9,-0.343055133294082,490
+"connecticut","Age","Ages 35-49",2.4,3,2.9,2.7,2.7,2.9,-0.0798402807800304,536
+"connecticut","Age","Ages 50-64",2.5,3.1,3,2.5,2.7,2.8,0.273258290083489,598
+"connecticut","Age","Ages 65+",2.7,3.2,3.1,2.6,2.8,2.9,0.756844850096845,683
+"connecticut","Education","Bachelor's or higher",2.6,3.2,3.1,2.6,2.7,2.9,0.65869657728258,665
+"connecticut","Race/Ethnicity","Black",2.2,2.6,2.6,3.2,2.8,2.9,-0.95780845616133,383
+"connecticut","With children","Children in household",2.5,3,2.9,2.7,2.7,2.9,0.0311728974610754,556
+"connecticut","Gender","Female",2.5,3,2.9,2.6,2.7,2.8,0.0459489230921303,558
+"connecticut","Education","High school or less",2.3,2.8,2.8,2.8,2.7,2.8,-0.426427380477293,476
+"connecticut","Race/Ethnicity","Latino",2.4,2.7,2.7,3,2.7,3,-0.634167388087336,439
+"connecticut","Gender","Male",2.5,3,3,2.7,2.8,3,0.145908985701006,576
+"connecticut","With children","No children",2.5,3,2.9,2.7,2.7,2.8,0.107840690689811,569
+"connecticut","Education","Some college or Associate's",2.4,2.9,2.9,2.7,2.7,2.9,-0.164772628473564,521
+"connecticut","Total","Total",2.5,3,2.9,2.7,2.7,2.9,0.0311728974610754,556
+"connecticut","Race/Ethnicity","White",2.5,3.1,3,2.6,2.7,2.8,0.33515005768117,609
+"danbury","Income","<$30K",2.4,2.6,2.8,2.4,2.2,2.5,-0.438518061193569,474
+"danbury","Income","$30K-$75K",2.5,2.9,2.8,2.6,2.3,2.6,-0.0384570033320777,544
+"danbury","Income","$75K+",2.6,2.9,2.8,2,2.2,2.6,-0.285929525250215,500
+"danbury","Age","Ages 18-34",2.4,2.7,2.6,2.4,2.4,2.9,-1.09452427105967,359
+"danbury","Age","Ages 35-49",2.6,3.1,2.9,2.2,2.2,2.7,0.135319698998984,574
+"danbury","Age","Ages 50-64",2.8,2.8,2.8,2.2,2.1,2.3,0.217816303846871,588
+"danbury","Age","Ages 65+",2.7,3.1,3,2.1,2.1,2.3,0.708245974879697,674
+"danbury","Education","Bachelor's or higher",2.7,2.9,2.9,2,2.1,2.6,0.0422173453132374,558
+"danbury","With children","Children in household",2.5,3,2.8,2.2,2.2,2.7,-0.264894613831162,504
+"danbury","Gender","Female",2.6,2.9,2.9,2.1,2.1,2.4,0.146431521127283,576
+"danbury","Education","High school or less",2.5,2.8,2.8,2.6,2.3,2.6,-0.123389351025611,529
+"danbury","Gender","Male",2.6,2.9,2.8,2.4,2.4,2.7,-0.140760058941909,526
+"danbury","With children","No children",2.6,2.9,2.8,2.3,2.2,2.5,-0.023586429228438,546
+"danbury","Race/Ethnicity","Not white",2.4,2.7,2.7,2.4,2.3,2.7,-0.724054992279852,424
+"danbury","Education","Some college or Associate's",2.5,2.9,2.9,2.5,2.3,2.7,0.0272522227370124,555
+"danbury","Total","Total",2.6,2.9,2.8,2.2,2.2,2.6,-0.162145990054854,522
+"danbury","Race/Ethnicity","White",2.7,3,2.9,2.2,2.2,2.5,0.314736116004027,605
+"darien","Gender","Female",2.9,3.4,3.5,2.9,2.5,3.1,2.03674548216424,907
+"darien","Gender","Male",2.8,3.6,3.4,2.9,2.6,3.2,1.80179551375912,865
+"darien","Total","Total",2.9,3.5,3.4,2.9,2.6,3.1,1.90454413753542,883
+"east_hartford","Total","Total",2.2,2.5,2.6,3.4,3.1,3.1,-1.11088757139749,356
+"east_haven","Income","<$75K",2.4,2.9,2.8,2.8,2.4,2.7,-0.115219345033398,530
+"east_haven","Income","$75K+",2.4,2.9,2.7,2.7,2.6,2.6,-0.330441917151529,492
+"east_haven","Age","Age 55 or older",2.4,2.9,2.7,3,2.4,2.5,-0.0423690102760716,543
+"east_haven","Gender","Female",2.5,3,2.7,2.9,2.4,2.8,-0.138318631625319,526
+"east_haven","Education","High school or less",2.4,3.1,2.8,3.1,2.7,2.6,0.278393730094925,599
+"east_haven","Gender","Male",2.3,2.7,2.6,2.7,2.5,2.5,-0.726055879019631,423
+"east_haven","Education","Some college or higher",2.4,2.8,2.6,2.6,2.4,2.7,-0.732472801713304,422
+"east_haven","Total","Total",2.4,2.9,2.7,2.8,2.5,2.6,-0.255685244127008,506
+"east_haven","Age","Under age 55",2.3,2.9,2.6,2.7,2.5,2.7,-0.709526770090036,426
+"ehhd","Income","<$75K",2.6,3.1,3.1,2,2.9,2.8,0.253351606378019,595
+"ehhd","Income","$75K+",2.6,3.4,3.1,1.5,2.6,2.7,0.313952320979471,605
+"ehhd","Age","Age 55 or older",2.8,3.5,3.2,1.6,2.8,2.9,0.708006182337251,674
+"ehhd","Education","Bachelor's or higher",2.7,3.4,3.1,1.9,2.6,2.6,0.749200362840034,681
+"ehhd","With children","Children in household",2.6,3.4,3,1.8,2.7,2.6,0.359161724678902,613
+"ehhd","Gender","Female",2.7,3.4,3.2,1.9,2.7,2.7,0.863936451079965,701
+"ehhd","Gender","Male",2.5,3.1,3,1.7,2.8,2.7,-0.15807296289606,523
+"ehhd","With children","No children",2.7,3.2,3.2,1.8,2.8,2.8,0.542647289439643,645
+"ehhd","Education","Some college or less",2.6,3.1,3.1,1.7,2.9,2.8,0.0676763035849771,562
+"ehhd","Total","Total",2.6,3.3,3.1,1.8,2.8,2.7,0.388965465225299,618
+"ehhd","Age","Under age 55",2.5,3.2,3,1.8,2.7,2.6,0.0782838510507299,564
+"fairfield","Income","<$75K",2.6,3.4,3.2,2.9,2.9,3.2,0.962772171818307,719
+"fairfield","Income","$75K+",2.8,3.6,3.4,2.9,2.9,3.2,1.7632007974786,859
+"fairfield","Age","Age 55 or older",2.9,3.6,3.5,2.9,2.8,3.3,2.01467987481331,903
+"fairfield","Education","Bachelor's or higher",2.9,3.6,3.4,2.8,2.8,3.3,1.74851932032013,856
+"fairfield","With children","Children in household",2.7,3.5,3.2,2.9,2.8,3.1,1.24825039640852,769
+"fairfield_county","Income","<$15K",2.2,2.6,2.8,2.9,2.5,2.6,-0.466348089196633,469
+"fairfield_county","Income","$100K-$200K",2.7,3.3,3.2,2.5,2.5,3,0.946081140139989,716
+"fairfield_county","Income","$15K-$30K",2.2,2.6,2.7,2.9,2.6,2.6,-0.683481781518979,431
+"fairfield_county","Income","$200K+",2.7,3.4,3.3,2.3,2.7,3,1.08576892867999,740
+"fairfield_county","Income","$30K-$50K",2.3,2.8,2.8,2.9,2.5,2.8,-0.338805802025932,491
+"fairfield_county","Income","$50K-$75K",2.4,3,3,2.7,2.6,2.9,0.137293411542316,574
+"fairfield_county","Income","$75K-$100K",2.5,3.1,3,2.6,2.6,2.9,0.271347169879275,598
+"fairfield_county","Age","Ages 18-34",2.4,2.9,2.9,2.9,2.7,2.9,-0.0409890932782029,543
+"fairfield_county","Age","Ages 35-49",2.5,3,3,2.6,2.6,3,0.109747028957006,569
+"fairfield_county","Age","Ages 50-64",2.5,3.2,3.1,2.4,2.5,2.8,0.526297467928529,642
+"fairfield_county","Age","Ages 65+",2.6,3.2,3.2,2.5,2.6,2.8,0.890606295235981,706
+"fairfield_county","Education","Bachelor's or higher",2.6,3.2,3.2,2.5,2.6,2.9,0.813938502007246,693
+"fairfield_county","Race/Ethnicity","Black",2.1,2.5,2.6,3.1,2.5,2.8,-1.10038324018439,358
+"fairfield_county","With children","Children in household",2.5,3.1,3.1,2.6,2.6,3,0.398948163546045,620
+"fairfield_county","Gender","Female",2.5,3.1,3,2.6,2.5,2.8,0.36087986853485,613
+"fairfield_county","Education","High school or less",2.3,2.8,2.8,2.9,2.5,2.7,-0.262138008797197,504
+"fairfield_county","Race/Ethnicity","Latino",2.4,2.7,2.8,2.9,2.5,2.9,-0.389392764707095,482
+"fairfield_county","Gender","Male",2.5,3.1,3,2.6,2.6,3,0.194679376650539,584
+"fairfield_county","With children","No children",2.5,3,3,2.6,2.6,2.8,0.263082615414477,596
+"fairfield_county","Education","Some college or Associate's",2.4,2.9,3,2.7,2.5,2.8,0.141893762504358,575
+"fairfield_county","Total","Total",2.5,3.1,3,2.6,2.6,2.9,0.271347169879275,598
+"fairfield_county","Race/Ethnicity","White",2.6,3.2,3.2,2.5,2.6,2.9,0.813938502007246,693
+"fairfield","Gender","Female",2.8,3.5,3.4,2.9,2.8,3,1.84446894166937,873
+"fairfield","Gender","Male",2.7,3.6,3.3,3,3.1,3.4,1.33074520262851,783
+"fairfield","With children","No children",2.8,3.6,3.5,2.9,2.9,3.2,1.9674695843741,894
+"fairfield","Education","Some college or less",2.5,3.4,3.3,3.2,3,3.1,1.30550597106764,779
+"fairfield","Total","Total",2.8,3.6,3.4,2.9,2.9,3.2,1.7632007974786,859
+"fairfield","Age","Under age 55",2.7,3.5,3.3,3,2.9,3.2,1.42487825224613,800
+"fcht","Income","<$75K",2.8,3.2,3,2,2.5,2.7,0.484168938594352,635
+"fcht","Income","$75K+",2.8,3.3,3.2,1.8,2.9,2.9,0.649060116718706,664
+"fcht","Age","Age 55 or older",2.9,3.2,3.3,1.8,2.7,2.7,1.05847513147293,735
+"fcht","Education","Bachelor's or higher",3,3.4,3.2,1.8,2.8,2.8,1.04555151955003,733
+"fcht","Gender","Female",2.9,3.2,3.2,1.8,2.7,2.6,0.930874137806165,713
+"fcht","Gender","Male",2.8,3.2,3.1,2.1,2.8,3.1,0.405063603892077,621
+"fcht","Education","Some college or less",2.6,3.1,3.1,2.1,2.7,2.9,0.264305391600644,597
+"fcht","Total","Total",2.8,3.2,3.1,1.9,2.7,2.8,0.524148353809763,642
+"fcht","Age","Under age 55",2.7,3.2,3,2.1,2.8,2.9,0.243117225212936,593
+"greater_bridgeport","Income","<$15K",2.2,2.4,2.7,3,2.5,2.8,-0.931925390338995,387
+"greater_bridgeport","Income","$100K-$200K",2.5,3.2,3.1,2.7,2.6,3.1,0.469104485608524,632
+"greater_bridgeport","Income","$15K-$30K",2,2.3,2.6,3,2.4,2.6,-1.27695238952594,327
+"greater_bridgeport","Income","$200K+",2.6,3.4,3.4,2.4,3,3.2,1.04898600219408,734
+"greater_bridgeport","Income","$30K-$50K",2.1,2.4,2.7,3.1,2.5,2.8,-0.98104680098242,379
+"greater_bridgeport","Income","$50K-$75K",2.2,2.7,2.8,2.8,2.6,3,-0.762843587442562,417
+"greater_bridgeport","Income","$75K-$100K",2.3,2.8,3.1,2.8,2.5,3,0.0587732046054349,561
+"greater_bridgeport","Age","Ages 18-34",2.3,2.6,2.8,3,2.6,2.8,-0.459643635242158,470
+"greater_bridgeport","Age","Ages 35-49",2.2,2.6,2.8,2.8,2.6,2.9,-0.77110814190736,415
+"greater_bridgeport","Age","Ages 50-64",2.3,2.9,3,2.8,2.5,3,-0.060563234596538,540
+"greater_bridgeport","Age","Ages 65+",2.4,3,3.1,2.8,2.6,2.9,0.403453966035503,621
+"greater_bridgeport","Education","Bachelor's or higher",2.5,3,3.1,2.7,2.8,3.1,0.273509979367777,598
+"greater_bridgeport","Race/Ethnicity","Black",1.9,2.2,2.4,3.1,2.3,2.7,-1.8833466094558,221
+"greater_bridgeport","With children","Children in household",2.3,2.8,2.8,2.8,2.5,2.9,-0.477365362852348,467
+"greater_bridgeport","Gender","Female",2.3,2.7,2.9,2.8,2.5,2.8,-0.281361130421639,501
+"greater_bridgeport","Education","High school or less",2.2,2.4,2.6,3.1,2.5,2.7,-0.997634616408085,376
+"greater_bridgeport","Race/Ethnicity","Latino",2.1,2.2,2.6,2.9,2.4,2.7,-1.38943111980478,307
+"greater_bridgeport","Gender","Male",2.3,2.8,2.9,2.9,2.7,3.1,-0.390270205670313,482
+"greater_bridgeport","With children","No children",2.3,2.8,2.9,2.9,2.6,2.9,-0.224069713786002,511
+"greater_bridgeport","Education","Some college or Associate's",2.1,2.7,2.8,2.8,2.4,2.8,-0.694791368372516,429
+"greater_bridgeport","Total","Total",2.3,2.8,2.9,2.8,2.6,2.9,-0.285961481383682,500
+"greater_bridgeport","Race/Ethnicity","White",2.4,3.1,3.1,2.7,2.7,3,0.33696184747578,609
+"greater_greenwich","Income","<$30K",2.5,2.9,2.9,3.2,2.7,2.9,0.255699387755945,595
+"greater_greenwich","Income","$30K-$75K",2.6,3.1,3,3.2,2.8,3,0.651313349624048,664
+"greater_greenwich","Income","$75K+",2.7,3.2,3.2,2.9,2.7,3.1,1.00631825875476,726
+"greater_greenwich","Age","Ages 18-34",2.6,3.2,3,3.3,2.9,3.1,0.708604766259685,674
+"greater_greenwich","Age","Ages 35-49",2.6,3.1,3.1,3,2.7,3.2,0.591327920293562,654
+"greater_greenwich","Age","Ages 50-64",2.5,3.2,3.1,2.8,2.5,3,0.620528951861779,659
+"greater_greenwich","Age","Ages 65+",2.7,3.2,3.2,3,2.7,3,1.14487781958118,751
+"greater_greenwich","Education","Bachelor's or higher",2.7,3.2,3.2,2.9,2.7,3.1,1.00631825875476,726
+"greater_greenwich","Race/Ethnicity","Black",2.5,3,2.9,3.3,2.9,3,0.300125898964742,603
+"greater_greenwich","With children","Children in household",2.7,3.3,3.1,3,2.7,3.1,0.948873587150469,716
+"greater_greenwich","Gender","Female",2.6,3.2,3.2,3.1,2.7,3.1,1.01908861570902,729
+"greater_greenwich","Education","High school or less",2.6,3.1,2.9,3.4,2.8,3.2,0.417492511466431,623
+"greater_greenwich","Race/Ethnicity","Latino",2.7,3.1,3,3.4,2.9,3.2,0.719909571176203,676
+"greater_greenwich","Gender","Male",2.6,3.2,3.1,3,2.7,3.1,0.752928061215831,682
+"greater_greenwich","With children","No children",2.6,3.1,3.1,3.1,2.7,3,0.806555274348713,691
+"greater_greenwich","Education","Some college or Associate's",2.4,3.1,3.1,3.1,2.8,2.9,0.648331805668397,664
+"greater_greenwich","Total","Total",2.6,3.2,3.1,3,2.7,3.1,0.752928061215831,682
+"greater_greenwich","Race/Ethnicity","White",2.6,3.2,3.2,3,2.7,3.1,0.957196848111337,718
+"greater_hartford","Income","<$15K",2.3,2.5,2.7,3,2.8,2.9,-0.851242373913612,401
+"greater_hartford","Income","$100K-$200K",2.6,3.3,3.1,2.7,3,3,0.690258183064537,671
+"greater_hartford","Income","$15K-$30K",2.4,2.8,2.9,3.1,3,3.1,-0.194068208514367,516
+"greater_hartford","Income","$200K+",2.8,3.5,3.4,2.9,3.2,3.1,1.71634152673328,851
+"greater_hartford","Income","$30K-$50K",2.4,2.8,3,3,2.9,3.2,-0.115494077018436,530
+"greater_hartford","Income","$50K-$75K",2.5,3,2.9,3,3,3,0.101585690744861,568
+"greater_hartford","Income","$75K-$100K",2.5,3.1,3,2.9,2.9,3.1,0.265092169934324,597
+"greater_hartford","Age","Ages 18-34",2.4,2.9,2.9,3,2.9,3,-0.0814949297629382,536
+"greater_hartford","Age","Ages 35-49",2.4,3,2.9,3,2.9,3.1,-0.0732303752981404,537
+"greater_hartford","Age","Ages 50-64",2.5,3.1,3.1,2.8,3,3,0.471272077034045,633
+"greater_hartford","Age","Ages 65+",2.7,3.2,3.2,2.9,3,3.1,0.967723542474241,720
+"greater_hartford","Education","Bachelor's or higher",2.6,3.2,3.1,2.9,3,3.1,0.65244157733763,664
+"greater_hartford","Race/Ethnicity","Black",2.2,2.6,2.6,3.3,2.9,3.2,-1.1387849736767,351
+"greater_hartford","With children","Children in household",2.5,3,3,3,3,3.1,0.229186684411631,590
+"greater_hartford","Gender","Female",2.5,3,3,2.9,2.9,3,0.256827615469527,595
+"greater_hartford","Education","High school or less",2.3,2.8,2.8,3,2.9,3,-0.481709242593083,466
+"greater_hartford","Race/Ethnicity","Latino",2.3,2.6,2.6,3.2,3,3.1,-1.02586067523138,371
+"greater_hartford","Gender","Male",2.5,3,3,2.9,3.1,3.1,0.154430011387111,577
+"greater_hartford","With children","No children",2.5,3,3,2.9,3,3,0.243962710042686,593
+"greater_hartford","Education","Some college or Associate's",2.4,2.9,2.9,2.9,3,3.1,-0.232919396016194,510
+"greater_hartford","Total","Total",2.5,3,3,2.9,3,3.1,0.167294916813951,580
+"greater_hartford","Race/Ethnicity","White",2.6,3.1,3.1,2.8,3,3,0.582285255275151,652
+"greater_new_haven","Income","<$15K",2.2,2.6,2.6,3,2.8,2.6,-0.851588611670485,401
+"greater_new_haven","Income","$100K-$200K",2.6,3.2,3,2.8,2.9,3.1,0.399145928271283,620
+"greater_new_haven","Income","$15K-$30K",2.2,2.6,2.7,3.1,2.9,2.9,-0.828296342290344,405
+"greater_new_haven","Income","$200K+",2.7,3.4,3.2,2.3,2.8,2.9,0.945303029586376,716
+"greater_new_haven","Income","$30K-$50K",2.4,2.9,2.8,3,2.9,2.9,-0.209095923429709,514
+"greater_new_haven","Income","$50K-$75K",2.6,3,2.9,2.9,3,3,0.150707101388286,577
+"greater_new_haven","Income","$75K-$100K",2.4,3,2.9,2.9,2.9,2.9,0.0182134435616501,553
+"greater_new_haven","Age","Ages 18-34",2.3,2.8,2.7,3,3,2.9,-0.622175141686693,441
+"greater_new_haven","Age","Ages 35-49",2.4,3,2.9,2.9,2.9,3,-0.0584543496670854,540
+"greater_new_haven","Age","Ages 50-64",2.3,2.9,2.8,2.7,2.8,2.9,-0.492919499037016,464
+"greater_new_haven","Age","Ages 65+",2.6,3.1,3.1,2.9,2.8,2.9,0.746574626955248,681
+"greater_new_haven","Education","Bachelor's or higher",2.6,3.1,3,2.9,2.9,3,0.452773141404166,629
+"greater_new_haven","Race/Ethnicity","Black",2.1,2.6,2.6,3.3,3.1,2.9,-1.04552458308528,367
+"greater_new_haven","With children","Children in household",2.4,2.9,2.8,2.9,2.9,2.9,-0.270987691027389,503
+"greater_new_haven","Gender","Female",2.4,3,2.9,2.9,2.8,2.9,0.0310783489884903,556
+"greater_new_haven","Education","High school or less",2.2,2.7,2.7,3,2.9,2.8,-0.728587968965756,423
+"greater_new_haven","Race/Ethnicity","Latino",2.3,2.6,2.7,3.3,3,3,-0.683032327509454,431
+"greater_new_haven","Gender","Male",2.4,3,2.9,2.9,3,3,-0.0713192550939256,538
+"greater_new_haven","With children","No children",2.4,3,2.9,2.9,2.9,2.9,0.0182134435616501,553
+"greater_new_haven","Education","Some college or Associate's",2.4,2.9,2.8,2.9,2.9,2.9,-0.270987691027389,503
+"greater_new_haven","Total","Total",2.4,3,2.9,2.9,2.9,2.9,0.0182134435616501,553
+"greater_new_haven","Race/Ethnicity","White",2.5,3.1,2.9,2.8,2.8,2.9,0.165132107325449,579
+"greater_new_london","Income","<$30K",2.2,2.8,2.8,2.7,2.5,2.7,-0.496934722233663,463
+"greater_new_london","Income","$30K-$75K",2.4,3,2.9,2.8,2.7,2.8,0.0587192800463854,561
+"greater_new_london","Income","$75K+",2.6,3.3,3.1,2.3,2.6,2.7,0.724154114067382,677
+"greater_new_london","Age","Ages 18-34",2.3,3,2.9,2.6,2.6,2.8,-0.163212527963241,522
+"greater_new_london","Age","Ages 35-49",2.4,3.1,2.9,2.5,2.6,2.7,0.0475090236024527,559
+"greater_new_london","Age","Ages 50-64",2.5,3.1,3,2.5,2.5,2.6,0.45232368739464,629
+"greater_new_london","Age","Ages 65+",2.7,3.3,3.1,2.5,2.7,2.8,0.869418128848273,702
+"greater_new_london","Education","Bachelor's or higher",2.6,3.2,3.1,2.4,2.6,2.7,0.701113533971529,673
+"greater_new_london","With children","Children in household",2.4,3.2,3,2.5,2.6,2.7,0.336710158191492,609
+"greater_new_london","Gender","Female",2.5,3.1,3,2.5,2.5,2.6,0.45232368739464,629
+"greater_new_london","Education","High school or less",2.3,3,2.9,2.8,2.7,2.8,-0.0522938981947203,541
+"greater_new_london","Gender","Male",2.4,3.1,2.9,2.6,2.7,2.9,-0.0567997006841776,540
+"greater_new_london","With children","No children",2.5,3.1,3,2.6,2.6,2.8,0.34801496310801,611
+"greater_new_london","Race/Ethnicity","Not white",2.3,2.9,2.8,2.8,2.5,2.7,-0.239097428701344,508
+"greater_new_london","Education","Some college or Associate's",2.4,3,2.9,2.5,2.6,2.7,-0.0374233240910806,544
+"greater_new_london","Total","Total",2.5,3.1,3,2.5,2.6,2.7,0.362790988739065,614
+"greater_new_london","Race/Ethnicity","White",2.5,3.2,3,2.5,2.6,2.7,0.447723336432598,629
+"greater_waterbury","Income","<$15K",2.3,2.5,2.6,2.6,2.3,2.5,-0.932082531150698,387
+"greater_waterbury","Income","$100K-$200K",2.6,3.3,3.1,2.1,2.7,2.8,0.510837880216446,640
+"greater_waterbury","Income","$15K-$30K",2.3,2.6,2.7,2.4,2.2,2.6,-0.830467819558915,405
+"greater_waterbury","Income","$200K+",2.9,3.5,3.1,2.1,2.7,2.9,0.937074317098093,714
+"greater_waterbury","Income","$30K-$50K",2.3,2.7,2.7,2.4,2.2,2.8,-0.898871058322852,393
+"greater_waterbury","Income","$50K-$75K",2.4,2.8,2.8,2.4,2.5,2.8,-0.537251461773229,456
+"greater_waterbury","Income","$75K-$100K",2.5,3,3,2.3,2.6,2.7,0.15407510585017,577
+"greater_waterbury","Age","Ages 18-34",2.2,2.7,2.6,2.5,2.5,2.8,-1.1908559721423,342
+"greater_waterbury","Age","Ages 35-49",2.4,2.9,2.8,2.3,2.5,2.8,-0.514210881677376,460
+"greater_waterbury","Age","Ages 50-64",2.5,2.9,2.9,2.2,2.4,2.7,-0.171287985482869,520
+"greater_waterbury","Age","Ages 65+",2.8,3.2,3.1,2.2,2.5,2.8,0.735553467456484,679
+"greater_waterbury","Education","Bachelor's or higher",2.6,3.2,3,2.2,2.6,2.8,0.296393418651927,602
+"greater_waterbury","Race/Ethnicity","Black",2.1,2.3,2.5,2.8,2.2,2.8,-1.62159730897949,267
+"greater_waterbury","With children","Children in household",2.5,3,2.9,2.4,2.4,2.9,-0.115907689051446,530
+"greater_waterbury","Gender","Female",2.4,2.9,2.8,2.3,2.4,2.7,-0.424678183021801,476
+"greater_waterbury","Education","High school or less",2.4,2.7,2.7,2.5,2.4,2.8,-0.751695923337746,419
+"greater_waterbury","Race/Ethnicity","Latino",2.3,2.6,2.6,2.6,2.4,2.9,-1.16668626179895,346
+"greater_waterbury","Gender","Male",2.5,3,2.9,2.3,2.5,2.8,-0.113996568847231,530
+"greater_waterbury","With children","No children",2.5,2.9,2.9,2.3,2.5,2.7,-0.122261123312029,529
+"greater_waterbury","Education","Some college or Associate's",2.3,2.7,2.7,2.3,2.4,2.7,-0.909824843545478,391
+"greater_waterbury","Total","Total",2.5,2.9,2.9,2.3,2.4,2.8,-0.186064011113924,518
+"greater_waterbury","Race/Ethnicity","White",2.5,3,2.9,2.2,2.5,2.7,-0.0992205432161761,533
+"greenwich","Income","<$75K",3,3.4,3.4,3.2,2.7,3.1,2.1034353654492,918
+"greenwich","Income","$75K+",2.9,3.5,3.5,2.9,2.6,3.2,2.03214513120219,906
+"greenwich","Age","Ages 18-34",2.9,3.4,3.2,3.3,2.9,3.2,1.54337877693235,820
+"greenwich","Age","Ages 35-54",2.8,3.5,3.4,2.8,2.5,3.1,1.74450409712348,855
+"greenwich","Age","Ages 55+",3,3.6,3.6,3,2.6,3.1,2.57091900485876,1000
+"greenwich","With children","Children in household",3,3.5,3.4,2.9,2.8,3.2,1.91315971169411,885
+"greenwich","Gender","Female",3,3.5,3.4,2.9,2.6,3.1,2.01555731577653,903
+"greenwich","Gender","Male",2.9,3.5,3.5,3,2.7,3.2,2.08117199337304,914
+"greenwich","With children","No children",2.9,3.5,3.5,3,2.5,3.1,2.18356959745545,932
+"greenwich","Race/Ethnicity","Not white",2.9,3.5,3.3,2.9,2.5,3.1,1.71314025606676,850
+"greenwich","Total","Total",2.9,3.5,3.4,3,2.6,3.2,1.88976811190437,881
+"greenwich","Race/Ethnicity","White",3,3.5,3.5,3,2.7,3.2,2.19218517161414,934
+"hamden","Income","<$75K",2.6,3.1,3.1,3.4,3.5,3.2,0.735975747269562,679
+"hamden","Income","$75K+",2.5,3,2.9,3.2,3.2,3,0.199639415086541,585
+"hamden","Age","Age 55 or older",2.5,3,3,3.2,3.3,3.1,0.314375503326472,605
+"hamden","Education","Bachelor's or higher",2.6,3.1,3,3.4,3.4,3.1,0.621239659029632,659
+"hamden","With children","Children in household",2.5,2.9,3,3.3,3.4,3.1,0.278470017803779,599
+"hamden","Gender","Female",2.6,3.1,3.1,3.3,3.4,3,0.840284471556193,697
+"hamden","Education","High school or less",2.5,2.8,2.9,3,3.2,3,-0.0940088154958863,534
+"hamden","Gender","Male",2.4,2.9,2.9,3.3,3.2,3.1,-0.011082136479153,548
+"hamden","With children","No children",2.5,3.1,3,3.2,3.2,3,0.488840549675581,636
+"hamden","Race/Ethnicity","Not white",2.5,3,3,3.4,3.4,3.1,0.425294133094993,625
+"hamden","Education","Some college or Associate's",2.4,2.9,3,3.2,3.2,3,0.207962676047409,587
+"hamden","Total","Total",2.5,3,3,3.3,3.3,3.1,0.376267270924152,616
+"hamden","Age","Under age 55",2.6,3,3,3.3,3.3,3.1,0.487280449165258,636
+"hamden","Race/Ethnicity","White",2.5,3,3,3.2,3.3,3.1,0.314375503326472,605
+"hartford","Income","<$30K",2,2.1,2.3,3.2,2.8,3.1,-2.3706384982552,136
+"hartford","Income","$30K-$75K",1.9,2.2,2.4,3.3,2.9,3.2,-2.22009147296516,162
+"hartford","Income","$75K+",2.3,2.4,2.6,3.5,3,3.1,-1.0100500678254,374
+"hartford","Age","Ages 18-34",2.1,2.1,2.3,3.2,2.8,3.1,-2.25962532001409,155
+"hartford","Age","Ages 35-49",1.9,2.2,2.4,3.4,3,3.2,-2.17106461079432,170
+"hartford","Age","Ages 50-64",1.9,2.1,2.4,3.3,2.8,2.9,-2.06215553554565,190
+"hartford","Age","Ages 65+",2.3,2.4,2.7,3.5,3,3.1,-0.805781280929895,409
+"hartford","Education","Bachelor's or higher",2.2,2.3,2.6,3.5,3.1,3,-1.14219270595814,350
+"hartford","Race/Ethnicity","Black",1.9,2.2,2.4,3.4,2.9,3.2,-2.15819970536748,173
+"hartford","With children","Children in household",1.9,2.1,2.3,3.3,2.9,3.1,-2.43262481432546,125
+"hartford","Gender","Female",2,2.1,2.4,3.2,2.8,3.1,-2.16636971135969,171
+"hartford","Education","High school or less",2.1,2.2,2.3,3.1,2.8,3.1,-2.23658473991824,159
+"hartford_inner_ring","Income","<$15K",2.3,2.6,2.7,3.2,2.8,2.9,-0.642526491024718,438
+"hartford_inner_ring","Income","$100K+",2.4,2.9,2.9,3.1,3,3.1,-0.109135860820833,531
+"hartford_inner_ring","Income","$15K-$30K",2.3,2.8,2.9,3.3,3,3.2,-0.257965644788847,505
+"hartford_inner_ring","Income","$30K-$50K",2.2,2.6,2.8,3.1,2.9,3.1,-0.77736314185231,414
+"hartford_inner_ring","Income","$50K-$75K",2.4,2.8,2.9,3.2,3,3.1,-0.132176440916686,527
+"hartford_inner_ring","Income","$75K-$100K",2.4,2.9,2.8,3.1,2.8,3,-0.211007043633924,513
+"hartford_inner_ring","Age","Ages 18-34",2.5,2.8,2.8,3.1,2.8,3,-0.184926213086351,518
+"hartford_inner_ring","Age","Ages 35-49",2.3,2.8,2.8,3.1,2.9,3.1,-0.496485268224138,463
+"hartford_inner_ring","Age","Ages 50-64",2.2,2.7,2.7,3.2,2.9,3.1,-0.834807813456601,404
+"hartford_inner_ring","Age","Ages 65+",2.6,3,3,3.2,3,3.1,0.463983397848098,631
+"hartford_inner_ring","Education","Bachelor's or higher",2.5,3,3,3.2,2.9,3.1,0.365835125033833,614
+"hartford_inner_ring","Race/Ethnicity","Black",2.4,2.9,2.8,3.3,2.8,3,-0.0872235084385628,535
+"hartford_inner_ring","With children","Children in household",2.4,2.8,2.8,3.1,2.9,3.1,-0.385472089983033,483
+"hartford_inner_ring","Gender","Female",2.3,2.8,2.8,3.1,2.8,3,-0.406952569568563,479
+"hartford_inner_ring","Education","High school or less",2.3,2.7,2.8,3.2,2.9,3.1,-0.519525848319991,459
+"hartford_inner_ring","Race/Ethnicity","Latino",2.2,2.8,2.8,3.1,2.8,3.1,-0.594633541038403,446
+"hartford_inner_ring","Gender","Male",2.4,2.9,2.9,3.2,3,3.1,-0.0472440932231528,542
+"hartford_inner_ring","With children","No children",2.3,2.8,2.9,3.2,2.9,3.1,-0.230324713730952,510
+"hartford_inner_ring","Education","Some college or Associate's",2.2,2.7,2.7,3.1,2.9,3,-0.820031787825546,407
+"hartford_inner_ring","Total","Total",2.4,2.8,2.9,3.2,2.9,3.1,-0.119311535489846,529
+"hartford_inner_ring","Race/Ethnicity","White",2.3,2.8,2.8,3.2,3,3.1,-0.447458406053298,472
+"hartford","Race/Ethnicity","Latino",2.2,2.1,2.3,3.4,3,3.2,-2.12722621066004,178
+"hartford","Gender","Male",2.1,2.3,2.5,3.4,3.1,3.1,-1.59603423192117,271
+"hartford","With children","No children",2.1,2.2,2.5,3.3,2.9,3.1,-1.71712853635871,250
+"hartford_outer_ring","Income","<$30K",2.6,3.3,3.2,2.6,2.8,2.7,1.08836839290225,741
+"hartford_outer_ring","Income","$30K-$75K",2.7,3.4,3.2,2.5,2.9,2.7,1.20955724581237,762
+"hartford_outer_ring","Income","$75K+",2.7,3.6,3.3,2.3,2.9,2.8,1.38323939967084,792
+"hartford_outer_ring","Age","Ages 18-34",2.5,3.5,3.3,2.7,2.9,2.8,1.32384776588582,782
+"hartford_outer_ring","Age","Ages 35-49",2.5,3.4,3.1,2.4,2.8,2.8,0.657567447035075,665
+"hartford_outer_ring","Age","Ages 50-64",2.7,3.5,3.3,2.2,3,2.7,1.30021817218152,778
+"hartford_outer_ring","Age","Ages 65+",2.9,3.6,3.4,2.2,2.9,2.9,1.67097498222214,843
+"hartford_outer_ring","Education","Bachelor's or higher",2.7,3.5,3.3,2.3,2.9,2.8,1.29830705197731,777
+"hartford_outer_ring","With children","Children in household",2.7,3.5,3.3,2.6,3,2.9,1.39444965611478,794
+"hartford_outer_ring","Gender","Female",2.8,3.5,3.4,2.3,2.8,2.7,1.7031217157695,848
+"hartford_outer_ring","Education","High school or less",2.4,3.4,3.2,2.4,2.8,2.6,0.904158642146946,708
+"hartford_outer_ring","Gender","Male",2.6,3.5,3.2,2.4,3,2.9,0.955384155782804,717
+"hartford_outer_ring","With children","No children",2.7,3.5,3.3,2.2,2.8,2.7,1.32594798303521,782
+"hartford_outer_ring","Race/Ethnicity","Not white",2.6,3.3,3,2.9,2.9,2.9,0.699305630019967,673
+"hartford_outer_ring","Education","Some college or Associate's",2.8,3.6,3.4,2.3,2.9,2.9,1.62185357157872,834
+"hartford_outer_ring","Total","Total",2.7,3.5,3.3,2.4,2.9,2.8,1.36019881957499,788
+"hartford_outer_ring","Race/Ethnicity","White",2.7,3.5,3.3,2.3,2.9,2.8,1.29830705197731,777
+"hartford","Education","Some college or Associate's",1.8,2.1,2.4,3.4,2.9,3.1,-2.27747743807338,152
+"hartford","Total","Total",2,2.2,2.4,3.3,2.9,3.1,-2.03241050149532,195
+"hartford","Race/Ethnicity","White",2.1,2.3,2.6,3.4,3,3.1,-1.37890053959883,309
+"manchester","Income","<$75K",2.4,2.6,2.8,3.1,3.1,3.2,-0.657734389452515,435
+"manchester","Income","$75K+",2.5,2.9,3,3.3,3.2,3.4,0.0741964489712528,563
+"manchester","Age","Age 55 or older",2.4,2.7,2.9,3.3,3.3,3.2,-0.270479530521795,503
+"manchester","Education","Bachelor's or higher",2.5,2.9,3.2,3.6,3.3,3.4,0.655544420128467,665
+"manchester","Gender","Female",2.2,2.6,2.9,3.2,3.2,3.1,-0.549797303639644,454
+"manchester","Gender","Male",2.7,2.9,2.9,3.3,3.2,3.4,0.0919540185579579,566
+"manchester","Education","Some college or less",2.5,2.6,2.7,3,3,3.1,-0.723349067049019,424
+"manchester","Total","Total",2.5,2.7,2.9,3.3,3.2,3.3,-0.223269240082584,511
+"manchester","Age","Under age 55",2.5,2.8,2.9,3.2,3.1,3.3,-0.187363754559891,517
+"meriden","Income","<$30K",2,2.2,2.6,2.8,2.3,2.5,-1.39613557375925,306
+"meriden","Income","$30K-$75K",2.2,2.6,2.9,2.9,2.6,2.8,-0.428279794185438,475
+"meriden","Income","$75K+",2,2.4,2.8,2.9,2.7,2.9,-1.1139723316058,355
+"meriden","Age","Age 55 or older",2.1,2.5,2.9,2.8,2.4,2.9,-0.737055070092812,421
+"meriden","Education","Bachelor's or higher",2.1,2.4,2.8,2.7,2.6,2.7,-0.960542196675742,382
+"meriden","With children","Children in household",2.2,2.5,2.7,3,2.7,2.7,-0.796055060270407,411
+"meriden","Gender","Female",2.1,2.5,2.8,3,2.7,2.8,-0.779467244844743,414
+"meriden","Education","High school or less",2,2.3,2.7,2.9,2.5,2.7,-1.22410806888369,336
+"meriden","Gender","Male",2,2.4,2.8,2.7,2.5,2.8,-1.13535826271874,352
+"meriden","With children","No children",2,2.5,2.9,2.8,2.5,2.8,-0.784265360532023,413
+"meriden","Race/Ethnicity","Not white",2.2,2.7,2.8,3.1,2.7,2.9,-0.513365396847625,460
+"meriden","Education","Some college or Associate's",2,2.6,2.9,3,2.6,2.9,-0.665082176298704,434
+"meriden","Total","Total",2.1,2.5,2.8,2.9,2.6,2.8,-0.828494107015583,405
+"meriden","Age","Under age 55",2.1,2.4,2.7,2.9,2.7,2.7,-1.05389235380273,366
+"meriden","Race/Ethnicity","White",2,2.3,2.8,2.8,2.6,2.7,-1.0945959550127,359
+"middlesex_county","Income","<$75K",2.5,3,3,2.5,2.8,2.7,0.252128830191851,594
+"middlesex_county","Income","$75K+",2.5,3.3,2.9,2.2,2.6,2.8,0.0660438012088481,562
+"middlesex_county","Age","Age 55 or older",2.7,3.3,3,2.4,2.8,2.7,0.667060462156982,667
+"middlesex_county","Education","Bachelor's or higher",2.5,3.2,2.9,2.3,2.6,2.7,0.119671014341731,571
+"middlesex_county","With children","Children in household",2.5,3.4,3.1,2.3,2.6,3,0.468069903833603,632
+"middlesex_county","Gender","Female",2.6,3.1,2.9,2.3,2.6,2.6,0.222419638118039,589
+"middlesex_county","Education","High school or less",2.2,3,2.8,2.4,2.7,2.5,-0.385139554035847,483
+"middlesex_county","Gender","Male",2.5,3.2,2.9,2.5,2.7,2.9,0.0772540576527808,564
+"middlesex_county","With children","No children",2.5,3.1,2.8,2.4,2.7,2.6,-0.043835464847733,543
+"middlesex_county","Education","Some college or Associate's",2.8,3.2,3,2.5,2.7,2.9,0.614562379271604,658
+"middlesex_county","Total","Total",2.6,3.2,2.9,2.4,2.7,2.7,0.279711054753677,599
+"middlesex_county","Age","Under age 55",2.4,3,2.8,2.3,2.5,2.7,-0.352610740755108,489
+"middletown","Income","<$75K",2.4,2.7,2.9,2.9,2.7,2.8,-0.134185995436534,527
+"middletown","Income","$75K+",2.7,3.1,3,3.1,3,3,0.674704949413792,668
+"middletown","Age","Age 55 or older",2.6,2.9,2.9,2.7,2.6,2.7,0.223454219892959,589
+"middletown","Education","Bachelor's or higher",2.6,2.9,2.9,2.8,2.7,2.7,0.272481082063799,598
+"middletown","Gender","Female",2.5,2.9,2.9,2.7,2.8,2.8,0.0100434375694374,552
+"middletown","Gender","Male",2.6,2.9,2.9,3.2,2.7,2.8,0.443380359225786,628
+"middletown","Education","Some college or less",2.5,2.8,2.8,3,2.8,2.9,-0.170150187455296,521
+"middletown","Total","Total",2.5,2.9,2.9,2.9,2.7,2.8,0.146691878191638,576
+"middletown","Age","Under age 55",2.5,2.9,2.9,3,2.8,2.9,0.119050947133743,571
+"milford","Income","<$75K",2.6,3.3,3,3.2,3,3,0.795448234157433,689
+"milford","Income","$75K+",2.6,3.3,3.1,3.3,3.1,3.2,0.895408296766309,707
+"milford","Age","Age 55 or older",2.8,3.3,3.2,3.3,3,3.1,1.4112361387996,797
+"milford","Education","Bachelor's or higher",2.6,3.3,3.1,3.3,3.1,3.2,0.895408296766309,707
+"milford","With children","Children in household",2.6,3.3,3.1,3.1,2.9,3,0.950690158882099,717
+"milford","Gender","Female",2.7,3.3,3.1,3.3,3,3.1,1.09595417366299,742
+"milford","Gender","Male",2.6,3.2,3,3.2,3,3.1,0.633848093235165,661
+"milford","With children","No children",2.6,3.3,3.1,3.3,3.1,3.1,0.972076089995044,720
+"milford","Education","Some college or less",2.7,3.3,3.1,3.1,3,3,1.04883843169636,734
+"milford","Total","Total",2.6,3.3,3.1,3.2,3,3.1,0.923049227824204,712
+"milford","Age","Under age 55",2.5,3.2,2.9,3.2,3.1,3.1,0.305701222671713,604
+"monroe","Total","Total",2.6,3.7,3.5,1.6,2.6,3,1.21771289955357,763
+"ncdhd","Income","<$30K",2.4,2.6,2.8,3,2.7,2.7,-0.284827569199158,500
+"ncdhd","Income","$30K-$75K",2.3,2.8,2.9,2.9,2.8,2.9,-0.249799524639682,507
+"ncdhd","Income","$75K+",2.4,2.9,2.7,2.6,2.7,2.5,-0.328530796947314,493
+"ncdhd","Age","Age 55 or older",2.5,3,2.9,2.7,2.9,2.6,0.235446466293601,591
+"ncdhd","Education","Bachelor's or higher",2.5,3,2.9,2.6,2.7,2.5,0.275952302778337,599
+"ncdhd","With children","Children in household",2.4,2.8,2.7,2.7,2.8,2.8,-0.594439662156213,446
+"ncdhd","Gender","Female",2.4,2.8,2.9,2.6,2.6,2.5,0.00793933457700441,552
+"ncdhd","Education","High school or less",2.2,2.5,2.6,3,2.7,2.7,-1.00032384716591,375
+"ncdhd","Gender","Male",2.3,2.8,2.7,2.8,2.9,2.8,-0.656425978226479,435
+"ncdhd","With children","No children",2.3,2.8,2.8,2.7,2.7,2.6,-0.334983561617503,492
+"ncdhd","Race/Ethnicity","Not white",2.3,2.8,2.7,2.8,2.7,3,-0.784031753830269,413
+"ncdhd","Education","Some college or Associate's",2.3,2.8,2.7,2.8,2.9,2.8,-0.656425978226479,435
+"ncdhd","Total","Total",2.3,2.8,2.8,2.7,2.7,2.7,-0.411651354846238,478
+"ncdhd","Age","Under age 55",2.3,2.7,2.8,2.7,2.7,2.7,-0.496583702539771,463
+"ncdhd","Race/Ethnicity","White",2.3,2.8,2.8,2.7,2.7,2.6,-0.334983561617503,492
+"nddh","Income","<$30K",2.1,3,2.8,2.5,2.4,2.5,-0.395666248398752,481
+"nddh","Income","$30K-$75K",2.3,3.2,2.9,2,2.4,2.5,-0.108965247622371,531
+"nddh","Income","$75K+",2.6,3.3,3,2,2.7,2.6,0.39801291218073,620
+"nddh","Age","Age 55 or older",2.5,3.2,2.9,1.9,2.3,2.4,0.140702039917736,575
+"nddh","Education","Bachelor's or higher",2.6,3.3,2.9,2,2.4,2.6,0.232338841565744,591
+"nddh","With children","Children in household",2.2,3.2,2.9,2.2,2.6,2.5,-0.121924701521795,529
+"nddh","Gender","Female",2.3,3.2,2.8,2.1,2.4,2.4,-0.174674473691461,520
+"nddh","Education","High school or less",2.3,3.1,2.9,2.4,2.6,2.6,-0.048728129007598,542
+"nddh","Gender","Male",2.4,3.2,2.9,2.1,2.6,2.6,-0.0384579058660004,544
+"nddh","With children","No children",2.5,3.2,2.9,2.1,2.4,2.5,0.174952876457521,581
+"nddh","Education","Some college or Associate's",2.3,3.2,2.9,2,2.5,2.4,-0.0451623598204755,542
+"nddh","Total","Total",2.4,3.2,2.9,2.1,2.5,2.5,0.0510747927895753,559
+"nddh","Age","Under age 55",2.3,3.2,2.9,2.3,2.6,2.6,-0.0256875489117453,546
+"new_britain","Income","<$30K",2.2,2.3,2.7,3.1,2.9,2.9,-1.08309338537094,361
+"new_britain","Income","$30K-$75K",2.5,2.4,2.8,3.1,2.9,3.1,-0.61418830251606,443
+"new_britain","Income","$75K+",2.4,2.3,2.8,3.1,3.5,3.4,-1.11732664069795,355
+"new_britain","Age","Age 55 or older",2.5,2.5,3,3.2,3.1,3.2,-0.161224217516249,522
+"new_britain","Education","Bachelor's or higher",2.5,2.3,2.9,3.1,3,3.2,-0.584384561969662,448
+"new_britain","With children","Children in household",2.3,2.3,2.7,3.2,3,3.2,-1.1530567246452,349
+"new_britain","Gender","Female",2.2,2.3,2.7,3,3.1,2.9,-1.1707149638223,345
+"new_britain","Education","High school or less",2.3,2.4,2.7,3.2,3,3.1,-0.991456583722936,377
+"new_britain","Gender","Male",2.6,2.5,2.9,3.3,3.2,3.3,-0.282120757228545,501
+"new_britain","With children","No children",2.4,2.4,2.9,3.1,3.2,3.1,-0.55952741014218,452
+"new_britain","Race/Ethnicity","Not white",2.3,2.4,2.6,3.2,3.2,3.1,-1.22145518147212,337
+"new_britain","Education","Some college or Associate's",2.5,2.4,2.8,3,3.4,3.2,-0.817072390476677,407
+"new_britain","Total","Total",2.4,2.4,2.8,3.1,3.1,3.1,-0.750931291610846,419
+"new_britain","Age","Under age 55",2.4,2.3,2.7,3.1,3.1,3.1,-1.04013242619988,368
+"new_britain","Race/Ethnicity","White",2.5,2.3,3,3,3,3.2,-0.442007542671837,473
+"new_haven","Income","<$30K",2,2.1,2.4,3.1,2.8,2.7,-1.92159030604243,214
+"new_haven","Income","$30K-$75K",2.2,2.5,2.5,3.4,3.1,3,-1.23848856506426,334
+"new_haven","Income","$75K+",2.3,2.7,2.7,3.4,3.2,3.2,-0.715273609529391,425
+"new_haven","Age","Ages 18-34",2.2,2.4,2.6,3.3,3.1,3.1,-1.25771168668871,330
+"new_haven","Age","Ages 35-49",2,2.3,2.4,3.3,2.9,2.8,-1.71747477411558,250
+"new_haven","Age","Ages 50-64",2,2.3,2.5,3.3,3.1,3.1,-1.76893917775996,241
+"new_haven","Age","Ages 65+",2.3,2.6,2.7,3.5,3,2.8,-0.405913205856622,479
+"new_haven","Education","Bachelor's or higher",2.2,2.6,2.7,3.5,3.1,3.2,-0.836462462439509,404
+"new_haven","Race/Ethnicity","Black",2,2.4,2.5,3.3,3.1,2.9,-1.53067124360895,283
+"new_haven","With children","Children in household",2,2.3,2.4,3.3,3,3,-1.88367526599989,221
+"new_haven","Gender","Female",2,2.2,2.4,3.3,3,2.9,-1.89193982046469,219
+"new_haven","Education","High school or less",2,2.3,2.4,3.2,2.9,2.8,-1.77936654171326,239
+"new_haven_inner_ring","Income","<$30K",2.2,2.8,2.7,3.3,2.9,2.8,-0.457980318479182,470
+"new_haven_inner_ring","Income","$30K-$75K",2.3,2.8,2.8,3,2.9,2.9,-0.405041449364348,479
+"new_haven_inner_ring","Income","$75K+",2.4,2.8,2.7,3,2.9,2.8,-0.421629264790012,477
+"new_haven_inner_ring","Age","Ages 18-34",2.2,2.7,2.5,3.1,2.9,2.7,-0.998565981930353,376
+"new_haven_inner_ring","Age","Ages 35-49",2.4,2.9,2.7,3,3,3,-0.50289740898079,462
+"new_haven_inner_ring","Age","Ages 50-64",2.2,2.7,2.6,3,2.9,2.8,-0.932856755861262,387
+"new_haven_inner_ring","Age","Ages 65+",2.4,2.9,2.9,3.2,2.9,2.9,0.118956398661158,571
+"new_haven_inner_ring","Education","Bachelor's or higher",2.4,2.8,2.8,3.1,3,2.9,-0.245001408952402,507
+"new_haven_inner_ring","Race/Ethnicity","Black",2.3,2.9,2.7,3.2,2.9,2.8,-0.323926560142223,494
+"new_haven_inner_ring","With children","Children in household",2.3,2.7,2.7,3,3,2.9,-0.707107489380226,427
+"new_haven_inner_ring","Gender","Female",2.3,2.9,2.8,3,2.8,2.8,-0.230576403015239,510
+"new_haven_inner_ring","Education","High school or less",2.2,2.7,2.5,3,2.9,2.7,-1.06045774952803,365
+"new_haven_inner_ring","Race/Ethnicity","Latino",2.4,2.9,2.9,3.3,2.8,3.1,0.0403774852282079,557
+"new_haven_inner_ring","Gender","Male",2.2,2.7,2.6,3.1,2.9,2.8,-0.870964988263581,398
+"new_haven_inner_ring","With children","No children",2.3,2.8,2.7,3.1,2.9,2.8,-0.470750675433437,468
+"new_haven_inner_ring","Education","Some college or Associate's",2.2,2.8,2.7,3,2.8,2.9,-0.707458509074118,427
+"new_haven_inner_ring","Total","Total",2.3,2.8,2.7,3.1,2.9,2.8,-0.470750675433437,468
+"new_haven_inner_ring","Race/Ethnicity","White",2.3,2.7,2.7,3,2.8,2.9,-0.681377678526546,431
+"new_haven","Race/Ethnicity","Latino",2.2,2.4,2.6,3.3,3,2.9,-1.0915111948044,359
+"new_haven","Gender","Male",2.2,2.6,2.7,3.4,3.1,3.1,-0.821686436808454,407
+"new_haven","With children","No children",2.2,2.5,2.6,3.4,3,3,-1.02135487274192,372
+"new_haven_outer_ring","Income","<$30K",2.8,3.2,3,2.5,2.8,2.8,0.678365267073499,669
+"new_haven_outer_ring","Income","$30K-$75K",2.7,3.3,3,2.7,2.9,3,0.609867479836977,657
+"new_haven_outer_ring","Income","$75K+",2.7,3.5,3.1,2.6,2.8,3,0.934974099948709,714
+"new_haven_outer_ring","Age","Ages 18-34",2.6,3.3,2.9,2.7,2.9,2.9,0.3712533079291,615
+"new_haven_outer_ring","Age","Ages 35-49",2.6,3.4,3,2.8,2.9,3.2,0.492342830429614,636
+"new_haven_outer_ring","Age","Ages 50-64",2.6,3.4,3,2.5,2.7,2.9,0.562400718176459,649
+"new_haven_outer_ring","Age","Ages 65+",2.9,3.5,3.3,2.3,2.7,3,1.39272763285573,794
+"new_haven_outer_ring","Education","Bachelor's or higher",2.7,3.5,3.1,2.5,2.7,3,0.885947237777869,705
+"new_haven_outer_ring","With children","Children in household",2.6,3.4,3.1,2.6,2.8,3,0.73902857401407,680
+"new_haven_outer_ring","Gender","Female",2.7,3.4,3.1,2.5,2.8,3,0.788149984657495,688
+"new_haven_outer_ring","Education","High school or less",2.6,3.2,3.1,2.6,2.8,2.9,0.64583167185574,663
+"new_haven_outer_ring","Gender","Male",2.7,3.3,3,2.6,2.8,3,0.560840617666136,648
+"new_haven_outer_ring","With children","No children",2.7,3.4,3.1,2.6,2.8,3,0.850041752255176,699
+"new_haven_outer_ring","Education","Some college or Associate's",2.8,3.4,3,2.7,2.9,3.1,0.72914521254288,678
+"new_haven_outer_ring","Total","Total",2.7,3.4,3.1,2.6,2.8,3,0.850041752255176,699
+"new_haven","Education","Some college or Associate's",2.1,2.3,2.4,3.3,3,2.9,-1.69599429453005,254
+"new_haven","Total","Total",2.1,2.4,2.5,3.3,3,3,-1.48346095316974,291
+"new_haven","Race/Ethnicity","White",2.2,2.5,2.6,3.4,2.9,3,-1.00848996731508,374
+"new_london","Income","<$75K",2,2.2,2.5,3.2,2.6,2.8,-1.62143538623076,267
+"new_london","Income","$75K+",2.2,2.8,2.6,3.3,3.3,3,-0.86704431353952,399
+"new_london","Age","Age 55 or older",2.2,2.4,2.6,3.6,3,3,-0.98250368524009,378
+"new_london","Education","Bachelor's or higher",2.3,2.5,2.8,3.3,2.9,3,-0.550830982880641,454
+"new_london","Gender","Female",2.1,2.3,2.6,3.2,2.7,2.8,-1.23408597882746,334
+"new_london","Education","Less than Bachelor's degree",2,2.3,2.4,3.3,2.7,2.8,-1.6917449632619,254
+"new_london","Gender","Male",2.2,2.4,2.5,3.3,2.9,2.9,-1.28291507627306,326
+"new_london","Race/Ethnicity","Not white",2.1,2.5,2.7,3.1,2.7,2.8,-0.921844264142567,389
+"new_london","Total","Total",2.1,2.4,2.5,3.3,2.8,2.9,-1.38106334908733,309
+"new_london","Age","Under age 55",2.1,2.4,2.5,3.2,2.8,2.8,-1.36628732345627,311
+"new_london","Race/Ethnicity","White",2.1,2.3,2.4,3.5,2.9,2.9,-1.55934585390785,277
+"new_milford","Income","<$75K",2.5,3.1,3,2,2.3,2.5,0.245262453488654,593
+"new_milford","Income","$75K+",2.5,3.2,3.1,1.6,2.6,2.5,0.248301801406451,594
+"new_milford","Age","Age 55 or older",2.6,3.3,3.2,1.6,2.3,2.6,0.610443037288381,657
+"new_milford","Education","Bachelor's or higher",2.5,3.2,3.2,1.6,2.3,2.5,0.491165304582478,636
+"new_milford","With children","Children in household",2.4,3.1,3.1,1.6,2.5,2.4,0.141888974127387,575
+"new_milford","Gender","Female",2.4,3.1,3,1.7,2.3,2.3,0.101909558911978,568
+"new_milford","Education","High school or less",2.3,3,3,2,2.5,2.5,-0.0874260615407713,535
+"new_milford","Gender","Male",2.5,3.1,3.2,1.7,2.5,2.7,0.289059327175474,601
+"new_milford","With children","No children",2.5,3.2,3.1,1.8,2.4,2.5,0.397815147455492,620
+"new_milford","Education","Some college or Associate's",2.5,3.1,3,1.8,2.5,2.4,0.172416900668348,580
+"new_milford","Total","Total",2.5,3.2,3.1,1.7,2.4,2.5,0.335923379857812,609
+"new_milford","Age","Under age 55",2.3,3.1,3,1.8,2.4,2.4,-0.0367445503870233,544
+"newtown","Income","<$75K",2.5,3.3,3.1,2.3,2.5,2.7,0.626005841253116,660
+"newtown","Income","$75K+",2.8,3.7,3.5,1.7,2.4,2.8,1.68069642094461,844
+"newtown","Age","Age 55 or older",2.7,3.5,3.4,1.6,2.2,2.5,1.38939118336314,793
+"newtown","Education","Bachelor's or higher",2.8,3.6,3.4,1.7,2.4,2.8,1.39149528635557,794
+"newtown","With children","Children in household",2.8,3.7,3.5,1.9,2.5,2.8,1.79161505071313,864
+"newtown","Gender","Female",2.8,3.6,3.4,1.8,2.4,2.8,1.45338705395325,805
+"newtown","Gender","Male",2.6,3.5,3.3,1.9,2.5,2.7,1.06785421828158,737
+"newtown","With children","No children",2.6,3.4,3.3,1.8,2.5,2.7,0.921030102990364,711
+"newtown","Education","Some college or less",2.6,3.4,3.3,2,2.5,2.8,0.96814584495699,720
+"newtown","Total","Total",2.7,3.5,3.4,1.8,2.4,2.8,1.25744152801862,770
+"newtown","Age","Under age 55",2.7,3.6,3.4,2,2.6,2.9,1.36375980682509,789
+"norwalk","Income","<$30K",2.3,2.7,2.8,3.2,2.7,2.7,-0.187124864551369,518
+"norwalk","Income","$30K-$75K",2.3,2.8,2.7,3,2.7,2.8,-0.506912632177437,462
+"norwalk","Income","$75K+",2.5,3.1,3.1,3.1,2.9,2.9,0.746480078482663,681
+"norwalk","Age","Ages 18-34",2.4,2.8,2.7,3.2,2.8,3.1,-0.514984203854017,460
+"norwalk","Age","Ages 35-49",2.4,2.9,2.9,3.1,2.9,2.9,0.0570646310634779,560
+"norwalk","Age","Ages 50-64",2.4,3.1,3,3,2.7,2.8,0.471703949830786,633
+"norwalk","Age","Ages 65+",2.4,2.9,3.1,3.1,2.7,2.7,0.644667602165641,663
+"norwalk","Education","Bachelor's or higher",2.5,3.1,3,3,2.9,2.9,0.480319523989476,634
+"norwalk","With children","Children in household",2.4,2.9,2.9,3,2.8,2.9,0.00803776889263754,552
+"norwalk","Gender","Female",2.3,2.9,2.9,3,2.6,2.8,-0.000577805266052306,550
+"norwalk","Education","High school or less",2.2,2.8,2.6,3.2,2.6,2.7,-0.608878363463112,444
+"norwalk","Gender","Male",2.5,3,2.9,3.1,3,3,0.163477458342541,579
+"norwalk","With children","No children",2.4,2.9,2.9,3.1,2.8,2.9,0.0699295364903181,563
+"norwalk","Race/Ethnicity","Not white",2.5,2.9,2.8,3.2,2.8,3,-0.0381020977951374,544
+"norwalk","Education","Some college or Associate's",2.4,2.7,2.9,3.1,2.8,2.9,-0.0999351588967481,533
+"norwalk","Total","Total",2.4,2.9,2.9,3.1,2.8,2.9,0.0699295364903181,563
+"norwalk","Race/Ethnicity","White",2.4,2.9,3,3,2.8,2.8,0.288974349016879,601
+"nyborder","Income","<$30K",2.6,2.8,2.8,3.3,2.7,3,0.0627354057769555,561
+"nyborder","Income","$30K-$75K",2.5,2.9,2.9,3.6,2.8,3.2,0.26039817303362,596
+"nyborder","Income","$75K+",2.7,3.4,3.3,3.2,2.8,3.3,1.39992655194606,795
+"nyborder","Age","Ages 18-34",2.8,3.2,3.2,3.5,2.9,3.2,1.38628443849953,793
+"nyborder","Age","Ages 35-49",2.5,3.2,3.1,3.3,3,3.3,0.635659883029775,661
+"nyborder","Age","Ages 50-64",2.5,3.2,3,3.4,2.6,3.2,0.621410278668045,659
+"nyborder","Age","Ages 65+",2.8,3.3,3.2,3.3,2.7,3.3,1.29649526862265,777
+"nyborder","Education","Bachelor's or higher",2.8,3.4,3.3,3.2,2.8,3.3,1.51093973018717,815
+"nyborder","With children","Children in household",2.6,3.2,3.1,3.3,2.8,3.3,0.772402872124561,685
+"nyborder","Gender","Female",2.7,3.3,3.2,3.4,2.7,3.2,1.32404165120796,782
+"nyborder","Education","High school or less",2.6,2.9,2.8,3.6,2.8,3.2,0.167142564379219,580
+"nyborder","Gender","Male",2.6,3.1,3,3.3,2.8,3.3,0.483201737535522,635
+"nyborder","With children","No children",2.6,3.2,3.2,3.4,2.8,3.3,1.03856342661775,732
+"nyborder","Race/Ethnicity","Not white",2.6,3,2.9,3.4,2.9,3.1,0.396363051574793,620
+"nyborder","Education","Some college or Associate's",2.4,3,3.1,3.4,2.8,3.3,0.442403587852964,628
+"nyborder","Total","Total",2.6,3.2,3.1,3.3,2.8,3.3,0.772402872124561,685
+"nyborder","Race/Ethnicity","White",2.7,3.4,3.3,3.3,2.7,3.3,1.47468322497058,808
+"pomperaug","Income","<$75K",2.7,3.4,3.3,2.2,2.6,2.9,1.11340985973788,745
+"pomperaug","Income","$75K+",2.8,3.6,3.3,1.9,2.8,3,1.1062148264906,744
+"pomperaug","Age","Age 55 or older",2.9,3.5,3.4,1.9,2.6,3,1.36229425478736,789
+"pomperaug","Education","Bachelor's or higher",2.8,3.5,3.3,1.8,2.8,3,0.959390711199382,718
+"pomperaug","With children","Children in household",2.6,3.5,3.3,2.1,2.8,3.2,0.769704071052742,685
+"pomperaug","Gender","Female",2.8,3.4,3.3,2,2.7,3,1.01110680412805,727
+"pomperaug","Gender","Male",2.8,3.5,3.3,2.1,2.8,3.2,0.991730427534953,724
+"pomperaug","With children","No children",2.9,3.5,3.3,1.9,2.7,3,1.14516056246501,751
+"pomperaug","Education","Some college or less",2.8,3.4,3.3,2.3,2.7,3.2,1.04344652046362,733
+"pomperaug","Total","Total",2.8,3.5,3.3,2,2.8,3.1,1.00650645316601,726
+"pomperaug","Age","Under age 55",2.6,3.5,3.2,2.2,2.9,3.1,0.691129939556812,671
+"port_chester_ny","Income","<$75K",2.6,2.8,2.9,3.6,2.7,3.1,0.376011702236768,616
+"port_chester_ny","Income","$75K+",2.6,3.1,3.1,3.1,2.8,3.2,0.640354782464402,662
+"port_chester_ny","Age","Age 55 or older",2.6,2.9,3.1,3.4,2.6,3.2,0.681895200724057,670
+"port_chester_ny","Education","Bachelor's or higher",2.6,3.1,3.2,3.3,2.7,3.2,0.981272009982109,722
+"port_chester_ny","With children","Children in household",2.6,2.9,2.9,3.4,2.8,3.2,0.247627816079364,594
+"port_chester_ny","Gender","Female",2.6,3,3.1,3.5,2.7,3.1,0.892522203817166,706
+"port_chester_ny","Education","High school or less",2.6,2.7,2.6,3.7,2.9,3.1,-0.285565049399283,500
+"port_chester_ny","Gender","Male",2.6,2.8,2.9,3.4,2.9,3.2,0.149830562958991,576
+"port_chester_ny","With children","No children",2.5,2.9,3,3.5,2.7,3.2,0.415640097758286,623
+"port_chester_ny","Race/Ethnicity","Not white",2.6,2.8,2.8,3.5,3,3.1,0.0712564314630605,563
+"port_chester_ny","Education","Some college or Associate's",2.5,2.8,3.1,3.4,2.7,3.3,0.396416976133843,620
+"port_chester_ny","Total","Total",2.6,2.9,3,3.5,2.8,3.2,0.513788370572551,640
+"port_chester_ny","Age","Under age 55",2.5,2.9,2.9,3.5,2.9,3.2,0.185641500009099,583
+"port_chester_ny","Race/Ethnicity","White",2.5,3,3.2,3.3,2.6,3.3,0.721523596245575,676
+"stamford","Income","<$30K",2.3,2.9,2.9,3.4,2.9,2.9,0.131726755615413,573
+"stamford","Income","$30K-$75K",2.3,3,2.9,3.2,2.9,2.9,0.092875568113586,567
+"stamford","Income","$75K+",2.4,3,3,2.8,2.7,3,0.109652480484421,569
+"stamford","Age","Ages 18-34",2.3,3.1,2.9,3.3,2.8,3,0.175896795602904,581
+"stamford","Age","Ages 35-49",2.5,2.8,3,3,2.7,3.1,0.0979167053050854,567
+"stamford","Age","Ages 50-64",2.2,3,2.9,2.5,2.6,2.8,-0.336117473802027,491
+"stamford","Age","Ages 65+",2.4,3,2.9,3,2.8,2.8,0.169637909814906,580
+"stamford","Education","Bachelor's or higher",2.4,3,3,2.9,2.7,3,0.171544248082101,580
+"stamford","Race/Ethnicity","Black",2.5,3,2.9,3.4,2.9,3,0.362017666562423,614
+"stamford","With children","Children in household",2.4,3,3,2.9,2.7,2.9,0.248212041310837,594
+"stamford","Gender","Female",2.4,3,3,3,2.8,2.9,0.297238903481677,602
+"stamford","Education","High school or less",2.4,3.1,3,3.2,2.9,3,0.416422087714996,623
+"stamford","Race/Ethnicity","Latino",2.6,3.2,3.1,3.4,3,3.1,0.961900415326032,719
+"stamford","Gender","Male",2.3,2.9,3,2.9,2.7,3,-0.0244012778525378,546
+"stamford","With children","No children",2.3,2.9,2.9,3,2.8,3,-0.179643202577204,519
+"stamford","Education","Some college or Associate's",2.2,2.9,2.8,3.1,2.9,2.8,-0.292562719085504,499
+"stamford","Total","Total",2.4,3,3,3,2.8,2.9,0.297238903481677,602
+"stamford","Race/Ethnicity","White",2.3,2.9,2.9,2.8,2.7,2.9,-0.213894039116989,513
+"stratford","Income","<$75K",2.1,2.9,2.8,3.1,2.7,3,-0.5311816729304,457
+"stratford","Income","$75K+",2,2.9,2.8,3,2.4,3.1,-0.742159695717401,420
+"stratford","Age","Age 55 or older",2.2,2.8,2.9,3.2,2.6,3.1,-0.302743175691536,497
+"stratford","Education","Bachelor's or higher",2,2.9,2.8,3.1,2.7,3.1,-0.718862644400241,425
+"stratford","With children","Children in household",2,3,2.9,3.2,2.5,3.1,-0.342039931359841,490
+"stratford","Gender","Female",2.1,2.9,2.8,3.2,2.6,2.9,-0.379757206677144,484
+"stratford","Education","High school or less",2.2,2.8,2.8,3.3,2.6,3.1,-0.445120194989362,472
+"stratford","Gender","Male",2,2.9,2.8,3.1,2.5,3.2,-0.769800626775296,416
+"stratford","With children","No children",2.1,2.8,2.8,3.1,2.6,3,-0.603249115197093,445
+"stratford","Education","Some college or Associate's",2,2.9,2.8,3,2.3,3.1,-0.729294790290561,423
+"stratford","Total","Total",2.1,2.9,2.8,3.1,2.6,3,-0.51831676750356,460
+"stratford","Age","Under age 55",2,2.9,2.8,3.1,2.5,3,-0.616465040317826,442
+"trumbull","Income","<$100K",2.6,3.4,3.3,2.3,2.8,3.2,0.808555258554569,692
+"trumbull","Income","$100K+",2.9,3.4,3.4,2,2.9,3.2,1.14732337195351,751
+"trumbull","Age","Age 55 or older",2.6,3.4,3.4,1.8,2.9,3.2,0.690500302034833,671
+"trumbull","Education","Bachelor's or higher",2.9,3.4,3.4,2,3.1,3.3,1.0449257678711,733
+"trumbull","Gender","Female",2.7,3.5,3.4,2,3.1,3.3,0.907831759082418,709
+"trumbull","Gender","Male",2.9,3.5,3.4,2.2,2.8,3.1,1.44557195349798,803
+"trumbull","Education","Some college or less",2.6,3.5,3.3,2.2,2.6,3.1,0.933993442732838,714
+"trumbull","Total","Total",2.8,3.5,3.4,2.1,2.9,3.2,1.18313430900362,757
+"trumbull","Age","Under age 55",2.9,3.5,3.4,2.3,3,3.3,1.32839832378451,783
+"valley","Income","<$30K",2.5,2.9,2.9,2.6,2.7,2.7,0.0376843686273322,557
+"valley","Income","$30K-$75K",2.5,3,2.9,2.5,2.6,2.7,0.0735898541500251,563
+"valley","Income","$75K+",2.5,3.1,2.8,2.2,2.5,2.8,-0.295224775646884,499
+"valley","Age","Ages 18-34",2.5,2.9,2.9,2.7,2.7,2.9,-0.0537594502324579,541
+"valley","Age","Ages 35-49",2.4,3,2.8,2.4,2.6,2.7,-0.303583878584267,497
+"valley","Age","Ages 50-64",2.6,3.1,2.9,2.3,2.5,2.6,0.235284543544879,591
+"valley","Age","Ages 65+",2.7,3.1,2.9,2.2,2.5,2.7,0.207738160959569,587
+"valley","Education","Bachelor's or higher",2.6,3.1,2.9,2.2,2.5,2.8,0.0200571894897278,554
+"valley","With children","Children in household",2.4,3,2.9,2.4,2.6,2.8,-0.175982884917496,519
+"valley","Gender","Female",2.5,3,2.9,2.4,2.5,2.6,0.10123078520792,568
+"valley","Education","High school or less",2.6,3.1,2.9,2.6,2.7,2.7,0.318562242255505,606
+"valley","Gender","Male",2.6,3,2.9,2.4,2.7,2.9,-0.0434892270908605,543
+"valley","With children","No children",2.6,3.1,2.9,2.4,2.6,2.7,0.207643612486984,587
+"valley","Race/Ethnicity","Not white",2.6,3.1,3,2.8,2.7,3,0.416611184660165,623
+"valley","Education","Some college or Associate's",2.5,2.9,2.9,2.4,2.6,2.7,-0.0732342611411887,537
+"valley","Total","Total",2.5,3,2.9,2.4,2.6,2.7,0.0116980865523446,552
+"valley","Race/Ethnicity","White",2.5,3,2.9,2.3,2.6,2.7,-0.050193681045336,541
+"wallingford","Income","<$75K",2.5,3.2,3.1,3,2.8,2.9,0.782385564005356,687
+"wallingford","Income","$75K+",2.9,3.5,3.2,3,2.8,3,1.60883631371715,832
+"wallingford","Age","Age 55 or older",2.8,3.4,3.2,3,2.8,2.8,1.56622637423998,824
+"wallingford","Education","Bachelor's or higher",2.7,3.3,3.2,2.8,2.7,2.9,1.18269442530809,757
+"wallingford","Gender","Female",2.7,3.3,3.2,2.9,2.7,2.8,1.3212539861345,781
+"wallingford","Gender","Male",2.8,3.4,3.1,3,2.8,3.1,1.13195420765827,748
+"wallingford","Education","Some college or less",2.7,3.4,3.1,3.2,2.8,3,1.22139235784126,764
+"wallingford","Total","Total",2.7,3.3,3.1,3,2.8,2.9,1.0893442681811,741
+"wallingford","Age","Under age 55",2.6,3.3,3.1,3,2.7,3,0.914528202138099,710
+"waterbury","Income","<$30K",2,2.1,2.3,2.7,2.1,2.6,-2.20670403211204,164
+"waterbury","Income","$30K-$75K",1.9,2,2.2,2.6,1.9,2.8,-2.79641588814366,61
+"waterbury","Income","$75K+",2.1,2.1,2.3,2.6,2.2,2.9,-2.40045090658166,130
+"waterbury","Age","Ages 18-34",1.9,2.1,2.2,2.7,2.3,2.8,-2.7010513945598,78
+"waterbury","Age","Ages 35-49",1.9,2,2.2,2.6,1.9,2.8,-2.79641588814366,61
+"waterbury","Age","Ages 50-64",1.9,2.1,2.3,2.7,1.9,2.7,-2.3686551927282,136
+"waterbury","Age","Ages 65+",2.4,2.4,2.6,2.7,2.2,2.8,-1.06124840726481,365
+"waterbury","Education","Bachelor's or higher",2.2,2.3,2.5,2.6,2.1,2.8,-1.6215027605069,267
+"waterbury","Race/Ethnicity","Black",2,2.2,2.4,2.8,2.2,2.8,-2.02181162180963,197
+"waterbury","With children","Children in household",2,2.2,2.3,2.6,2.1,2.9,-2.41366683170239,128
+"waterbury","Gender","Female",2,2,2.2,2.5,2,2.7,-2.68349158969834,81
+"waterbury","Education","High school or less",2,2.1,2.3,2.8,2.1,2.8,-2.29814785097183,148
+"waterbury","Race/Ethnicity","Latino",2.1,2.3,2.3,2.7,2.1,2.8,-2.07916174494134,187
+"waterbury","Gender","Male",2.1,2.2,2.4,2.8,2.1,2.9,-1.97460133137042,205
+"waterbury","With children","No children",2,2.1,2.3,2.7,2.1,2.7,-2.28337182534078,151
+"waterbury","Education","Some college or Associate's",1.8,1.9,2.1,2.6,2.1,2.7,-3.14569221859875,0
+"waterbury","Total","Total",2,2.1,2.3,2.7,2.1,2.8,-2.36003961856951,137
+"waterbury","Race/Ethnicity","White",2,2,2.3,2.5,2,2.7,-2.47922280280283,117
+"west_hartford","Income","<$75K",2.8,3.5,3.2,3.7,3.4,3.5,1.47053710995509,808
+"west_hartford","Income","$75K+",2.9,3.8,3.5,3.6,3.4,3.6,2.31059413113689,954
+"west_hartford","Age","Age 55 or older",3,3.7,3.5,3.5,3.5,3.6,2.26191828865995,946
+"west_hartford","Education","Bachelor's or higher",2.8,3.8,3.5,3.7,3.4,3.7,2.18480492726473,932
+"west_hartford","With children","Children in household",2.9,3.7,3.4,3.7,3.5,3.7,1.99375206548996,899
+"west_hartford","Gender","Female",2.8,3.7,3.5,3.6,3.3,3.5,2.20418130385783,936
+"west_hartford","Gender","Male",2.8,3.6,3.4,3.7,3.6,3.6,1.86160942735722,876
+"west_hartford","With children","No children",2.8,3.6,3.4,3.6,3.4,3.5,1.90211526384195,883
+"west_hartford","Education","Some college or less",2.9,3.5,3.2,3.6,3.4,3.3,1.67299410705598,843
+"west_hartford","Total","Total",2.8,3.7,3.4,3.6,3.4,3.6,1.91037981830675,884
+"west_hartford","Age","Under age 55",2.7,3.6,3.4,3.7,3.4,3.6,1.77632605996979,861
+"west_haven","Income","<$75K",2,2.4,2.4,3,2.6,2.7,-1.70295521970583,252
+"west_haven","Income","$75K+",2.1,2.4,2.5,3.1,2.5,2.8,-1.38958437477343,307
+"west_haven","Age","Age 55 or older",2.2,2.7,2.7,3.2,2.6,2.8,-0.566209717489874,451
+"west_haven","Education","Bachelor's or higher",2.1,2.4,2.5,3.1,2.5,2.9,-1.46625216800217,294
+"west_haven","With children","Children in household",2,2.5,2.4,3,2.5,2.7,-1.60515796658546,269
+"west_haven","Gender","Female",2,2.5,2.4,2.8,2.5,2.7,-1.72894150178082,248
+"west_haven","Education","High school or less",2,2.5,2.4,3.1,2.7,2.7,-1.56899600984146,276
+"west_haven","Gender","Male",2.1,2.5,2.5,3.3,2.7,2.9,-1.28326609596695,326
+"west_haven","With children","No children",2.1,2.5,2.5,3,2.6,2.8,-1.37940870010442,309
+"west_haven","Race/Ethnicity","Not white",2,2.5,2.4,3.1,2.5,2.6,-1.46659840575904,294
+"west_haven","Education","Some college or Associate's",2,2.5,2.5,2.9,2.5,2.8,-1.53944874051637,281
+"west_haven","Total","Total",2,2.5,2.5,3,2.6,2.8,-1.49042187834553,290
+"west_haven","Age","Under age 55",1.9,2.4,2.3,3,2.5,2.7,-2.0053722794156,199
+"west_haven","Race/Ethnicity","White",2,2.4,2.5,3,2.6,2.9,-1.65202201926779,261

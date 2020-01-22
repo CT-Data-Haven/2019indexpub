@@ -1,0 +1,719 @@
+name,category,group,anxiety,happiness,life_satisfaction,self_rated_health,composite,composite_scaled
+5ct,Rural,Rural,4,3.8,3.8,3.6,0.1684352246197572,615
+5ct,Suburban,Suburban,4,3.9,3.9,3.8,0.6846818709059742,702
+5ct,Urban Core,Urban Core,3.8,3.7,3.5,3.5,-0.8741643371989252,440
+5ct,Urban Periphery,Urban Periphery,3.9,3.8,3.7,3.6,-0.10059400940980837,570
+5ct,Wealthy,Wealthy,4,3.9,3.9,4,0.7080929759593061,706
+bridgeport,Income,<$30K,3.7,3.5,3.3,3.2,-1.9248402025039875,264
+bridgeport,Income,$30K-$75K,3.8,3.8,3.5,3.4,-0.6321754572629789,481
+bridgeport,Income,$75K+,3.9,3.8,3.9,3.6,0.3776882081307343,650
+bridgeport,Age,Ages 18-34,3.8,3.7,3.5,3.5,-0.8741643371989252,440
+bridgeport,Age,Ages 35-49,3.7,3.6,3.4,3.3,-1.4202991087444365,349
+bridgeport,Age,Ages 50-64,3.8,3.7,3.6,3.3,-0.6584343334819851,477
+bridgeport,Age,Ages 65+,3.9,3.8,3.7,2.9,-0.18253287709647004,556
+bridgeport,Education,Bachelor's or higher,4,3.8,3.7,3.7,-0.05900033162384771,577
+bridgeport,Race/Ethnicity,Black,3.8,3.8,3.5,3.4,-0.6321754572629789,481
+bridgeport,With children,Children in household,3.7,3.7,3.4,3.5,-1.1431935712284915,395
+bridgeport,Gender,Female,3.8,3.6,3.5,3.3,-1.1512698747148702,394
+bridgeport,Education,High school or less,3.7,3.7,3.5,3.2,-0.9391691200382175,429
+bridgeport,Race/Ethnicity,Latino,3.7,3.6,3.4,3.4,-1.4085935562177707,351
+bridgeport,Gender,Male,3.8,3.7,3.5,3.4,-0.8858698897255911,438
+bridgeport,With children,No children,3.8,3.7,3.6,3.2,-0.670139886008651,475
+bridgeport,Education,Some college or Associate's,3.7,3.6,3.4,3.3,-1.4202991087444365,349
+bridgeport,Total,Total,3.8,3.7,3.5,3.4,-0.8858698897255911,438
+bridgeport,Race/Ethnicity,White,3.8,3.6,3.5,3.4,-1.1395643221882044,396
+bristol,Income,<$75K,3.6,3.6,3.2,3.4,-1.9167638990176084,265
+bristol,Income,$75K+,4.3,4.1,4.1,4.1,1.7951339867296243,888
+bristol,Age,Age 55 or older,4.1,4,3.7,3.6,0.46657110603400753,665
+bristol,Education,Bachelor's or higher,3.9,3.9,3.8,3.7,0.40394708434974175,655
+bristol,With children,Children in household,3.8,3.8,3.7,3.7,-0.11877658214243712,567
+bristol,Gender,Female,3.9,3.7,3.6,3.7,-0.5817239981160265,489
+bristol,Gender,Male,4,3.9,3.7,3.6,0.18298854831209965,618
+bristol,With children,No children,4,3.8,3.6,3.6,-0.30984699292078555,535
+bristol,Education,Some college or less,4,3.8,3.6,3.6,-0.30984699292078555,535
+bristol,Total,Total,3.9,3.8,3.6,3.7,-0.3280295656534143,532
+bristol,Age,Under age 55,3.9,3.7,3.6,3.7,-0.5817239981160265,489
+cchd_central_ct_health_district,Income,<$75K,3.9,3.6,3.5,3.3,-1.1213817494555756,399
+cchd_central_ct_health_district,Income,$75K+,4.1,4,4,3.9,1.21911108992482,792
+cchd_central_ct_health_district,Age,Age 55 or older,4.3,4.1,4,3.6,1.4974651153260239,838
+cchd_central_ct_health_district,Education,Bachelor's or higher,4.2,3.9,3.8,3.8,0.5053170126542919,672
+cchd_central_ct_health_district,With children,Children in household,3.7,3.7,3.7,3.7,-0.40235913986434396,520
+cchd_central_ct_health_district,Gender,Female,4,3.9,3.7,3.7,0.1946941008387656,620
+cchd_central_ct_health_district,Gender,Male,4.2,3.9,3.8,3.7,0.4936114601276259,670
+cchd_central_ct_health_district,With children,No children,4.2,4,3.8,3.7,0.7473058925902392,712
+cchd_central_ct_health_district,Education,Some college or less,4,3.9,3.7,3.5,0.17128299578543368,616
+cchd_central_ct_health_district,Total,Total,4,3.9,3.8,3.7,0.4338352096090365,660
+cchd_central_ct_health_district,Age,Under age 55,3.8,3.8,3.6,3.7,-0.357917690912709,527
+chesprocott,Income,<$75K,3.6,3.7,3.6,3.3,-0.7182105840005744,467
+chesprocott,Income,$75K+,4.2,4,4,4.1,1.2724103202374466,801
+chesprocott,Age,Age 55 or older,4.1,4,3.9,3.6,0.9448533235745503,746
+chesprocott,Education,Bachelor's or higher,4,3.8,3.9,3.9,0.44269299097002685,661
+chesprocott,With children,Children in household,3.9,3.9,3.9,3.9,0.6664992981733454,699
+chesprocott,Gender,Female,3.9,3.8,3.8,3.7,0.15025265188712844,612
+chesprocott,Gender,Male,4.1,3.8,3.9,3.8,0.4608755637026555,664
+chesprocott,With children,No children,4.1,3.8,3.8,3.6,0.19832334987905179,620
+chesprocott,Education,Some college or less,4,3.9,3.8,3.5,0.41042410455570455,656
+chesprocott,Total,Total,4,3.8,3.8,3.8,0.19184632967308907,619
+chesprocott,Age,Under age 55,3.9,3.8,3.8,3.9,0.17366375694046032,616
+connecticut,Income,<$15K,3.5,3.4,3.2,3.1,-2.4891575467821276,169
+connecticut,Income,$100K-$200K,4.1,4,4,3.9,1.21911108992482,792
+connecticut,Income,$15K-$30K,3.7,3.5,3.4,3.2,-1.6856990937337157,304
+connecticut,Income,$200K+,4.1,4.1,4.2,4.2,1.986204397507974,920
+connecticut,Income,$30K-$50K,3.9,3.7,3.5,3.5,-0.8442762119396303,445
+connecticut,Income,$50K-$75K,3.9,3.8,3.7,3.7,-0.08888845688314241,572
+connecticut,Income,$75K-$100K,4,3.9,3.8,3.8,0.4455407621357024,662
+connecticut,Age,Ages 18-34,3.6,3.6,3.6,3.8,-0.9133772538298579,434
+connecticut,Age,Ages 35-49,3.9,3.8,3.6,3.7,-0.3280295656534143,532
+connecticut,Age,Ages 50-64,4.1,3.9,3.8,3.6,0.45201778234166506,663
+connecticut,Age,Ages 65+,4.2,4,4,3.5,1.202177005077451,789
+connecticut,Education,Bachelor's or higher,4.1,3.9,3.9,3.8,0.7145699961652688,707
+connecticut,Race/Ethnicity,Black,4,3.8,3.6,3.5,-0.3215525454474515,533
+connecticut,With children,Children in household,3.9,3.8,3.8,3.8,0.16195820441379435,614
+connecticut,Gender,Female,3.9,3.8,3.7,3.6,-0.10059400940980837,570
+connecticut,Education,High school or less,3.8,3.8,3.6,3.4,-0.39303434849270685,521
+connecticut,Race/Ethnicity,Latino,3.7,3.6,3.6,3.6,-0.906900233623895,435
+connecticut,Gender,Male,4,3.8,3.8,3.7,0.18014077714642315,617
+connecticut,With children,No children,4,3.8,3.8,3.6,0.1684352246197572,615
+connecticut,Education,Some college or Associate's,3.9,3.7,3.6,3.5,-0.6051351031693584,485
+connecticut,Total,Total,3.9,3.8,3.8,3.7,0.15025265188712844,612
+connecticut,Race/Ethnicity,White,4,3.9,3.8,3.7,0.4338352096090365,660
+danbury,Income,<$30K,3.7,3.7,3.4,3.7,-1.1197824661751596,399
+danbury,Income,$30K-$75K,4,3.8,3.7,3.8,-0.04729477909718181,579
+danbury,Income,$75K+,4,3.9,3.9,3.9,0.6963874234326402,704
+danbury,Age,Ages 18-34,3.4,3.5,3.5,3.9,-1.4542834930546664,343
+danbury,Age,Ages 35-49,4.1,4.1,3.7,3.8,0.7436766435499517,712
+danbury,Age,Ages 50-64,4.2,4,4,3.8,1.237293662657449,795
+danbury,Age,Ages 65+,4.4,4.1,4,3.5,1.5156476880586527,841
+danbury,Education,Bachelor's or higher,4,3.9,3.9,3.9,0.6963874234326402,704
+danbury,With children,Children in household,4.1,3.8,3.8,3.9,0.2334400074590496,626
+danbury,Gender,Female,4.1,3.9,3.7,3.8,0.23628777862472608,627
+danbury,Education,High school or less,4,3.8,3.8,3.6,0.1684352246197572,615
+danbury,Gender,Male,4,3.9,3.8,3.8,0.4455407621357024,662
+danbury,With children,No children,4,3.9,3.8,3.7,0.4338352096090365,660
+danbury,Race/Ethnicity,Not white,3.7,3.7,3.7,3.7,-0.40235913986434396,520
+danbury,Education,Some college or Associate's,4,3.8,3.6,3.7,-0.29814144039411955,537
+danbury,Total,Total,4,3.9,3.8,3.8,0.4455407621357024,662
+danbury,Race/Ethnicity,White,4.1,3.9,3.8,3.8,0.47542888739499695,667
+darien,Gender,Female,3.8,3.8,3.9,4.2,0.4180333980314353,657
+darien,Gender,Male,4.1,4.1,4.1,3.9,1.711946631157703,874
+darien,Total,Total,4,3.9,4,4.1,0.958939637256244,748
+east_hartford,Total,Total,3.9,3.7,3.5,3.5,-0.8442762119396303,445
+east_haven,Income,<$75K,4.1,3.8,3.7,3.4,-0.064228863944551,576
+east_haven,Income,$75K+,3.6,3.6,3.7,3.7,-0.685941697586252,472
+east_haven,Age,Age 55 or older,4.2,3.9,3.9,3.3,0.685930358791234,702
+east_haven,Gender,Female,3.9,3.8,3.7,3.6,-0.10059400940980837,570
+east_haven,Education,High school or less,3.7,3.4,3.6,3.4,-1.4377002036024535,346
+east_haven,Gender,Male,4,3.7,3.7,3.5,-0.3361058691397919,531
+east_haven,Education,Some college or higher,4.1,3.9,3.8,3.7,0.46372333486833106,665
+east_haven,Total,Total,4,3.7,3.8,3.5,-0.09696476036952101,571
+east_haven,Age,Under age 55,3.8,3.6,3.7,3.7,-0.6261654470676626,482
+ehhd,Income,<$75K,3.7,3.6,3.6,3.5,-0.918605786150561,433
+ehhd,Income,$75K+,4.1,3.7,3.8,3.9,-0.02025442500356265,584
+ehhd,Age,Age 55 or older,4.1,4.1,4.1,3.7,1.688535526104371,870
+ehhd,Education,Bachelor's or higher,4,3.9,3.8,3.8,0.4455407621357024,662
+ehhd,With children,Children in household,3.8,3.6,3.7,3.9,-0.6027543420143308,486
+ehhd,Gender,Female,3.9,3.8,3.8,3.6,0.1385470993604625,610
+ehhd,Gender,Male,3.9,3.5,3.7,3.9,-0.8265606492176494,448
+ehhd,With children,No children,4,3.7,3.7,3.7,-0.31269476408645996,535
+ehhd,Education,Some college or less,3.8,3.5,3.6,3.7,-1.1190009883005478,399
+ehhd,Total,Total,3.9,3.7,3.7,3.8,-0.3308773368190887,532
+ehhd,Age,Under age 55,3.8,3.5,3.5,3.8,-1.3464365445441537,361
+fairfield,Income,<$75K,4,3.7,3.4,3.6,-1.0418236429239416,412
+fairfield,Income,$75K+,4.3,4.2,4,4,1.7979817578953021,889
+fairfield,Age,Age 55 or older,4.4,4,4,3.8,1.2970699131760386,805
+fairfield,Education,Bachelor's or higher,4.2,4.1,3.9,4,1.2752580914031213,801
+fairfield,With children,Children in household,4.2,4,3.8,3.8,0.7590114451169051,714
+fairfield_county,Income,<$15K,3.5,3.5,3.2,3.1,-2.235463114319514,212
+fairfield_county,Income,$100K-$200K,4.1,4,3.9,4,0.9916755336812141,753
+fairfield_county,Income,$15K-$30K,3.7,3.5,3.3,3.4,-1.9014290974506558,268
+fairfield_county,Income,$200K+,4.1,4.1,4.2,4.2,1.986204397507974,920
+fairfield_county,Income,$30K-$50K,3.9,3.8,3.6,3.6,-0.3397351181800803,530
+fairfield_county,Income,$50K-$75K,4,3.8,3.7,3.7,-0.05900033162384771,577
+fairfield_county,Income,$75K-$100K,4,4,3.9,3.9,0.9500818558952535,746
+fairfield_county,Age,Ages 18-34,3.7,3.7,3.6,3.8,-0.6297946961079499,481
+fairfield_county,Age,Ages 35-49,3.9,3.8,3.7,3.8,-0.07718290435647651,574
+fairfield_county,Age,Ages 50-64,4.1,4,3.8,3.8,0.7291233198576103,709
+fairfield_county,Age,Ages 65+,4.1,4.1,4,3.5,1.4259833122807686,826
+fairfield_county,Education,Bachelor's or higher,4.1,3.9,3.9,3.9,0.7262755486919348,709
+fairfield_county,Race/Ethnicity,Black,3.9,3.9,3.7,3.5,0.14139487052613897,611
+fairfield_county,With children,Children in household,4,3.9,3.8,3.9,0.4572463146623683,664
+fairfield_county,Gender,Female,4,3.9,3.8,3.7,0.4338352096090365,660
+fairfield_county,Education,High school or less,3.8,3.8,3.7,3.4,-0.153893239722435,561
+fairfield_county,Race/Ethnicity,Latino,3.7,3.7,3.7,3.6,-0.41406469239100996,518
+fairfield_county,Gender,Male,4,3.9,3.8,3.8,0.4455407621357024,662
+fairfield_county,With children,No children,4,3.9,3.8,3.7,0.4338352096090365,660
+fairfield_county,Education,Some college or Associate's,3.9,3.8,3.7,3.6,-0.10059400940980837,570
+fairfield_county,Total,Total,4,3.9,3.8,3.8,0.4455407621357024,662
+fairfield_county,Race/Ethnicity,White,4,3.9,3.8,3.8,0.4455407621357024,662
+fairfield,Gender,Female,4.2,4,3.9,3.9,1.009858106413843,757
+fairfield,Gender,Male,4.3,4.1,3.9,3.9,1.2934406641357497,804
+fairfield,With children,No children,4.3,4,3.9,3.9,1.0397462316731376,762
+fairfield,Education,Some college or less,4.2,3.9,3.7,3.8,0.26617590388402096,632
+fairfield,Total,Total,4.2,4,3.8,3.9,0.770716997643571,716
+fairfield,Age,Under age 55,4.2,4,3.7,3.9,0.5315758888733002,676
+fcht,Income,<$75K,4,3.6,3.5,3.6,-1.0563769666162828,410
+fcht,Income,$75K+,4.1,4,3.9,4.2,1.015086638734546,757
+fcht,Age,Age 55 or older,4.3,3.9,3.9,3.8,0.7743462466838582,717
+fcht,Education,Bachelor's or higher,4.3,4,3.8,4.2,0.8357217804828636,727
+fcht,Gender,Female,4.1,3.8,3.8,3.8,0.22173445493238364,624
+fcht,Gender,Male,4.2,3.9,3.8,4.2,0.5521392227609556,680
+fcht,Education,Some college or less,4.1,3.7,3.7,3.8,-0.27110108630049945,542
+fcht,Total,Total,4.2,3.9,3.8,4,0.5287281177076237,676
+fcht,Age,Under age 55,4,3.9,3.6,4.1,0.002375202175157458,587
+greater_bridgeport,Income,<$15K,3.5,3.4,3.2,3,-2.5008630993087935,167
+greater_bridgeport,Income,$100K-$200K,4.2,4.2,4,4,1.7680936326360075,884
+greater_bridgeport,Income,$15K-$30K,3.6,3.5,3.2,3.4,-2.1704583314802215,223
+greater_bridgeport,Income,$200K+,4.1,4,4.1,4,1.4699577512217568,834
+greater_bridgeport,Income,$30K-$50K,3.9,3.8,3.5,3.5,-0.5905817794770182,488
+greater_bridgeport,Income,$50K-$75K,4.1,3.8,3.7,3.6,-0.040817758891219094,580
+greater_bridgeport,Income,$75K-$100K,3.8,3.8,3.9,3.7,0.3595056353981056,647
+greater_bridgeport,Age,Ages 18-34,3.8,3.6,3.5,3.7,-1.1044476646082064,402
+greater_bridgeport,Age,Ages 35-49,3.8,3.8,3.6,3.6,-0.36962324343937497,525
+greater_bridgeport,Age,Ages 50-64,4,3.8,3.7,3.6,-0.07070588415051367,575
+greater_bridgeport,Age,Ages 65+,4.1,4.1,3.9,3.3,1.1634310984571647,782
+greater_bridgeport,Education,Bachelor's or higher,4.1,3.9,3.8,3.8,0.47542888739499695,667
+greater_bridgeport,Race/Ethnicity,Black,3.8,3.8,3.5,3.4,-0.6321754572629789,481
+greater_bridgeport,With children,Children in household,3.8,3.8,3.6,3.7,-0.357917690912709,527
+greater_bridgeport,Gender,Female,3.9,3.8,3.7,3.6,-0.10059400940980837,570
+greater_bridgeport,Education,High school or less,3.7,3.7,3.5,3.3,-0.9274635675115516,431
+greater_bridgeport,Race/Ethnicity,Latino,3.7,3.6,3.5,3.4,-1.169452447447499,391
+greater_bridgeport,Gender,Male,3.9,3.8,3.6,3.6,-0.3397351181800803,530
+greater_bridgeport,With children,No children,4,3.8,3.7,3.5,-0.08241143667717962,573
+greater_bridgeport,Education,Some college or Associate's,3.9,3.7,3.5,3.5,-0.8442762119396303,445
+greater_bridgeport,Total,Total,3.9,3.8,3.7,3.6,-0.10059400940980837,570
+greater_bridgeport,Race/Ethnicity,White,4,3.8,3.7,3.7,-0.05900033162384771,577
+greater_greenwich,Income,<$30K,3.5,3.7,3.5,3.3,-0.9872398180301409,421
+greater_greenwich,Income,$30K-$75K,4,3.9,3.8,3.8,0.4455407621357024,662
+greater_greenwich,Income,$75K+,4.1,4,4.1,4.1,1.4816633037484226,836
+greater_greenwich,Age,Ages 18-34,3.8,4,3.9,3.9,0.890305605376664,736
+greater_greenwich,Age,Ages 35-49,4,3.9,3.8,4,0.4689518671890343,666
+greater_greenwich,Age,Ages 50-64,4,4,4,3.9,1.1892229646655255,787
+greater_greenwich,Age,Ages 65+,4.3,4.1,4.1,3.6,1.7366062240962947,878
+greater_greenwich,Education,Bachelor's or higher,4.2,4,4,4,1.2607047677107808,799
+greater_greenwich,Race/Ethnicity,Black,4,4.1,4,3.6,1.40780073954814,823
+greater_greenwich,With children,Children in household,4,4,4,4,1.2009285171921915,789
+greater_greenwich,Gender,Female,4.1,4,3.9,3.9,0.9799699811545481,751
+greater_greenwich,Education,High school or less,3.7,3.9,3.8,3.5,0.32075972877782055,641
+greater_greenwich,Race/Ethnicity,Latino,3.8,3.9,3.8,3.7,0.37405895909044706,650
+greater_greenwich,Gender,Male,4,4,3.9,3.8,0.9383763033685876,745
+greater_greenwich,With children,No children,4.1,4,3.9,3.8,0.9682644286278822,750
+greater_greenwich,Education,Some college or Associate's,4,3.8,3.8,3.8,0.19184632967308907,619
+greater_greenwich,Total,Total,4,4,3.9,3.9,0.9500818558952535,746
+greater_greenwich,Race/Ethnicity,White,4.1,4,4,3.9,1.21911108992482,792
+greater_hartford,Income,<$15K,3.4,3.2,3.1,3.1,-3.265575645736919,39
+greater_hartford,Income,$100K-$200K,4,4,3.9,3.8,0.9383763033685876,745
+greater_hartford,Income,$15K-$30K,3.7,3.6,3.5,3.3,-1.1811579999741648,389
+greater_hartford,Income,$200K+,4,4.2,4.3,4.3,2.460857366008231,1000
+greater_hartford,Income,$30K-$50K,3.9,3.9,3.6,3.5,-0.0977462382441329,571
+greater_hartford,Income,$50K-$75K,3.8,3.7,3.6,3.7,-0.6116121233753213,484
+greater_hartford,Income,$75K-$100K,3.8,3.8,3.8,3.8,0.13207007915449964,609
+greater_hartford,Age,Ages 18-34,3.5,3.6,3.5,3.8,-1.1824064878594245,389
+greater_hartford,Age,Ages 35-49,3.9,3.7,3.6,3.6,-0.5934295506426924,487
+greater_hartford,Age,Ages 50-64,4.1,3.8,3.8,3.6,0.19832334987905179,620
+greater_hartford,Age,Ages 65+,4.2,4.1,4.1,3.5,1.6950125463103343,871
+greater_hartford,Education,Bachelor's or higher,4,3.9,3.9,3.9,0.6963874234326402,704
+greater_hartford,Race/Ethnicity,Black,3.8,3.8,3.5,3.5,-0.6204699047363129,483
+greater_hartford,With children,Children in household,3.8,3.7,3.7,3.8,-0.36076546207838345,527
+greater_hartford,Gender,Female,3.8,3.8,3.7,3.6,-0.13048213466910308,565
+greater_hartford,Education,High school or less,3.8,3.7,3.6,3.4,-0.6467287809553192,479
+greater_hartford,Race/Ethnicity,Latino,3.6,3.6,3.5,3.6,-1.1759294676534617,390
+greater_hartford,Gender,Male,3.9,3.8,3.8,3.7,0.15025265188712844,612
+greater_hartford,With children,No children,3.9,3.8,3.7,3.6,-0.10059400940980837,570
+greater_hartford,Education,Some college or Associate's,3.8,3.7,3.6,3.5,-0.6350232284286532,480
+greater_hartford,Total,Total,3.9,3.8,3.7,3.6,-0.10059400940980837,570
+greater_hartford,Race/Ethnicity,White,3.9,3.8,3.8,3.7,0.15025265188712844,612
+greater_new_haven,Income,<$15K,3.6,3.5,3.4,3.2,-1.7155872189930106,299
+greater_new_haven,Income,$100K-$200K,4,4,4,4,1.2009285171921915,789
+greater_new_haven,Income,$15K-$30K,3.7,3.6,3.4,3.3,-1.4202991087444365,349
+greater_new_haven,Income,$200K+,4.1,4.2,4.2,4,2.2164877249172563,959
+greater_new_haven,Income,$30K-$50K,4,3.6,3.5,3.4,-1.0797880716696149,406
+greater_new_haven,Income,$50K-$75K,3.8,3.8,3.7,3.7,-0.11877658214243712,567
+greater_new_haven,Income,$75K-$100K,4,3.8,3.8,3.8,0.19184632967308907,619
+greater_new_haven,Age,Ages 18-34,3.6,3.6,3.6,3.7,-0.9250828063565238,432
+greater_new_haven,Age,Ages 35-49,3.8,3.6,3.6,3.6,-0.8770121083646004,440
+greater_new_haven,Age,Ages 50-64,4,3.9,3.9,3.6,0.6612707658526423,698
+greater_new_haven,Age,Ages 65+,4.3,4.1,3.9,3.4,1.2349129015024198,794
+greater_new_haven,Education,Bachelor's or higher,4,3.9,3.9,3.8,0.6846818709059742,702
+greater_new_haven,Race/Ethnicity,Black,4,3.9,3.6,3.5,-0.06785811298483818,576
+greater_new_haven,With children,Children in household,3.8,3.8,3.8,3.7,0.12036452662783374,607
+greater_new_haven,Gender,Female,3.9,3.8,3.7,3.6,-0.10059400940980837,570
+greater_new_haven,Education,High school or less,3.8,3.7,3.6,3.4,-0.6467287809553192,479
+greater_new_haven,Race/Ethnicity,Latino,3.6,3.6,3.5,3.5,-1.1876350201801278,388
+greater_new_haven,Gender,Male,3.9,3.8,3.8,3.7,0.15025265188712844,612
+greater_new_haven,With children,No children,3.9,3.8,3.7,3.6,-0.10059400940980837,570
+greater_new_haven,Education,Some college or Associate's,3.8,3.6,3.6,3.5,-0.8887176608912664,438
+greater_new_haven,Total,Total,3.9,3.8,3.7,3.6,-0.10059400940980837,570
+greater_new_haven,Race/Ethnicity,White,3.9,3.8,3.7,3.7,-0.08888845688314241,572
+greater_new_london,Income,<$30K,3.5,3.6,3.3,3.3,-1.7192164680332978,299
+greater_new_london,Income,$30K-$75K,3.9,3.7,3.6,3.5,-0.6051351031693584,485
+greater_new_london,Income,$75K+,4.2,4,4.1,3.9,1.4881403239543858,837
+greater_new_london,Age,Ages 18-34,3.5,3.6,3.6,3.7,-0.9549709316158185,427
+greater_new_london,Age,Ages 35-49,3.9,3.8,3.6,3.6,-0.3397351181800803,530
+greater_new_london,Age,Ages 50-64,4.2,3.9,3.8,3.5,0.470200355074294,666
+greater_new_london,Age,Ages 65+,4.3,4.1,4.1,3.6,1.7366062240962947,878
+greater_new_london,Education,Bachelor's or higher,4.1,4,3.9,3.8,0.9682644286278822,750
+greater_new_london,With children,Children in household,3.8,3.7,3.7,3.7,-0.37247101460504933,525
+greater_new_london,Gender,Female,3.9,3.8,3.7,3.5,-0.11229956193647433,568
+greater_new_london,Education,High school or less,3.7,3.8,3.6,3.4,-0.4229224737520014,516
+greater_new_london,Gender,Male,4,3.9,3.8,3.6,0.4221296570823705,658
+greater_new_london,With children,No children,4.1,3.9,3.8,3.6,0.45201778234166506,663
+greater_new_london,Race/Ethnicity,Not white,3.7,3.6,3.6,3.5,-0.918605786150561,433
+greater_new_london,Education,Some college or Associate's,3.8,3.6,3.7,3.5,-0.6495765521209945,478
+greater_new_london,Total,Total,4,3.8,3.8,3.6,0.1684352246197572,615
+greater_new_london,Race/Ethnicity,White,4,3.9,3.8,3.6,0.4221296570823705,658
+greater_waterbury,Income,<$15K,3.5,3.3,3.1,3.1,-2.9819930880150123,87
+greater_waterbury,Income,$100K-$200K,4.2,4.1,4.1,4.1,1.76524586147033,883
+greater_waterbury,Income,$15K-$30K,3.7,3.4,3.3,3.2,-2.1785346349666006,221
+greater_waterbury,Income,$200K+,4.4,4.1,4.2,4.3,2.087574325812524,937
+greater_waterbury,Income,$30K-$50K,3.9,3.7,3.5,3.3,-0.8676873169929622,441
+greater_waterbury,Income,$50K-$75K,3.8,3.8,3.6,3.5,-0.3813287959660409,523
+greater_waterbury,Income,$75K-$100K,4,3.8,3.8,3.8,0.19184632967308907,619
+greater_waterbury,Age,Ages 18-34,3.6,3.6,3.5,3.8,-1.1525183626001299,394
+greater_waterbury,Age,Ages 35-49,3.9,3.7,3.5,3.7,-0.8208651068862984,449
+greater_waterbury,Age,Ages 50-64,4.1,3.9,3.8,3.6,0.45201778234166506,663
+greater_waterbury,Age,Ages 65+,4.1,3.9,4,3.4,0.9068888948288769,739
+greater_waterbury,Education,Bachelor's or higher,4.1,3.9,3.9,3.9,0.7262755486919348,709
+greater_waterbury,Race/Ethnicity,Black,4,3.8,3.5,3.5,-0.5606936542177234,493
+greater_waterbury,With children,Children in household,3.9,3.8,3.7,3.7,-0.08888845688314241,572
+greater_waterbury,Gender,Female,3.8,3.7,3.6,3.5,-0.6350232284286532,480
+greater_waterbury,Education,High school or less,3.8,3.7,3.6,3.4,-0.6467287809553192,479
+greater_waterbury,Race/Ethnicity,Latino,3.8,3.7,3.4,3.7,-1.089894340915865,404
+greater_waterbury,Gender,Male,4.1,3.8,3.7,3.7,-0.029112206364553136,582
+greater_waterbury,With children,No children,4,3.7,3.7,3.5,-0.3361058691397919,531
+greater_waterbury,Education,Some college or Associate's,3.9,3.7,3.6,3.5,-0.6051351031693584,485
+greater_waterbury,Total,Total,4,3.8,3.7,3.6,-0.07070588415051367,575
+greater_waterbury,Race/Ethnicity,White,4,3.8,3.7,3.6,-0.07070588415051367,575
+greenwich,Income,<$75K,3.9,3.9,3.8,3.7,0.40394708434974175,655
+greenwich,Income,$75K+,4.1,4,4.1,4.1,1.4816633037484226,836
+greenwich,Age,Ages 18-34,3.6,4,4,4.1,1.0930815686816786,770
+greenwich,Age,Ages 35-54,4,3.9,3.8,3.9,0.4572463146623683,664
+greenwich,Age,Ages 55+,4.4,4.1,4.1,4,1.8133165594622533,891
+greenwich,With children,Children in household,4,4.1,4,4,1.4546229496548038,831
+greenwich,Gender,Female,4.2,4.1,4,4,1.514399200173393,841
+greenwich,Gender,Male,4,4,4,3.9,1.1892229646655255,787
+greenwich,With children,No children,4.1,4,4,3.9,1.21911108992482,792
+greenwich,Race/Ethnicity,Not white,4,4.2,4,3.8,1.6849062770640864,870
+greenwich,Total,Total,4.1,4,4,3.9,1.21911108992482,792
+greenwich,Race/Ethnicity,White,4.2,4,4,4,1.2607047677107808,799
+hamden,Income,<$75K,3.8,3.8,3.6,3.3,-0.40473990101937285,519
+hamden,Income,$75K+,4,4.2,4,3.9,1.6966118295907522,872
+hamden,Age,Age 55 or older,4.1,3.9,3.8,3.4,0.4286066772883332,659
+hamden,Education,Bachelor's or higher,4,4.1,3.9,3.6,1.168659630777868,783
+hamden,With children,Children in household,3.8,4,3.9,3.7,0.8668945003233322,733
+hamden,Gender,Female,3.9,3.9,3.8,3.5,0.3805359792964098,651
+hamden,Education,High school or less,3.7,4.1,3.9,3.8,1.1024063600533158,772
+hamden,Gender,Male,3.9,4,3.7,3.6,0.4067948555154183,655
+hamden,With children,No children,3.9,3.9,3.6,3.4,-0.10945179077079885,569
+hamden,Race/Ethnicity,Not white,3.8,4,3.9,3.4,0.8317778427433343,727
+hamden,Education,Some college or Associate's,3.9,3.6,3.4,3.3,-1.3605228582258473,359
+hamden,Total,Total,3.9,3.9,3.8,3.5,0.3805359792964098,651
+hamden,Age,Under age 55,3.7,4,3.7,3.7,0.358724157523495,647
+hamden,Race/Ethnicity,White,3.9,3.9,3.7,3.6,0.15310042305280494,613
+hartford,Income,<$30K,3.6,3.4,3.2,3.3,-2.435858316469501,178
+hartford,Income,$30K-$75K,4,3.7,3.5,3.7,-0.7909769816270038,454
+hartford,Income,$75K+,3.7,3.9,3.7,4,0.14014638264087942,611
+hartford,Age,Ages 18-34,3.6,3.6,3.3,3.8,-1.6308005801406733,313
+hartford,Age,Ages 35-49,3.8,3.7,3.4,3.5,-1.113305445969197,400
+hartford,Age,Ages 50-64,4,3.7,3.5,3.2,-0.8495047442603335,444
+hartford,Age,Ages 65+,3.9,3.9,3.9,3.2,0.5845604304866838,685
+hartford,Education,Bachelor's or higher,3.8,3.8,3.7,3.8,-0.10707102961577122,569
+hartford,Race/Ethnicity,Black,3.7,3.6,3.4,3.5,-1.3968880036911047,353
+hartford,With children,Children in household,3.7,3.7,3.4,3.6,-1.1314880187018255,397
+hartford,Gender,Female,3.7,3.6,3.4,3.4,-1.4085935562177707,351
+hartford,Education,High school or less,3.6,3.6,3.3,3.4,-1.6776227902473373,306
+hartford_inner_ring,Income,<$15K,3.3,3.2,3.3,3,-2.8288871059823375,112
+hartford_inner_ring,Income,$100K+,4,4,3.9,3.8,0.9383763033685876,745
+hartford_inner_ring,Income,$15K-$30K,3.7,3.6,3.4,3.1,-1.4437102137977684,345
+hartford_inner_ring,Income,$30K-$50K,3.8,3.7,3.4,3.4,-1.125010998495863,398
+hartford_inner_ring,Income,$50K-$75K,3.8,3.7,3.6,3.5,-0.6350232284286532,480
+hartford_inner_ring,Income,$75K-$100K,3.8,3.8,3.8,3.7,0.12036452662783374,607
+hartford_inner_ring,Age,Ages 18-34,3.4,3.6,3.5,3.6,-1.235705718172051,380
+hartford_inner_ring,Age,Ages 35-49,3.7,3.6,3.5,3.5,-1.157746894920833,393
+hartford_inner_ring,Age,Ages 50-64,4.1,3.8,3.7,3.5,-0.05252331141788505,578
+hartford_inner_ring,Age,Ages 65+,4.3,4.1,4,3.3,1.462348457746026,832
+hartford_inner_ring,Education,Bachelor's or higher,3.9,3.9,3.8,3.7,0.40394708434974175,655
+hartford_inner_ring,Race/Ethnicity,Black,3.9,3.8,3.6,3.5,-0.35144067070674623,528
+hartford_inner_ring,With children,Children in household,3.7,3.7,3.6,3.6,-0.6532058011612818,477
+hartford_inner_ring,Gender,Female,3.8,3.7,3.6,3.4,-0.6467287809553192,479
+hartford_inner_ring,Education,High school or less,3.8,3.6,3.5,3.3,-1.1512698747148702,394
+hartford_inner_ring,Race/Ethnicity,Latino,3.7,3.7,3.6,3.6,-0.6532058011612818,477
+hartford_inner_ring,Gender,Male,3.9,3.8,3.7,3.6,-0.10059400940980837,570
+hartford_inner_ring,With children,No children,3.9,3.8,3.7,3.4,-0.12400511446314029,566
+hartford_inner_ring,Education,Some college or Associate's,3.8,3.7,3.5,3.4,-0.8858698897255911,438
+hartford_inner_ring,Total,Total,3.8,3.8,3.7,3.5,-0.14218768719576905,563
+hartford_inner_ring,Race/Ethnicity,White,3.9,3.7,3.6,3.5,-0.6051351031693584,485
+hartford,Race/Ethnicity,Latino,3.6,3.5,3.4,3.5,-1.6804705614130129,305
+hartford,Gender,Male,3.9,3.7,3.5,3.6,-0.8325706594129644,447
+hartford,With children,No children,3.8,3.7,3.5,3.5,-0.8741643371989252,440
+hartford_outer_ring,Income,<$30K,3.7,3.7,3.6,3.5,-0.6649113536879477,475
+hartford_outer_ring,Income,$30K-$75K,3.8,4,3.9,3.7,0.8668945003233322,733
+hartford_outer_ring,Income,$75K+,4.1,4,4.1,4,1.4699577512217568,834
+hartford_outer_ring,Age,Ages 18-34,3.4,3.6,3.7,4,-0.7106012905248436,468
+hartford_outer_ring,Age,Ages 35-49,4.1,4,4,3.8,1.2074055373981543,790
+hartford_outer_ring,Age,Ages 50-64,4.1,4,4,3.9,1.21911108992482,792
+hartford_outer_ring,Age,Ages 65+,4.1,4.1,4.1,3.6,1.6768299735777052,868
+hartford_outer_ring,Education,Bachelor's or higher,4,4,4,3.9,1.1892229646655255,787
+hartford_outer_ring,With children,Children in household,4,3.9,4,3.9,0.9355285322029121,744
+hartford_outer_ring,Gender,Female,3.9,3.9,3.9,3.8,0.6547937456466795,697
+hartford_outer_ring,Education,High school or less,3.8,3.9,3.9,3.7,0.6132000678607188,690
+hartford_outer_ring,Gender,Male,4,3.9,4,3.9,0.9355285322029121,744
+hartford_outer_ring,With children,No children,3.9,4,3.9,3.8,0.9084881781092929,739
+hartford_outer_ring,Race/Ethnicity,Not white,3.6,3.7,3.7,3.7,-0.4322472651236386,515
+hartford_outer_ring,Education,Some college or Associate's,4,3.9,3.9,3.7,0.6729763183793083,700
+hartford_outer_ring,Total,Total,4,3.9,4,3.8,0.9238229796762462,742
+hartford_outer_ring,Race/Ethnicity,White,4,4,4,3.9,1.1892229646655255,787
+hartford,Education,Some college or Associate's,3.9,3.6,3.4,3.4,-1.3488173056991815,361
+hartford,Total,Total,3.8,3.7,3.5,3.5,-0.8741643371989252,440
+hartford,Race/Ethnicity,White,3.9,3.7,3.6,3.7,-0.5817239981160265,489
+manchester,Income,<$75K,3.4,3.5,3.4,3.6,-1.728541259404936,297
+manchester,Income,$75K+,3.6,3.8,3.6,3.7,-0.4176939414312983,517
+manchester,Age,Age 55 or older,4.2,3.9,3.8,3.5,0.470200355074294,666
+manchester,Education,Bachelor's or higher,3.8,3.7,3.8,3.9,-0.10991880078144664,569
+manchester,Gender,Female,3.6,3.7,3.6,3.6,-0.6830939264205765,472
+manchester,Gender,Male,3.6,3.7,3.4,3.7,-1.1496705914344543,394
+manchester,Education,Some college or less,3.4,3.6,3.4,3.5,-1.486552379468989,338
+manchester,Total,Total,3.6,3.7,3.5,3.6,-0.9222350351908485,432
+manchester,Age,Under age 55,3.3,3.6,3.4,3.8,-1.4813238471482857,338
+meriden,Income,<$30K,3.5,3.2,3,2.9,-3.4982397343012286,0
+meriden,Income,$30K-$75K,3.9,3.8,3.6,3.5,-0.35144067070674623,528
+meriden,Income,$75K+,4,3.9,3.9,3.8,0.6846818709059742,702
+meriden,Age,Age 55 or older,4.3,4,3.9,3.2,0.957807363986476,748
+meriden,Education,Bachelor's or higher,4.1,3.8,3.8,3.8,0.22173445493238364,624
+meriden,With children,Children in household,3.9,3.8,3.8,3.6,0.1385470993604625,610
+meriden,Gender,Female,3.9,3.7,3.7,3.4,-0.37769954692575247,524
+meriden,Education,High school or less,3.6,3.8,3.6,3,-0.49963280911795993,503
+meriden,Gender,Male,3.9,3.8,3.6,3.4,-0.36314622323341217,526
+meriden,With children,No children,3.9,3.7,3.5,3.3,-0.8676873169929622,441
+meriden,Race/Ethnicity,Not white,3.8,3.6,3.7,3.4,-0.6612821046476605,476
+meriden,Education,Some college or Associate's,3.9,3.6,3.5,3.4,-1.1096761969289097,401
+meriden,Total,Total,3.9,3.7,3.6,3.4,-0.6168406556960243,484
+meriden,Age,Under age 55,3.7,3.6,3.5,3.6,-1.1460413423941669,395
+meriden,Race/Ethnicity,White,3.9,3.8,3.6,3.4,-0.36314622323341217,526
+middlesex_county,Income,<$75K,3.9,3.6,3.5,3.4,-1.1096761969289097,401
+middlesex_county,Income,$75K+,4.3,4.1,4,3.8,1.5208762203793558,842
+middlesex_county,Age,Age 55 or older,4.1,3.9,3.8,3.6,0.45201778234166506,663
+middlesex_county,Education,Bachelor's or higher,4.2,3.9,3.9,3.8,0.7444581214245637,712
+middlesex_county,With children,Children in household,4,4,3.8,3.8,0.6992351945983158,704
+middlesex_county,Gender,Female,3.9,3.9,3.7,3.6,0.15310042305280494,613
+middlesex_county,Education,High school or less,3.9,4,3.6,3.4,0.14424264169181455,611
+middlesex_county,Gender,Male,4.2,4,3.8,3.7,0.7473058925902392,712
+middlesex_county,With children,No children,4,3.9,3.8,3.6,0.4221296570823705,658
+middlesex_county,Education,Some college or Associate's,3.9,3.9,3.6,3.6,-0.08604068571746692,573
+middlesex_county,Total,Total,4,3.9,3.8,3.6,0.4221296570823705,658
+middlesex_county,Age,Under age 55,4,3.9,3.7,3.7,0.1946941008387656,620
+middletown,Income,<$75K,3.7,3.7,3.5,3.4,-0.9157580149848856,433
+middletown,Income,$75K+,4.3,4.2,4.1,3.7,2.002006209085575,923
+middletown,Age,Age 55 or older,4.2,4,3.9,3.5,0.9630358963071792,749
+middletown,Education,Bachelor's or higher,4,4,3.9,3.6,0.9149651983152557,741
+middletown,Gender,Female,3.7,3.7,3.6,3.5,-0.6649113536879477,475
+middletown,Gender,Male,4.2,4.1,3.8,3.4,0.9658836674728536,749
+middletown,Education,Some college or less,3.9,3.8,3.6,3.4,-0.36314622323341217,526
+middletown,Total,Total,4,3.9,3.7,3.5,0.17128299578543368,616
+middletown,Age,Under age 55,3.9,3.8,3.6,3.5,-0.35144067070674623,528
+milford,Income,<$75K,3.9,3.6,3.4,3.7,-1.3137006481191835,367
+milford,Income,$75K+,4.1,4.2,4,3.8,1.7147944023233805,875
+milford,Age,Age 55 or older,4.2,4,4,3.7,1.2255881101307828,793
+milford,Education,Bachelor's or higher,4.2,4,3.9,3.9,1.009858106413843,757
+milford,With children,Children in household,3.9,3.9,3.8,4,0.43906374192973957,661
+milford,Gender,Female,4.1,3.9,3.8,3.8,0.47542888739499695,667
+milford,Gender,Male,4,3.8,3.7,3.8,-0.04729477909718181,579
+milford,With children,No children,4.1,3.9,3.7,3.7,0.22458222609806017,625
+milford,Education,Some college or less,3.9,3.8,3.6,3.6,-0.3397351181800803,530
+milford,Total,Total,4,3.9,3.7,3.8,0.2063996533654315,622
+milford,Age,Under age 55,3.9,3.8,3.6,3.8,-0.3163240131267484,534
+monroe,Total,Total,4.1,3.8,3.8,3.9,0.2334400074590496,626
+ncdhd,Income,<$30K,3.4,3.4,3.4,3,-2.052469007027545,243
+ncdhd,Income,$30K-$75K,3.5,3.6,3.6,3.4,-0.9900875891958163,421
+ncdhd,Income,$75K+,3.8,3.9,3.8,3.7,0.37405895909044706,650
+ncdhd,Age,Age 55 or older,4.1,4,3.9,3.3,0.9097366659945525,740
+ncdhd,Education,Bachelor's or higher,3.6,3.7,3.8,3.6,-0.20481170888003372,553
+ncdhd,With children,Children in household,3.5,3.7,3.6,3.5,-0.7246876042065371,465
+ncdhd,Gender,Female,3.6,3.6,3.6,3.3,-0.9719050164631876,424
+ncdhd,Education,High school or less,3.8,3.6,3.6,3.4,-0.9004232134179323,436
+ncdhd,Gender,Male,3.7,3.8,3.8,3.5,0.06706529631520725,598
+ncdhd,With children,No children,3.7,3.8,3.7,3.4,-0.18378136498172956,556
+ncdhd,Race/Ethnicity,Not white,3.4,3.7,3.6,3.5,-0.7545757294658318,460
+ncdhd,Education,Some college or Associate's,3.7,3.8,3.6,3.2,-0.4463335788053333,512
+ncdhd,Total,Total,3.7,3.7,3.7,3.4,-0.43747579744434184,514
+ncdhd,Age,Under age 55,3.5,3.6,3.5,3.5,-1.2175231454394224,383
+ncdhd,Race/Ethnicity,White,3.7,3.7,3.7,3.4,-0.43747579744434184,514
+nddh,Income,<$30K,3.7,3.3,3.3,2.9,-2.467345725009212,173
+nddh,Income,$30K-$75K,4.2,3.8,3.9,3.5,0.4556470313819525,664
+nddh,Income,$75K+,4.2,4.1,4.1,4,1.753540308943664,881
+nddh,Age,Age 55 or older,4.3,4,4,3.4,1.2203595778100795,792
+nddh,Education,Bachelor's or higher,4.1,3.9,4.1,3.7,1.1811466611791457,785
+nddh,With children,Children in household,4,3.9,4,3.8,0.9238229796762462,742
+nddh,Gender,Female,4,3.7,3.7,3.5,-0.3361058691397919,531
+nddh,Education,High school or less,4.2,3.7,3.7,3.4,-0.28803517114786836,539
+nddh,Gender,Male,4.1,3.8,3.9,3.5,0.42575890612265765,658
+nddh,With children,No children,4.1,3.8,3.7,3.4,-0.064228863944551,576
+nddh,Education,Some college or Associate's,3.9,3.7,3.7,3.3,-0.3894050994524184,522
+nddh,Total,Total,4.1,3.8,3.8,3.5,0.18661779735238582,618
+nddh,Age,Under age 55,3.8,3.6,3.7,3.6,-0.6378709995943286,480
+new_britain,Income,<$30K,3.5,3.2,3.4,2.9,-2.541675299220142,161
+new_britain,Income,$30K-$75K,4,3.8,3.6,3.7,-0.29814144039411955,537
+new_britain,Income,$75K+,4,3.8,3.6,3.8,-0.28643588786745366,539
+new_britain,Age,Age 55 or older,4,3.8,3.8,3.2,0.12161301451309342,607
+new_britain,Education,Bachelor's or higher,4,3.7,3.6,4,-0.516719215276734,500
+new_britain,With children,Children in household,3.8,3.6,3.4,3.6,-1.355294325905144,360
+new_britain,Gender,Female,3.8,3.7,3.5,3.4,-0.8858698897255911,438
+new_britain,Education,High school or less,3.6,3.6,3.6,3.1,-0.9953161215165195,420
+new_britain,Gender,Male,3.8,3.6,3.6,3.5,-0.8887176608912664,438
+new_britain,With children,No children,3.8,3.6,3.7,3.4,-0.6612821046476605,476
+new_britain,Race/Ethnicity,Not white,3.8,3.6,3.6,3.6,-0.8770121083646004,440
+new_britain,Education,Some college or Associate's,4,3.7,3.5,3.4,-0.8260936392070016,448
+new_britain,Total,Total,3.8,3.6,3.6,3.4,-0.9004232134179323,436
+new_britain,Age,Under age 55,3.7,3.6,3.4,3.6,-1.3851824511644386,355
+new_britain,Race/Ethnicity,White,3.8,3.6,3.5,3.3,-1.1512698747148702,394
+new_haven,Income,<$30K,3.5,3.4,3.2,3.2,-2.4774519942554614,171
+new_haven,Income,$30K-$75K,4,3.8,3.6,3.6,-0.30984699292078555,535
+new_haven,Income,$75K+,3.9,4,3.9,4.1,0.9436048356892908,745
+new_haven,Age,Ages 18-34,3.6,3.7,3.6,3.8,-0.6596828213672447,476
+new_haven,Age,Ages 35-49,3.7,3.4,3.3,3.4,-2.155123529913269,225
+new_haven,Age,Ages 50-64,4,3.8,3.8,3.5,0.15672967209309124,613
+new_haven,Age,Ages 65+,3.9,3.9,3.9,3.3,0.5962659830133498,687
+new_haven,Education,Bachelor's or higher,3.9,3.7,3.8,3.9,-0.0800306755221519,574
+new_haven,Race/Ethnicity,Black,3.8,3.8,3.5,3.4,-0.6321754572629789,481
+new_haven,With children,Children in household,3.7,3.6,3.5,3.6,-1.1460413423941669,395
+new_haven,Gender,Female,3.7,3.6,3.6,3.5,-0.918605786150561,433
+new_haven,Education,High school or less,3.6,3.6,3.4,3.2,-1.4618927865303972,342
+new_haven_inner_ring,Income,<$30K,3.7,3.6,3.5,3.2,-1.1928635525008306,387
+new_haven_inner_ring,Income,$30K-$75K,3.9,3.8,3.6,3.4,-0.36314622323341217,526
+new_haven_inner_ring,Income,$75K+,3.8,4,3.9,3.8,0.8786000528499981,734
+new_haven_inner_ring,Age,Ages 18-34,3.6,3.6,3.6,3.6,-0.9367883588831898,430
+new_haven_inner_ring,Age,Ages 35-49,3.7,3.7,3.6,3.7,-0.6415002486346159,479
+new_haven_inner_ring,Age,Ages 50-64,4,4,3.9,3.5,0.9032596457885897,739
+new_haven_inner_ring,Age,Ages 65+,4.3,4,3.8,3.2,0.7186662552162041,708
+new_haven_inner_ring,Education,Bachelor's or higher,3.8,4,3.9,3.7,0.8668945003233322,733
+new_haven_inner_ring,Race/Ethnicity,Black,4.2,3.9,3.8,3.4,0.45849480254762803,664
+new_haven_inner_ring,With children,Children in household,3.8,3.9,3.8,3.7,0.37405895909044706,650
+new_haven_inner_ring,Gender,Female,3.8,3.8,3.7,3.5,-0.14218768719576905,563
+new_haven_inner_ring,Education,High school or less,3.8,3.8,3.8,3.5,0.09695342157450182,603
+new_haven_inner_ring,Race/Ethnicity,Latino,3.7,3.6,3.7,3.4,-0.6911702299069551,471
+new_haven_inner_ring,Gender,Male,3.9,3.8,3.8,3.5,0.12684154683379653,608
+new_haven_inner_ring,With children,No children,3.9,3.8,3.7,3.4,-0.12400511446314029,566
+new_haven_inner_ring,Education,Some college or Associate's,3.9,3.6,3.5,3.3,-1.1213817494555756,399
+new_haven_inner_ring,Total,Total,3.9,3.8,3.7,3.5,-0.11229956193647433,568
+new_haven_inner_ring,Race/Ethnicity,White,3.9,3.7,3.6,3.5,-0.6051351031693584,485
+new_haven,Race/Ethnicity,Latino,3.6,3.5,3.3,3.6,-1.9079061176566183,267
+new_haven,Gender,Male,3.8,3.8,3.7,3.7,-0.11877658214243712,567
+new_haven,With children,No children,3.8,3.7,3.7,3.6,-0.38417656713171533,523
+new_haven_outer_ring,Income,<$30K,4,3.5,3.5,3.5,-1.3217769516055622,365
+new_haven_outer_ring,Income,$30K-$75K,3.8,3.7,3.6,3.6,-0.6233176759019873,482
+new_haven_outer_ring,Income,$75K+,4,3.9,4,3.9,0.9355285322029121,744
+new_haven_outer_ring,Age,Ages 18-34,3.7,3.6,3.4,3.9,-1.350065793584441,360
+new_haven_outer_ring,Age,Ages 35-49,3.7,3.7,3.8,3.8,-0.15151247856740718,562
+new_haven_outer_ring,Age,Ages 50-64,4,3.8,3.9,3.7,0.419281885916695,657
+new_haven_outer_ring,Age,Ages 65+,4.4,4.1,4,3.5,1.5156476880586527,841
+new_haven_outer_ring,Education,Bachelor's or higher,4.1,3.9,3.9,3.8,0.7145699961652688,707
+new_haven_outer_ring,With children,Children in household,3.7,3.7,3.8,3.9,-0.13980692604074121,564
+new_haven_outer_ring,Gender,Female,4,3.8,3.9,3.7,0.419281885916695,657
+new_haven_outer_ring,Education,High school or less,4.1,3.7,3.7,3.5,-0.3062177438804973,536
+new_haven_outer_ring,Gender,Male,4,3.8,3.8,3.8,0.19184632967308907,619
+new_haven_outer_ring,With children,No children,4.1,3.8,3.8,3.7,0.21002890240571773,622
+new_haven_outer_ring,Education,Some college or Associate's,3.7,3.6,3.7,3.7,-0.6560535723269573,477
+new_haven_outer_ring,Total,Total,4,3.8,3.8,3.8,0.19184632967308907,619
+new_haven,Education,Some college or Associate's,3.8,3.7,3.5,3.6,-0.8624587846722592,442
+new_haven,Total,Total,3.8,3.7,3.6,3.6,-0.6233176759019873,482
+new_haven,Race/Ethnicity,White,3.7,3.7,3.7,3.7,-0.40235913986434396,520
+new_london,Income,<$75K,3.5,3.4,3.3,3.6,-2.1914886753785265,219
+new_london,Income,$75K+,4,4.2,4,3.9,1.6966118295907522,872
+new_london,Age,Age 55 or older,4.3,3.9,3.9,3.4,0.7275240365771944,709
+new_london,Education,Bachelor's or higher,3.9,3.8,3.7,3.8,-0.07718290435647651,574
+new_london,Gender,Female,3.6,3.5,3.6,3.4,-1.213893896399135,383
+new_london,Education,Less than Bachelor's degree,3.6,3.5,3.4,3.4,-1.692176113939679,303
+new_london,Gender,Male,3.8,3.6,3.4,3.7,-1.3435887733784782,362
+new_london,Race/Ethnicity,Not white,3.6,3.5,3.4,3.6,-1.6687650088863468,307
+new_london,Total,Total,3.7,3.6,3.5,3.6,-1.1460413423941669,395
+new_london,Age,Under age 55,3.4,3.4,3.3,3.6,-2.221376800637821,214
+new_london,Race/Ethnicity,White,3.7,3.7,3.6,3.6,-0.6532058011612818,477
+new_milford,Income,<$75K,3.7,3.6,3.6,3.5,-0.918605786150561,433
+new_milford,Income,$75K+,4.1,4,4,4,1.2308166424514861,794
+new_milford,Age,Age 55 or older,4.2,4.2,4.1,3.7,1.9721180838262802,918
+new_milford,Education,Bachelor's or higher,4,4,4,3.9,1.1892229646655255,787
+new_milford,With children,Children in household,4,3.9,3.9,3.8,0.6846818709059742,702
+new_milford,Gender,Female,3.9,3.9,3.7,3.7,0.16480597557947088,615
+new_milford,Education,High school or less,4,3.8,3.6,3.4,-0.33325809797411743,531
+new_milford,Gender,Male,4.1,3.8,3.9,3.7,0.4491700111759896,662
+new_milford,With children,No children,3.9,3.8,3.8,3.6,0.1385470993604625,610
+new_milford,Education,Some college or Associate's,3.7,3.6,3.7,3.6,-0.6677591248536232,475
+new_milford,Total,Total,4,3.8,3.8,3.7,0.18014077714642315,617
+new_milford,Age,Under age 55,3.8,3.6,3.7,3.7,-0.6261654470676626,482
+newtown,Income,<$75K,3.8,3.5,3.5,3.5,-1.3815532021241517,355
+newtown,Income,$75K+,3.9,4,4,3.9,1.1593348394062308,782
+newtown,Age,Age 55 or older,4.2,4,4,3.8,1.237293662657449,795
+newtown,Education,Bachelor's or higher,4.1,4.1,4,4.1,1.4962166274407642,838
+newtown,With children,Children in household,3.9,3.9,3.9,3.9,0.6664992981733454,699
+newtown,Gender,Female,3.8,3.8,3.8,3.9,0.1437756316811656,611
+newtown,Gender,Male,4.1,4.1,3.9,3.8,1.2219588610904946,792
+newtown,With children,No children,4,3.9,3.9,3.8,0.6846818709059742,702
+newtown,Education,Some college or less,3.8,3.7,3.7,3.5,-0.39588211965838127,521
+newtown,Total,Total,4,3.9,3.9,3.8,0.6846818709059742,702
+newtown,Age,Under age 55,3.8,3.9,3.8,3.9,0.3974700641437789,654
+norwalk,Income,<$30K,3.5,3.4,3.3,3.2,-2.2383108854851903,211
+norwalk,Income,$30K-$75K,3.7,3.8,3.5,3.6,-0.6386524774689415,480
+norwalk,Income,$75K+,4.1,4.2,4,4,1.7382055073767124,879
+norwalk,Age,Ages 18-34,3.5,3.8,3.6,3.7,-0.447582066690593,512
+norwalk,Age,Ages 35-49,4.2,4,3.9,3.9,1.009858106413843,757
+norwalk,Age,Ages 50-64,4.1,4,3.9,3.7,0.9565588761012163,748
+norwalk,Age,Ages 65+,4.1,4,3.9,3.5,0.9331477710478844,744
+norwalk,Education,Bachelor's or higher,4.1,4,3.9,3.8,0.9682644286278822,750
+norwalk,With children,Children in household,4,3.9,3.9,3.7,0.6729763183793083,700
+norwalk,Gender,Female,3.9,4,3.7,3.6,0.4067948555154183,655
+norwalk,Education,High school or less,3.8,3.8,3.7,3.5,-0.14218768719576905,563
+norwalk,Gender,Male,3.9,3.9,3.9,3.9,0.6664992981733454,699
+norwalk,With children,No children,3.9,3.9,3.8,3.7,0.40394708434974175,655
+norwalk,Race/Ethnicity,Not white,3.9,3.9,3.7,3.5,0.14139487052613897,611
+norwalk,Education,Some college or Associate's,3.7,3.8,3.7,3.6,-0.16037025992839765,560
+norwalk,Total,Total,3.9,3.9,3.8,3.7,0.40394708434974175,655
+norwalk,Race/Ethnicity,White,4,3.9,3.9,3.9,0.6963874234326402,704
+nyborder,Income,<$30K,3.7,3.6,3.5,3.2,-1.1928635525008306,387
+nyborder,Income,$30K-$75K,4,3.9,4,3.5,0.8887063220962483,736
+nyborder,Income,$75K+,4,4.1,4.1,4,1.6937640584250744,871
+nyborder,Age,Ages 18-34,3.7,3.9,3.8,3.8,0.3558763863578184,647
+nyborder,Age,Ages 35-49,3.9,4,3.9,3.8,0.9084881781092929,739
+nyborder,Age,Ages 50-64,3.8,4,4,3.7,1.106035609093604,773
+nyborder,Age,Ages 65+,4.3,3.9,4.1,3.5,1.217511806644403,791
+nyborder,Education,Bachelor's or higher,4.1,4,4.1,3.9,1.4582521986950907,832
+nyborder,With children,Children in household,3.8,4,4,3.8,1.1177411616202702,775
+nyborder,Gender,Female,4.1,3.9,4,3.8,0.9537111049355407,747
+nyborder,Education,High school or less,3.6,3.7,3.6,3.2,-0.7299161365272403,465
+nyborder,Gender,Male,3.9,3.9,3.9,3.6,0.6313826405933476,693
+nyborder,With children,No children,4.1,3.9,4,3.7,0.9420055524088747,745
+nyborder,Race/Ethnicity,Not white,3.8,3.9,3.8,3.6,0.36235340656378107,648
+nyborder,Education,Some college or Associate's,4.1,4,4,3.8,1.2074055373981543,790
+nyborder,Total,Total,4,3.9,3.9,3.7,0.6729763183793083,700
+nyborder,Race/Ethnicity,White,4.1,3.9,4,3.8,0.9537111049355407,747
+pomperaug,Income,<$75K,3.6,3.7,3.5,3.2,-0.9690572452975122,424
+pomperaug,Income,$75K+,4.1,4.1,4.1,4,1.723652183684369,876
+pomperaug,Age,Age 55 or older,4.2,4,4,3.6,1.213882557604117,791
+pomperaug,Education,Bachelor's or higher,4.1,4.1,4,3.8,1.4610999698607665,832
+pomperaug,With children,Children in household,3.8,4.1,3.8,3.8,0.8931533765423386,737
+pomperaug,Gender,Female,3.9,4.1,3.9,3.6,1.1387715055185732,778
+pomperaug,Gender,Male,4.1,3.8,3.9,3.8,0.4608755637026555,664
+pomperaug,With children,No children,4.1,3.9,3.9,3.6,0.691158891111937,703
+pomperaug,Education,Some college or less,3.8,3.7,3.7,3.5,-0.39588211965838127,521
+pomperaug,Total,Total,4,3.9,3.9,3.7,0.6729763183793083,700
+pomperaug,Age,Under age 55,3.8,3.9,3.7,3.8,0.14662340284684208,612
+port_chester_ny,Income,<$75K,3.8,3.8,3.8,3.4,0.08524786904783586,601
+port_chester_ny,Income,$75K+,4,4,4.1,3.8,1.4166585209091305,825
+port_chester_ny,Age,Age 55 or older,4.1,3.8,3.8,3.5,0.18661779735238582,618
+port_chester_ny,Education,Bachelor's or higher,4.1,3.9,4.1,3.8,1.1928522137058117,787
+port_chester_ny,With children,Children in household,3.8,4,4,3.6,1.0943300565669383,771
+port_chester_ny,Gender,Female,4,3.8,3.9,3.5,0.3958707808633631,653
+port_chester_ny,Education,High school or less,3.6,3.8,3.7,3.2,-0.23708059529435616,547
+port_chester_ny,Gender,Male,3.8,3.9,3.9,3.6,0.6014945153340528,688
+port_chester_ny,With children,No children,4.1,3.8,4,3.5,0.6649000148929295,699
+port_chester_ny,Race/Ethnicity,Not white,3.8,3.8,3.8,3.4,0.08524786904783586,601
+port_chester_ny,Education,Some college or Associate's,4.1,3.7,3.9,3.7,0.1954755787133773,620
+port_chester_ny,Total,Total,3.9,3.8,3.9,3.6,0.3776882081307343,650
+port_chester_ny,Age,Under age 55,3.8,3.9,3.9,3.6,0.6014945153340528,688
+port_chester_ny,Race/Ethnicity,White,4,3.8,4,3.7,0.6584229946869669,698
+stamford,Income,<$30K,3.5,3.7,3.5,3.2,-0.9989453705568069,419
+stamford,Income,$30K-$75K,4,4,3.8,3.9,0.7109407471249818,706
+stamford,Income,$75K+,4.2,4.1,4,4.1,1.5261047527000589,843
+stamford,Age,Ages 18-34,3.9,4,3.8,3.9,0.6810526218656869,701
+stamford,Age,Ages 35-49,4.1,3.9,3.8,4,0.4988399924483289,671
+stamford,Age,Ages 50-64,4.1,4,4,3.9,1.21911108992482,792
+stamford,Age,Ages 65+,4.2,4.1,4.1,3.6,1.7067180988370003,873
+stamford,Education,Bachelor's or higher,4.2,4,4,4,1.2607047677107808,799
+stamford,Race/Ethnicity,Black,4.1,4,4,3.7,1.1956999848714882,788
+stamford,With children,Children in household,4.1,4,3.9,4,0.9916755336812141,753
+stamford,Gender,Female,4,4,3.9,3.8,0.9383763033685876,745
+stamford,Education,High school or less,3.7,4,3.8,3.6,0.5861597137670999,685
+stamford,Race/Ethnicity,Latino,3.9,3.9,3.8,3.8,0.41565263687640763,657
+stamford,Gender,Male,4.2,4,3.9,3.8,0.998152553887177,755
+stamford,With children,No children,4.1,4,3.9,3.8,0.9682644286278822,750
+stamford,Education,Some college or Associate's,4,3.9,3.7,3.6,0.18298854831209965,618
+stamford,Total,Total,4.1,4,3.9,3.9,0.9799699811545481,751
+stamford,Race/Ethnicity,White,4.1,4,3.9,3.9,0.9799699811545481,751
+stratford,Income,<$75K,3.8,3.6,3.3,3.3,-1.6295520922554139,314
+stratford,Income,$75K+,3.9,4,3.9,3.8,0.9084881781092929,739
+stratford,Age,Age 55 or older,4.1,3.9,3.8,3.4,0.4286066772883332,659
+stratford,Education,Bachelor's or higher,4.2,3.9,3.8,3.7,0.4936114601276259,670
+stratford,With children,Children in household,3.8,3.9,3.7,3.6,0.12321229779351023,608
+stratford,Gender,Female,3.9,3.9,3.7,3.6,0.15310042305280494,613
+stratford,Education,High school or less,3.5,3.9,3.5,3.3,-0.47985095310491543,507
+stratford,Gender,Male,3.8,3.7,3.5,3.4,-0.8858698897255911,438
+stratford,With children,No children,3.9,3.7,3.5,3.5,-0.8442762119396303,445
+stratford,Education,Some college or Associate's,3.7,3.5,3.4,3.5,-1.650582436153718,310
+stratford,Total,Total,3.8,3.8,3.6,3.5,-0.3813287959660409,523
+stratford,Age,Under age 55,3.6,3.7,3.5,3.6,-0.9222350351908485,432
+trumbull,Income,<$100K,3.9,3.7,3.6,3.5,-0.6051351031693584,485
+trumbull,Income,$100K+,4.1,3.9,4,3.9,0.9654166574622066,749
+trumbull,Age,Age 55 or older,4.1,4.1,3.9,3.6,1.1985477560371627,788
+trumbull,Education,Bachelor's or higher,3.9,3.8,3.8,3.7,0.15025265188712844,612
+trumbull,Gender,Female,4.1,3.8,3.8,3.6,0.19832334987905179,620
+trumbull,Gender,Male,3.9,4,3.9,3.7,0.896782625582627,738
+trumbull,Education,Some college or less,4.2,3.9,3.8,3.5,0.470200355074294,666
+trumbull,Total,Total,4,3.8,3.8,3.7,0.18014077714642315,617
+trumbull,Age,Under age 55,3.9,3.7,3.8,3.7,-0.10344178057548377,570
+valley,Income,<$30K,3.8,3.6,3.3,3.4,-1.617846539728748,316
+valley,Income,$30K-$75K,4,3.8,3.6,3.6,-0.30984699292078555,535
+valley,Income,$75K+,4,3.9,3.9,3.9,0.6963874234326402,704
+valley,Age,Ages 18-34,3.7,3.7,3.5,3.8,-0.8689358048782219,441
+valley,Age,Ages 35-49,3.9,3.7,3.5,3.8,-0.8091595543596325,451
+valley,Age,Ages 50-64,4.1,3.8,3.8,3.6,0.19832334987905179,620
+valley,Age,Ages 65+,4.2,4,3.9,3.4,0.9513303437805133,747
+valley,Education,Bachelor's or higher,4.1,3.9,3.8,3.9,0.4871344399216629,669
+valley,With children,Children in household,3.9,3.8,3.7,3.8,-0.07718290435647651,574
+valley,Gender,Female,4,3.7,3.6,3.7,-0.5518358728567319,494
+valley,Education,High school or less,3.9,3.7,3.6,3.4,-0.6168406556960243,484
+valley,Gender,Male,4.1,3.9,3.8,3.7,0.46372333486833106,665
+valley,With children,No children,4,3.9,3.7,3.6,0.18298854831209965,618
+valley,Race/Ethnicity,Not white,4.1,4,3.7,3.8,0.4899822110873394,669
+valley,Education,Some college or Associate's,4,3.8,3.7,3.6,-0.07070588415051367,575
+valley,Total,Total,4,3.8,3.7,3.7,-0.05900033162384771,577
+valley,Race/Ethnicity,White,4,3.8,3.7,3.6,-0.07070588415051367,575
+wallingford,Income,<$75K,3.8,3.6,3.5,3.6,-1.1161532171348723,400
+wallingford,Income,$75K+,4.1,4.1,4,3.8,1.4610999698607665,832
+wallingford,Age,Age 55 or older,4.2,4.1,4,3.6,1.4675769900667293,833
+wallingford,Education,Bachelor's or higher,4.2,4,3.8,3.8,0.7590114451169051,714
+wallingford,Gender,Female,3.8,3.8,3.7,3.6,-0.13048213466910308,565
+wallingford,Gender,Male,4.2,4,3.9,3.7,0.9864470013605111,753
+wallingford,Education,Some college or less,3.8,3.8,3.7,3.6,-0.13048213466910308,565
+wallingford,Total,Total,4,3.9,3.8,3.7,0.4338352096090365,660
+wallingford,Age,Under age 55,3.8,3.8,3.7,3.8,-0.10707102961577122,569
+waterbury,Income,<$30K,3.6,3.4,3.3,3.2,-2.2084227602258957,216
+waterbury,Income,$30K-$75K,3.9,3.8,3.5,3.4,-0.6022873320036841,486
+waterbury,Income,$75K+,4,3.9,3.7,3.9,0.21810520589209748,624
+waterbury,Age,Ages 18-34,3.6,3.5,3.3,3.7,-1.8962005651299525,269
+waterbury,Age,Ages 35-49,3.7,3.6,3.3,3.4,-1.6477346649880427,311
+waterbury,Age,Ages 50-64,4,3.8,3.7,3.2,-0.11752809425717745,567
+waterbury,Age,Ages 65+,4,3.8,3.9,3,0.3373430182300333,644
+waterbury,Education,Bachelor's or higher,3.9,3.9,3.8,3.7,0.40394708434974175,655
+waterbury,Race/Ethnicity,Black,4,3.8,3.5,3.5,-0.5606936542177234,493
+waterbury,With children,Children in household,3.7,3.8,3.5,3.5,-0.6503580299956074,478
+waterbury,Gender,Female,3.7,3.6,3.5,3.4,-1.169452447447499,391
+waterbury,Education,High school or less,3.7,3.6,3.4,3.3,-1.4202991087444365,349
+waterbury,Race/Ethnicity,Latino,3.8,3.7,3.5,3.6,-0.8624587846722592,442
+waterbury,Gender,Male,3.9,3.7,3.5,3.4,-0.8559817644662963,443
+waterbury,With children,No children,3.9,3.6,3.5,3.3,-1.1213817494555756,399
+waterbury,Education,Some college or Associate's,3.8,3.6,3.4,3.3,-1.390410983485142,354
+waterbury,Total,Total,3.8,3.7,3.5,3.4,-0.8858698897255911,438
+waterbury,Race/Ethnicity,White,3.7,3.6,3.5,3.2,-1.1928635525008306,387
+west_hartford,Income,<$75K,3.6,3.6,3.5,3.6,-1.1759294676534617,390
+west_hartford,Income,$75K+,4,4.1,4.2,4.3,1.9680218247753452,917
+west_hartford,Age,Age 55 or older,4.2,4.1,4.1,3.8,1.7301292038903322,877
+west_hartford,Education,Bachelor's or higher,4.1,4.1,4,4.1,1.4962166274407642,838
+west_hartford,With children,Children in household,3.8,4,4.2,4.2,1.6428455892674776,863
+west_hartford,Gender,Female,3.9,3.9,3.8,4,0.43906374192973957,661
+west_hartford,Gender,Male,3.9,4.1,4.2,4.1,1.9147225944627184,908
+west_hartford,With children,No children,4.1,4,3.9,3.9,0.9799699811545481,751
+west_hartford,Education,Some college or less,3.5,3.8,3.9,3.8,0.2815468121468875,634
+west_hartford,Total,Total,4,4,4,4,1.2009285171921915,789
+west_hartford,Age,Under age 55,3.7,3.9,3.9,4.2,0.6418397052347541,695
+west_haven,Income,<$75K,3.8,3.5,3.4,3.2,-1.655810968474421,309
+west_haven,Income,$75K+,3.7,3.7,3.8,3.5,-0.186629136147405,556
+west_haven,Age,Age 55 or older,4.2,4,3.8,3.3,0.7004836824835754,705
+west_haven,Education,Bachelor's or higher,3.8,3.7,3.8,3.6,-0.14503545836144446,563
+west_haven,With children,Children in household,3.9,3.7,3.7,3.5,-0.36599399439908653,526
+west_haven,Gender,Female,3.7,3.7,3.6,3.4,-0.6766169062146137,473
+west_haven,Education,High school or less,3.9,3.7,3.8,3.3,-0.1502639906821476,562
+west_haven,Gender,Male,3.9,3.6,3.7,3.3,-0.6430995319150318,479
+west_haven,With children,No children,3.8,3.6,3.6,3.3,-0.9121287659445982,434
+west_haven,Race/Ethnicity,Not white,3.9,3.6,3.8,3.5,-0.380547318091429,523
+west_haven,Education,Some college or Associate's,3.8,3.4,3.3,3.2,-2.1486465097073064,226
+west_haven,Total,Total,3.8,3.6,3.6,3.3,-0.9121287659445982,434
+west_haven,Age,Under age 55,3.7,3.4,3.5,3.3,-1.6885468648993913,304
+west_haven,Race/Ethnicity,White,3.8,3.6,3.5,3.2,-1.162975427241536,392

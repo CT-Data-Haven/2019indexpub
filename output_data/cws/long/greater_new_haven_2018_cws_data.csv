@@ -12142,1343 +12142,1343 @@ SOCI1,Income,$200K+,Bisexual,0.01,2018
 SOCI1,Income,$200K+,Something else,0.02,2018
 SOCI1,Income,$200K+,I don't know the answer,0,2018
 SOCI1,Income,$200K+,Refused,0.01,2018
-Q1,With children,No,Yes,0.81,2018
-Q1,With children,No,No,0.17,2018
-Q1,With children,No,Don't know,0.01,2018
-Q1,With children,No,Refused,0,2018
-Q2,With children,No,Much better,0.07,2018
-Q2,With children,No,Somewhat better,0.2,2018
-Q2,With children,No,About the same,0.51,2018
-Q2,With children,No,Somewhat worse,0.16,2018
-Q2,With children,No,Much worse,0.05,2018
-Q2,With children,No,Don't know,0.01,2018
-Q2,With children,No,Refused,0,2018
-Q4A,With children,No,Excellent,0.11,2018
-Q4A,With children,No,Good,0.33,2018
-Q4A,With children,No,Fair,0.3,2018
-Q4A,With children,No,Poor,0.15,2018
-Q4A,With children,No,Don't know enough about it in order to say,0.11,2018
-Q4A,With children,No,Refused,0,2018
-Q4D,With children,No,Excellent,0.29,2018
-Q4D,With children,No,Good,0.46,2018
-Q4D,With children,No,Fair,0.17,2018
-Q4D,With children,No,Poor,0.05,2018
-Q4D,With children,No,Don't know enough about it in order to say,0.03,2018
-Q4D,With children,No,Refused,0,2018
-Q4E,With children,No,Excellent,0.07,2018
-Q4E,With children,No,Good,0.33,2018
-Q4E,With children,No,Fair,0.32,2018
-Q4E,With children,No,Poor,0.12,2018
-Q4E,With children,No,Don't know enough about it in order to say,0.17,2018
-Q4E,With children,No,Refused,0,2018
-Q4F,With children,No,Excellent,0.3,2018
-Q4F,With children,No,Good,0.39,2018
-Q4F,With children,No,Fair,0.17,2018
-Q4F,With children,No,Poor,0.07,2018
-Q4F,With children,No,Don't know enough about it in order to say,0.07,2018
-Q4F,With children,No,Refused,0,2018
-Q4G,With children,No,Excellent,0.23,2018
-Q4G,With children,No,Good,0.46,2018
-Q4G,With children,No,Fair,0.19,2018
-Q4G,With children,No,Poor,0.07,2018
-Q4G,With children,No,Don't know enough about it in order to say,0.04,2018
-Q4G,With children,No,Refused,0,2018
-Q4H,With children,No,Excellent,0.26,2018
-Q4H,With children,No,Good,0.45,2018
-Q4H,With children,No,Fair,0.18,2018
-Q4H,With children,No,Poor,0.06,2018
-Q4H,With children,No,Don't know enough about it in order to say,0.04,2018
-Q4H,With children,No,Refused,0,2018
-Q6,With children,No,Great influence,0.05,2018
-Q6,With children,No,Moderate influence,0.29,2018
-Q6,With children,No,A little influence,0.35,2018
-Q6,With children,No,No influence at all,0.27,2018
-Q6,With children,No,Don't know,0.03,2018
-Q6,With children,No,Refused,0,2018
-Q9,With children,No,Very often,0.78,2018
-Q9,With children,No,Fairly often,0.07,2018
-Q9,With children,No,Sometimes,0.07,2018
-Q9,With children,No,Almost never,0.02,2018
-Q9,With children,No,Never at all,0.05,2018
-Q9,With children,No,Don't know,0.01,2018
-Q9,With children,No,Refused,0,2018
-Q57,With children,No,"Single, never married",0.38,2018
-Q57,With children,No,Married or civil union,0.37,2018
-Q57,With children,No,Living with partner,0.05,2018
-Q57,With children,No,Separated,0.01,2018
-Q57,With children,No,Divorced,0.09,2018
-Q57,With children,No,Widowed,0.09,2018
-Q57,With children,No,Refused,0.01,2018
-Q60,With children,No,One,0.32,2018
-Q60,With children,No,Two,0.44,2018
-Q60,With children,No,Three,0.15,2018
-Q60,With children,No,Four or more,0.09,2018
-Q60,With children,No,Refused,0.01,2018
-Q11,With children,No,I own my home,0.56,2018
-Q11,With children,No,I rent my home,0.3,2018
-Q11,With children,No,I live with family or friends who own,0.08,2018
-Q11,With children,No,I live with family or friends who rent,0.02,2018
-Q11,With children,No,Other,0.02,2018
-Q11,With children,No,Refused,0.01,2018
-Q12,With children,No,Yes,0.26,2018
-Q12,With children,No,No,0.73,2018
-Q12,With children,No,Don't know,0,2018
-Q12,With children,No,Refused,0.01,2018
-MOVEYEAR,With children,No,Within the last 3 years,0.17,2018
-MOVEYEAR,With children,No,4 to 10 years ago,0.23,2018
-MOVEYEAR,With children,No,11 to 19 years ago,0.16,2018
-MOVEYEAR,With children,No,20 or more years ago,0.4,2018
-MOVEYEAR,With children,No,Refused,0.03,2018
-RECENTMOVE,With children,No,"Was living in the same building, facility, or housing development that I live in now",0.04,2018
-RECENTMOVE,With children,No,"Was living somewhere in the same neighborhood, town, or city as my current home",0.4,2018
-RECENTMOVE,With children,No,In a different town or city within <state2>,0.4,2018
-RECENTMOVE,With children,No,In another U.S. state (please specify),0.12,2018
-RECENTMOVE,With children,No,"In Puerto Rico, USVI, or another U.S. territory",0,2018
-RECENTMOVE,With children,No,Somewhere outside of the United States,0.05,2018
-RECENTMOVE,With children,No,Don't know,0,2018
-RECENTMOVE,With children,No,Refused,0,2018
-RENTPREVST,With children,No,No,0.82,2018
-RENTPREVST,With children,No,Yes and I still own that home,0.07,2018
-RENTPREVST,With children,No,Yes and I sold that home,0.07,2018
-RENTPREVST,With children,No,Other,0.03,2018
-RENTPREVST,With children,No,Don't know,0,2018
-RENTPREVST,With children,No,Refused,0,2018
-RENTEVICT,With children,No,Yes,0.03,2018
-RENTEVICT,With children,No,No,0.97,2018
-RENTEVICT,With children,No,Don't know,0,2018
-RENTEVICT,With children,No,Refused,0,2018
-RENTEVICTRA,With children,No,Yes,0.02,2018
-RENTEVICTRA,With children,No,No,0.98,2018
-RENTEVICTRA,With children,No,Don't know,0,2018
-RENTEVICTRA,With children,No,Refused,0,2018
-RENTEVICTRAB,With children,No,Yes,0.06,2018
-RENTEVICTRAB,With children,No,No,0.93,2018
-RENTEVICTRAB,With children,No,Don't know,0,2018
-RENTEVICTRAB,With children,No,Refused,0,2018
-RENTEVICTRC,With children,No,Yes,0.02,2018
-RENTEVICTRC,With children,No,No,0.98,2018
-RENTEVICTRC,With children,No,Don't know,0,2018
-RENTEVICTRC,With children,No,Refused,0,2018
-RENTMOVEOT,With children,No,Rent increased at previous home or apartment,0.14,2018
-RENTMOVEOT,With children,No,Landlord would not fix things at previous home or apartment,0.05,2018
-RENTMOVEOT,With children,No,To save money,0.23,2018
-RENTMOVEOT,With children,No,Better quality or larger home,0.23,2018
-RENTMOVEOT,With children,No,Closer to work or school,0.22,2018
-RENTMOVEOT,With children,No,Better quality neighborhood or schools,0.16,2018
-RENTMOVEOT,With children,No,Relocated to a new city,0.31,2018
-RENTMOVEOT,With children,No,"Change in family status (i.e. marriage, divorce, children)",0.14,2018
-RENTMOVEOT,With children,No,Other,0.16,2018
-RENTMOVEOT,With children,No,Don't know,0.01,2018
-RENTMOVEOT,With children,No,Refused,0.01,2018
-Q13R1,With children,No,Yes,0.43,2018
-Q13R1,With children,No,No,0.57,2018
-Q13R1,With children,No,Don't know,0,2018
-Q13R1,With children,No,Refused,0,2018
-Q13R2,With children,No,Yes,0.76,2018
-Q13R2,With children,No,No,0.23,2018
-Q13R2,With children,No,Don't know,0,2018
-Q13R2,With children,No,Refused,0.01,2018
-Q13R3,With children,No,None,0.44,2018
-Q13R3,With children,No,A little difficulty,0.26,2018
-Q13R3,With children,No,Moderate difficulty,0.13,2018
-Q13R3,With children,No,Substantial difficulty,0.17,2018
-Q13R3,With children,No,Don't know,0,2018
-Q13R3,With children,No,Refused,0,2018
-Q14R1,With children,No,Definitely no,0.3,2018
-Q14R1,With children,No,Probably no,0.22,2018
-Q14R1,With children,No,Probably yes,0.24,2018
-Q14R1,With children,No,Definitely yes,0.22,2018
-Q14R1,With children,No,Don't know,0.02,2018
-Q14R1,With children,No,Refused,0,2018
-Q14R2,With children,No,Very likely,0.33,2018
-Q14R2,With children,No,Somewhat likely,0.32,2018
-Q14R2,With children,No,Not very likely,0.14,2018
-Q14R2,With children,No,Not at all likely,0.21,2018
-Q14R2,With children,No,Don't know,0.01,2018
-Q14R2,With children,No,Refused,0,2018
-Q17A,With children,No,Strongly agree,0.31,2018
-Q17A,With children,No,Somewhat agree,0.27,2018
-Q17A,With children,No,Somewhat disagree,0.17,2018
-Q17A,With children,No,Strongly disagree,0.23,2018
-Q17A,With children,No,Don't know,0,2018
-Q17A,With children,No,Refused,0.01,2018
-Q17B,With children,No,Strongly agree,0.43,2018
-Q17B,With children,No,Somewhat agree,0.23,2018
-Q17B,With children,No,Somewhat disagree,0.11,2018
-Q17B,With children,No,Strongly disagree,0.21,2018
-Q17B,With children,No,Don't know,0.01,2018
-Q17B,With children,No,Refused,0,2018
-Q17C,With children,No,Strongly agree,0.35,2018
-Q17C,With children,No,Somewhat agree,0.32,2018
-Q17C,With children,No,Somewhat disagree,0.14,2018
-Q17C,With children,No,Strongly disagree,0.16,2018
-Q17C,With children,No,Don't know,0.03,2018
-Q17C,With children,No,Refused,0,2018
-Q17E,With children,No,Strongly agree,0.37,2018
-Q17E,With children,No,Somewhat agree,0.33,2018
-Q17E,With children,No,Somewhat disagree,0.13,2018
-Q17E,With children,No,Strongly disagree,0.15,2018
-Q17E,With children,No,Don't know,0.02,2018
-Q17E,With children,No,Refused,0,2018
-Q17F,With children,No,Strongly agree,0.15,2018
-Q17F,With children,No,Somewhat agree,0.16,2018
-Q17F,With children,No,Somewhat disagree,0.19,2018
-Q17F,With children,No,Strongly disagree,0.47,2018
-Q17F,With children,No,Don't know,0.02,2018
-Q17F,With children,No,Refused,0.01,2018
-Q17G,With children,No,Strongly agree,0.46,2018
-Q17G,With children,No,Somewhat agree,0.35,2018
-Q17G,With children,No,Somewhat disagree,0.1,2018
-Q17G,With children,No,Strongly disagree,0.06,2018
-Q17G,With children,No,Don't know,0.02,2018
-Q17G,With children,No,Refused,0,2018
-Q17H,With children,No,Strongly agree,0.31,2018
-Q17H,With children,No,Somewhat agree,0.4,2018
-Q17H,With children,No,Somewhat disagree,0.13,2018
-Q17H,With children,No,Strongly disagree,0.09,2018
-Q17H,With children,No,Don't know,0.08,2018
-Q17H,With children,No,Refused,0,2018
-Q17I,With children,No,Strongly agree,0.34,2018
-Q17I,With children,No,Somewhat agree,0.41,2018
-Q17I,With children,No,Somewhat disagree,0.12,2018
-Q17I,With children,No,Strongly disagree,0.08,2018
-Q17I,With children,No,Don't know,0.05,2018
-Q17I,With children,No,Refused,0,2018
-Q18,With children,No,Very likely,0.56,2018
-Q18,With children,No,Somewhat likely,0.21,2018
-Q18,With children,No,Not very likely,0.08,2018
-Q18,With children,No,Not at all likely,0.05,2018
-Q18,With children,No,Don't know,0.1,2018
-Q18,With children,No,Refused,0,2018
-LIFECA,With children,No,Almost certain,0.4,2018
-LIFECA,With children,No,Very likely,0.42,2018
-LIFECA,With children,No,A toss up,0.1,2018
-LIFECA,With children,No,Not very likely,0.02,2018
-LIFECA,With children,No,Not at all likely,0.01,2018
-LIFECA,With children,No,Don't know,0.04,2018
-LIFECA,With children,No,Refused,0,2018
-LIFECB,With children,No,Almost certain,0.14,2018
-LIFECB,With children,No,Very likely,0.35,2018
-LIFECB,With children,No,A toss up,0.28,2018
-LIFECB,With children,No,Not very likely,0.12,2018
-LIFECB,With children,No,Not at all likely,0.04,2018
-LIFECB,With children,No,Don't know,0.06,2018
-LIFECB,With children,No,Refused,0,2018
-LIFECC,With children,No,Almost certain,0.02,2018
-LIFECC,With children,No,Very likely,0.07,2018
-LIFECC,With children,No,A toss up,0.11,2018
-LIFECC,With children,No,Not very likely,0.38,2018
-LIFECC,With children,No,Not at all likely,0.36,2018
-LIFECC,With children,No,Don't know,0.05,2018
-LIFECC,With children,No,Refused,0,2018
-LIFECD,With children,No,Almost certain,0.07,2018
-LIFECD,With children,No,Very likely,0.21,2018
-LIFECD,With children,No,A toss up,0.4,2018
-LIFECD,With children,No,Not very likely,0.19,2018
-LIFECD,With children,No,Not at all likely,0.07,2018
-LIFECD,With children,No,Don't know,0.07,2018
-LIFECD,With children,No,Refused,0,2018
-LIFECF,With children,No,Almost certain,0.03,2018
-LIFECF,With children,No,Very likely,0.09,2018
-LIFECF,With children,No,A toss up,0.25,2018
-LIFECF,With children,No,Not very likely,0.42,2018
-LIFECF,With children,No,Not at all likely,0.17,2018
-LIFECF,With children,No,Don't know,0.04,2018
-LIFECF,With children,No,Refused,0,2018
-Q19,With children,No,Excellent,0.21,2018
-Q19,With children,No,Very good,0.35,2018
-Q19,With children,No,Good,0.27,2018
-Q19,With children,No,Fair,0.13,2018
-Q19,With children,No,Poor,0.03,2018
-Q19,With children,No,Don't know,0,2018
-Q19,With children,No,Refused,0.01,2018
-Q20,With children,No,Not at all satisfied,0.03,2018
-Q20,With children,No,Only a little bit satisfied,0.09,2018
-Q20,With children,No,Somewhat satisfied,0.21,2018
-Q20,With children,No,Mostly satisfied,0.43,2018
-Q20,With children,No,Completely satisfied,0.23,2018
-Q20,With children,No,Don't know,0,2018
-Q20,With children,No,Refused,0,2018
-Q21,With children,No,Not at all,0.05,2018
-Q21,With children,No,Only a little bit,0.08,2018
-Q21,With children,No,Somewhat,0.19,2018
-Q21,With children,No,Mostly,0.37,2018
-Q21,With children,No,Completely,0.3,2018
-Q21,With children,No,Don't know,0.01,2018
-Q21,With children,No,Refused,0.01,2018
-Q22,With children,No,Not at all,0.44,2018
-Q22,With children,No,Only a little bit,0.24,2018
-Q22,With children,No,Somewhat,0.19,2018
-Q22,With children,No,Mostly,0.08,2018
-Q22,With children,No,Completely,0.05,2018
-Q22,With children,No,Don't know,0,2018
-Q22,With children,No,Refused,0,2018
-Q23,With children,No,Not at all,0.04,2018
-Q23,With children,No,Only a little bit,0.16,2018
-Q23,With children,No,Somewhat,0.27,2018
-Q23,With children,No,Mostly,0.3,2018
-Q23,With children,No,Completely,0.22,2018
-Q23,With children,No,Don't know,0,2018
-Q23,With children,No,Refused,0,2018
-Q23PL,With children,No,Strongly agree,0.38,2018
-Q23PL,With children,No,Agree,0.3,2018
-Q23PL,With children,No,Slightly agree,0.14,2018
-Q23PL,With children,No,Neither agree nor disagree,0.08,2018
-Q23PL,With children,No,Slightly disagree,0.02,2018
-Q23PL,With children,No,Disagree,0.03,2018
-Q23PL,With children,No,Strongly disagree,0.04,2018
-Q23PL,With children,No,Don't know,0,2018
-Q23PL,With children,No,Refused,0,2018
-Q23A,With children,No,Yes,0.34,2018
-Q23A,With children,No,No,0.64,2018
-Q23A,With children,No,Don't know,0,2018
-Q23A,With children,No,Refused,0.01,2018
-Q23A1,With children,No,Yes,0.77,2018
-Q23A1,With children,No,No,0.23,2018
-Q23A1,With children,No,Don't know,0,2018
-Q23A1,With children,No,Refused,0,2018
-Q23C,With children,No,Yes,0.12,2018
-Q23C,With children,No,No,0.87,2018
-Q23C,With children,No,Don't know,0,2018
-Q23C,With children,No,Refused,0.01,2018
-Q23D,With children,No,Yes,0.07,2018
-Q23D,With children,No,No,0.91,2018
-Q23D,With children,No,Don't know,0,2018
-Q23D,With children,No,Refused,0.01,2018
-Q23E,With children,No,Yes,0.14,2018
-Q23E,With children,No,No,0.85,2018
-Q23E,With children,No,Don't know,0,2018
-Q23E,With children,No,Refused,0.01,2018
-Q23E2,With children,No,Yes,0.72,2018
-Q23E2,With children,No,No,0.25,2018
-Q23E2,With children,No,Don't know,0.03,2018
-Q23E2,With children,No,Refused,0,2018
-Q23E2,With children,No,Current Asthma Rate (based on Q23E*23E2),0.1008,2018
-BMI,With children,No,Underweight,0.02,2018
-BMI,With children,No,Normal weight,0.33,2018
-BMI,With children,No,Overweight,0.36,2018
-BMI,With children,No,Obese,0.29,2018
-Q26,With children,No,Yes,0.95,2018
-Q26,With children,No,No,0.05,2018
-Q26,With children,No,Don't know,0,2018
-Q26,With children,No,Refused,0,2018
-Q27,With children,No,Insurance obtained through a current or former employer or union,0.53,2018
-Q27,With children,No,Insurance purchased directly from an insurance company,0.12,2018
-Q27,With children,No,Medicare,0.31,2018
-Q27,With children,No,"Medicaid, Medical Assistance, HUSKY or any kind of government-assistance plan",0.15,2018
-Q27,With children,No,State Health Insurance Exchange such as Access Health CT or NY State of Health,0.07,2018
-Q27,With children,No,Any other type of health insurance plan,0.06,2018
-Q27,With children,No,Don't know,0,2018
-Q27,With children,No,Refused,0.02,2018
-Q28,With children,No,Yes,0.08,2018
-Q28,With children,No,No,0.91,2018
-Q28,With children,No,Don't know,0,2018
-Q28,With children,No,Refused,0,2018
-Q29,With children,No,Yes,0.22,2018
-Q29,With children,No,No,0.78,2018
-Q29,With children,No,Don't know,0,2018
-Q29,With children,No,Refused,0,2018
-Q30A,With children,No,Yes,0.4,2018
-Q30A,With children,No,No,0.6,2018
-Q30A,With children,No,Don't know,0,2018
-Q30A,With children,No,Refused,0,2018
-Q30B,With children,No,Yes,0.13,2018
-Q30B,With children,No,No,0.87,2018
-Q30B,With children,No,Don't know,0,2018
-Q30B,With children,No,Refused,0,2018
-Q30C,With children,No,Yes,0.22,2018
-Q30C,With children,No,No,0.75,2018
-Q30C,With children,No,Don't know,0.02,2018
-Q30C,With children,No,Refused,0,2018
-Q30D,With children,No,Yes,0.32,2018
-Q30D,With children,No,No,0.67,2018
-Q30D,With children,No,Don't know,0,2018
-Q30D,With children,No,Refused,0,2018
-Q30E,With children,No,Yes,0.21,2018
-Q30E,With children,No,No,0.79,2018
-Q30E,With children,No,Don't know,0,2018
-Q30E,With children,No,Refused,0,2018
-Q30F,With children,No,Yes,0.44,2018
-Q30F,With children,No,No,0.56,2018
-Q30F,With children,No,Don't know,0,2018
-Q30F,With children,No,Refused,0,2018
-Q30H,With children,No,Yes,0.16,2018
-Q30H,With children,No,No,0.83,2018
-Q30H,With children,No,Don't know,0,2018
-Q30H,With children,No,Refused,0,2018
-Q30G,With children,No,Yes,0.49,2018
-Q30G,With children,No,No,0.51,2018
-Q30G,With children,No,Don't know,0,2018
-Q30G,With children,No,Refused,0,2018
-Q31,With children,No,Yes,0.07,2018
-Q31,With children,No,No,0.92,2018
-Q31,With children,No,Don't know,0,2018
-Q31,With children,No,Refused,0,2018
-Q31_1,With children,No,Yes,0.07,2018
-Q31_1,With children,No,No,0.93,2018
-Q31_1,With children,No,Don't know,0,2018
-Q31_1,With children,No,Refused,0,2018
-Q32,With children,No,Yes,0.84,2018
-Q32,With children,No,No,0.16,2018
-Q32,With children,No,Don't know,0,2018
-Q32,With children,No,Refused,0,2018
-Q33,With children,No,More than one,0.32,2018
-Q33,With children,No,None at all,0.67,2018
-Q33,With children,No,Don't know,0.01,2018
-Q33,With children,No,Refused,0,2018
-Q33,With children,No,No Medical Home (Q32*Q33),0.1072,2018
-Q34,With children,No,None,0.75,2018
-Q34,With children,No,1 to 2,0.2,2018
-Q34,With children,No,3 or more,0.05,2018
-Q34,With children,No,Don't know,0,2018
-Q34,With children,No,Refused,0,2018
-Q35,With children,No,Within the last 6 months,0.59,2018
-Q35,With children,No,More than 6 months but less than a year,0.13,2018
-Q35,With children,No,More than a year but less than two years,0.12,2018
-Q35,With children,No,More than two years ago,0.14,2018
-Q35,With children,No,Never have gone to a dentist,0.01,2018
-Q35,With children,No,Don't know,0,2018
-Q35,With children,No,Refused,0,2018
-Q37_1,With children,No,Always,0.41,2018
-Q37_1,With children,No,Usually,0.29,2018
-Q37_1,With children,No,Sometimes,0.17,2018
-Q37_1,With children,No,Rarely,0.06,2018
-Q37_1,With children,No,Never,0.05,2018
-Q37_1,With children,No,Don't know,0.01,2018
-Q37_1,With children,No,Refused,0.01,2018
-Q37_2,With children,No,Not at all,0.63,2018
-Q37_2,With children,No,Several days,0.18,2018
-Q37_2,With children,No,More than half the days,0.07,2018
-Q37_2,With children,No,Nearly every day,0.09,2018
-Q37_2,With children,No,Don't know,0.02,2018
-Q37_2,With children,No,Refused,0.01,2018
-Q37_3,With children,No,Not at all,0.66,2018
-Q37_3,With children,No,Several days,0.21,2018
-Q37_3,With children,No,More than half the days,0.05,2018
-Q37_3,With children,No,Nearly every day,0.06,2018
-Q37_3,With children,No,Don't know,0,2018
-Q37_3,With children,No,Refused,0.01,2018
-Q38,With children,No,None,0.2,2018
-Q38,With children,No,One,0.08,2018
-Q38,With children,No,Two,0.14,2018
-Q38,With children,No,Three,0.2,2018
-Q38,With children,No,Four,0.1,2018
-Q38,With children,No,Five,0.1,2018
-Q38,With children,No,Six,0.04,2018
-Q38,With children,No,Seven,0.15,2018
-Q38,With children,No,Don't know,0,2018
-Q38,With children,No,Refused,0,2018
-Q39,With children,No,Yes,0.44,2018
-Q39,With children,No,No,0.56,2018
-Q39,With children,No,Don't know,0,2018
-Q39,With children,No,Refused,0,2018
-Q40,With children,No,Every day,0.21,2018
-Q40,With children,No,Some days,0.12,2018
-Q40,With children,No,Not at all,0.66,2018
-Q40,With children,No,Don't know,0,2018
-Q40,With children,No,Refused,0,2018
-Q40,With children,No,Current Smoking Rate (Q39*Q40),0.1452,2018
-Q42,With children,No,Yes,0.19,2018
-Q42,With children,No,No,0.81,2018
-Q42,With children,No,Don't know,0,2018
-Q42,With children,No,Refused,0,2018
-Q43,With children,No,None,0.48,2018
-Q43,With children,No,One to five,0.27,2018
-Q43,With children,No,Six to twenty-nine,0.11,2018
-Q43,With children,No,Everyday,0.13,2018
-Q43,With children,No,Don't know,0.01,2018
-Q43,With children,No,Refused,0,2018
-Q43,With children,No,Vaping Past 30 Days Rate (Q42*Q43),0.0969,2018
-ALCOHOL,With children,No,None,0.73,2018
-ALCOHOL,With children,No,One to five,0.18,2018
-ALCOHOL,With children,No,Six to ten,0.03,2018
-ALCOHOL,With children,No,More than ten,0.04,2018
-ALCOHOL,With children,No,Don't know,0.01,2018
-ALCOHOL,With children,No,Refused,0.01,2018
-POT1,With children,No,None,0.86,2018
-POT1,With children,No,One to five,0.05,2018
-POT1,With children,No,Six to ten,0.01,2018
-POT1,With children,No,More than ten,0.07,2018
-POT1,With children,No,Don't know,0,2018
-POT1,With children,No,Refused,0.01,2018
-OPIOID2,With children,No,No,0.7,2018
-OPIOID2,With children,No,"Yes, one person",0.13,2018
-OPIOID2,With children,No,"Yes, 2 to 4 people",0.09,2018
-OPIOID2,With children,No,"Yes, 5 or more people",0.07,2018
-OPIOID2,With children,No,Don't know,0,2018
-OPIOID2,With children,No,Refused,0,2018
-OPIOID2_1,With children,No,Yourself,0.04,2018
-OPIOID2_1,With children,No,A family member,0.37,2018
-OPIOID2_1,With children,No,A close friend,0.38,2018
-OPIOID2_1,With children,No,An acquaintance,0.43,2018
-OPIOID2_1,With children,No,Don't know,0.01,2018
-OPIOID2_1,With children,No,Refused,0.03,2018
-OPIOID4,With children,No,No,0.75,2018
-OPIOID4,With children,No,"Yes, one person",0.11,2018
-OPIOID4,With children,No,"Yes, 2 to 4 people",0.09,2018
-OPIOID4,With children,No,"Yes, 5 or more people",0.05,2018
-OPIOID4,With children,No,Don't know,0.01,2018
-OPIOID4,With children,No,Refused,0,2018
-OPIOID4_1,With children,No,A family member,0.17,2018
-OPIOID4_1,With children,No,A close friend,0.42,2018
-OPIOID4_1,With children,No,An acquaintance,0.6,2018
-OPIOID4_1,With children,No,Don't know,0.02,2018
-OPIOID4_1,With children,No,Refused,0.02,2018
-Q44,With children,No,Living comfortably,0.34,2018
-Q44,With children,No,Doing alright,0.34,2018
-Q44,With children,No,Just getting by,0.2,2018
-Q44,With children,No,Finding it difficult,0.08,2018
-Q44,With children,No,Finding it very difficult,0.04,2018
-Q44,With children,No,Don't know,0,2018
-Q44,With children,No,Refused,0.01,2018
-Q45,With children,No,Better off,0.52,2018
-Q45,With children,No,Not,0.37,2018
-Q45,With children,No,Same,0.04,2018
-Q45,With children,No,Don't know,0.06,2018
-Q45,With children,No,Refused,0,2018
-Q46,With children,No,Less than a month,0.18,2018
-Q46,With children,No,At least one month but less than 2,0.12,2018
-Q46,With children,No,At least 2 months but less than 6,0.17,2018
-Q46,With children,No,At least 6 months but less than a year,0.16,2018
-Q46,With children,No,At least a year but less than 2 years,0.09,2018
-Q46,With children,No,Two years or more,0.23,2018
-Q46,With children,No,Don't know,0.03,2018
-Q46,With children,No,Refused,0.01,2018
-DEBT,With children,No,Something left over,0.63,2018
-DEBT,With children,No,Break even,0.17,2018
-DEBT,With children,No,Be in debt,0.15,2018
-DEBT,With children,No,Don't know,0.03,2018
-DEBT,With children,No,Refused,0.02,2018
-Q47,With children,No,Yes,0.53,2018
-Q47,With children,No,"No, but would like to work",0.07,2018
-Q47,With children,No,"No, retired",0.26,2018
-Q47,With children,No,"No, homemaker",0.02,2018
-Q47,With children,No,"No, full time student",0.03,2018
-Q47,With children,No,"No, disabled",0.07,2018
-Q47,With children,No,"No, other",0.01,2018
-Q47,With children,No,Refused,0.01,2018
-Q49,With children,No,Full time,0.72,2018
-Q49,With children,No,Part time,0.26,2018
-Q49,With children,No,Other,0.01,2018
-Q49,With children,No,Refused,0,2018
-Q50,With children,No,By choice,0.61,2018
-Q50,With children,No,Rather have a full time job,0.36,2018
-Q50,With children,No,Refused,0.03,2018
-Q50,With children,No,"Underemployment Rate (based on Q47,49,50)",0.19934666666666664,2018
-Q51,With children,No,Less than 30,0.28,2018
-Q51,With children,No,30 to 49,0.47,2018
-Q51,With children,No,50 to 79,0.24,2018
-Q51,With children,No,80 or more,0,2018
-Q51,With children,No,Refused,0.02,2018
-Q56,With children,No,Drive myself,0.74,2018
-Q56,With children,No,Get a ride with friends or family,0.09,2018
-Q56,With children,No,Public bus system,0.06,2018
-Q56,With children,No,Train or railroad,0.01,2018
-Q56,With children,No,Walk,0.05,2018
-Q56,With children,No,Bicycle,0.01,2018
-Q56,With children,No,Take a taxi,0.01,2018
-Q56,With children,No,Ride paratransit,0,2018
-Q56,With children,No,Other,0.01,2018
-Q56,With children,No,I took no trips last month/Homebound,0.01,2018
-Q56,With children,No,Don't know,0,2018
-Q56,With children,No,Refused,0,2018
-Q62,With children,No,Yes,0.12,2018
-Q62,With children,No,No,0.88,2018
-Q62,With children,No,Don't know,0,2018
-Q62,With children,No,Refused,0,2018
-Q63,With children,No,Almost every month,0.32,2018
-Q63,With children,No,Some months but not every month,0.39,2018
-Q63,With children,No,Only 1 or 2 months,0.29,2018
-Q63,With children,No,Don't know,0,2018
-Q63,With children,No,Refused,0,2018
-Q64,With children,No,Yes,0.07,2018
-Q64,With children,No,No,0.93,2018
-Q64,With children,No,Don't know,0,2018
-Q64,With children,No,Refused,0,2018
-Q64_GAS,With children,No,Yes,0.08,2018
-Q64_GAS,With children,No,No,0.92,2018
-Q64_GAS,With children,No,Don't know,0,2018
-Q64_GAS,With children,No,Refused,0,2018
-Q65,With children,No,Yes,0.12,2018
-Q65,With children,No,No,0.88,2018
-Q65,With children,No,Don't know,0,2018
-Q65,With children,No,Refused,0,2018
-Q65_1,With children,No,Yes,0.36,2018
-Q65_1,With children,No,No,0.64,2018
-Q65_1,With children,No,Don't know,0,2018
-Q65_1,With children,No,Refused,0,2018
-Q66,With children,No,Yes,0.9,2018
-Q66,With children,No,No,0.1,2018
-Q66,With children,No,Don't know,0,2018
-Q66,With children,No,Refused,0.01,2018
-Q68,With children,No,Yes,0.1,2018
-Q68,With children,No,No,0.89,2018
-Q68,With children,No,Don't know,0,2018
-Q68,With children,No,Refused,0,2018
-Q69,With children,No,Yes,0.05,2018
-Q69,With children,No,No,0.94,2018
-Q69,With children,No,Don't know,0,2018
-Q69,With children,No,Refused,0,2018
-DISCRIM1,With children,No,Yes,0.25,2018
-DISCRIM1,With children,No,No,0.74,2018
-DISCRIM1,With children,No,Don't know,0.01,2018
-DISCRIM1,With children,No,Refused,0,2018
-DISCRIM1_2,With children,No,Your Ancestry or National Origins,0.02,2018
-DISCRIM1_2,With children,No,Your Gender,0.16,2018
-DISCRIM1_2,With children,No,Your Race,0.13,2018
-DISCRIM1_2,With children,No,Your Age,0.13,2018
-DISCRIM1_2,With children,No,Your Religion,0,2018
-DISCRIM1_2,With children,No,Your Height,0,2018
-DISCRIM1_2,With children,No,Your Weight,0.02,2018
-DISCRIM1_2,With children,No,Some other Aspect of Your Physical Appearance,0.07,2018
-DISCRIM1_2,With children,No,Your Sexual Orientation,0.04,2018
-DISCRIM1_2,With children,No,Your Education or Income Level,0.1,2018
-DISCRIM1_2,With children,No,A physical disability,0.06,2018
-DISCRIM1_2,With children,No,Don't know,0.37,2018
-DISCRIM1_2,With children,No,Refused,0.05,2018
-DISCRIM1_1,With children,No,Once every week or more,0.01,2018
-DISCRIM1_1,With children,No,A few times every month,0.02,2018
-DISCRIM1_1,With children,No,A few times every year,0.03,2018
-DISCRIM1_1,With children,No,A few times in the past 3 years,0.11,2018
-DISCRIM1_1,With children,No,Once,0.34,2018
-DISCRIM1_1,With children,No,Never in the past 3 years,0.49,2018
-DISCRIM1_1,With children,No,Don't know,0,2018
-DISCRIM1_1,With children,No,Refused,0,2018
-DISCRIM2,With children,No,Yes,0.11,2018
-DISCRIM2,With children,No,No,0.89,2018
-DISCRIM2,With children,No,Don't know,0,2018
-DISCRIM2,With children,No,Refused,0,2018
-DISCRIM2_2,With children,No,Your Ancestry or National Origins,0.05,2018
-DISCRIM2_2,With children,No,Your Gender,0.03,2018
-DISCRIM2_2,With children,No,Your Race,0.3,2018
-DISCRIM2_2,With children,No,Your Age,0.14,2018
-DISCRIM2_2,With children,No,Your Religion,0.01,2018
-DISCRIM2_2,With children,No,Your Height,0.02,2018
-DISCRIM2_2,With children,No,Your Weight,0.01,2018
-DISCRIM2_2,With children,No,Some other Aspect of Your Physical Appearance,0.16,2018
-DISCRIM2_2,With children,No,Your Sexual Orientation,0.01,2018
-DISCRIM2_2,With children,No,Your Education or Income Level,0.02,2018
-DISCRIM2_2,With children,No,A physical disability,0.04,2018
-DISCRIM2_2,With children,No,Don't know,0.33,2018
-DISCRIM2_2,With children,No,Refused,0.03,2018
-DISCRIM2_1,With children,No,Once every week or more,0.01,2018
-DISCRIM2_1,With children,No,A few times every month,0.02,2018
-DISCRIM2_1,With children,No,A few times every year,0.06,2018
-DISCRIM2_1,With children,No,A few times in the past 3 years,0.2,2018
-DISCRIM2_1,With children,No,Once,0.32,2018
-DISCRIM2_1,With children,No,Never in the past 3 years,0.4,2018
-DISCRIM2_1,With children,No,Don't know,0,2018
-DISCRIM2_1,With children,No,Refused,0,2018
-DISCRIM2_3,With children,No,In a car,0.59,2018
-DISCRIM2_3,With children,No,Walking or biking along a street,0.23,2018
-DISCRIM2_3,With children,No,At a bus stop,0.04,2018
-DISCRIM2_3,With children,No,Inside a bus,0.02,2018
-DISCRIM2_3,With children,No,At a public park,0.09,2018
-DISCRIM2_3,With children,No,Inside a house or apartment,0.06,2018
-DISCRIM2_3,With children,No,Inside a store,0.03,2018
-DISCRIM2_3,With children,No,Someplace else,0.16,2018
-DISCRIM2_3,With children,No,Don't know,0.01,2018
-DISCRIM2_3,With children,No,Refused,0.01,2018
-DISCRIM3,With children,No,Yes,0.08,2018
-DISCRIM3,With children,No,No,0.87,2018
-DISCRIM3,With children,No,Don't know,0.05,2018
-DISCRIM3,With children,No,Refused,0,2018
-DISCRIM4,With children,No,Yes,0.05,2018
-DISCRIM4,With children,No,No,0.95,2018
-DISCRIM4,With children,No,Don't know,0,2018
-DISCRIM4,With children,No,Refused,0,2018
-DISCRIM5,With children,No,Yes,0.1,2018
-DISCRIM5,With children,No,No,0.87,2018
-DISCRIM5,With children,No,Don't know,0.02,2018
-DISCRIM5,With children,No,Refused,0,2018
-Q77,With children,No,Yes,0.96,2018
-Q77,With children,No,No,0.03,2018
-Q77,With children,No,Refused,0,2018
-Q79,With children,No,Yes,0.91,2018
-Q79,With children,No,No,0.09,2018
-Q79,With children,No,Refused,0,2018
-MILITARY,With children,No,Yes,0.09,2018
-MILITARY,With children,No,No,0.91,2018
-MILITARY,With children,No,Refused,0,2018
-DISABILITY,With children,No,Yes,0.18,2018
-DISABILITY,With children,No,No,0.81,2018
-DISABILITY,With children,No,Refused,0.01,2018
-ENROLLED,With children,No,Yes,0.36,2018
-ENROLLED,With children,No,No,0.64,2018
-ENROLLED,With children,No,Refused,0,2018
-SOCI1,With children,No,Lesbian or Gay,0.03,2018
-SOCI1,With children,No,"Straight, that is, not gay",0.87,2018
-SOCI1,With children,No,Bisexual,0.04,2018
-SOCI1,With children,No,Something else,0.02,2018
-SOCI1,With children,No,I don't know the answer,0,2018
-SOCI1,With children,No,Refused,0.03,2018
-Q1,With children,Yes,Yes,0.81,2018
-Q1,With children,Yes,No,0.18,2018
-Q1,With children,Yes,Don't know,0,2018
-Q1,With children,Yes,Refused,0,2018
-Q2,With children,Yes,Much better,0.08,2018
-Q2,With children,Yes,Somewhat better,0.21,2018
-Q2,With children,Yes,About the same,0.48,2018
-Q2,With children,Yes,Somewhat worse,0.17,2018
-Q2,With children,Yes,Much worse,0.04,2018
-Q2,With children,Yes,Don't know,0.02,2018
-Q2,With children,Yes,Refused,0,2018
-Q4A,With children,Yes,Excellent,0.11,2018
-Q4A,With children,Yes,Good,0.31,2018
-Q4A,With children,Yes,Fair,0.31,2018
-Q4A,With children,Yes,Poor,0.17,2018
-Q4A,With children,Yes,Don't know enough about it in order to say,0.1,2018
-Q4A,With children,Yes,Refused,0,2018
-Q4D,With children,Yes,Excellent,0.25,2018
-Q4D,With children,Yes,Good,0.45,2018
-Q4D,With children,Yes,Fair,0.19,2018
-Q4D,With children,Yes,Poor,0.08,2018
-Q4D,With children,Yes,Don't know enough about it in order to say,0.03,2018
-Q4D,With children,Yes,Refused,0,2018
-Q4E,With children,Yes,Excellent,0.11,2018
-Q4E,With children,Yes,Good,0.37,2018
-Q4E,With children,Yes,Fair,0.33,2018
-Q4E,With children,Yes,Poor,0.11,2018
-Q4E,With children,Yes,Don't know enough about it in order to say,0.08,2018
-Q4E,With children,Yes,Refused,0,2018
-Q4F,With children,Yes,Excellent,0.32,2018
-Q4F,With children,Yes,Good,0.37,2018
-Q4F,With children,Yes,Fair,0.2,2018
-Q4F,With children,Yes,Poor,0.09,2018
-Q4F,With children,Yes,Don't know enough about it in order to say,0.01,2018
-Q4F,With children,Yes,Refused,0,2018
-Q4G,With children,Yes,Excellent,0.25,2018
-Q4G,With children,Yes,Good,0.43,2018
-Q4G,With children,Yes,Fair,0.22,2018
-Q4G,With children,Yes,Poor,0.09,2018
-Q4G,With children,Yes,Don't know enough about it in order to say,0.01,2018
-Q4G,With children,Yes,Refused,0,2018
-Q4H,With children,Yes,Excellent,0.23,2018
-Q4H,With children,Yes,Good,0.45,2018
-Q4H,With children,Yes,Fair,0.22,2018
-Q4H,With children,Yes,Poor,0.07,2018
-Q4H,With children,Yes,Don't know enough about it in order to say,0.03,2018
-Q4H,With children,Yes,Refused,0,2018
-Q6,With children,Yes,Great influence,0.05,2018
-Q6,With children,Yes,Moderate influence,0.29,2018
-Q6,With children,Yes,A little influence,0.37,2018
-Q6,With children,Yes,No influence at all,0.26,2018
-Q6,With children,Yes,Don't know,0.02,2018
-Q6,With children,Yes,Refused,0,2018
-Q9,With children,Yes,Very often,0.78,2018
-Q9,With children,Yes,Fairly often,0.11,2018
-Q9,With children,Yes,Sometimes,0.06,2018
-Q9,With children,Yes,Almost never,0.01,2018
-Q9,With children,Yes,Never at all,0.03,2018
-Q9,With children,Yes,Don't know,0,2018
-Q9,With children,Yes,Refused,0,2018
-Q57,With children,Yes,"Single, never married",0.29,2018
-Q57,With children,Yes,Married or civil union,0.55,2018
-Q57,With children,Yes,Living with partner,0.07,2018
-Q57,With children,Yes,Separated,0.02,2018
-Q57,With children,Yes,Divorced,0.06,2018
-Q57,With children,Yes,Widowed,0.01,2018
-Q57,With children,Yes,Refused,0,2018
-Q60,With children,Yes,One,0.13,2018
-Q60,With children,Yes,Two,0.55,2018
-Q60,With children,Yes,Three,0.22,2018
-Q60,With children,Yes,Four or more,0.1,2018
-Q60,With children,Yes,Refused,0,2018
-Q11,With children,Yes,I own my home,0.55,2018
-Q11,With children,Yes,I rent my home,0.3,2018
-Q11,With children,Yes,I live with family or friends who own,0.11,2018
-Q11,With children,Yes,I live with family or friends who rent,0.04,2018
-Q11,With children,Yes,Other,0.01,2018
-Q11,With children,Yes,Refused,0,2018
-Q12,With children,Yes,Yes,0.2,2018
-Q12,With children,Yes,No,0.8,2018
-Q12,With children,Yes,Don't know,0,2018
-Q12,With children,Yes,Refused,0,2018
-MOVEYEAR,With children,Yes,Within the last 3 years,0.22,2018
-MOVEYEAR,With children,Yes,4 to 10 years ago,0.37,2018
-MOVEYEAR,With children,Yes,11 to 19 years ago,0.24,2018
-MOVEYEAR,With children,Yes,20 or more years ago,0.14,2018
-MOVEYEAR,With children,Yes,Refused,0.02,2018
-RECENTMOVE,With children,Yes,"Was living in the same building, facility, or housing development that I live in now",0.06,2018
-RECENTMOVE,With children,Yes,"Was living somewhere in the same neighborhood, town, or city as my current home",0.5,2018
-RECENTMOVE,With children,Yes,In a different town or city within <state2>,0.37,2018
-RECENTMOVE,With children,Yes,In another U.S. state (please specify),0.06,2018
-RECENTMOVE,With children,Yes,"In Puerto Rico, USVI, or another U.S. territory",0,2018
-RECENTMOVE,With children,Yes,Somewhere outside of the United States,0.02,2018
-RECENTMOVE,With children,Yes,Don't know,0,2018
-RECENTMOVE,With children,Yes,Refused,0,2018
-RENTPREVST,With children,Yes,No,0.89,2018
-RENTPREVST,With children,Yes,Yes and I still own that home,0.03,2018
-RENTPREVST,With children,Yes,Yes and I sold that home,0.08,2018
-RENTPREVST,With children,Yes,Other,0,2018
-RENTPREVST,With children,Yes,Don't know,0,2018
-RENTPREVST,With children,Yes,Refused,0,2018
-RENTEVICT,With children,Yes,Yes,0.07,2018
-RENTEVICT,With children,Yes,No,0.93,2018
-RENTEVICT,With children,Yes,Don't know,0,2018
-RENTEVICT,With children,Yes,Refused,0,2018
-RENTEVICTRA,With children,Yes,Yes,0.06,2018
-RENTEVICTRA,With children,Yes,No,0.94,2018
-RENTEVICTRA,With children,Yes,Don't know,0,2018
-RENTEVICTRA,With children,Yes,Refused,0,2018
-RENTEVICTRAB,With children,Yes,Yes,0.06,2018
-RENTEVICTRAB,With children,Yes,No,0.94,2018
-RENTEVICTRAB,With children,Yes,Don't know,0,2018
-RENTEVICTRAB,With children,Yes,Refused,0,2018
-RENTEVICTRC,With children,Yes,Yes,0.07,2018
-RENTEVICTRC,With children,Yes,No,0.93,2018
-RENTEVICTRC,With children,Yes,Don't know,0,2018
-RENTEVICTRC,With children,Yes,Refused,0,2018
-RENTMOVEOT,With children,Yes,Rent increased at previous home or apartment,0.05,2018
-RENTMOVEOT,With children,Yes,Landlord would not fix things at previous home or apartment,0.13,2018
-RENTMOVEOT,With children,Yes,To save money,0.24,2018
-RENTMOVEOT,With children,Yes,Better quality or larger home,0.33,2018
-RENTMOVEOT,With children,Yes,Closer to work or school,0.3,2018
-RENTMOVEOT,With children,Yes,Better quality neighborhood or schools,0.22,2018
-RENTMOVEOT,With children,Yes,Relocated to a new city,0.13,2018
-RENTMOVEOT,With children,Yes,"Change in family status (i.e. marriage, divorce, children)",0.2,2018
-RENTMOVEOT,With children,Yes,Other,0.14,2018
-RENTMOVEOT,With children,Yes,Don't know,0.01,2018
-RENTMOVEOT,With children,Yes,Refused,0,2018
-Q13R1,With children,Yes,Yes,0.44,2018
-Q13R1,With children,Yes,No,0.56,2018
-Q13R1,With children,Yes,Don't know,0,2018
-Q13R1,With children,Yes,Refused,0,2018
-Q13R2,With children,Yes,Yes,0.7,2018
-Q13R2,With children,Yes,No,0.28,2018
-Q13R2,With children,Yes,Don't know,0,2018
-Q13R2,With children,Yes,Refused,0.02,2018
-Q13R3,With children,Yes,None,0.28,2018
-Q13R3,With children,Yes,A little difficulty,0.36,2018
-Q13R3,With children,Yes,Moderate difficulty,0.17,2018
-Q13R3,With children,Yes,Substantial difficulty,0.19,2018
-Q13R3,With children,Yes,Don't know,0,2018
-Q13R3,With children,Yes,Refused,0,2018
-Q14R1,With children,Yes,Definitely no,0.12,2018
-Q14R1,With children,Yes,Probably no,0.18,2018
-Q14R1,With children,Yes,Probably yes,0.41,2018
-Q14R1,With children,Yes,Definitely yes,0.28,2018
-Q14R1,With children,Yes,Don't know,0.01,2018
-Q14R1,With children,Yes,Refused,0,2018
-Q14R2,With children,Yes,Very likely,0.63,2018
-Q14R2,With children,Yes,Somewhat likely,0.2,2018
-Q14R2,With children,Yes,Not very likely,0.06,2018
-Q14R2,With children,Yes,Not at all likely,0.11,2018
-Q14R2,With children,Yes,Don't know,0,2018
-Q14R2,With children,Yes,Refused,0,2018
-Q17A,With children,Yes,Strongly agree,0.36,2018
-Q17A,With children,Yes,Somewhat agree,0.3,2018
-Q17A,With children,Yes,Somewhat disagree,0.16,2018
-Q17A,With children,Yes,Strongly disagree,0.18,2018
-Q17A,With children,Yes,Don't know,0,2018
-Q17A,With children,Yes,Refused,0,2018
-Q17B,With children,Yes,Strongly agree,0.4,2018
-Q17B,With children,Yes,Somewhat agree,0.3,2018
-Q17B,With children,Yes,Somewhat disagree,0.1,2018
-Q17B,With children,Yes,Strongly disagree,0.21,2018
-Q17B,With children,Yes,Don't know,0,2018
-Q17B,With children,Yes,Refused,0,2018
-Q17C,With children,Yes,Strongly agree,0.34,2018
-Q17C,With children,Yes,Somewhat agree,0.37,2018
-Q17C,With children,Yes,Somewhat disagree,0.16,2018
-Q17C,With children,Yes,Strongly disagree,0.13,2018
-Q17C,With children,Yes,Don't know,0,2018
-Q17C,With children,Yes,Refused,0,2018
-Q17E,With children,Yes,Strongly agree,0.34,2018
-Q17E,With children,Yes,Somewhat agree,0.4,2018
-Q17E,With children,Yes,Somewhat disagree,0.13,2018
-Q17E,With children,Yes,Strongly disagree,0.14,2018
-Q17E,With children,Yes,Don't know,0,2018
-Q17E,With children,Yes,Refused,0,2018
-Q17F,With children,Yes,Strongly agree,0.16,2018
-Q17F,With children,Yes,Somewhat agree,0.17,2018
-Q17F,With children,Yes,Somewhat disagree,0.24,2018
-Q17F,With children,Yes,Strongly disagree,0.42,2018
-Q17F,With children,Yes,Don't know,0.01,2018
-Q17F,With children,Yes,Refused,0,2018
-Q17G,With children,Yes,Strongly agree,0.33,2018
-Q17G,With children,Yes,Somewhat agree,0.46,2018
-Q17G,With children,Yes,Somewhat disagree,0.11,2018
-Q17G,With children,Yes,Strongly disagree,0.08,2018
-Q17G,With children,Yes,Don't know,0.01,2018
-Q17G,With children,Yes,Refused,0,2018
-Q17H,With children,Yes,Strongly agree,0.31,2018
-Q17H,With children,Yes,Somewhat agree,0.43,2018
-Q17H,With children,Yes,Somewhat disagree,0.17,2018
-Q17H,With children,Yes,Strongly disagree,0.08,2018
-Q17H,With children,Yes,Don't know,0.01,2018
-Q17H,With children,Yes,Refused,0,2018
-Q17I,With children,Yes,Strongly agree,0.33,2018
-Q17I,With children,Yes,Somewhat agree,0.45,2018
-Q17I,With children,Yes,Somewhat disagree,0.14,2018
-Q17I,With children,Yes,Strongly disagree,0.07,2018
-Q17I,With children,Yes,Don't know,0.01,2018
-Q17I,With children,Yes,Refused,0,2018
-Q18,With children,Yes,Very likely,0.48,2018
-Q18,With children,Yes,Somewhat likely,0.35,2018
-Q18,With children,Yes,Not very likely,0.09,2018
-Q18,With children,Yes,Not at all likely,0.04,2018
-Q18,With children,Yes,Don't know,0.04,2018
-Q18,With children,Yes,Refused,0,2018
-LIFECA,With children,Yes,Almost certain,0.4,2018
-LIFECA,With children,Yes,Very likely,0.46,2018
-LIFECA,With children,Yes,A toss up,0.1,2018
-LIFECA,With children,Yes,Not very likely,0.02,2018
-LIFECA,With children,Yes,Not at all likely,0.01,2018
-LIFECA,With children,Yes,Don't know,0.01,2018
-LIFECA,With children,Yes,Refused,0,2018
-LIFECB,With children,Yes,Almost certain,0.16,2018
-LIFECB,With children,Yes,Very likely,0.43,2018
-LIFECB,With children,Yes,A toss up,0.26,2018
-LIFECB,With children,Yes,Not very likely,0.08,2018
-LIFECB,With children,Yes,Not at all likely,0.01,2018
-LIFECB,With children,Yes,Don't know,0.05,2018
-LIFECB,With children,Yes,Refused,0,2018
-LIFECC,With children,Yes,Almost certain,0.03,2018
-LIFECC,With children,Yes,Very likely,0.05,2018
-LIFECC,With children,Yes,A toss up,0.15,2018
-LIFECC,With children,Yes,Not very likely,0.35,2018
-LIFECC,With children,Yes,Not at all likely,0.37,2018
-LIFECC,With children,Yes,Don't know,0.04,2018
-LIFECC,With children,Yes,Refused,0.01,2018
-LIFECD,With children,Yes,Almost certain,0.06,2018
-LIFECD,With children,Yes,Very likely,0.19,2018
-LIFECD,With children,Yes,A toss up,0.42,2018
-LIFECD,With children,Yes,Not very likely,0.18,2018
-LIFECD,With children,Yes,Not at all likely,0.11,2018
-LIFECD,With children,Yes,Don't know,0.04,2018
-LIFECD,With children,Yes,Refused,0,2018
-LIFECF,With children,Yes,Almost certain,0.03,2018
-LIFECF,With children,Yes,Very likely,0.09,2018
-LIFECF,With children,Yes,A toss up,0.24,2018
-LIFECF,With children,Yes,Not very likely,0.37,2018
-LIFECF,With children,Yes,Not at all likely,0.24,2018
-LIFECF,With children,Yes,Don't know,0.02,2018
-LIFECF,With children,Yes,Refused,0,2018
-Q19,With children,Yes,Excellent,0.26,2018
-Q19,With children,Yes,Very good,0.37,2018
-Q19,With children,Yes,Good,0.25,2018
-Q19,With children,Yes,Fair,0.11,2018
-Q19,With children,Yes,Poor,0.02,2018
-Q19,With children,Yes,Don't know,0,2018
-Q19,With children,Yes,Refused,0,2018
-Q20,With children,Yes,Not at all satisfied,0.02,2018
-Q20,With children,Yes,Only a little bit satisfied,0.1,2018
-Q20,With children,Yes,Somewhat satisfied,0.21,2018
-Q20,With children,Yes,Mostly satisfied,0.45,2018
-Q20,With children,Yes,Completely satisfied,0.22,2018
-Q20,With children,Yes,Don't know,0,2018
-Q20,With children,Yes,Refused,0,2018
-Q21,With children,Yes,Not at all,0.03,2018
-Q21,With children,Yes,Only a little bit,0.1,2018
-Q21,With children,Yes,Somewhat,0.2,2018
-Q21,With children,Yes,Mostly,0.37,2018
-Q21,With children,Yes,Completely,0.29,2018
-Q21,With children,Yes,Don't know,0,2018
-Q21,With children,Yes,Refused,0,2018
-Q22,With children,Yes,Not at all,0.39,2018
-Q22,With children,Yes,Only a little bit,0.23,2018
-Q22,With children,Yes,Somewhat,0.21,2018
-Q22,With children,Yes,Mostly,0.08,2018
-Q22,With children,Yes,Completely,0.07,2018
-Q22,With children,Yes,Don't know,0,2018
-Q22,With children,Yes,Refused,0,2018
-Q23,With children,Yes,Not at all,0.06,2018
-Q23,With children,Yes,Only a little bit,0.26,2018
-Q23,With children,Yes,Somewhat,0.33,2018
-Q23,With children,Yes,Mostly,0.26,2018
-Q23,With children,Yes,Completely,0.09,2018
-Q23,With children,Yes,Don't know,0,2018
-Q23,With children,Yes,Refused,0,2018
-Q23PL,With children,Yes,Strongly agree,0.35,2018
-Q23PL,With children,Yes,Agree,0.29,2018
-Q23PL,With children,Yes,Slightly agree,0.15,2018
-Q23PL,With children,Yes,Neither agree nor disagree,0.13,2018
-Q23PL,With children,Yes,Slightly disagree,0.04,2018
-Q23PL,With children,Yes,Disagree,0.02,2018
-Q23PL,With children,Yes,Strongly disagree,0.02,2018
-Q23PL,With children,Yes,Don't know,0,2018
-Q23PL,With children,Yes,Refused,0,2018
-Q23A,With children,Yes,Yes,0.17,2018
-Q23A,With children,Yes,No,0.82,2018
-Q23A,With children,Yes,Don't know,0,2018
-Q23A,With children,Yes,Refused,0,2018
-Q23A1,With children,Yes,Yes,0.7,2018
-Q23A1,With children,Yes,No,0.3,2018
-Q23A1,With children,Yes,Don't know,0,2018
-Q23A1,With children,Yes,Refused,0,2018
-Q23C,With children,Yes,Yes,0.04,2018
-Q23C,With children,Yes,No,0.95,2018
-Q23C,With children,Yes,Don't know,0,2018
-Q23C,With children,Yes,Refused,0,2018
-Q23D,With children,Yes,Yes,0.02,2018
-Q23D,With children,Yes,No,0.98,2018
-Q23D,With children,Yes,Don't know,0,2018
-Q23D,With children,Yes,Refused,0,2018
-Q23E,With children,Yes,Yes,0.17,2018
-Q23E,With children,Yes,No,0.83,2018
-Q23E,With children,Yes,Don't know,0,2018
-Q23E,With children,Yes,Refused,0,2018
-Q23E2,With children,Yes,Yes,0.77,2018
-Q23E2,With children,Yes,No,0.23,2018
-Q23E2,With children,Yes,Don't know,0,2018
-Q23E2,With children,Yes,Refused,0,2018
-Q23E2,With children,Yes,Current Asthma Rate (based on Q23E*23E2),0.13090000000000002,2018
-BMI,With children,Yes,Underweight,0.04,2018
-BMI,With children,Yes,Normal weight,0.34,2018
-BMI,With children,Yes,Overweight,0.32,2018
-BMI,With children,Yes,Obese,0.31,2018
-Q26,With children,Yes,Yes,0.95,2018
-Q26,With children,Yes,No,0.04,2018
-Q26,With children,Yes,Don't know,0,2018
-Q26,With children,Yes,Refused,0,2018
-Q27,With children,Yes,Insurance obtained through a current or former employer or union,0.62,2018
-Q27,With children,Yes,Insurance purchased directly from an insurance company,0.08,2018
-Q27,With children,Yes,Medicare,0.08,2018
-Q27,With children,Yes,"Medicaid, Medical Assistance, HUSKY or any kind of government-assistance plan",0.22,2018
-Q27,With children,Yes,State Health Insurance Exchange such as Access Health CT or NY State of Health,0.07,2018
-Q27,With children,Yes,Any other type of health insurance plan,0.03,2018
-Q27,With children,Yes,Don't know,0.02,2018
-Q27,With children,Yes,Refused,0,2018
-Q28,With children,Yes,Yes,0.1,2018
-Q28,With children,Yes,No,0.9,2018
-Q28,With children,Yes,Don't know,0,2018
-Q28,With children,Yes,Refused,0,2018
-Q29,With children,Yes,Yes,0.22,2018
-Q29,With children,Yes,No,0.78,2018
-Q29,With children,Yes,Don't know,0,2018
-Q29,With children,Yes,Refused,0,2018
-Q30A,With children,Yes,Yes,0.39,2018
-Q30A,With children,Yes,No,0.61,2018
-Q30A,With children,Yes,Don't know,0,2018
-Q30A,With children,Yes,Refused,0,2018
-Q30B,With children,Yes,Yes,0.19,2018
-Q30B,With children,Yes,No,0.81,2018
-Q30B,With children,Yes,Don't know,0,2018
-Q30B,With children,Yes,Refused,0,2018
-Q30C,With children,Yes,Yes,0.16,2018
-Q30C,With children,Yes,No,0.81,2018
-Q30C,With children,Yes,Don't know,0.02,2018
-Q30C,With children,Yes,Refused,0,2018
-Q30D,With children,Yes,Yes,0.24,2018
-Q30D,With children,Yes,No,0.75,2018
-Q30D,With children,Yes,Don't know,0.01,2018
-Q30D,With children,Yes,Refused,0,2018
-Q30E,With children,Yes,Yes,0.18,2018
-Q30E,With children,Yes,No,0.81,2018
-Q30E,With children,Yes,Don't know,0.01,2018
-Q30E,With children,Yes,Refused,0,2018
-Q30F,With children,Yes,Yes,0.57,2018
-Q30F,With children,Yes,No,0.43,2018
-Q30F,With children,Yes,Don't know,0,2018
-Q30F,With children,Yes,Refused,0,2018
-Q30H,With children,Yes,Yes,0.27,2018
-Q30H,With children,Yes,No,0.72,2018
-Q30H,With children,Yes,Don't know,0.01,2018
-Q30H,With children,Yes,Refused,0,2018
-Q30G,With children,Yes,Yes,0.35,2018
-Q30G,With children,Yes,No,0.63,2018
-Q30G,With children,Yes,Don't know,0.02,2018
-Q30G,With children,Yes,Refused,0,2018
-Q31,With children,Yes,Yes,0.12,2018
-Q31,With children,Yes,No,0.88,2018
-Q31,With children,Yes,Don't know,0,2018
-Q31,With children,Yes,Refused,0,2018
-Q31_1,With children,Yes,Yes,0.05,2018
-Q31_1,With children,Yes,No,0.91,2018
-Q31_1,With children,Yes,Don't know,0,2018
-Q31_1,With children,Yes,Refused,0.03,2018
-Q32,With children,Yes,Yes,0.82,2018
-Q32,With children,Yes,No,0.18,2018
-Q32,With children,Yes,Don't know,0,2018
-Q32,With children,Yes,Refused,0,2018
-Q33,With children,Yes,More than one,0.27,2018
-Q33,With children,Yes,None at all,0.7,2018
-Q33,With children,Yes,Don't know,0.01,2018
-Q33,With children,Yes,Refused,0.02,2018
-Q33,With children,Yes,No Medical Home (Q32*Q33),0.126,2018
-Q34,With children,Yes,None,0.71,2018
-Q34,With children,Yes,1 to 2,0.24,2018
-Q34,With children,Yes,3 or more,0.05,2018
-Q34,With children,Yes,Don't know,0,2018
-Q34,With children,Yes,Refused,0,2018
-Q35,With children,Yes,Within the last 6 months,0.58,2018
-Q35,With children,Yes,More than 6 months but less than a year,0.16,2018
-Q35,With children,Yes,More than a year but less than two years,0.12,2018
-Q35,With children,Yes,More than two years ago,0.13,2018
-Q35,With children,Yes,Never have gone to a dentist,0.01,2018
-Q35,With children,Yes,Don't know,0,2018
-Q35,With children,Yes,Refused,0,2018
-Q37_1,With children,Yes,Always,0.32,2018
-Q37_1,With children,Yes,Usually,0.33,2018
-Q37_1,With children,Yes,Sometimes,0.19,2018
-Q37_1,With children,Yes,Rarely,0.1,2018
-Q37_1,With children,Yes,Never,0.06,2018
-Q37_1,With children,Yes,Don't know,0,2018
-Q37_1,With children,Yes,Refused,0,2018
-Q37_2,With children,Yes,Not at all,0.58,2018
-Q37_2,With children,Yes,Several days,0.27,2018
-Q37_2,With children,Yes,More than half the days,0.08,2018
-Q37_2,With children,Yes,Nearly every day,0.06,2018
-Q37_2,With children,Yes,Don't know,0,2018
-Q37_2,With children,Yes,Refused,0,2018
-Q37_3,With children,Yes,Not at all,0.66,2018
-Q37_3,With children,Yes,Several days,0.22,2018
-Q37_3,With children,Yes,More than half the days,0.08,2018
-Q37_3,With children,Yes,Nearly every day,0.04,2018
-Q37_3,With children,Yes,Don't know,0,2018
-Q37_3,With children,Yes,Refused,0,2018
-Q38,With children,Yes,None,0.17,2018
-Q38,With children,Yes,One,0.08,2018
-Q38,With children,Yes,Two,0.17,2018
-Q38,With children,Yes,Three,0.23,2018
-Q38,With children,Yes,Four,0.13,2018
-Q38,With children,Yes,Five,0.09,2018
-Q38,With children,Yes,Six,0.03,2018
-Q38,With children,Yes,Seven,0.09,2018
-Q38,With children,Yes,Don't know,0,2018
-Q38,With children,Yes,Refused,0,2018
-Q39,With children,Yes,Yes,0.36,2018
-Q39,With children,Yes,No,0.64,2018
-Q39,With children,Yes,Don't know,0,2018
-Q39,With children,Yes,Refused,0,2018
-Q40,With children,Yes,Every day,0.29,2018
-Q40,With children,Yes,Some days,0.19,2018
-Q40,With children,Yes,Not at all,0.52,2018
-Q40,With children,Yes,Don't know,0,2018
-Q40,With children,Yes,Refused,0,2018
-Q40,With children,Yes,Current Smoking Rate (Q39*Q40),0.17279999999999998,2018
-Q42,With children,Yes,Yes,0.28,2018
-Q42,With children,Yes,No,0.72,2018
-Q42,With children,Yes,Don't know,0,2018
-Q42,With children,Yes,Refused,0,2018
-Q43,With children,Yes,None,0.55,2018
-Q43,With children,Yes,One to five,0.19,2018
-Q43,With children,Yes,Six to twenty-nine,0.17,2018
-Q43,With children,Yes,Everyday,0.09,2018
-Q43,With children,Yes,Don't know,0,2018
-Q43,With children,Yes,Refused,0,2018
-Q43,With children,Yes,Vaping Past 30 Days Rate (Q42*Q43),0.126,2018
-ALCOHOL,With children,Yes,None,0.66,2018
-ALCOHOL,With children,Yes,One to five,0.25,2018
-ALCOHOL,With children,Yes,Six to ten,0.06,2018
-ALCOHOL,With children,Yes,More than ten,0.03,2018
-ALCOHOL,With children,Yes,Don't know,0,2018
-ALCOHOL,With children,Yes,Refused,0,2018
-POT1,With children,Yes,None,0.84,2018
-POT1,With children,Yes,One to five,0.05,2018
-POT1,With children,Yes,Six to ten,0.01,2018
-POT1,With children,Yes,More than ten,0.08,2018
-POT1,With children,Yes,Don't know,0,2018
-POT1,With children,Yes,Refused,0.02,2018
-OPIOID2,With children,Yes,No,0.66,2018
-OPIOID2,With children,Yes,"Yes, one person",0.13,2018
-OPIOID2,With children,Yes,"Yes, 2 to 4 people",0.13,2018
-OPIOID2,With children,Yes,"Yes, 5 or more people",0.08,2018
-OPIOID2,With children,Yes,Don't know,0,2018
-OPIOID2,With children,Yes,Refused,0,2018
-OPIOID2_1,With children,Yes,Yourself,0.12,2018
-OPIOID2_1,With children,Yes,A family member,0.45,2018
-OPIOID2_1,With children,Yes,A close friend,0.38,2018
-OPIOID2_1,With children,Yes,An acquaintance,0.42,2018
-OPIOID2_1,With children,Yes,Don't know,0,2018
-OPIOID2_1,With children,Yes,Refused,0,2018
-OPIOID4,With children,Yes,No,0.75,2018
-OPIOID4,With children,Yes,"Yes, one person",0.13,2018
-OPIOID4,With children,Yes,"Yes, 2 to 4 people",0.08,2018
-OPIOID4,With children,Yes,"Yes, 5 or more people",0.04,2018
-OPIOID4,With children,Yes,Don't know,0,2018
-OPIOID4,With children,Yes,Refused,0,2018
-OPIOID4_1,With children,Yes,A family member,0.27,2018
-OPIOID4_1,With children,Yes,A close friend,0.42,2018
-OPIOID4_1,With children,Yes,An acquaintance,0.61,2018
-OPIOID4_1,With children,Yes,Don't know,0.02,2018
-OPIOID4_1,With children,Yes,Refused,0,2018
-Q44,With children,Yes,Living comfortably,0.25,2018
-Q44,With children,Yes,Doing alright,0.36,2018
-Q44,With children,Yes,Just getting by,0.24,2018
-Q44,With children,Yes,Finding it difficult,0.09,2018
-Q44,With children,Yes,Finding it very difficult,0.06,2018
-Q44,With children,Yes,Don't know,0,2018
-Q44,With children,Yes,Refused,0,2018
-Q45,With children,Yes,Better off,0.48,2018
-Q45,With children,Yes,Not,0.48,2018
-Q45,With children,Yes,Same,0.03,2018
-Q45,With children,Yes,Don't know,0.01,2018
-Q45,With children,Yes,Refused,0,2018
-Q46,With children,Yes,Less than a month,0.21,2018
-Q46,With children,Yes,At least one month but less than 2,0.13,2018
-Q46,With children,Yes,At least 2 months but less than 6,0.25,2018
-Q46,With children,Yes,At least 6 months but less than a year,0.15,2018
-Q46,With children,Yes,At least a year but less than 2 years,0.05,2018
-Q46,With children,Yes,Two years or more,0.16,2018
-Q46,With children,Yes,Don't know,0.03,2018
-Q46,With children,Yes,Refused,0.02,2018
-DEBT,With children,Yes,Something left over,0.6,2018
-DEBT,With children,Yes,Break even,0.15,2018
-DEBT,With children,Yes,Be in debt,0.22,2018
-DEBT,With children,Yes,Don't know,0.02,2018
-DEBT,With children,Yes,Refused,0.01,2018
-Q47,With children,Yes,Yes,0.74,2018
-Q47,With children,Yes,"No, but would like to work",0.06,2018
-Q47,With children,Yes,"No, retired",0.03,2018
-Q47,With children,Yes,"No, homemaker",0.08,2018
-Q47,With children,Yes,"No, full time student",0.04,2018
-Q47,With children,Yes,"No, disabled",0.04,2018
-Q47,With children,Yes,"No, other",0.01,2018
-Q47,With children,Yes,Refused,0.01,2018
-Q49,With children,Yes,Full time,0.74,2018
-Q49,With children,Yes,Part time,0.25,2018
-Q49,With children,Yes,Other,0.01,2018
-Q49,With children,Yes,Refused,0,2018
-Q50,With children,Yes,By choice,0.71,2018
-Q50,With children,Yes,Rather have a full time job,0.29,2018
-Q50,With children,Yes,Refused,0,2018
-Q50,With children,Yes,"Underemployment Rate (based on Q47,49,50)",0.14206249999999998,2018
-Q51,With children,Yes,Less than 30,0.11,2018
-Q51,With children,Yes,30 to 49,0.6,2018
-Q51,With children,Yes,50 to 79,0.29,2018
-Q51,With children,Yes,80 or more,0,2018
-Q51,With children,Yes,Refused,0,2018
-Q56,With children,Yes,Drive myself,0.79,2018
-Q56,With children,Yes,Get a ride with friends or family,0.08,2018
-Q56,With children,Yes,Public bus system,0.07,2018
-Q56,With children,Yes,Train or railroad,0.01,2018
-Q56,With children,Yes,Walk,0.03,2018
-Q56,With children,Yes,Bicycle,0.01,2018
-Q56,With children,Yes,Take a taxi,0,2018
-Q56,With children,Yes,Ride paratransit,0,2018
-Q56,With children,Yes,Other,0.01,2018
-Q56,With children,Yes,I took no trips last month/Homebound,0.01,2018
-Q56,With children,Yes,Don't know,0,2018
-Q56,With children,Yes,Refused,0,2018
-Q62,With children,Yes,Yes,0.16,2018
-Q62,With children,Yes,No,0.84,2018
-Q62,With children,Yes,Don't know,0,2018
-Q62,With children,Yes,Refused,0,2018
-Q63,With children,Yes,Almost every month,0.25,2018
-Q63,With children,Yes,Some months but not every month,0.33,2018
-Q63,With children,Yes,Only 1 or 2 months,0.42,2018
-Q63,With children,Yes,Don't know,0,2018
-Q63,With children,Yes,Refused,0,2018
-Q64,With children,Yes,Yes,0.12,2018
-Q64,With children,Yes,No,0.88,2018
-Q64,With children,Yes,Don't know,0,2018
-Q64,With children,Yes,Refused,0,2018
-Q64_GAS,With children,Yes,Yes,0.14,2018
-Q64_GAS,With children,Yes,No,0.86,2018
-Q64_GAS,With children,Yes,Don't know,0,2018
-Q64_GAS,With children,Yes,Refused,0,2018
-Q65,With children,Yes,Yes,0.14,2018
-Q65,With children,Yes,No,0.86,2018
-Q65,With children,Yes,Don't know,0,2018
-Q65,With children,Yes,Refused,0,2018
-Q65_1,With children,Yes,Yes,0.36,2018
-Q65_1,With children,Yes,No,0.64,2018
-Q65_1,With children,Yes,Don't know,0,2018
-Q65_1,With children,Yes,Refused,0,2018
-Q66,With children,Yes,Yes,0.87,2018
-Q66,With children,Yes,No,0.13,2018
-Q66,With children,Yes,Don't know,0,2018
-Q66,With children,Yes,Refused,0,2018
-Q68,With children,Yes,Yes,0.15,2018
-Q68,With children,Yes,No,0.85,2018
-Q68,With children,Yes,Don't know,0,2018
-Q68,With children,Yes,Refused,0,2018
-Q69,With children,Yes,Yes,0.05,2018
-Q69,With children,Yes,No,0.95,2018
-Q69,With children,Yes,Don't know,0,2018
-Q69,With children,Yes,Refused,0,2018
-DISCRIM1,With children,Yes,Yes,0.33,2018
-DISCRIM1,With children,Yes,No,0.66,2018
-DISCRIM1,With children,Yes,Don't know,0.01,2018
-DISCRIM1,With children,Yes,Refused,0,2018
-DISCRIM1_2,With children,Yes,Your Ancestry or National Origins,0.04,2018
-DISCRIM1_2,With children,Yes,Your Gender,0.14,2018
-DISCRIM1_2,With children,Yes,Your Race,0.22,2018
-DISCRIM1_2,With children,Yes,Your Age,0.11,2018
-DISCRIM1_2,With children,Yes,Your Religion,0.01,2018
-DISCRIM1_2,With children,Yes,Your Height,0,2018
-DISCRIM1_2,With children,Yes,Your Weight,0.02,2018
-DISCRIM1_2,With children,Yes,Some other Aspect of Your Physical Appearance,0.1,2018
-DISCRIM1_2,With children,Yes,Your Sexual Orientation,0,2018
-DISCRIM1_2,With children,Yes,Your Education or Income Level,0.08,2018
-DISCRIM1_2,With children,Yes,A physical disability,0.05,2018
-DISCRIM1_2,With children,Yes,Don't know,0.46,2018
-DISCRIM1_2,With children,Yes,Refused,0.01,2018
-DISCRIM1_1,With children,Yes,Once every week or more,0.02,2018
-DISCRIM1_1,With children,Yes,A few times every month,0.03,2018
-DISCRIM1_1,With children,Yes,A few times every year,0.05,2018
-DISCRIM1_1,With children,Yes,A few times in the past 3 years,0.13,2018
-DISCRIM1_1,With children,Yes,Once,0.35,2018
-DISCRIM1_1,With children,Yes,Never in the past 3 years,0.38,2018
-DISCRIM1_1,With children,Yes,Don't know,0.02,2018
-DISCRIM1_1,With children,Yes,Refused,0.01,2018
-DISCRIM2,With children,Yes,Yes,0.15,2018
-DISCRIM2,With children,Yes,No,0.85,2018
-DISCRIM2,With children,Yes,Don't know,0,2018
-DISCRIM2,With children,Yes,Refused,0,2018
-DISCRIM2_2,With children,Yes,Your Ancestry or National Origins,0.08,2018
-DISCRIM2_2,With children,Yes,Your Gender,0.08,2018
-DISCRIM2_2,With children,Yes,Your Race,0.46,2018
-DISCRIM2_2,With children,Yes,Your Age,0.12,2018
-DISCRIM2_2,With children,Yes,Your Religion,0.02,2018
-DISCRIM2_2,With children,Yes,Your Height,0.02,2018
-DISCRIM2_2,With children,Yes,Your Weight,0.01,2018
-DISCRIM2_2,With children,Yes,Some other Aspect of Your Physical Appearance,0.23,2018
-DISCRIM2_2,With children,Yes,Your Sexual Orientation,0.01,2018
-DISCRIM2_2,With children,Yes,Your Education or Income Level,0.04,2018
-DISCRIM2_2,With children,Yes,A physical disability,0.02,2018
-DISCRIM2_2,With children,Yes,Don't know,0.21,2018
-DISCRIM2_2,With children,Yes,Refused,0.02,2018
-DISCRIM2_1,With children,Yes,Once every week or more,0.01,2018
-DISCRIM2_1,With children,Yes,A few times every month,0.05,2018
-DISCRIM2_1,With children,Yes,A few times every year,0.13,2018
-DISCRIM2_1,With children,Yes,A few times in the past 3 years,0.13,2018
-DISCRIM2_1,With children,Yes,Once,0.27,2018
-DISCRIM2_1,With children,Yes,Never in the past 3 years,0.41,2018
-DISCRIM2_1,With children,Yes,Don't know,0,2018
-DISCRIM2_1,With children,Yes,Refused,0,2018
-DISCRIM2_3,With children,Yes,In a car,0.67,2018
-DISCRIM2_3,With children,Yes,Walking or biking along a street,0.2,2018
-DISCRIM2_3,With children,Yes,At a bus stop,0.08,2018
-DISCRIM2_3,With children,Yes,Inside a bus,0.02,2018
-DISCRIM2_3,With children,Yes,At a public park,0.14,2018
-DISCRIM2_3,With children,Yes,Inside a house or apartment,0.07,2018
-DISCRIM2_3,With children,Yes,Inside a store,0.09,2018
-DISCRIM2_3,With children,Yes,Someplace else,0.1,2018
-DISCRIM2_3,With children,Yes,Don't know,0,2018
-DISCRIM2_3,With children,Yes,Refused,0,2018
-DISCRIM3,With children,Yes,Yes,0.13,2018
-DISCRIM3,With children,Yes,No,0.86,2018
-DISCRIM3,With children,Yes,Don't know,0.01,2018
-DISCRIM3,With children,Yes,Refused,0,2018
-DISCRIM4,With children,Yes,Yes,0.05,2018
-DISCRIM4,With children,Yes,No,0.95,2018
-DISCRIM4,With children,Yes,Don't know,0,2018
-DISCRIM4,With children,Yes,Refused,0,2018
-DISCRIM5,With children,Yes,Yes,0.11,2018
-DISCRIM5,With children,Yes,No,0.87,2018
-DISCRIM5,With children,Yes,Don't know,0.01,2018
-DISCRIM5,With children,Yes,Refused,0.01,2018
-Q77,With children,Yes,Yes,0.92,2018
-Q77,With children,Yes,No,0.08,2018
-Q77,With children,Yes,Refused,0,2018
-Q79,With children,Yes,Yes,0.85,2018
-Q79,With children,Yes,No,0.15,2018
-Q79,With children,Yes,Refused,0,2018
-MILITARY,With children,Yes,Yes,0.04,2018
-MILITARY,With children,Yes,No,0.96,2018
-MILITARY,With children,Yes,Refused,0,2018
-DISABILITY,With children,Yes,Yes,0.09,2018
-DISABILITY,With children,Yes,No,0.91,2018
-DISABILITY,With children,Yes,Refused,0,2018
-ENROLLED,With children,Yes,Yes,0.31,2018
-ENROLLED,With children,Yes,No,0.69,2018
-ENROLLED,With children,Yes,Refused,0,2018
-SOCI1,With children,Yes,Lesbian or Gay,0.01,2018
-SOCI1,With children,Yes,"Straight, that is, not gay",0.9,2018
-SOCI1,With children,Yes,Bisexual,0.05,2018
-SOCI1,With children,Yes,Something else,0.01,2018
-SOCI1,With children,Yes,I don't know the answer,0,2018
-SOCI1,With children,Yes,Refused,0.02,2018
+Q1,With children,No children in household,Yes,0.81,2018
+Q1,With children,No children in household,No,0.17,2018
+Q1,With children,No children in household,Don't know,0.01,2018
+Q1,With children,No children in household,Refused,0,2018
+Q2,With children,No children in household,Much better,0.07,2018
+Q2,With children,No children in household,Somewhat better,0.2,2018
+Q2,With children,No children in household,About the same,0.51,2018
+Q2,With children,No children in household,Somewhat worse,0.16,2018
+Q2,With children,No children in household,Much worse,0.05,2018
+Q2,With children,No children in household,Don't know,0.01,2018
+Q2,With children,No children in household,Refused,0,2018
+Q4A,With children,No children in household,Excellent,0.11,2018
+Q4A,With children,No children in household,Good,0.33,2018
+Q4A,With children,No children in household,Fair,0.3,2018
+Q4A,With children,No children in household,Poor,0.15,2018
+Q4A,With children,No children in household,Don't know enough about it in order to say,0.11,2018
+Q4A,With children,No children in household,Refused,0,2018
+Q4D,With children,No children in household,Excellent,0.29,2018
+Q4D,With children,No children in household,Good,0.46,2018
+Q4D,With children,No children in household,Fair,0.17,2018
+Q4D,With children,No children in household,Poor,0.05,2018
+Q4D,With children,No children in household,Don't know enough about it in order to say,0.03,2018
+Q4D,With children,No children in household,Refused,0,2018
+Q4E,With children,No children in household,Excellent,0.07,2018
+Q4E,With children,No children in household,Good,0.33,2018
+Q4E,With children,No children in household,Fair,0.32,2018
+Q4E,With children,No children in household,Poor,0.12,2018
+Q4E,With children,No children in household,Don't know enough about it in order to say,0.17,2018
+Q4E,With children,No children in household,Refused,0,2018
+Q4F,With children,No children in household,Excellent,0.3,2018
+Q4F,With children,No children in household,Good,0.39,2018
+Q4F,With children,No children in household,Fair,0.17,2018
+Q4F,With children,No children in household,Poor,0.07,2018
+Q4F,With children,No children in household,Don't know enough about it in order to say,0.07,2018
+Q4F,With children,No children in household,Refused,0,2018
+Q4G,With children,No children in household,Excellent,0.23,2018
+Q4G,With children,No children in household,Good,0.46,2018
+Q4G,With children,No children in household,Fair,0.19,2018
+Q4G,With children,No children in household,Poor,0.07,2018
+Q4G,With children,No children in household,Don't know enough about it in order to say,0.04,2018
+Q4G,With children,No children in household,Refused,0,2018
+Q4H,With children,No children in household,Excellent,0.26,2018
+Q4H,With children,No children in household,Good,0.45,2018
+Q4H,With children,No children in household,Fair,0.18,2018
+Q4H,With children,No children in household,Poor,0.06,2018
+Q4H,With children,No children in household,Don't know enough about it in order to say,0.04,2018
+Q4H,With children,No children in household,Refused,0,2018
+Q6,With children,No children in household,Great influence,0.05,2018
+Q6,With children,No children in household,Moderate influence,0.29,2018
+Q6,With children,No children in household,A little influence,0.35,2018
+Q6,With children,No children in household,No influence at all,0.27,2018
+Q6,With children,No children in household,Don't know,0.03,2018
+Q6,With children,No children in household,Refused,0,2018
+Q9,With children,No children in household,Very often,0.78,2018
+Q9,With children,No children in household,Fairly often,0.07,2018
+Q9,With children,No children in household,Sometimes,0.07,2018
+Q9,With children,No children in household,Almost never,0.02,2018
+Q9,With children,No children in household,Never at all,0.05,2018
+Q9,With children,No children in household,Don't know,0.01,2018
+Q9,With children,No children in household,Refused,0,2018
+Q57,With children,No children in household,"Single, never married",0.38,2018
+Q57,With children,No children in household,Married or civil union,0.37,2018
+Q57,With children,No children in household,Living with partner,0.05,2018
+Q57,With children,No children in household,Separated,0.01,2018
+Q57,With children,No children in household,Divorced,0.09,2018
+Q57,With children,No children in household,Widowed,0.09,2018
+Q57,With children,No children in household,Refused,0.01,2018
+Q60,With children,No children in household,One,0.32,2018
+Q60,With children,No children in household,Two,0.44,2018
+Q60,With children,No children in household,Three,0.15,2018
+Q60,With children,No children in household,Four or more,0.09,2018
+Q60,With children,No children in household,Refused,0.01,2018
+Q11,With children,No children in household,I own my home,0.56,2018
+Q11,With children,No children in household,I rent my home,0.3,2018
+Q11,With children,No children in household,I live with family or friends who own,0.08,2018
+Q11,With children,No children in household,I live with family or friends who rent,0.02,2018
+Q11,With children,No children in household,Other,0.02,2018
+Q11,With children,No children in household,Refused,0.01,2018
+Q12,With children,No children in household,Yes,0.26,2018
+Q12,With children,No children in household,No,0.73,2018
+Q12,With children,No children in household,Don't know,0,2018
+Q12,With children,No children in household,Refused,0.01,2018
+MOVEYEAR,With children,No children in household,Within the last 3 years,0.17,2018
+MOVEYEAR,With children,No children in household,4 to 10 years ago,0.23,2018
+MOVEYEAR,With children,No children in household,11 to 19 years ago,0.16,2018
+MOVEYEAR,With children,No children in household,20 or more years ago,0.4,2018
+MOVEYEAR,With children,No children in household,Refused,0.03,2018
+RECENTMOVE,With children,No children in household,"Was living in the same building, facility, or housing development that I live in now",0.04,2018
+RECENTMOVE,With children,No children in household,"Was living somewhere in the same neighborhood, town, or city as my current home",0.4,2018
+RECENTMOVE,With children,No children in household,In a different town or city within <state2>,0.4,2018
+RECENTMOVE,With children,No children in household,In another U.S. state (please specify),0.12,2018
+RECENTMOVE,With children,No children in household,"In Puerto Rico, USVI, or another U.S. territory",0,2018
+RECENTMOVE,With children,No children in household,Somewhere outside of the United States,0.05,2018
+RECENTMOVE,With children,No children in household,Don't know,0,2018
+RECENTMOVE,With children,No children in household,Refused,0,2018
+RENTPREVST,With children,No children in household,No,0.82,2018
+RENTPREVST,With children,No children in household,Yes and I still own that home,0.07,2018
+RENTPREVST,With children,No children in household,Yes and I sold that home,0.07,2018
+RENTPREVST,With children,No children in household,Other,0.03,2018
+RENTPREVST,With children,No children in household,Don't know,0,2018
+RENTPREVST,With children,No children in household,Refused,0,2018
+RENTEVICT,With children,No children in household,Yes,0.03,2018
+RENTEVICT,With children,No children in household,No,0.97,2018
+RENTEVICT,With children,No children in household,Don't know,0,2018
+RENTEVICT,With children,No children in household,Refused,0,2018
+RENTEVICTRA,With children,No children in household,Yes,0.02,2018
+RENTEVICTRA,With children,No children in household,No,0.98,2018
+RENTEVICTRA,With children,No children in household,Don't know,0,2018
+RENTEVICTRA,With children,No children in household,Refused,0,2018
+RENTEVICTRAB,With children,No children in household,Yes,0.06,2018
+RENTEVICTRAB,With children,No children in household,No,0.93,2018
+RENTEVICTRAB,With children,No children in household,Don't know,0,2018
+RENTEVICTRAB,With children,No children in household,Refused,0,2018
+RENTEVICTRC,With children,No children in household,Yes,0.02,2018
+RENTEVICTRC,With children,No children in household,No,0.98,2018
+RENTEVICTRC,With children,No children in household,Don't know,0,2018
+RENTEVICTRC,With children,No children in household,Refused,0,2018
+RENTMOVEOT,With children,No children in household,Rent increased at previous home or apartment,0.14,2018
+RENTMOVEOT,With children,No children in household,Landlord would not fix things at previous home or apartment,0.05,2018
+RENTMOVEOT,With children,No children in household,To save money,0.23,2018
+RENTMOVEOT,With children,No children in household,Better quality or larger home,0.23,2018
+RENTMOVEOT,With children,No children in household,Closer to work or school,0.22,2018
+RENTMOVEOT,With children,No children in household,Better quality neighborhood or schools,0.16,2018
+RENTMOVEOT,With children,No children in household,Relocated to a new city,0.31,2018
+RENTMOVEOT,With children,No children in household,"Change in family status (i.e. marriage, divorce, children)",0.14,2018
+RENTMOVEOT,With children,No children in household,Other,0.16,2018
+RENTMOVEOT,With children,No children in household,Don't know,0.01,2018
+RENTMOVEOT,With children,No children in household,Refused,0.01,2018
+Q13R1,With children,No children in household,Yes,0.43,2018
+Q13R1,With children,No children in household,No,0.57,2018
+Q13R1,With children,No children in household,Don't know,0,2018
+Q13R1,With children,No children in household,Refused,0,2018
+Q13R2,With children,No children in household,Yes,0.76,2018
+Q13R2,With children,No children in household,No,0.23,2018
+Q13R2,With children,No children in household,Don't know,0,2018
+Q13R2,With children,No children in household,Refused,0.01,2018
+Q13R3,With children,No children in household,None,0.44,2018
+Q13R3,With children,No children in household,A little difficulty,0.26,2018
+Q13R3,With children,No children in household,Moderate difficulty,0.13,2018
+Q13R3,With children,No children in household,Substantial difficulty,0.17,2018
+Q13R3,With children,No children in household,Don't know,0,2018
+Q13R3,With children,No children in household,Refused,0,2018
+Q14R1,With children,No children in household,Definitely no,0.3,2018
+Q14R1,With children,No children in household,Probably no,0.22,2018
+Q14R1,With children,No children in household,Probably yes,0.24,2018
+Q14R1,With children,No children in household,Definitely yes,0.22,2018
+Q14R1,With children,No children in household,Don't know,0.02,2018
+Q14R1,With children,No children in household,Refused,0,2018
+Q14R2,With children,No children in household,Very likely,0.33,2018
+Q14R2,With children,No children in household,Somewhat likely,0.32,2018
+Q14R2,With children,No children in household,Not very likely,0.14,2018
+Q14R2,With children,No children in household,Not at all likely,0.21,2018
+Q14R2,With children,No children in household,Don't know,0.01,2018
+Q14R2,With children,No children in household,Refused,0,2018
+Q17A,With children,No children in household,Strongly agree,0.31,2018
+Q17A,With children,No children in household,Somewhat agree,0.27,2018
+Q17A,With children,No children in household,Somewhat disagree,0.17,2018
+Q17A,With children,No children in household,Strongly disagree,0.23,2018
+Q17A,With children,No children in household,Don't know,0,2018
+Q17A,With children,No children in household,Refused,0.01,2018
+Q17B,With children,No children in household,Strongly agree,0.43,2018
+Q17B,With children,No children in household,Somewhat agree,0.23,2018
+Q17B,With children,No children in household,Somewhat disagree,0.11,2018
+Q17B,With children,No children in household,Strongly disagree,0.21,2018
+Q17B,With children,No children in household,Don't know,0.01,2018
+Q17B,With children,No children in household,Refused,0,2018
+Q17C,With children,No children in household,Strongly agree,0.35,2018
+Q17C,With children,No children in household,Somewhat agree,0.32,2018
+Q17C,With children,No children in household,Somewhat disagree,0.14,2018
+Q17C,With children,No children in household,Strongly disagree,0.16,2018
+Q17C,With children,No children in household,Don't know,0.03,2018
+Q17C,With children,No children in household,Refused,0,2018
+Q17E,With children,No children in household,Strongly agree,0.37,2018
+Q17E,With children,No children in household,Somewhat agree,0.33,2018
+Q17E,With children,No children in household,Somewhat disagree,0.13,2018
+Q17E,With children,No children in household,Strongly disagree,0.15,2018
+Q17E,With children,No children in household,Don't know,0.02,2018
+Q17E,With children,No children in household,Refused,0,2018
+Q17F,With children,No children in household,Strongly agree,0.15,2018
+Q17F,With children,No children in household,Somewhat agree,0.16,2018
+Q17F,With children,No children in household,Somewhat disagree,0.19,2018
+Q17F,With children,No children in household,Strongly disagree,0.47,2018
+Q17F,With children,No children in household,Don't know,0.02,2018
+Q17F,With children,No children in household,Refused,0.01,2018
+Q17G,With children,No children in household,Strongly agree,0.46,2018
+Q17G,With children,No children in household,Somewhat agree,0.35,2018
+Q17G,With children,No children in household,Somewhat disagree,0.1,2018
+Q17G,With children,No children in household,Strongly disagree,0.06,2018
+Q17G,With children,No children in household,Don't know,0.02,2018
+Q17G,With children,No children in household,Refused,0,2018
+Q17H,With children,No children in household,Strongly agree,0.31,2018
+Q17H,With children,No children in household,Somewhat agree,0.4,2018
+Q17H,With children,No children in household,Somewhat disagree,0.13,2018
+Q17H,With children,No children in household,Strongly disagree,0.09,2018
+Q17H,With children,No children in household,Don't know,0.08,2018
+Q17H,With children,No children in household,Refused,0,2018
+Q17I,With children,No children in household,Strongly agree,0.34,2018
+Q17I,With children,No children in household,Somewhat agree,0.41,2018
+Q17I,With children,No children in household,Somewhat disagree,0.12,2018
+Q17I,With children,No children in household,Strongly disagree,0.08,2018
+Q17I,With children,No children in household,Don't know,0.05,2018
+Q17I,With children,No children in household,Refused,0,2018
+Q18,With children,No children in household,Very likely,0.56,2018
+Q18,With children,No children in household,Somewhat likely,0.21,2018
+Q18,With children,No children in household,Not very likely,0.08,2018
+Q18,With children,No children in household,Not at all likely,0.05,2018
+Q18,With children,No children in household,Don't know,0.1,2018
+Q18,With children,No children in household,Refused,0,2018
+LIFECA,With children,No children in household,Almost certain,0.4,2018
+LIFECA,With children,No children in household,Very likely,0.42,2018
+LIFECA,With children,No children in household,A toss up,0.1,2018
+LIFECA,With children,No children in household,Not very likely,0.02,2018
+LIFECA,With children,No children in household,Not at all likely,0.01,2018
+LIFECA,With children,No children in household,Don't know,0.04,2018
+LIFECA,With children,No children in household,Refused,0,2018
+LIFECB,With children,No children in household,Almost certain,0.14,2018
+LIFECB,With children,No children in household,Very likely,0.35,2018
+LIFECB,With children,No children in household,A toss up,0.28,2018
+LIFECB,With children,No children in household,Not very likely,0.12,2018
+LIFECB,With children,No children in household,Not at all likely,0.04,2018
+LIFECB,With children,No children in household,Don't know,0.06,2018
+LIFECB,With children,No children in household,Refused,0,2018
+LIFECC,With children,No children in household,Almost certain,0.02,2018
+LIFECC,With children,No children in household,Very likely,0.07,2018
+LIFECC,With children,No children in household,A toss up,0.11,2018
+LIFECC,With children,No children in household,Not very likely,0.38,2018
+LIFECC,With children,No children in household,Not at all likely,0.36,2018
+LIFECC,With children,No children in household,Don't know,0.05,2018
+LIFECC,With children,No children in household,Refused,0,2018
+LIFECD,With children,No children in household,Almost certain,0.07,2018
+LIFECD,With children,No children in household,Very likely,0.21,2018
+LIFECD,With children,No children in household,A toss up,0.4,2018
+LIFECD,With children,No children in household,Not very likely,0.19,2018
+LIFECD,With children,No children in household,Not at all likely,0.07,2018
+LIFECD,With children,No children in household,Don't know,0.07,2018
+LIFECD,With children,No children in household,Refused,0,2018
+LIFECF,With children,No children in household,Almost certain,0.03,2018
+LIFECF,With children,No children in household,Very likely,0.09,2018
+LIFECF,With children,No children in household,A toss up,0.25,2018
+LIFECF,With children,No children in household,Not very likely,0.42,2018
+LIFECF,With children,No children in household,Not at all likely,0.17,2018
+LIFECF,With children,No children in household,Don't know,0.04,2018
+LIFECF,With children,No children in household,Refused,0,2018
+Q19,With children,No children in household,Excellent,0.21,2018
+Q19,With children,No children in household,Very good,0.35,2018
+Q19,With children,No children in household,Good,0.27,2018
+Q19,With children,No children in household,Fair,0.13,2018
+Q19,With children,No children in household,Poor,0.03,2018
+Q19,With children,No children in household,Don't know,0,2018
+Q19,With children,No children in household,Refused,0.01,2018
+Q20,With children,No children in household,Not at all satisfied,0.03,2018
+Q20,With children,No children in household,Only a little bit satisfied,0.09,2018
+Q20,With children,No children in household,Somewhat satisfied,0.21,2018
+Q20,With children,No children in household,Mostly satisfied,0.43,2018
+Q20,With children,No children in household,Completely satisfied,0.23,2018
+Q20,With children,No children in household,Don't know,0,2018
+Q20,With children,No children in household,Refused,0,2018
+Q21,With children,No children in household,Not at all,0.05,2018
+Q21,With children,No children in household,Only a little bit,0.08,2018
+Q21,With children,No children in household,Somewhat,0.19,2018
+Q21,With children,No children in household,Mostly,0.37,2018
+Q21,With children,No children in household,Completely,0.3,2018
+Q21,With children,No children in household,Don't know,0.01,2018
+Q21,With children,No children in household,Refused,0.01,2018
+Q22,With children,No children in household,Not at all,0.44,2018
+Q22,With children,No children in household,Only a little bit,0.24,2018
+Q22,With children,No children in household,Somewhat,0.19,2018
+Q22,With children,No children in household,Mostly,0.08,2018
+Q22,With children,No children in household,Completely,0.05,2018
+Q22,With children,No children in household,Don't know,0,2018
+Q22,With children,No children in household,Refused,0,2018
+Q23,With children,No children in household,Not at all,0.04,2018
+Q23,With children,No children in household,Only a little bit,0.16,2018
+Q23,With children,No children in household,Somewhat,0.27,2018
+Q23,With children,No children in household,Mostly,0.3,2018
+Q23,With children,No children in household,Completely,0.22,2018
+Q23,With children,No children in household,Don't know,0,2018
+Q23,With children,No children in household,Refused,0,2018
+Q23PL,With children,No children in household,Strongly agree,0.38,2018
+Q23PL,With children,No children in household,Agree,0.3,2018
+Q23PL,With children,No children in household,Slightly agree,0.14,2018
+Q23PL,With children,No children in household,Neither agree nor disagree,0.08,2018
+Q23PL,With children,No children in household,Slightly disagree,0.02,2018
+Q23PL,With children,No children in household,Disagree,0.03,2018
+Q23PL,With children,No children in household,Strongly disagree,0.04,2018
+Q23PL,With children,No children in household,Don't know,0,2018
+Q23PL,With children,No children in household,Refused,0,2018
+Q23A,With children,No children in household,Yes,0.34,2018
+Q23A,With children,No children in household,No,0.64,2018
+Q23A,With children,No children in household,Don't know,0,2018
+Q23A,With children,No children in household,Refused,0.01,2018
+Q23A1,With children,No children in household,Yes,0.77,2018
+Q23A1,With children,No children in household,No,0.23,2018
+Q23A1,With children,No children in household,Don't know,0,2018
+Q23A1,With children,No children in household,Refused,0,2018
+Q23C,With children,No children in household,Yes,0.12,2018
+Q23C,With children,No children in household,No,0.87,2018
+Q23C,With children,No children in household,Don't know,0,2018
+Q23C,With children,No children in household,Refused,0.01,2018
+Q23D,With children,No children in household,Yes,0.07,2018
+Q23D,With children,No children in household,No,0.91,2018
+Q23D,With children,No children in household,Don't know,0,2018
+Q23D,With children,No children in household,Refused,0.01,2018
+Q23E,With children,No children in household,Yes,0.14,2018
+Q23E,With children,No children in household,No,0.85,2018
+Q23E,With children,No children in household,Don't know,0,2018
+Q23E,With children,No children in household,Refused,0.01,2018
+Q23E2,With children,No children in household,Yes,0.72,2018
+Q23E2,With children,No children in household,No,0.25,2018
+Q23E2,With children,No children in household,Don't know,0.03,2018
+Q23E2,With children,No children in household,Refused,0,2018
+Q23E2,With children,No children in household,Current Asthma Rate (based on Q23E*23E2),0.1008,2018
+BMI,With children,No children in household,Underweight,0.02,2018
+BMI,With children,No children in household,Normal weight,0.33,2018
+BMI,With children,No children in household,Overweight,0.36,2018
+BMI,With children,No children in household,Obese,0.29,2018
+Q26,With children,No children in household,Yes,0.95,2018
+Q26,With children,No children in household,No,0.05,2018
+Q26,With children,No children in household,Don't know,0,2018
+Q26,With children,No children in household,Refused,0,2018
+Q27,With children,No children in household,Insurance obtained through a current or former employer or union,0.53,2018
+Q27,With children,No children in household,Insurance purchased directly from an insurance company,0.12,2018
+Q27,With children,No children in household,Medicare,0.31,2018
+Q27,With children,No children in household,"Medicaid, Medical Assistance, HUSKY or any kind of government-assistance plan",0.15,2018
+Q27,With children,No children in household,State Health Insurance Exchange such as Access Health CT or NY State of Health,0.07,2018
+Q27,With children,No children in household,Any other type of health insurance plan,0.06,2018
+Q27,With children,No children in household,Don't know,0,2018
+Q27,With children,No children in household,Refused,0.02,2018
+Q28,With children,No children in household,Yes,0.08,2018
+Q28,With children,No children in household,No,0.91,2018
+Q28,With children,No children in household,Don't know,0,2018
+Q28,With children,No children in household,Refused,0,2018
+Q29,With children,No children in household,Yes,0.22,2018
+Q29,With children,No children in household,No,0.78,2018
+Q29,With children,No children in household,Don't know,0,2018
+Q29,With children,No children in household,Refused,0,2018
+Q30A,With children,No children in household,Yes,0.4,2018
+Q30A,With children,No children in household,No,0.6,2018
+Q30A,With children,No children in household,Don't know,0,2018
+Q30A,With children,No children in household,Refused,0,2018
+Q30B,With children,No children in household,Yes,0.13,2018
+Q30B,With children,No children in household,No,0.87,2018
+Q30B,With children,No children in household,Don't know,0,2018
+Q30B,With children,No children in household,Refused,0,2018
+Q30C,With children,No children in household,Yes,0.22,2018
+Q30C,With children,No children in household,No,0.75,2018
+Q30C,With children,No children in household,Don't know,0.02,2018
+Q30C,With children,No children in household,Refused,0,2018
+Q30D,With children,No children in household,Yes,0.32,2018
+Q30D,With children,No children in household,No,0.67,2018
+Q30D,With children,No children in household,Don't know,0,2018
+Q30D,With children,No children in household,Refused,0,2018
+Q30E,With children,No children in household,Yes,0.21,2018
+Q30E,With children,No children in household,No,0.79,2018
+Q30E,With children,No children in household,Don't know,0,2018
+Q30E,With children,No children in household,Refused,0,2018
+Q30F,With children,No children in household,Yes,0.44,2018
+Q30F,With children,No children in household,No,0.56,2018
+Q30F,With children,No children in household,Don't know,0,2018
+Q30F,With children,No children in household,Refused,0,2018
+Q30H,With children,No children in household,Yes,0.16,2018
+Q30H,With children,No children in household,No,0.83,2018
+Q30H,With children,No children in household,Don't know,0,2018
+Q30H,With children,No children in household,Refused,0,2018
+Q30G,With children,No children in household,Yes,0.49,2018
+Q30G,With children,No children in household,No,0.51,2018
+Q30G,With children,No children in household,Don't know,0,2018
+Q30G,With children,No children in household,Refused,0,2018
+Q31,With children,No children in household,Yes,0.07,2018
+Q31,With children,No children in household,No,0.92,2018
+Q31,With children,No children in household,Don't know,0,2018
+Q31,With children,No children in household,Refused,0,2018
+Q31_1,With children,No children in household,Yes,0.07,2018
+Q31_1,With children,No children in household,No,0.93,2018
+Q31_1,With children,No children in household,Don't know,0,2018
+Q31_1,With children,No children in household,Refused,0,2018
+Q32,With children,No children in household,Yes,0.84,2018
+Q32,With children,No children in household,No,0.16,2018
+Q32,With children,No children in household,Don't know,0,2018
+Q32,With children,No children in household,Refused,0,2018
+Q33,With children,No children in household,More than one,0.32,2018
+Q33,With children,No children in household,None at all,0.67,2018
+Q33,With children,No children in household,Don't know,0.01,2018
+Q33,With children,No children in household,Refused,0,2018
+Q33,With children,No children in household,No Medical Home (Q32*Q33),0.1072,2018
+Q34,With children,No children in household,None,0.75,2018
+Q34,With children,No children in household,1 to 2,0.2,2018
+Q34,With children,No children in household,3 or more,0.05,2018
+Q34,With children,No children in household,Don't know,0,2018
+Q34,With children,No children in household,Refused,0,2018
+Q35,With children,No children in household,Within the last 6 months,0.59,2018
+Q35,With children,No children in household,More than 6 months but less than a year,0.13,2018
+Q35,With children,No children in household,More than a year but less than two years,0.12,2018
+Q35,With children,No children in household,More than two years ago,0.14,2018
+Q35,With children,No children in household,Never have gone to a dentist,0.01,2018
+Q35,With children,No children in household,Don't know,0,2018
+Q35,With children,No children in household,Refused,0,2018
+Q37_1,With children,No children in household,Always,0.41,2018
+Q37_1,With children,No children in household,Usually,0.29,2018
+Q37_1,With children,No children in household,Sometimes,0.17,2018
+Q37_1,With children,No children in household,Rarely,0.06,2018
+Q37_1,With children,No children in household,Never,0.05,2018
+Q37_1,With children,No children in household,Don't know,0.01,2018
+Q37_1,With children,No children in household,Refused,0.01,2018
+Q37_2,With children,No children in household,Not at all,0.63,2018
+Q37_2,With children,No children in household,Several days,0.18,2018
+Q37_2,With children,No children in household,More than half the days,0.07,2018
+Q37_2,With children,No children in household,Nearly every day,0.09,2018
+Q37_2,With children,No children in household,Don't know,0.02,2018
+Q37_2,With children,No children in household,Refused,0.01,2018
+Q37_3,With children,No children in household,Not at all,0.66,2018
+Q37_3,With children,No children in household,Several days,0.21,2018
+Q37_3,With children,No children in household,More than half the days,0.05,2018
+Q37_3,With children,No children in household,Nearly every day,0.06,2018
+Q37_3,With children,No children in household,Don't know,0,2018
+Q37_3,With children,No children in household,Refused,0.01,2018
+Q38,With children,No children in household,None,0.2,2018
+Q38,With children,No children in household,One,0.08,2018
+Q38,With children,No children in household,Two,0.14,2018
+Q38,With children,No children in household,Three,0.2,2018
+Q38,With children,No children in household,Four,0.1,2018
+Q38,With children,No children in household,Five,0.1,2018
+Q38,With children,No children in household,Six,0.04,2018
+Q38,With children,No children in household,Seven,0.15,2018
+Q38,With children,No children in household,Don't know,0,2018
+Q38,With children,No children in household,Refused,0,2018
+Q39,With children,No children in household,Yes,0.44,2018
+Q39,With children,No children in household,No,0.56,2018
+Q39,With children,No children in household,Don't know,0,2018
+Q39,With children,No children in household,Refused,0,2018
+Q40,With children,No children in household,Every day,0.21,2018
+Q40,With children,No children in household,Some days,0.12,2018
+Q40,With children,No children in household,Not at all,0.66,2018
+Q40,With children,No children in household,Don't know,0,2018
+Q40,With children,No children in household,Refused,0,2018
+Q40,With children,No children in household,Current Smoking Rate (Q39*Q40),0.1452,2018
+Q42,With children,No children in household,Yes,0.19,2018
+Q42,With children,No children in household,No,0.81,2018
+Q42,With children,No children in household,Don't know,0,2018
+Q42,With children,No children in household,Refused,0,2018
+Q43,With children,No children in household,None,0.48,2018
+Q43,With children,No children in household,One to five,0.27,2018
+Q43,With children,No children in household,Six to twenty-nine,0.11,2018
+Q43,With children,No children in household,Everyday,0.13,2018
+Q43,With children,No children in household,Don't know,0.01,2018
+Q43,With children,No children in household,Refused,0,2018
+Q43,With children,No children in household,Vaping Past 30 Days Rate (Q42*Q43),0.0969,2018
+ALCOHOL,With children,No children in household,None,0.73,2018
+ALCOHOL,With children,No children in household,One to five,0.18,2018
+ALCOHOL,With children,No children in household,Six to ten,0.03,2018
+ALCOHOL,With children,No children in household,More than ten,0.04,2018
+ALCOHOL,With children,No children in household,Don't know,0.01,2018
+ALCOHOL,With children,No children in household,Refused,0.01,2018
+POT1,With children,No children in household,None,0.86,2018
+POT1,With children,No children in household,One to five,0.05,2018
+POT1,With children,No children in household,Six to ten,0.01,2018
+POT1,With children,No children in household,More than ten,0.07,2018
+POT1,With children,No children in household,Don't know,0,2018
+POT1,With children,No children in household,Refused,0.01,2018
+OPIOID2,With children,No children in household,No,0.7,2018
+OPIOID2,With children,No children in household,"Yes, one person",0.13,2018
+OPIOID2,With children,No children in household,"Yes, 2 to 4 people",0.09,2018
+OPIOID2,With children,No children in household,"Yes, 5 or more people",0.07,2018
+OPIOID2,With children,No children in household,Don't know,0,2018
+OPIOID2,With children,No children in household,Refused,0,2018
+OPIOID2_1,With children,No children in household,Yourself,0.04,2018
+OPIOID2_1,With children,No children in household,A family member,0.37,2018
+OPIOID2_1,With children,No children in household,A close friend,0.38,2018
+OPIOID2_1,With children,No children in household,An acquaintance,0.43,2018
+OPIOID2_1,With children,No children in household,Don't know,0.01,2018
+OPIOID2_1,With children,No children in household,Refused,0.03,2018
+OPIOID4,With children,No children in household,No,0.75,2018
+OPIOID4,With children,No children in household,"Yes, one person",0.11,2018
+OPIOID4,With children,No children in household,"Yes, 2 to 4 people",0.09,2018
+OPIOID4,With children,No children in household,"Yes, 5 or more people",0.05,2018
+OPIOID4,With children,No children in household,Don't know,0.01,2018
+OPIOID4,With children,No children in household,Refused,0,2018
+OPIOID4_1,With children,No children in household,A family member,0.17,2018
+OPIOID4_1,With children,No children in household,A close friend,0.42,2018
+OPIOID4_1,With children,No children in household,An acquaintance,0.6,2018
+OPIOID4_1,With children,No children in household,Don't know,0.02,2018
+OPIOID4_1,With children,No children in household,Refused,0.02,2018
+Q44,With children,No children in household,Living comfortably,0.34,2018
+Q44,With children,No children in household,Doing alright,0.34,2018
+Q44,With children,No children in household,Just getting by,0.2,2018
+Q44,With children,No children in household,Finding it difficult,0.08,2018
+Q44,With children,No children in household,Finding it very difficult,0.04,2018
+Q44,With children,No children in household,Don't know,0,2018
+Q44,With children,No children in household,Refused,0.01,2018
+Q45,With children,No children in household,Better off,0.52,2018
+Q45,With children,No children in household,Not,0.37,2018
+Q45,With children,No children in household,Same,0.04,2018
+Q45,With children,No children in household,Don't know,0.06,2018
+Q45,With children,No children in household,Refused,0,2018
+Q46,With children,No children in household,Less than a month,0.18,2018
+Q46,With children,No children in household,At least one month but less than 2,0.12,2018
+Q46,With children,No children in household,At least 2 months but less than 6,0.17,2018
+Q46,With children,No children in household,At least 6 months but less than a year,0.16,2018
+Q46,With children,No children in household,At least a year but less than 2 years,0.09,2018
+Q46,With children,No children in household,Two years or more,0.23,2018
+Q46,With children,No children in household,Don't know,0.03,2018
+Q46,With children,No children in household,Refused,0.01,2018
+DEBT,With children,No children in household,Something left over,0.63,2018
+DEBT,With children,No children in household,Break even,0.17,2018
+DEBT,With children,No children in household,Be in debt,0.15,2018
+DEBT,With children,No children in household,Don't know,0.03,2018
+DEBT,With children,No children in household,Refused,0.02,2018
+Q47,With children,No children in household,Yes,0.53,2018
+Q47,With children,No children in household,"No, but would like to work",0.07,2018
+Q47,With children,No children in household,"No, retired",0.26,2018
+Q47,With children,No children in household,"No, homemaker",0.02,2018
+Q47,With children,No children in household,"No, full time student",0.03,2018
+Q47,With children,No children in household,"No, disabled",0.07,2018
+Q47,With children,No children in household,"No, other",0.01,2018
+Q47,With children,No children in household,Refused,0.01,2018
+Q49,With children,No children in household,Full time,0.72,2018
+Q49,With children,No children in household,Part time,0.26,2018
+Q49,With children,No children in household,Other,0.01,2018
+Q49,With children,No children in household,Refused,0,2018
+Q50,With children,No children in household,By choice,0.61,2018
+Q50,With children,No children in household,Rather have a full time job,0.36,2018
+Q50,With children,No children in household,Refused,0.03,2018
+Q50,With children,No children in household,"Underemployment Rate (based on Q47,49,50)",0.19934666666666664,2018
+Q51,With children,No children in household,Less than 30,0.28,2018
+Q51,With children,No children in household,30 to 49,0.47,2018
+Q51,With children,No children in household,50 to 79,0.24,2018
+Q51,With children,No children in household,80 or more,0,2018
+Q51,With children,No children in household,Refused,0.02,2018
+Q56,With children,No children in household,Drive myself,0.74,2018
+Q56,With children,No children in household,Get a ride with friends or family,0.09,2018
+Q56,With children,No children in household,Public bus system,0.06,2018
+Q56,With children,No children in household,Train or railroad,0.01,2018
+Q56,With children,No children in household,Walk,0.05,2018
+Q56,With children,No children in household,Bicycle,0.01,2018
+Q56,With children,No children in household,Take a taxi,0.01,2018
+Q56,With children,No children in household,Ride paratransit,0,2018
+Q56,With children,No children in household,Other,0.01,2018
+Q56,With children,No children in household,I took no trips last month/Homebound,0.01,2018
+Q56,With children,No children in household,Don't know,0,2018
+Q56,With children,No children in household,Refused,0,2018
+Q62,With children,No children in household,Yes,0.12,2018
+Q62,With children,No children in household,No,0.88,2018
+Q62,With children,No children in household,Don't know,0,2018
+Q62,With children,No children in household,Refused,0,2018
+Q63,With children,No children in household,Almost every month,0.32,2018
+Q63,With children,No children in household,Some months but not every month,0.39,2018
+Q63,With children,No children in household,Only 1 or 2 months,0.29,2018
+Q63,With children,No children in household,Don't know,0,2018
+Q63,With children,No children in household,Refused,0,2018
+Q64,With children,No children in household,Yes,0.07,2018
+Q64,With children,No children in household,No,0.93,2018
+Q64,With children,No children in household,Don't know,0,2018
+Q64,With children,No children in household,Refused,0,2018
+Q64_GAS,With children,No children in household,Yes,0.08,2018
+Q64_GAS,With children,No children in household,No,0.92,2018
+Q64_GAS,With children,No children in household,Don't know,0,2018
+Q64_GAS,With children,No children in household,Refused,0,2018
+Q65,With children,No children in household,Yes,0.12,2018
+Q65,With children,No children in household,No,0.88,2018
+Q65,With children,No children in household,Don't know,0,2018
+Q65,With children,No children in household,Refused,0,2018
+Q65_1,With children,No children in household,Yes,0.36,2018
+Q65_1,With children,No children in household,No,0.64,2018
+Q65_1,With children,No children in household,Don't know,0,2018
+Q65_1,With children,No children in household,Refused,0,2018
+Q66,With children,No children in household,Yes,0.9,2018
+Q66,With children,No children in household,No,0.1,2018
+Q66,With children,No children in household,Don't know,0,2018
+Q66,With children,No children in household,Refused,0.01,2018
+Q68,With children,No children in household,Yes,0.1,2018
+Q68,With children,No children in household,No,0.89,2018
+Q68,With children,No children in household,Don't know,0,2018
+Q68,With children,No children in household,Refused,0,2018
+Q69,With children,No children in household,Yes,0.05,2018
+Q69,With children,No children in household,No,0.94,2018
+Q69,With children,No children in household,Don't know,0,2018
+Q69,With children,No children in household,Refused,0,2018
+DISCRIM1,With children,No children in household,Yes,0.25,2018
+DISCRIM1,With children,No children in household,No,0.74,2018
+DISCRIM1,With children,No children in household,Don't know,0.01,2018
+DISCRIM1,With children,No children in household,Refused,0,2018
+DISCRIM1_2,With children,No children in household,Your Ancestry or National Origins,0.02,2018
+DISCRIM1_2,With children,No children in household,Your Gender,0.16,2018
+DISCRIM1_2,With children,No children in household,Your Race,0.13,2018
+DISCRIM1_2,With children,No children in household,Your Age,0.13,2018
+DISCRIM1_2,With children,No children in household,Your Religion,0,2018
+DISCRIM1_2,With children,No children in household,Your Height,0,2018
+DISCRIM1_2,With children,No children in household,Your Weight,0.02,2018
+DISCRIM1_2,With children,No children in household,Some other Aspect of Your Physical Appearance,0.07,2018
+DISCRIM1_2,With children,No children in household,Your Sexual Orientation,0.04,2018
+DISCRIM1_2,With children,No children in household,Your Education or Income Level,0.1,2018
+DISCRIM1_2,With children,No children in household,A physical disability,0.06,2018
+DISCRIM1_2,With children,No children in household,Don't know,0.37,2018
+DISCRIM1_2,With children,No children in household,Refused,0.05,2018
+DISCRIM1_1,With children,No children in household,Once every week or more,0.01,2018
+DISCRIM1_1,With children,No children in household,A few times every month,0.02,2018
+DISCRIM1_1,With children,No children in household,A few times every year,0.03,2018
+DISCRIM1_1,With children,No children in household,A few times in the past 3 years,0.11,2018
+DISCRIM1_1,With children,No children in household,Once,0.34,2018
+DISCRIM1_1,With children,No children in household,Never in the past 3 years,0.49,2018
+DISCRIM1_1,With children,No children in household,Don't know,0,2018
+DISCRIM1_1,With children,No children in household,Refused,0,2018
+DISCRIM2,With children,No children in household,Yes,0.11,2018
+DISCRIM2,With children,No children in household,No,0.89,2018
+DISCRIM2,With children,No children in household,Don't know,0,2018
+DISCRIM2,With children,No children in household,Refused,0,2018
+DISCRIM2_2,With children,No children in household,Your Ancestry or National Origins,0.05,2018
+DISCRIM2_2,With children,No children in household,Your Gender,0.03,2018
+DISCRIM2_2,With children,No children in household,Your Race,0.3,2018
+DISCRIM2_2,With children,No children in household,Your Age,0.14,2018
+DISCRIM2_2,With children,No children in household,Your Religion,0.01,2018
+DISCRIM2_2,With children,No children in household,Your Height,0.02,2018
+DISCRIM2_2,With children,No children in household,Your Weight,0.01,2018
+DISCRIM2_2,With children,No children in household,Some other Aspect of Your Physical Appearance,0.16,2018
+DISCRIM2_2,With children,No children in household,Your Sexual Orientation,0.01,2018
+DISCRIM2_2,With children,No children in household,Your Education or Income Level,0.02,2018
+DISCRIM2_2,With children,No children in household,A physical disability,0.04,2018
+DISCRIM2_2,With children,No children in household,Don't know,0.33,2018
+DISCRIM2_2,With children,No children in household,Refused,0.03,2018
+DISCRIM2_1,With children,No children in household,Once every week or more,0.01,2018
+DISCRIM2_1,With children,No children in household,A few times every month,0.02,2018
+DISCRIM2_1,With children,No children in household,A few times every year,0.06,2018
+DISCRIM2_1,With children,No children in household,A few times in the past 3 years,0.2,2018
+DISCRIM2_1,With children,No children in household,Once,0.32,2018
+DISCRIM2_1,With children,No children in household,Never in the past 3 years,0.4,2018
+DISCRIM2_1,With children,No children in household,Don't know,0,2018
+DISCRIM2_1,With children,No children in household,Refused,0,2018
+DISCRIM2_3,With children,No children in household,In a car,0.59,2018
+DISCRIM2_3,With children,No children in household,Walking or biking along a street,0.23,2018
+DISCRIM2_3,With children,No children in household,At a bus stop,0.04,2018
+DISCRIM2_3,With children,No children in household,Inside a bus,0.02,2018
+DISCRIM2_3,With children,No children in household,At a public park,0.09,2018
+DISCRIM2_3,With children,No children in household,Inside a house or apartment,0.06,2018
+DISCRIM2_3,With children,No children in household,Inside a store,0.03,2018
+DISCRIM2_3,With children,No children in household,Someplace else,0.16,2018
+DISCRIM2_3,With children,No children in household,Don't know,0.01,2018
+DISCRIM2_3,With children,No children in household,Refused,0.01,2018
+DISCRIM3,With children,No children in household,Yes,0.08,2018
+DISCRIM3,With children,No children in household,No,0.87,2018
+DISCRIM3,With children,No children in household,Don't know,0.05,2018
+DISCRIM3,With children,No children in household,Refused,0,2018
+DISCRIM4,With children,No children in household,Yes,0.05,2018
+DISCRIM4,With children,No children in household,No,0.95,2018
+DISCRIM4,With children,No children in household,Don't know,0,2018
+DISCRIM4,With children,No children in household,Refused,0,2018
+DISCRIM5,With children,No children in household,Yes,0.1,2018
+DISCRIM5,With children,No children in household,No,0.87,2018
+DISCRIM5,With children,No children in household,Don't know,0.02,2018
+DISCRIM5,With children,No children in household,Refused,0,2018
+Q77,With children,No children in household,Yes,0.96,2018
+Q77,With children,No children in household,No,0.03,2018
+Q77,With children,No children in household,Refused,0,2018
+Q79,With children,No children in household,Yes,0.91,2018
+Q79,With children,No children in household,No,0.09,2018
+Q79,With children,No children in household,Refused,0,2018
+MILITARY,With children,No children in household,Yes,0.09,2018
+MILITARY,With children,No children in household,No,0.91,2018
+MILITARY,With children,No children in household,Refused,0,2018
+DISABILITY,With children,No children in household,Yes,0.18,2018
+DISABILITY,With children,No children in household,No,0.81,2018
+DISABILITY,With children,No children in household,Refused,0.01,2018
+ENROLLED,With children,No children in household,Yes,0.36,2018
+ENROLLED,With children,No children in household,No,0.64,2018
+ENROLLED,With children,No children in household,Refused,0,2018
+SOCI1,With children,No children in household,Lesbian or Gay,0.03,2018
+SOCI1,With children,No children in household,"Straight, that is, not gay",0.87,2018
+SOCI1,With children,No children in household,Bisexual,0.04,2018
+SOCI1,With children,No children in household,Something else,0.02,2018
+SOCI1,With children,No children in household,I don't know the answer,0,2018
+SOCI1,With children,No children in household,Refused,0.03,2018
+Q1,With children,Children in household,Yes,0.81,2018
+Q1,With children,Children in household,No,0.18,2018
+Q1,With children,Children in household,Don't know,0,2018
+Q1,With children,Children in household,Refused,0,2018
+Q2,With children,Children in household,Much better,0.08,2018
+Q2,With children,Children in household,Somewhat better,0.21,2018
+Q2,With children,Children in household,About the same,0.48,2018
+Q2,With children,Children in household,Somewhat worse,0.17,2018
+Q2,With children,Children in household,Much worse,0.04,2018
+Q2,With children,Children in household,Don't know,0.02,2018
+Q2,With children,Children in household,Refused,0,2018
+Q4A,With children,Children in household,Excellent,0.11,2018
+Q4A,With children,Children in household,Good,0.31,2018
+Q4A,With children,Children in household,Fair,0.31,2018
+Q4A,With children,Children in household,Poor,0.17,2018
+Q4A,With children,Children in household,Don't know enough about it in order to say,0.1,2018
+Q4A,With children,Children in household,Refused,0,2018
+Q4D,With children,Children in household,Excellent,0.25,2018
+Q4D,With children,Children in household,Good,0.45,2018
+Q4D,With children,Children in household,Fair,0.19,2018
+Q4D,With children,Children in household,Poor,0.08,2018
+Q4D,With children,Children in household,Don't know enough about it in order to say,0.03,2018
+Q4D,With children,Children in household,Refused,0,2018
+Q4E,With children,Children in household,Excellent,0.11,2018
+Q4E,With children,Children in household,Good,0.37,2018
+Q4E,With children,Children in household,Fair,0.33,2018
+Q4E,With children,Children in household,Poor,0.11,2018
+Q4E,With children,Children in household,Don't know enough about it in order to say,0.08,2018
+Q4E,With children,Children in household,Refused,0,2018
+Q4F,With children,Children in household,Excellent,0.32,2018
+Q4F,With children,Children in household,Good,0.37,2018
+Q4F,With children,Children in household,Fair,0.2,2018
+Q4F,With children,Children in household,Poor,0.09,2018
+Q4F,With children,Children in household,Don't know enough about it in order to say,0.01,2018
+Q4F,With children,Children in household,Refused,0,2018
+Q4G,With children,Children in household,Excellent,0.25,2018
+Q4G,With children,Children in household,Good,0.43,2018
+Q4G,With children,Children in household,Fair,0.22,2018
+Q4G,With children,Children in household,Poor,0.09,2018
+Q4G,With children,Children in household,Don't know enough about it in order to say,0.01,2018
+Q4G,With children,Children in household,Refused,0,2018
+Q4H,With children,Children in household,Excellent,0.23,2018
+Q4H,With children,Children in household,Good,0.45,2018
+Q4H,With children,Children in household,Fair,0.22,2018
+Q4H,With children,Children in household,Poor,0.07,2018
+Q4H,With children,Children in household,Don't know enough about it in order to say,0.03,2018
+Q4H,With children,Children in household,Refused,0,2018
+Q6,With children,Children in household,Great influence,0.05,2018
+Q6,With children,Children in household,Moderate influence,0.29,2018
+Q6,With children,Children in household,A little influence,0.37,2018
+Q6,With children,Children in household,No influence at all,0.26,2018
+Q6,With children,Children in household,Don't know,0.02,2018
+Q6,With children,Children in household,Refused,0,2018
+Q9,With children,Children in household,Very often,0.78,2018
+Q9,With children,Children in household,Fairly often,0.11,2018
+Q9,With children,Children in household,Sometimes,0.06,2018
+Q9,With children,Children in household,Almost never,0.01,2018
+Q9,With children,Children in household,Never at all,0.03,2018
+Q9,With children,Children in household,Don't know,0,2018
+Q9,With children,Children in household,Refused,0,2018
+Q57,With children,Children in household,"Single, never married",0.29,2018
+Q57,With children,Children in household,Married or civil union,0.55,2018
+Q57,With children,Children in household,Living with partner,0.07,2018
+Q57,With children,Children in household,Separated,0.02,2018
+Q57,With children,Children in household,Divorced,0.06,2018
+Q57,With children,Children in household,Widowed,0.01,2018
+Q57,With children,Children in household,Refused,0,2018
+Q60,With children,Children in household,One,0.13,2018
+Q60,With children,Children in household,Two,0.55,2018
+Q60,With children,Children in household,Three,0.22,2018
+Q60,With children,Children in household,Four or more,0.1,2018
+Q60,With children,Children in household,Refused,0,2018
+Q11,With children,Children in household,I own my home,0.55,2018
+Q11,With children,Children in household,I rent my home,0.3,2018
+Q11,With children,Children in household,I live with family or friends who own,0.11,2018
+Q11,With children,Children in household,I live with family or friends who rent,0.04,2018
+Q11,With children,Children in household,Other,0.01,2018
+Q11,With children,Children in household,Refused,0,2018
+Q12,With children,Children in household,Yes,0.2,2018
+Q12,With children,Children in household,No,0.8,2018
+Q12,With children,Children in household,Don't know,0,2018
+Q12,With children,Children in household,Refused,0,2018
+MOVEYEAR,With children,Children in household,Within the last 3 years,0.22,2018
+MOVEYEAR,With children,Children in household,4 to 10 years ago,0.37,2018
+MOVEYEAR,With children,Children in household,11 to 19 years ago,0.24,2018
+MOVEYEAR,With children,Children in household,20 or more years ago,0.14,2018
+MOVEYEAR,With children,Children in household,Refused,0.02,2018
+RECENTMOVE,With children,Children in household,"Was living in the same building, facility, or housing development that I live in now",0.06,2018
+RECENTMOVE,With children,Children in household,"Was living somewhere in the same neighborhood, town, or city as my current home",0.5,2018
+RECENTMOVE,With children,Children in household,In a different town or city within <state2>,0.37,2018
+RECENTMOVE,With children,Children in household,In another U.S. state (please specify),0.06,2018
+RECENTMOVE,With children,Children in household,"In Puerto Rico, USVI, or another U.S. territory",0,2018
+RECENTMOVE,With children,Children in household,Somewhere outside of the United States,0.02,2018
+RECENTMOVE,With children,Children in household,Don't know,0,2018
+RECENTMOVE,With children,Children in household,Refused,0,2018
+RENTPREVST,With children,Children in household,No,0.89,2018
+RENTPREVST,With children,Children in household,Yes and I still own that home,0.03,2018
+RENTPREVST,With children,Children in household,Yes and I sold that home,0.08,2018
+RENTPREVST,With children,Children in household,Other,0,2018
+RENTPREVST,With children,Children in household,Don't know,0,2018
+RENTPREVST,With children,Children in household,Refused,0,2018
+RENTEVICT,With children,Children in household,Yes,0.07,2018
+RENTEVICT,With children,Children in household,No,0.93,2018
+RENTEVICT,With children,Children in household,Don't know,0,2018
+RENTEVICT,With children,Children in household,Refused,0,2018
+RENTEVICTRA,With children,Children in household,Yes,0.06,2018
+RENTEVICTRA,With children,Children in household,No,0.94,2018
+RENTEVICTRA,With children,Children in household,Don't know,0,2018
+RENTEVICTRA,With children,Children in household,Refused,0,2018
+RENTEVICTRAB,With children,Children in household,Yes,0.06,2018
+RENTEVICTRAB,With children,Children in household,No,0.94,2018
+RENTEVICTRAB,With children,Children in household,Don't know,0,2018
+RENTEVICTRAB,With children,Children in household,Refused,0,2018
+RENTEVICTRC,With children,Children in household,Yes,0.07,2018
+RENTEVICTRC,With children,Children in household,No,0.93,2018
+RENTEVICTRC,With children,Children in household,Don't know,0,2018
+RENTEVICTRC,With children,Children in household,Refused,0,2018
+RENTMOVEOT,With children,Children in household,Rent increased at previous home or apartment,0.05,2018
+RENTMOVEOT,With children,Children in household,Landlord would not fix things at previous home or apartment,0.13,2018
+RENTMOVEOT,With children,Children in household,To save money,0.24,2018
+RENTMOVEOT,With children,Children in household,Better quality or larger home,0.33,2018
+RENTMOVEOT,With children,Children in household,Closer to work or school,0.3,2018
+RENTMOVEOT,With children,Children in household,Better quality neighborhood or schools,0.22,2018
+RENTMOVEOT,With children,Children in household,Relocated to a new city,0.13,2018
+RENTMOVEOT,With children,Children in household,"Change in family status (i.e. marriage, divorce, children)",0.2,2018
+RENTMOVEOT,With children,Children in household,Other,0.14,2018
+RENTMOVEOT,With children,Children in household,Don't know,0.01,2018
+RENTMOVEOT,With children,Children in household,Refused,0,2018
+Q13R1,With children,Children in household,Yes,0.44,2018
+Q13R1,With children,Children in household,No,0.56,2018
+Q13R1,With children,Children in household,Don't know,0,2018
+Q13R1,With children,Children in household,Refused,0,2018
+Q13R2,With children,Children in household,Yes,0.7,2018
+Q13R2,With children,Children in household,No,0.28,2018
+Q13R2,With children,Children in household,Don't know,0,2018
+Q13R2,With children,Children in household,Refused,0.02,2018
+Q13R3,With children,Children in household,None,0.28,2018
+Q13R3,With children,Children in household,A little difficulty,0.36,2018
+Q13R3,With children,Children in household,Moderate difficulty,0.17,2018
+Q13R3,With children,Children in household,Substantial difficulty,0.19,2018
+Q13R3,With children,Children in household,Don't know,0,2018
+Q13R3,With children,Children in household,Refused,0,2018
+Q14R1,With children,Children in household,Definitely no,0.12,2018
+Q14R1,With children,Children in household,Probably no,0.18,2018
+Q14R1,With children,Children in household,Probably yes,0.41,2018
+Q14R1,With children,Children in household,Definitely yes,0.28,2018
+Q14R1,With children,Children in household,Don't know,0.01,2018
+Q14R1,With children,Children in household,Refused,0,2018
+Q14R2,With children,Children in household,Very likely,0.63,2018
+Q14R2,With children,Children in household,Somewhat likely,0.2,2018
+Q14R2,With children,Children in household,Not very likely,0.06,2018
+Q14R2,With children,Children in household,Not at all likely,0.11,2018
+Q14R2,With children,Children in household,Don't know,0,2018
+Q14R2,With children,Children in household,Refused,0,2018
+Q17A,With children,Children in household,Strongly agree,0.36,2018
+Q17A,With children,Children in household,Somewhat agree,0.3,2018
+Q17A,With children,Children in household,Somewhat disagree,0.16,2018
+Q17A,With children,Children in household,Strongly disagree,0.18,2018
+Q17A,With children,Children in household,Don't know,0,2018
+Q17A,With children,Children in household,Refused,0,2018
+Q17B,With children,Children in household,Strongly agree,0.4,2018
+Q17B,With children,Children in household,Somewhat agree,0.3,2018
+Q17B,With children,Children in household,Somewhat disagree,0.1,2018
+Q17B,With children,Children in household,Strongly disagree,0.21,2018
+Q17B,With children,Children in household,Don't know,0,2018
+Q17B,With children,Children in household,Refused,0,2018
+Q17C,With children,Children in household,Strongly agree,0.34,2018
+Q17C,With children,Children in household,Somewhat agree,0.37,2018
+Q17C,With children,Children in household,Somewhat disagree,0.16,2018
+Q17C,With children,Children in household,Strongly disagree,0.13,2018
+Q17C,With children,Children in household,Don't know,0,2018
+Q17C,With children,Children in household,Refused,0,2018
+Q17E,With children,Children in household,Strongly agree,0.34,2018
+Q17E,With children,Children in household,Somewhat agree,0.4,2018
+Q17E,With children,Children in household,Somewhat disagree,0.13,2018
+Q17E,With children,Children in household,Strongly disagree,0.14,2018
+Q17E,With children,Children in household,Don't know,0,2018
+Q17E,With children,Children in household,Refused,0,2018
+Q17F,With children,Children in household,Strongly agree,0.16,2018
+Q17F,With children,Children in household,Somewhat agree,0.17,2018
+Q17F,With children,Children in household,Somewhat disagree,0.24,2018
+Q17F,With children,Children in household,Strongly disagree,0.42,2018
+Q17F,With children,Children in household,Don't know,0.01,2018
+Q17F,With children,Children in household,Refused,0,2018
+Q17G,With children,Children in household,Strongly agree,0.33,2018
+Q17G,With children,Children in household,Somewhat agree,0.46,2018
+Q17G,With children,Children in household,Somewhat disagree,0.11,2018
+Q17G,With children,Children in household,Strongly disagree,0.08,2018
+Q17G,With children,Children in household,Don't know,0.01,2018
+Q17G,With children,Children in household,Refused,0,2018
+Q17H,With children,Children in household,Strongly agree,0.31,2018
+Q17H,With children,Children in household,Somewhat agree,0.43,2018
+Q17H,With children,Children in household,Somewhat disagree,0.17,2018
+Q17H,With children,Children in household,Strongly disagree,0.08,2018
+Q17H,With children,Children in household,Don't know,0.01,2018
+Q17H,With children,Children in household,Refused,0,2018
+Q17I,With children,Children in household,Strongly agree,0.33,2018
+Q17I,With children,Children in household,Somewhat agree,0.45,2018
+Q17I,With children,Children in household,Somewhat disagree,0.14,2018
+Q17I,With children,Children in household,Strongly disagree,0.07,2018
+Q17I,With children,Children in household,Don't know,0.01,2018
+Q17I,With children,Children in household,Refused,0,2018
+Q18,With children,Children in household,Very likely,0.48,2018
+Q18,With children,Children in household,Somewhat likely,0.35,2018
+Q18,With children,Children in household,Not very likely,0.09,2018
+Q18,With children,Children in household,Not at all likely,0.04,2018
+Q18,With children,Children in household,Don't know,0.04,2018
+Q18,With children,Children in household,Refused,0,2018
+LIFECA,With children,Children in household,Almost certain,0.4,2018
+LIFECA,With children,Children in household,Very likely,0.46,2018
+LIFECA,With children,Children in household,A toss up,0.1,2018
+LIFECA,With children,Children in household,Not very likely,0.02,2018
+LIFECA,With children,Children in household,Not at all likely,0.01,2018
+LIFECA,With children,Children in household,Don't know,0.01,2018
+LIFECA,With children,Children in household,Refused,0,2018
+LIFECB,With children,Children in household,Almost certain,0.16,2018
+LIFECB,With children,Children in household,Very likely,0.43,2018
+LIFECB,With children,Children in household,A toss up,0.26,2018
+LIFECB,With children,Children in household,Not very likely,0.08,2018
+LIFECB,With children,Children in household,Not at all likely,0.01,2018
+LIFECB,With children,Children in household,Don't know,0.05,2018
+LIFECB,With children,Children in household,Refused,0,2018
+LIFECC,With children,Children in household,Almost certain,0.03,2018
+LIFECC,With children,Children in household,Very likely,0.05,2018
+LIFECC,With children,Children in household,A toss up,0.15,2018
+LIFECC,With children,Children in household,Not very likely,0.35,2018
+LIFECC,With children,Children in household,Not at all likely,0.37,2018
+LIFECC,With children,Children in household,Don't know,0.04,2018
+LIFECC,With children,Children in household,Refused,0.01,2018
+LIFECD,With children,Children in household,Almost certain,0.06,2018
+LIFECD,With children,Children in household,Very likely,0.19,2018
+LIFECD,With children,Children in household,A toss up,0.42,2018
+LIFECD,With children,Children in household,Not very likely,0.18,2018
+LIFECD,With children,Children in household,Not at all likely,0.11,2018
+LIFECD,With children,Children in household,Don't know,0.04,2018
+LIFECD,With children,Children in household,Refused,0,2018
+LIFECF,With children,Children in household,Almost certain,0.03,2018
+LIFECF,With children,Children in household,Very likely,0.09,2018
+LIFECF,With children,Children in household,A toss up,0.24,2018
+LIFECF,With children,Children in household,Not very likely,0.37,2018
+LIFECF,With children,Children in household,Not at all likely,0.24,2018
+LIFECF,With children,Children in household,Don't know,0.02,2018
+LIFECF,With children,Children in household,Refused,0,2018
+Q19,With children,Children in household,Excellent,0.26,2018
+Q19,With children,Children in household,Very good,0.37,2018
+Q19,With children,Children in household,Good,0.25,2018
+Q19,With children,Children in household,Fair,0.11,2018
+Q19,With children,Children in household,Poor,0.02,2018
+Q19,With children,Children in household,Don't know,0,2018
+Q19,With children,Children in household,Refused,0,2018
+Q20,With children,Children in household,Not at all satisfied,0.02,2018
+Q20,With children,Children in household,Only a little bit satisfied,0.1,2018
+Q20,With children,Children in household,Somewhat satisfied,0.21,2018
+Q20,With children,Children in household,Mostly satisfied,0.45,2018
+Q20,With children,Children in household,Completely satisfied,0.22,2018
+Q20,With children,Children in household,Don't know,0,2018
+Q20,With children,Children in household,Refused,0,2018
+Q21,With children,Children in household,Not at all,0.03,2018
+Q21,With children,Children in household,Only a little bit,0.1,2018
+Q21,With children,Children in household,Somewhat,0.2,2018
+Q21,With children,Children in household,Mostly,0.37,2018
+Q21,With children,Children in household,Completely,0.29,2018
+Q21,With children,Children in household,Don't know,0,2018
+Q21,With children,Children in household,Refused,0,2018
+Q22,With children,Children in household,Not at all,0.39,2018
+Q22,With children,Children in household,Only a little bit,0.23,2018
+Q22,With children,Children in household,Somewhat,0.21,2018
+Q22,With children,Children in household,Mostly,0.08,2018
+Q22,With children,Children in household,Completely,0.07,2018
+Q22,With children,Children in household,Don't know,0,2018
+Q22,With children,Children in household,Refused,0,2018
+Q23,With children,Children in household,Not at all,0.06,2018
+Q23,With children,Children in household,Only a little bit,0.26,2018
+Q23,With children,Children in household,Somewhat,0.33,2018
+Q23,With children,Children in household,Mostly,0.26,2018
+Q23,With children,Children in household,Completely,0.09,2018
+Q23,With children,Children in household,Don't know,0,2018
+Q23,With children,Children in household,Refused,0,2018
+Q23PL,With children,Children in household,Strongly agree,0.35,2018
+Q23PL,With children,Children in household,Agree,0.29,2018
+Q23PL,With children,Children in household,Slightly agree,0.15,2018
+Q23PL,With children,Children in household,Neither agree nor disagree,0.13,2018
+Q23PL,With children,Children in household,Slightly disagree,0.04,2018
+Q23PL,With children,Children in household,Disagree,0.02,2018
+Q23PL,With children,Children in household,Strongly disagree,0.02,2018
+Q23PL,With children,Children in household,Don't know,0,2018
+Q23PL,With children,Children in household,Refused,0,2018
+Q23A,With children,Children in household,Yes,0.17,2018
+Q23A,With children,Children in household,No,0.82,2018
+Q23A,With children,Children in household,Don't know,0,2018
+Q23A,With children,Children in household,Refused,0,2018
+Q23A1,With children,Children in household,Yes,0.7,2018
+Q23A1,With children,Children in household,No,0.3,2018
+Q23A1,With children,Children in household,Don't know,0,2018
+Q23A1,With children,Children in household,Refused,0,2018
+Q23C,With children,Children in household,Yes,0.04,2018
+Q23C,With children,Children in household,No,0.95,2018
+Q23C,With children,Children in household,Don't know,0,2018
+Q23C,With children,Children in household,Refused,0,2018
+Q23D,With children,Children in household,Yes,0.02,2018
+Q23D,With children,Children in household,No,0.98,2018
+Q23D,With children,Children in household,Don't know,0,2018
+Q23D,With children,Children in household,Refused,0,2018
+Q23E,With children,Children in household,Yes,0.17,2018
+Q23E,With children,Children in household,No,0.83,2018
+Q23E,With children,Children in household,Don't know,0,2018
+Q23E,With children,Children in household,Refused,0,2018
+Q23E2,With children,Children in household,Yes,0.77,2018
+Q23E2,With children,Children in household,No,0.23,2018
+Q23E2,With children,Children in household,Don't know,0,2018
+Q23E2,With children,Children in household,Refused,0,2018
+Q23E2,With children,Children in household,Current Asthma Rate (based on Q23E*23E2),0.13090000000000002,2018
+BMI,With children,Children in household,Underweight,0.04,2018
+BMI,With children,Children in household,Normal weight,0.34,2018
+BMI,With children,Children in household,Overweight,0.32,2018
+BMI,With children,Children in household,Obese,0.31,2018
+Q26,With children,Children in household,Yes,0.95,2018
+Q26,With children,Children in household,No,0.04,2018
+Q26,With children,Children in household,Don't know,0,2018
+Q26,With children,Children in household,Refused,0,2018
+Q27,With children,Children in household,Insurance obtained through a current or former employer or union,0.62,2018
+Q27,With children,Children in household,Insurance purchased directly from an insurance company,0.08,2018
+Q27,With children,Children in household,Medicare,0.08,2018
+Q27,With children,Children in household,"Medicaid, Medical Assistance, HUSKY or any kind of government-assistance plan",0.22,2018
+Q27,With children,Children in household,State Health Insurance Exchange such as Access Health CT or NY State of Health,0.07,2018
+Q27,With children,Children in household,Any other type of health insurance plan,0.03,2018
+Q27,With children,Children in household,Don't know,0.02,2018
+Q27,With children,Children in household,Refused,0,2018
+Q28,With children,Children in household,Yes,0.1,2018
+Q28,With children,Children in household,No,0.9,2018
+Q28,With children,Children in household,Don't know,0,2018
+Q28,With children,Children in household,Refused,0,2018
+Q29,With children,Children in household,Yes,0.22,2018
+Q29,With children,Children in household,No,0.78,2018
+Q29,With children,Children in household,Don't know,0,2018
+Q29,With children,Children in household,Refused,0,2018
+Q30A,With children,Children in household,Yes,0.39,2018
+Q30A,With children,Children in household,No,0.61,2018
+Q30A,With children,Children in household,Don't know,0,2018
+Q30A,With children,Children in household,Refused,0,2018
+Q30B,With children,Children in household,Yes,0.19,2018
+Q30B,With children,Children in household,No,0.81,2018
+Q30B,With children,Children in household,Don't know,0,2018
+Q30B,With children,Children in household,Refused,0,2018
+Q30C,With children,Children in household,Yes,0.16,2018
+Q30C,With children,Children in household,No,0.81,2018
+Q30C,With children,Children in household,Don't know,0.02,2018
+Q30C,With children,Children in household,Refused,0,2018
+Q30D,With children,Children in household,Yes,0.24,2018
+Q30D,With children,Children in household,No,0.75,2018
+Q30D,With children,Children in household,Don't know,0.01,2018
+Q30D,With children,Children in household,Refused,0,2018
+Q30E,With children,Children in household,Yes,0.18,2018
+Q30E,With children,Children in household,No,0.81,2018
+Q30E,With children,Children in household,Don't know,0.01,2018
+Q30E,With children,Children in household,Refused,0,2018
+Q30F,With children,Children in household,Yes,0.57,2018
+Q30F,With children,Children in household,No,0.43,2018
+Q30F,With children,Children in household,Don't know,0,2018
+Q30F,With children,Children in household,Refused,0,2018
+Q30H,With children,Children in household,Yes,0.27,2018
+Q30H,With children,Children in household,No,0.72,2018
+Q30H,With children,Children in household,Don't know,0.01,2018
+Q30H,With children,Children in household,Refused,0,2018
+Q30G,With children,Children in household,Yes,0.35,2018
+Q30G,With children,Children in household,No,0.63,2018
+Q30G,With children,Children in household,Don't know,0.02,2018
+Q30G,With children,Children in household,Refused,0,2018
+Q31,With children,Children in household,Yes,0.12,2018
+Q31,With children,Children in household,No,0.88,2018
+Q31,With children,Children in household,Don't know,0,2018
+Q31,With children,Children in household,Refused,0,2018
+Q31_1,With children,Children in household,Yes,0.05,2018
+Q31_1,With children,Children in household,No,0.91,2018
+Q31_1,With children,Children in household,Don't know,0,2018
+Q31_1,With children,Children in household,Refused,0.03,2018
+Q32,With children,Children in household,Yes,0.82,2018
+Q32,With children,Children in household,No,0.18,2018
+Q32,With children,Children in household,Don't know,0,2018
+Q32,With children,Children in household,Refused,0,2018
+Q33,With children,Children in household,More than one,0.27,2018
+Q33,With children,Children in household,None at all,0.7,2018
+Q33,With children,Children in household,Don't know,0.01,2018
+Q33,With children,Children in household,Refused,0.02,2018
+Q33,With children,Children in household,No Medical Home (Q32*Q33),0.126,2018
+Q34,With children,Children in household,None,0.71,2018
+Q34,With children,Children in household,1 to 2,0.24,2018
+Q34,With children,Children in household,3 or more,0.05,2018
+Q34,With children,Children in household,Don't know,0,2018
+Q34,With children,Children in household,Refused,0,2018
+Q35,With children,Children in household,Within the last 6 months,0.58,2018
+Q35,With children,Children in household,More than 6 months but less than a year,0.16,2018
+Q35,With children,Children in household,More than a year but less than two years,0.12,2018
+Q35,With children,Children in household,More than two years ago,0.13,2018
+Q35,With children,Children in household,Never have gone to a dentist,0.01,2018
+Q35,With children,Children in household,Don't know,0,2018
+Q35,With children,Children in household,Refused,0,2018
+Q37_1,With children,Children in household,Always,0.32,2018
+Q37_1,With children,Children in household,Usually,0.33,2018
+Q37_1,With children,Children in household,Sometimes,0.19,2018
+Q37_1,With children,Children in household,Rarely,0.1,2018
+Q37_1,With children,Children in household,Never,0.06,2018
+Q37_1,With children,Children in household,Don't know,0,2018
+Q37_1,With children,Children in household,Refused,0,2018
+Q37_2,With children,Children in household,Not at all,0.58,2018
+Q37_2,With children,Children in household,Several days,0.27,2018
+Q37_2,With children,Children in household,More than half the days,0.08,2018
+Q37_2,With children,Children in household,Nearly every day,0.06,2018
+Q37_2,With children,Children in household,Don't know,0,2018
+Q37_2,With children,Children in household,Refused,0,2018
+Q37_3,With children,Children in household,Not at all,0.66,2018
+Q37_3,With children,Children in household,Several days,0.22,2018
+Q37_3,With children,Children in household,More than half the days,0.08,2018
+Q37_3,With children,Children in household,Nearly every day,0.04,2018
+Q37_3,With children,Children in household,Don't know,0,2018
+Q37_3,With children,Children in household,Refused,0,2018
+Q38,With children,Children in household,None,0.17,2018
+Q38,With children,Children in household,One,0.08,2018
+Q38,With children,Children in household,Two,0.17,2018
+Q38,With children,Children in household,Three,0.23,2018
+Q38,With children,Children in household,Four,0.13,2018
+Q38,With children,Children in household,Five,0.09,2018
+Q38,With children,Children in household,Six,0.03,2018
+Q38,With children,Children in household,Seven,0.09,2018
+Q38,With children,Children in household,Don't know,0,2018
+Q38,With children,Children in household,Refused,0,2018
+Q39,With children,Children in household,Yes,0.36,2018
+Q39,With children,Children in household,No,0.64,2018
+Q39,With children,Children in household,Don't know,0,2018
+Q39,With children,Children in household,Refused,0,2018
+Q40,With children,Children in household,Every day,0.29,2018
+Q40,With children,Children in household,Some days,0.19,2018
+Q40,With children,Children in household,Not at all,0.52,2018
+Q40,With children,Children in household,Don't know,0,2018
+Q40,With children,Children in household,Refused,0,2018
+Q40,With children,Children in household,Current Smoking Rate (Q39*Q40),0.17279999999999998,2018
+Q42,With children,Children in household,Yes,0.28,2018
+Q42,With children,Children in household,No,0.72,2018
+Q42,With children,Children in household,Don't know,0,2018
+Q42,With children,Children in household,Refused,0,2018
+Q43,With children,Children in household,None,0.55,2018
+Q43,With children,Children in household,One to five,0.19,2018
+Q43,With children,Children in household,Six to twenty-nine,0.17,2018
+Q43,With children,Children in household,Everyday,0.09,2018
+Q43,With children,Children in household,Don't know,0,2018
+Q43,With children,Children in household,Refused,0,2018
+Q43,With children,Children in household,Vaping Past 30 Days Rate (Q42*Q43),0.126,2018
+ALCOHOL,With children,Children in household,None,0.66,2018
+ALCOHOL,With children,Children in household,One to five,0.25,2018
+ALCOHOL,With children,Children in household,Six to ten,0.06,2018
+ALCOHOL,With children,Children in household,More than ten,0.03,2018
+ALCOHOL,With children,Children in household,Don't know,0,2018
+ALCOHOL,With children,Children in household,Refused,0,2018
+POT1,With children,Children in household,None,0.84,2018
+POT1,With children,Children in household,One to five,0.05,2018
+POT1,With children,Children in household,Six to ten,0.01,2018
+POT1,With children,Children in household,More than ten,0.08,2018
+POT1,With children,Children in household,Don't know,0,2018
+POT1,With children,Children in household,Refused,0.02,2018
+OPIOID2,With children,Children in household,No,0.66,2018
+OPIOID2,With children,Children in household,"Yes, one person",0.13,2018
+OPIOID2,With children,Children in household,"Yes, 2 to 4 people",0.13,2018
+OPIOID2,With children,Children in household,"Yes, 5 or more people",0.08,2018
+OPIOID2,With children,Children in household,Don't know,0,2018
+OPIOID2,With children,Children in household,Refused,0,2018
+OPIOID2_1,With children,Children in household,Yourself,0.12,2018
+OPIOID2_1,With children,Children in household,A family member,0.45,2018
+OPIOID2_1,With children,Children in household,A close friend,0.38,2018
+OPIOID2_1,With children,Children in household,An acquaintance,0.42,2018
+OPIOID2_1,With children,Children in household,Don't know,0,2018
+OPIOID2_1,With children,Children in household,Refused,0,2018
+OPIOID4,With children,Children in household,No,0.75,2018
+OPIOID4,With children,Children in household,"Yes, one person",0.13,2018
+OPIOID4,With children,Children in household,"Yes, 2 to 4 people",0.08,2018
+OPIOID4,With children,Children in household,"Yes, 5 or more people",0.04,2018
+OPIOID4,With children,Children in household,Don't know,0,2018
+OPIOID4,With children,Children in household,Refused,0,2018
+OPIOID4_1,With children,Children in household,A family member,0.27,2018
+OPIOID4_1,With children,Children in household,A close friend,0.42,2018
+OPIOID4_1,With children,Children in household,An acquaintance,0.61,2018
+OPIOID4_1,With children,Children in household,Don't know,0.02,2018
+OPIOID4_1,With children,Children in household,Refused,0,2018
+Q44,With children,Children in household,Living comfortably,0.25,2018
+Q44,With children,Children in household,Doing alright,0.36,2018
+Q44,With children,Children in household,Just getting by,0.24,2018
+Q44,With children,Children in household,Finding it difficult,0.09,2018
+Q44,With children,Children in household,Finding it very difficult,0.06,2018
+Q44,With children,Children in household,Don't know,0,2018
+Q44,With children,Children in household,Refused,0,2018
+Q45,With children,Children in household,Better off,0.48,2018
+Q45,With children,Children in household,Not,0.48,2018
+Q45,With children,Children in household,Same,0.03,2018
+Q45,With children,Children in household,Don't know,0.01,2018
+Q45,With children,Children in household,Refused,0,2018
+Q46,With children,Children in household,Less than a month,0.21,2018
+Q46,With children,Children in household,At least one month but less than 2,0.13,2018
+Q46,With children,Children in household,At least 2 months but less than 6,0.25,2018
+Q46,With children,Children in household,At least 6 months but less than a year,0.15,2018
+Q46,With children,Children in household,At least a year but less than 2 years,0.05,2018
+Q46,With children,Children in household,Two years or more,0.16,2018
+Q46,With children,Children in household,Don't know,0.03,2018
+Q46,With children,Children in household,Refused,0.02,2018
+DEBT,With children,Children in household,Something left over,0.6,2018
+DEBT,With children,Children in household,Break even,0.15,2018
+DEBT,With children,Children in household,Be in debt,0.22,2018
+DEBT,With children,Children in household,Don't know,0.02,2018
+DEBT,With children,Children in household,Refused,0.01,2018
+Q47,With children,Children in household,Yes,0.74,2018
+Q47,With children,Children in household,"No, but would like to work",0.06,2018
+Q47,With children,Children in household,"No, retired",0.03,2018
+Q47,With children,Children in household,"No, homemaker",0.08,2018
+Q47,With children,Children in household,"No, full time student",0.04,2018
+Q47,With children,Children in household,"No, disabled",0.04,2018
+Q47,With children,Children in household,"No, other",0.01,2018
+Q47,With children,Children in household,Refused,0.01,2018
+Q49,With children,Children in household,Full time,0.74,2018
+Q49,With children,Children in household,Part time,0.25,2018
+Q49,With children,Children in household,Other,0.01,2018
+Q49,With children,Children in household,Refused,0,2018
+Q50,With children,Children in household,By choice,0.71,2018
+Q50,With children,Children in household,Rather have a full time job,0.29,2018
+Q50,With children,Children in household,Refused,0,2018
+Q50,With children,Children in household,"Underemployment Rate (based on Q47,49,50)",0.14206249999999998,2018
+Q51,With children,Children in household,Less than 30,0.11,2018
+Q51,With children,Children in household,30 to 49,0.6,2018
+Q51,With children,Children in household,50 to 79,0.29,2018
+Q51,With children,Children in household,80 or more,0,2018
+Q51,With children,Children in household,Refused,0,2018
+Q56,With children,Children in household,Drive myself,0.79,2018
+Q56,With children,Children in household,Get a ride with friends or family,0.08,2018
+Q56,With children,Children in household,Public bus system,0.07,2018
+Q56,With children,Children in household,Train or railroad,0.01,2018
+Q56,With children,Children in household,Walk,0.03,2018
+Q56,With children,Children in household,Bicycle,0.01,2018
+Q56,With children,Children in household,Take a taxi,0,2018
+Q56,With children,Children in household,Ride paratransit,0,2018
+Q56,With children,Children in household,Other,0.01,2018
+Q56,With children,Children in household,I took no trips last month/Homebound,0.01,2018
+Q56,With children,Children in household,Don't know,0,2018
+Q56,With children,Children in household,Refused,0,2018
+Q62,With children,Children in household,Yes,0.16,2018
+Q62,With children,Children in household,No,0.84,2018
+Q62,With children,Children in household,Don't know,0,2018
+Q62,With children,Children in household,Refused,0,2018
+Q63,With children,Children in household,Almost every month,0.25,2018
+Q63,With children,Children in household,Some months but not every month,0.33,2018
+Q63,With children,Children in household,Only 1 or 2 months,0.42,2018
+Q63,With children,Children in household,Don't know,0,2018
+Q63,With children,Children in household,Refused,0,2018
+Q64,With children,Children in household,Yes,0.12,2018
+Q64,With children,Children in household,No,0.88,2018
+Q64,With children,Children in household,Don't know,0,2018
+Q64,With children,Children in household,Refused,0,2018
+Q64_GAS,With children,Children in household,Yes,0.14,2018
+Q64_GAS,With children,Children in household,No,0.86,2018
+Q64_GAS,With children,Children in household,Don't know,0,2018
+Q64_GAS,With children,Children in household,Refused,0,2018
+Q65,With children,Children in household,Yes,0.14,2018
+Q65,With children,Children in household,No,0.86,2018
+Q65,With children,Children in household,Don't know,0,2018
+Q65,With children,Children in household,Refused,0,2018
+Q65_1,With children,Children in household,Yes,0.36,2018
+Q65_1,With children,Children in household,No,0.64,2018
+Q65_1,With children,Children in household,Don't know,0,2018
+Q65_1,With children,Children in household,Refused,0,2018
+Q66,With children,Children in household,Yes,0.87,2018
+Q66,With children,Children in household,No,0.13,2018
+Q66,With children,Children in household,Don't know,0,2018
+Q66,With children,Children in household,Refused,0,2018
+Q68,With children,Children in household,Yes,0.15,2018
+Q68,With children,Children in household,No,0.85,2018
+Q68,With children,Children in household,Don't know,0,2018
+Q68,With children,Children in household,Refused,0,2018
+Q69,With children,Children in household,Yes,0.05,2018
+Q69,With children,Children in household,No,0.95,2018
+Q69,With children,Children in household,Don't know,0,2018
+Q69,With children,Children in household,Refused,0,2018
+DISCRIM1,With children,Children in household,Yes,0.33,2018
+DISCRIM1,With children,Children in household,No,0.66,2018
+DISCRIM1,With children,Children in household,Don't know,0.01,2018
+DISCRIM1,With children,Children in household,Refused,0,2018
+DISCRIM1_2,With children,Children in household,Your Ancestry or National Origins,0.04,2018
+DISCRIM1_2,With children,Children in household,Your Gender,0.14,2018
+DISCRIM1_2,With children,Children in household,Your Race,0.22,2018
+DISCRIM1_2,With children,Children in household,Your Age,0.11,2018
+DISCRIM1_2,With children,Children in household,Your Religion,0.01,2018
+DISCRIM1_2,With children,Children in household,Your Height,0,2018
+DISCRIM1_2,With children,Children in household,Your Weight,0.02,2018
+DISCRIM1_2,With children,Children in household,Some other Aspect of Your Physical Appearance,0.1,2018
+DISCRIM1_2,With children,Children in household,Your Sexual Orientation,0,2018
+DISCRIM1_2,With children,Children in household,Your Education or Income Level,0.08,2018
+DISCRIM1_2,With children,Children in household,A physical disability,0.05,2018
+DISCRIM1_2,With children,Children in household,Don't know,0.46,2018
+DISCRIM1_2,With children,Children in household,Refused,0.01,2018
+DISCRIM1_1,With children,Children in household,Once every week or more,0.02,2018
+DISCRIM1_1,With children,Children in household,A few times every month,0.03,2018
+DISCRIM1_1,With children,Children in household,A few times every year,0.05,2018
+DISCRIM1_1,With children,Children in household,A few times in the past 3 years,0.13,2018
+DISCRIM1_1,With children,Children in household,Once,0.35,2018
+DISCRIM1_1,With children,Children in household,Never in the past 3 years,0.38,2018
+DISCRIM1_1,With children,Children in household,Don't know,0.02,2018
+DISCRIM1_1,With children,Children in household,Refused,0.01,2018
+DISCRIM2,With children,Children in household,Yes,0.15,2018
+DISCRIM2,With children,Children in household,No,0.85,2018
+DISCRIM2,With children,Children in household,Don't know,0,2018
+DISCRIM2,With children,Children in household,Refused,0,2018
+DISCRIM2_2,With children,Children in household,Your Ancestry or National Origins,0.08,2018
+DISCRIM2_2,With children,Children in household,Your Gender,0.08,2018
+DISCRIM2_2,With children,Children in household,Your Race,0.46,2018
+DISCRIM2_2,With children,Children in household,Your Age,0.12,2018
+DISCRIM2_2,With children,Children in household,Your Religion,0.02,2018
+DISCRIM2_2,With children,Children in household,Your Height,0.02,2018
+DISCRIM2_2,With children,Children in household,Your Weight,0.01,2018
+DISCRIM2_2,With children,Children in household,Some other Aspect of Your Physical Appearance,0.23,2018
+DISCRIM2_2,With children,Children in household,Your Sexual Orientation,0.01,2018
+DISCRIM2_2,With children,Children in household,Your Education or Income Level,0.04,2018
+DISCRIM2_2,With children,Children in household,A physical disability,0.02,2018
+DISCRIM2_2,With children,Children in household,Don't know,0.21,2018
+DISCRIM2_2,With children,Children in household,Refused,0.02,2018
+DISCRIM2_1,With children,Children in household,Once every week or more,0.01,2018
+DISCRIM2_1,With children,Children in household,A few times every month,0.05,2018
+DISCRIM2_1,With children,Children in household,A few times every year,0.13,2018
+DISCRIM2_1,With children,Children in household,A few times in the past 3 years,0.13,2018
+DISCRIM2_1,With children,Children in household,Once,0.27,2018
+DISCRIM2_1,With children,Children in household,Never in the past 3 years,0.41,2018
+DISCRIM2_1,With children,Children in household,Don't know,0,2018
+DISCRIM2_1,With children,Children in household,Refused,0,2018
+DISCRIM2_3,With children,Children in household,In a car,0.67,2018
+DISCRIM2_3,With children,Children in household,Walking or biking along a street,0.2,2018
+DISCRIM2_3,With children,Children in household,At a bus stop,0.08,2018
+DISCRIM2_3,With children,Children in household,Inside a bus,0.02,2018
+DISCRIM2_3,With children,Children in household,At a public park,0.14,2018
+DISCRIM2_3,With children,Children in household,Inside a house or apartment,0.07,2018
+DISCRIM2_3,With children,Children in household,Inside a store,0.09,2018
+DISCRIM2_3,With children,Children in household,Someplace else,0.1,2018
+DISCRIM2_3,With children,Children in household,Don't know,0,2018
+DISCRIM2_3,With children,Children in household,Refused,0,2018
+DISCRIM3,With children,Children in household,Yes,0.13,2018
+DISCRIM3,With children,Children in household,No,0.86,2018
+DISCRIM3,With children,Children in household,Don't know,0.01,2018
+DISCRIM3,With children,Children in household,Refused,0,2018
+DISCRIM4,With children,Children in household,Yes,0.05,2018
+DISCRIM4,With children,Children in household,No,0.95,2018
+DISCRIM4,With children,Children in household,Don't know,0,2018
+DISCRIM4,With children,Children in household,Refused,0,2018
+DISCRIM5,With children,Children in household,Yes,0.11,2018
+DISCRIM5,With children,Children in household,No,0.87,2018
+DISCRIM5,With children,Children in household,Don't know,0.01,2018
+DISCRIM5,With children,Children in household,Refused,0.01,2018
+Q77,With children,Children in household,Yes,0.92,2018
+Q77,With children,Children in household,No,0.08,2018
+Q77,With children,Children in household,Refused,0,2018
+Q79,With children,Children in household,Yes,0.85,2018
+Q79,With children,Children in household,No,0.15,2018
+Q79,With children,Children in household,Refused,0,2018
+MILITARY,With children,Children in household,Yes,0.04,2018
+MILITARY,With children,Children in household,No,0.96,2018
+MILITARY,With children,Children in household,Refused,0,2018
+DISABILITY,With children,Children in household,Yes,0.09,2018
+DISABILITY,With children,Children in household,No,0.91,2018
+DISABILITY,With children,Children in household,Refused,0,2018
+ENROLLED,With children,Children in household,Yes,0.31,2018
+ENROLLED,With children,Children in household,No,0.69,2018
+ENROLLED,With children,Children in household,Refused,0,2018
+SOCI1,With children,Children in household,Lesbian or Gay,0.01,2018
+SOCI1,With children,Children in household,"Straight, that is, not gay",0.9,2018
+SOCI1,With children,Children in household,Bisexual,0.05,2018
+SOCI1,With children,Children in household,Something else,0.01,2018
+SOCI1,With children,Children in household,I don't know the answer,0,2018
+SOCI1,With children,Children in household,Refused,0.02,2018

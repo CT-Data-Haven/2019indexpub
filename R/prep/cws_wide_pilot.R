@@ -8,13 +8,16 @@ lookup <- read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vREw976xkTlp
   filter(!is.na(indicator)) %>%
   mutate(indicator = as_factor(indicator))
 
-gnh <- read_csv("output_data/cws/long/greater_new_haven_2018_cws_data.csv") %>%
+cws_read <- list.files(file.path("output_data", "cws", "long"), "*.csv", full.names = TRUE) %>%
+  set_names(~str_match_all(., "/([\\w\\d]+)_2018") %>% map_chr(2)) %>%
+  map_dfr(read_csv, .id = "name") %>%
   inner_join(lookup %>% select(-question), by = "code") %>%
   filter(!str_detect(response, "(Summary|\\*|based on)") | indicator == "obesity") %>%
   mutate_at(vars(category, group), as_factor)
-# gnh %>% distinct(indicator, response) %>% group_by(indicator) %>% summarise(response = paste(response, collapse = ",")) %>% write_tsv("cws.txt")
 
-cws_split <- gnh %>%
+
+
+cws_split <- cws_read %>%
   split(.$indicator) %>%
   map(mutate, response = as_factor(response))
 
@@ -98,9 +101,9 @@ out$asthma <- list(
   cws_split$asthma2 %>% collapse_response(list(current = "Yes"))
 ) %>%
   map(spread, key = response, value) %>%
-  reduce(inner_join, by = c("category", "group", "year")) %>%
+  reduce(inner_join, by = c("name", "category", "group", "year")) %>%
   mutate(value = asthma * current) %>%
-  select(category, group, year, value)
+  select(name, category, group, year, value)
 
 
 
@@ -110,9 +113,9 @@ out$no_medical_home <- list(
   cws_split$med_home2 %>% collapse_response(list(none = "None at all"))
 ) %>%
   map(spread, key = response, value) %>%
-  reduce(inner_join, by = c("category", "group", "year")) %>%
+  reduce(inner_join, by = c("name", "category", "group", "year")) %>%
   mutate(value = no * none) %>%
-  select(category, group, year, value)
+  select(name, category, group, year, value)
 
 # er visit at least once: 1 to 2, 3 or more
 out$visited_er <- cws_split$visited_er %>%
@@ -136,9 +139,9 @@ out$smoking <- list(
   cws_split$smoke2 %>% collapse_response(list(current = c("Every day", "Some days")))
 ) %>%
   map(spread, key = response, value) %>%
-  reduce(inner_join, by = c("category", "group", "year")) %>%
+  reduce(inner_join, by = c("name", "category", "group", "year")) %>%
   mutate(value = smoke100 * current) %>%
-  select(category, group, year, value)
+  select(name, category, group, year, value)
 
 # heavy drinking: six to ten, more than ten
 out$heavy_drinking <- cws_split$heavy_drinking %>%
@@ -177,9 +180,9 @@ prefer_ft <- cws_split$underemp3 %>%
 out$underemployment <- lst(labor_force, unemployed, part_time, prefer_ft) %>%
   map(spread, key = response, value) %>%
   map(select, -code, -indicator) %>%
-  reduce(inner_join, by = c("category", "group", "year")) %>%
+  reduce(inner_join, by = c("name", "category", "group", "year")) %>%
   mutate(value = (unemployed + (working * parttime * prefer_ft)) / labor_force) %>%
-  select(category, group, year, value)
+  select(name, category, group, year, value)
 rm(unemployed, labor_force, part_time, prefer_ft)
 
 # no bank account: no
@@ -197,9 +200,9 @@ rm(y_qs)
 
 # join all
 out_df <- out %>%
-  map(select, category, group, value) %>%
+  map(select, name, category, group, value) %>%
   imap(~rename(.x, !!.y := value)) %>%
-  reduce(full_join, by = c("category", "group")) %>%
+  reduce(full_join, by = c("name", "category", "group")) %>%
   mutate_if(is.numeric, round, digits = 2)
 # add somewhere for name
-write_csv(out_df, "output_data/cws/wide/gnh_pilot_profile.csv", na = "")
+write_csv(out_df, "output_data/cws/wide/cws_2018_all_geos_wide.csv", na = "")
