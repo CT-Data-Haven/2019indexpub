@@ -78,8 +78,8 @@ index_df <- lst(neighborhood_assets, personal_wellbeing, community) %>%
 
 saveRDS(index_df, "output_data/cws/misc/index_scatterplot.rds")
 index_df %>%
-  select(-region) %>%
-  write_csv("output_data/cws/misc/index_scores_distro.csv")
+  select(-region, -level) %>%
+  write_csv("output_data/cws/misc/index_scores_distro.csv", na = "")
 # jsonlite::write_json(index_df, "output_data/cws/misc/index_scatterplot.json")
 
 

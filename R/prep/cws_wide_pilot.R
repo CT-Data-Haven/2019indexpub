@@ -11,7 +11,7 @@ lookup <- read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vREw976xkTlp
 cws_read <- list.files(file.path("output_data", "cws", "long"), "*.csv", full.names = TRUE) %>%
   set_names(~str_match_all(., "/([\\w\\d]+)_2018") %>% map_chr(2)) %>%
   map_dfr(read_csv, .id = "name") %>%
-  inner_join(lookup %>% select(-question), by = "code") %>%
+  inner_join(lookup %>% select(indicator, code), by = "code") %>%
   filter(!str_detect(response, "(Summary|\\*|based on)") | indicator == "obesity") %>%
   mutate_at(vars(category, group), as_factor)
 
@@ -203,6 +203,7 @@ out_df <- out %>%
   map(select, name, category, group, value) %>%
   imap(~rename(.x, !!.y := value)) %>%
   reduce(full_join, by = c("name", "category", "group")) %>%
-  mutate_if(is.numeric, round, digits = 2)
+  mutate_if(is.numeric, round, digits = 2) %>%
+  mutate(name = clean_titles(name, cap_all = TRUE))
 # add somewhere for name
 write_csv(out_df, "output_data/cws/wide/cws_2018_all_geos_wide.csv", na = "")
