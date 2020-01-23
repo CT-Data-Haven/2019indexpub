@@ -1,0 +1,105 @@
+level,name,category,group,neighborhood_assets,personal_wellbeing,community
+1_state,Connecticut,Total,Total,556,612,657
+1_state,Connecticut,Age,Ages 18-34,490,434,NA
+1_state,Connecticut,Age,Ages 35-49,536,532,NA
+1_state,Connecticut,Age,Ages 50-64,598,663,NA
+1_state,Connecticut,Age,Ages 65+,683,789,NA
+1_state,Connecticut,Race/Ethnicity,White,609,660,NA
+1_state,Connecticut,Race/Ethnicity,Black,383,533,NA
+1_state,Connecticut,Race/Ethnicity,Latino,439,435,NA
+1_state,Connecticut,Education,High school or less,476,521,NA
+1_state,Connecticut,Education,Some college or AA,521,485,NA
+1_state,Connecticut,Education,Bachelor's or higher,665,707,NA
+1_state,Connecticut,Income,Under $15K,437,169,NA
+1_state,Connecticut,Income,$15K-$30K,472,304,NA
+1_state,Connecticut,Income,$30K-$50K,517,445,NA
+1_state,Connecticut,Income,$50K-$75K,539,572,NA
+1_state,Connecticut,Income,$75K-$100K,595,662,NA
+1_state,Connecticut,Income,$100K-$200K,652,792,NA
+1_state,Connecticut,Income,$200K+,749,920,NA
+2_region,Fairfield County,Total,Total,598,662,655
+2_region,Fairfield County,Age,Ages 18-34,543,481,NA
+2_region,Fairfield County,Age,Ages 35-49,569,574,NA
+2_region,Fairfield County,Age,Ages 50-64,642,709,NA
+2_region,Fairfield County,Age,Ages 65+,706,826,NA
+2_region,Fairfield County,Race/Ethnicity,White,693,662,NA
+2_region,Fairfield County,Race/Ethnicity,Black,358,611,NA
+2_region,Fairfield County,Race/Ethnicity,Latino,482,518,NA
+2_region,Fairfield County,Education,High school or less,504,561,NA
+2_region,Fairfield County,Education,Some college or AA,575,570,NA
+2_region,Fairfield County,Education,Bachelor's or higher,693,709,NA
+2_region,Fairfield County,Income,Under $15K,469,212,NA
+2_region,Fairfield County,Income,$15K-$30K,431,268,NA
+2_region,Fairfield County,Income,$30K-$50K,491,530,NA
+2_region,Fairfield County,Income,$50K-$75K,574,577,NA
+2_region,Fairfield County,Income,$75K-$100K,598,746,NA
+2_region,Fairfield County,Income,$100K-$200K,716,753,NA
+2_region,Fairfield County,Income,$200K+,740,920,NA
+2_region,Greater Hartford,Total,Total,580,570,668
+2_region,Greater Hartford,Age,Ages 18-34,536,389,NA
+2_region,Greater Hartford,Age,Ages 35-49,537,487,NA
+2_region,Greater Hartford,Age,Ages 50-64,633,620,NA
+2_region,Greater Hartford,Age,Ages 65+,720,871,NA
+2_region,Greater Hartford,Race/Ethnicity,White,652,612,NA
+2_region,Greater Hartford,Race/Ethnicity,Black,351,483,NA
+2_region,Greater Hartford,Race/Ethnicity,Latino,371,390,NA
+2_region,Greater Hartford,Education,High school or less,466,479,NA
+2_region,Greater Hartford,Education,Some college or AA,510,480,NA
+2_region,Greater Hartford,Education,Bachelor's or higher,664,704,NA
+2_region,Greater Hartford,Income,Under $15K,401,39,NA
+2_region,Greater Hartford,Income,$15K-$30K,516,389,NA
+2_region,Greater Hartford,Income,$30K-$50K,530,571,NA
+2_region,Greater Hartford,Income,$50K-$75K,568,484,NA
+2_region,Greater Hartford,Income,$75K-$100K,597,609,NA
+2_region,Greater Hartford,Income,$100K-$200K,671,745,NA
+2_region,Greater Hartford,Income,$200K+,851,1000,NA
+2_region,Greater New Haven,Total,Total,553,570,652
+2_region,Greater New Haven,Age,Ages 18-34,441,432,NA
+2_region,Greater New Haven,Age,Ages 35-49,540,440,NA
+2_region,Greater New Haven,Age,Ages 50-64,464,698,NA
+2_region,Greater New Haven,Age,Ages 65+,681,794,NA
+2_region,Greater New Haven,Race/Ethnicity,White,579,572,NA
+2_region,Greater New Haven,Race/Ethnicity,Black,367,576,NA
+2_region,Greater New Haven,Race/Ethnicity,Latino,431,388,NA
+2_region,Greater New Haven,Education,High school or less,423,479,NA
+2_region,Greater New Haven,Education,Some college or AA,503,438,NA
+2_region,Greater New Haven,Education,Bachelor's or higher,629,702,NA
+2_region,Greater New Haven,Income,Under $15K,401,299,NA
+2_region,Greater New Haven,Income,$15K-$30K,405,349,NA
+2_region,Greater New Haven,Income,$30K-$50K,514,406,NA
+2_region,Greater New Haven,Income,$50K-$75K,577,567,NA
+2_region,Greater New Haven,Income,$75K-$100K,553,619,NA
+2_region,Greater New Haven,Income,$100K-$200K,620,789,NA
+2_region,Greater New Haven,Income,$200K+,716,959,NA
+2_region,Hartford Inner Ring,Total,Total,529,563,698
+2_region,Hartford Outer Ring,Total,Total,788,742,736
+2_region,New Haven Inner Ring,Total,Total,468,568,651
+2_region,New Haven Outer Ring,Total,Total,699,619,734
+3_town,Bridgeport,Total,Total,259,438,472
+3_town,Bristol,Total,Total,541,532,647
+3_town,Danbury,Total,Total,522,662,596
+3_town,Darien,Total,Total,883,748,795
+3_town,East Hartford,Total,Total,356,445,603
+3_town,East Haven,Total,Total,506,571,632
+3_town,Fairfield,Total,Total,859,716,720
+3_town,Greenwich,Total,Total,881,792,745
+3_town,Hamden,Total,Total,616,651,701
+3_town,Hartford,Total,Total,195,440,454
+3_town,Manchester,Total,Total,511,432,665
+3_town,Meriden,Total,Total,405,484,667
+3_town,Middletown,Total,Total,576,616,688
+3_town,Milford,Total,Total,712,622,710
+3_town,Monroe,Total,Total,763,626,707
+3_town,New Britain,Total,Total,419,436,548
+3_town,New Haven,Total,Total,291,482,540
+3_town,New London,Total,Total,309,395,535
+3_town,New Milford,Total,Total,609,617,674
+3_town,Newtown,Total,Total,770,702,729
+3_town,Norwalk,Total,Total,563,655,634
+3_town,Stamford,Total,Total,602,751,668
+3_town,Stratford,Total,Total,460,523,660
+3_town,Trumbull,Total,Total,757,617,747
+3_town,Wallingford,Total,Total,741,660,721
+3_town,Waterbury,Total,Total,137,438,503
+3_town,West Hartford,Total,Total,884,789,746
+3_town,West Haven,Total,Total,290,434,606
