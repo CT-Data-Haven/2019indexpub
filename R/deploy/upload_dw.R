@@ -1,6 +1,5 @@
 library(tidyverse)
 library(data.world)
-library(httr)
 
 dataset <- "camille86/cws2018"
 
@@ -25,3 +24,8 @@ update_dataset(dataset, dataset_update_request(files = list(req2)))
 
 # add license: cc sharealike
 update_dataset(dataset, dataset_update_request(license_string = "CC-BY-SA"))
+
+read_csv("R/utils/dataworld_urls.csv") %>%
+  deframe() %>%
+  as.list() %>%
+  jsonlite::write_json("output_data/cws/misc/downloads.json")
