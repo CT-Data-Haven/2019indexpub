@@ -15,7 +15,7 @@ update_dataset(dataset, dataset_update_request(files = list(req1)))
 # index values
 desc2 <- "Scores for DataHaven's three indexes: Community, Personal Wellbeing, and Neighborhood Assets"
 url2 <- "https://github.com/CT-Data-Haven/2019indexpub/blob/master/output_data/cws/misc/index_scores_distro.csv"
-req2 <- file_create_or_update_request(file_name = "index_scores_2018",
+req2 <- file_create_or_update_request(file_name = "index_scores_2018.csv",
                                       description = desc2,
                                       labels = list("clean data"),
                                       url = url2)
@@ -26,6 +26,9 @@ update_dataset(dataset, dataset_update_request(files = list(req2)))
 update_dataset(dataset, dataset_update_request(license_string = "CC-BY-SA"))
 
 read_csv("R/utils/dataworld_urls.csv") %>%
-  deframe() %>%
-  as.list() %>%
-  jsonlite::write_json("output_data/cws/misc/downloads.json")
+  pivot_longer(-file) %>%
+  split(.$file) %>%
+  map(select, -file) %>%
+  map(deframe) %>%
+  map(as.list) %>%
+  jsonlite::write_json("output_data/cws/misc/downloads.json", auto_unbox = TRUE)
