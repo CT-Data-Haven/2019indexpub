@@ -1,8 +1,10 @@
 source(file.path("R", "packages.R"))
 library(jsonlite)
 
-cws_wide <- read_csv(file.path("output_data", "cws", "wide", "cws_2018_all_geos_wide.csv")) %>%
-  filter(name %in% c("Connecticut", "Fairfield County", "Greater Hartford", "Greater New Haven", "Valley", "Greater New London", "Greater Waterbury"))
+cws_read <- read_csv(file.path("output_data", "cws", "wide", "cws_2018_all_geos_wide.csv"))
+
+cws_wide <- cws_read %>%
+  filter(name %in% c("Connecticut", "Fairfield County", "Greater Hartford", "Greater New Haven", "Valley", "Greater New London", "Greater Waterbury"), category != "Connecticut")
 
 # json structure:
 # new_haven: {
@@ -11,6 +13,7 @@ cws_wide <- read_csv(file.path("output_data", "cws", "wide", "cws_2018_all_geos_
 #   ]
 # }
 
+############### BY GROUP
 group_order <- c("Total", 
                  "Male", "Female", 
                  "Ages 18-34", "Ages 35-49", "Ages 50-64", "Ages 65+", 
@@ -33,4 +36,19 @@ cws_split <- cws_wide %>%
   map_depth(2, select, -name, -indicator)
 
 saveRDS(cws_split, "output_data/cws/misc/cws_indicators.rds")
-# write_json(cws_split, file.path("output_data", "cws", "misc", "cws_indicators.json"), auto_unbox = TRUE)
+
+
+############ BY TOWN
+town_wide <- cws_read %>%
+  filter(category == "Total", name %in% unique(cwi::xwalk$town)) %>%
+  select(-category, -group) %>%
+  pivot_longer(-name, names_to = "indicator")
+
+risk_town <- town_wide %>%
+  anti_join(town_wide %>% group_by(indicator, missing = is.na(value)) %>%
+              summarise(n = n()) %>%
+              mutate(share = n / sum(n)) %>%
+              filter(missing, share > 0.3), by = "indicator")
+
+saveRDS(risk_town, "output_data/cws/misc/cws_by_town.rds")
+
