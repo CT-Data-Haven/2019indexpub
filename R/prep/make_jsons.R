@@ -29,7 +29,8 @@ srvy_meta <- googlesheets4::sheets_find("surveyq") %>%
   pull(id) %>%
   googlesheets4::read_sheet() %>%
   mutate(display = coalesce(display, clean_titles(question))) %>%
-  mutate(topic = as.factor(topic) %>% fct_relevel("health_risk_factors", "healthcare_access")) %>%
+  mutate(topic = as.factor(topic) %>% fct_relevel("health_risk_factors", "healthcare_access", "reasons_for_missing_healthcare")) %>%
+  replace_na(list(denom = "Share of adults")) %>%
   arrange(topic, display) %>%
   group_by(topic) %>%
   mutate(code = make_abbr(topic) %>% paste0(row_number())) %>%
@@ -38,6 +39,8 @@ srvy_meta <- googlesheets4::sheets_find("surveyq") %>%
 # list of data nested by region, nested by topic, questions as columns
 cws_list <- indics %>%
   map_depth(2, filter, category %in% c("Total", "Age", "Race/Ethnicity", "Education", "Income")) %>%
+  map_depth(2, mutate_if, is.factor, fct_drop) %>%
+  map_depth(2, arrange, category) %>%
   map(~bind_rows(., .id = "question")) %>%
   map(left_join, srvy_meta %>% select(topic, question), by = "question") %>%
   map(~split(., .$topic)) %>%
@@ -62,5 +65,5 @@ write_json(cws_list, "output_data/cws/misc/cws_indicators.json", na = "null")
 # write_json(srvy_meta)
 srvy_meta %>%
   split(.$topic) %>%
-  map(select, -topic) %>%
+  map(select, question, display, denom) %>%
   write_json("output_data/cws/misc/cws_meta.json")
