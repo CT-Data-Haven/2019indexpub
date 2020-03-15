@@ -3,24 +3,25 @@ library(data.world)
 
 dataset <- "camille86/cws2018"
 
-desc1 <- "Subset of indicators from the 2018 DataHaven Community Wellbeing Survey by location and demographic group"
-url1 <- "https://github.com/CT-Data-Haven/2019indexpub/blob/master/output_data/cws/wide/cws_2018_all_geos_wide.csv"
-req1 <- file_create_or_update_request(file_name = "cws_overview_by_group_2018.csv", 
-                              description = desc1, 
+desc_survey <- "Subset of indicators from the 2018 DataHaven Community Wellbeing Survey by location and demographic group"
+url_survey <- "https://github.com/CT-Data-Haven/2019indexpub/blob/master/output_data/cws/wide/cws_2018_all_geos_wide.csv"
+req_survey <- file_create_or_update_request(file_name = "cws_overview_by_group_2018.csv", 
+                              description = desc_survey, 
                               labels = list("clean data"), 
-                              url = url1)
+                              url = url_survey)
 
-update_dataset(dataset, dataset_update_request(files = list(req1)))
 
 # index values
-desc2 <- "Scores for DataHaven's three indexes: Community, Personal Wellbeing, and Neighborhood Assets"
-url2 <- "https://github.com/CT-Data-Haven/2019indexpub/blob/master/output_data/cws/misc/index_scores_distro.csv"
-req2 <- file_create_or_update_request(file_name = "index_scores_2018.csv",
-                                      description = desc2,
+desc_scores <- "Scores for DataHaven's three indexes: Community, Personal Wellbeing, and Neighborhood Assets"
+url_scores <- "https://github.com/CT-Data-Haven/2019indexpub/blob/master/output_data/cws/misc/index_scores_distro.csv"
+req_scores <- file_create_or_update_request(file_name = "index_scores_2018.csv",
+                                      description = desc_scores,
                                       labels = list("clean data"),
-                                      url = url2)
+                                      url = url_scores)
 
-update_dataset(dataset, dataset_update_request(files = list(req2)))
+list(req_survey, req_scores) %>%
+  map(~update_dataset(dataset, dataset_update_request(files = list(.))))
+
 
 # add license: cc sharealike
 update_dataset(dataset, dataset_update_request(license_string = "CC-BY-SA"))
