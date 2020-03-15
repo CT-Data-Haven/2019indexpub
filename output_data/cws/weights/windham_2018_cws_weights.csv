@@ -1,0 +1,6 @@
+group,weight,year
+Male,0.45,2018
+Female,0.55,2018
+Under age 55,0.73,2018
+Age 55 or older,0.24,2018
+Total,1,2018

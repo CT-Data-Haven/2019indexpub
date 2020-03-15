@@ -1,0 +1,3225 @@
+code,category,group,response,value,year
+Q1,Connecticut,Connecticut,Yes,0.81,2018
+Q1,Connecticut,Connecticut,No,0.18,2018
+Q1,Connecticut,Connecticut,Don't know,0.01,2018
+Q1,Connecticut,Connecticut,Refused,0,2018
+Q2,Connecticut,Connecticut,Much better,0.08,2018
+Q2,Connecticut,Connecticut,Somewhat better,0.21,2018
+Q2,Connecticut,Connecticut,About the same,0.49,2018
+Q2,Connecticut,Connecticut,Somewhat worse,0.15,2018
+Q2,Connecticut,Connecticut,Much worse,0.06,2018
+Q2,Connecticut,Connecticut,Don't know,0.02,2018
+Q2,Connecticut,Connecticut,Refused,0,2018
+Q4A,Connecticut,Connecticut,Excellent,0.11,2018
+Q4A,Connecticut,Connecticut,Good,0.34,2018
+Q4A,Connecticut,Connecticut,Fair,0.28,2018
+Q4A,Connecticut,Connecticut,Poor,0.15,2018
+Q4A,Connecticut,Connecticut,Don't know enough about it in order to say,0.11,2018
+Q4A,Connecticut,Connecticut,Refused,0,2018
+Q4D,Connecticut,Connecticut,Excellent,0.31,2018
+Q4D,Connecticut,Connecticut,Good,0.44,2018
+Q4D,Connecticut,Connecticut,Fair,0.16,2018
+Q4D,Connecticut,Connecticut,Poor,0.05,2018
+Q4D,Connecticut,Connecticut,Don't know enough about it in order to say,0.04,2018
+Q4D,Connecticut,Connecticut,Refused,0,2018
+Q4E,Connecticut,Connecticut,Excellent,0.09,2018
+Q4E,Connecticut,Connecticut,Good,0.35,2018
+Q4E,Connecticut,Connecticut,Fair,0.3,2018
+Q4E,Connecticut,Connecticut,Poor,0.14,2018
+Q4E,Connecticut,Connecticut,Don't know enough about it in order to say,0.12,2018
+Q4E,Connecticut,Connecticut,Refused,0,2018
+Q4F,Connecticut,Connecticut,Excellent,0.33,2018
+Q4F,Connecticut,Connecticut,Good,0.38,2018
+Q4F,Connecticut,Connecticut,Fair,0.16,2018
+Q4F,Connecticut,Connecticut,Poor,0.08,2018
+Q4F,Connecticut,Connecticut,Don't know enough about it in order to say,0.05,2018
+Q4F,Connecticut,Connecticut,Refused,0,2018
+Q4G,Connecticut,Connecticut,Excellent,0.26,2018
+Q4G,Connecticut,Connecticut,Good,0.46,2018
+Q4G,Connecticut,Connecticut,Fair,0.19,2018
+Q4G,Connecticut,Connecticut,Poor,0.06,2018
+Q4G,Connecticut,Connecticut,Don't know enough about it in order to say,0.04,2018
+Q4G,Connecticut,Connecticut,Refused,0,2018
+Q4H,Connecticut,Connecticut,Excellent,0.28,2018
+Q4H,Connecticut,Connecticut,Good,0.44,2018
+Q4H,Connecticut,Connecticut,Fair,0.2,2018
+Q4H,Connecticut,Connecticut,Poor,0.06,2018
+Q4H,Connecticut,Connecticut,Don't know enough about it in order to say,0.03,2018
+Q4H,Connecticut,Connecticut,Refused,0,2018
+Q6,Connecticut,Connecticut,Great influence,0.07,2018
+Q6,Connecticut,Connecticut,Moderate influence,0.3,2018
+Q6,Connecticut,Connecticut,A little influence,0.33,2018
+Q6,Connecticut,Connecticut,No influence at all,0.28,2018
+Q6,Connecticut,Connecticut,Don't know,0.03,2018
+Q6,Connecticut,Connecticut,Refused,0,2018
+Q9,Connecticut,Connecticut,Very often,0.82,2018
+Q9,Connecticut,Connecticut,Fairly often,0.06,2018
+Q9,Connecticut,Connecticut,Sometimes,0.05,2018
+Q9,Connecticut,Connecticut,Almost never,0.02,2018
+Q9,Connecticut,Connecticut,Never at all,0.04,2018
+Q9,Connecticut,Connecticut,Don't know,0,2018
+Q9,Connecticut,Connecticut,Refused,0,2018
+Q57,Connecticut,Connecticut,"Single, never married",0.3,2018
+Q57,Connecticut,Connecticut,Married or civil union,0.48,2018
+Q57,Connecticut,Connecticut,Living with partner,0.05,2018
+Q57,Connecticut,Connecticut,Separated,0.01,2018
+Q57,Connecticut,Connecticut,Divorced,0.08,2018
+Q57,Connecticut,Connecticut,Widowed,0.07,2018
+Q57,Connecticut,Connecticut,Refused,0.01,2018
+Q60,Connecticut,Connecticut,One,0.24,2018
+Q60,Connecticut,Connecticut,Two,0.5,2018
+Q60,Connecticut,Connecticut,Three,0.16,2018
+Q60,Connecticut,Connecticut,Four or more,0.1,2018
+Q60,Connecticut,Connecticut,Refused,0.01,2018
+Q11,Connecticut,Connecticut,I own my home,0.63,2018
+Q11,Connecticut,Connecticut,I rent my home,0.25,2018
+Q11,Connecticut,Connecticut,I live with family or friends who own,0.08,2018
+Q11,Connecticut,Connecticut,I live with family or friends who rent,0.02,2018
+Q11,Connecticut,Connecticut,Vol: I live in a Retirement Community/Senior Care,0,2018
+Q11,Connecticut,Connecticut,Other,0.01,2018
+Q11,Connecticut,Connecticut,Refused,0.01,2018
+MOVEYEAR,Connecticut,Connecticut,Within the last 3 years,0.18,2018
+MOVEYEAR,Connecticut,Connecticut,4 to 10 years ago,0.28,2018
+MOVEYEAR,Connecticut,Connecticut,11 to 19 years ago,0.19,2018
+MOVEYEAR,Connecticut,Connecticut,20 or more years ago,0.31,2018
+MOVEYEAR,Connecticut,Connecticut,Refused,0.03,2018
+Q17A,Connecticut,Connecticut,Strongly agree,0.28,2018
+Q17A,Connecticut,Connecticut,Somewhat agree,0.25,2018
+Q17A,Connecticut,Connecticut,Somewhat disagree,0.17,2018
+Q17A,Connecticut,Connecticut,Strongly disagree,0.29,2018
+Q17A,Connecticut,Connecticut,Don't know,0.01,2018
+Q17A,Connecticut,Connecticut,Refused,0,2018
+Q17B,Connecticut,Connecticut,Strongly agree,0.35,2018
+Q17B,Connecticut,Connecticut,Somewhat agree,0.25,2018
+Q17B,Connecticut,Connecticut,Somewhat disagree,0.12,2018
+Q17B,Connecticut,Connecticut,Strongly disagree,0.27,2018
+Q17B,Connecticut,Connecticut,Don't know,0.01,2018
+Q17B,Connecticut,Connecticut,Refused,0,2018
+Q17C,Connecticut,Connecticut,Strongly agree,0.31,2018
+Q17C,Connecticut,Connecticut,Somewhat agree,0.31,2018
+Q17C,Connecticut,Connecticut,Somewhat disagree,0.16,2018
+Q17C,Connecticut,Connecticut,Strongly disagree,0.21,2018
+Q17C,Connecticut,Connecticut,Don't know,0.02,2018
+Q17C,Connecticut,Connecticut,Refused,0,2018
+Q17E,Connecticut,Connecticut,Strongly agree,0.36,2018
+Q17E,Connecticut,Connecticut,Somewhat agree,0.33,2018
+Q17E,Connecticut,Connecticut,Somewhat disagree,0.13,2018
+Q17E,Connecticut,Connecticut,Strongly disagree,0.17,2018
+Q17E,Connecticut,Connecticut,Don't know,0.01,2018
+Q17E,Connecticut,Connecticut,Refused,0,2018
+Q17F,Connecticut,Connecticut,Strongly agree,0.14,2018
+Q17F,Connecticut,Connecticut,Somewhat agree,0.15,2018
+Q17F,Connecticut,Connecticut,Somewhat disagree,0.2,2018
+Q17F,Connecticut,Connecticut,Strongly disagree,0.49,2018
+Q17F,Connecticut,Connecticut,Don't know,0.01,2018
+Q17F,Connecticut,Connecticut,Refused,0,2018
+Q17G,Connecticut,Connecticut,Strongly agree,0.47,2018
+Q17G,Connecticut,Connecticut,Somewhat agree,0.36,2018
+Q17G,Connecticut,Connecticut,Somewhat disagree,0.08,2018
+Q17G,Connecticut,Connecticut,Strongly disagree,0.06,2018
+Q17G,Connecticut,Connecticut,Don't know,0.02,2018
+Q17G,Connecticut,Connecticut,Refused,0,2018
+Q17H,Connecticut,Connecticut,Strongly agree,0.32,2018
+Q17H,Connecticut,Connecticut,Somewhat agree,0.41,2018
+Q17H,Connecticut,Connecticut,Somewhat disagree,0.13,2018
+Q17H,Connecticut,Connecticut,Strongly disagree,0.08,2018
+Q17H,Connecticut,Connecticut,Don't know,0.07,2018
+Q17H,Connecticut,Connecticut,Refused,0,2018
+Q17I,Connecticut,Connecticut,Strongly agree,0.32,2018
+Q17I,Connecticut,Connecticut,Somewhat agree,0.42,2018
+Q17I,Connecticut,Connecticut,Somewhat disagree,0.14,2018
+Q17I,Connecticut,Connecticut,Strongly disagree,0.07,2018
+Q17I,Connecticut,Connecticut,Don't know,0.04,2018
+Q17I,Connecticut,Connecticut,Refused,0,2018
+LIFECA,Connecticut,Connecticut,Almost certain,0.4,2018
+LIFECA,Connecticut,Connecticut,Very likely,0.46,2018
+LIFECA,Connecticut,Connecticut,A toss up,0.09,2018
+LIFECA,Connecticut,Connecticut,Not very likely,0.02,2018
+LIFECA,Connecticut,Connecticut,Not at all likely,0.01,2018
+LIFECA,Connecticut,Connecticut,Don't know,0.02,2018
+LIFECA,Connecticut,Connecticut,Refused,0,2018
+LIFECB,Connecticut,Connecticut,Almost certain,0.16,2018
+LIFECB,Connecticut,Connecticut,Very likely,0.41,2018
+LIFECB,Connecticut,Connecticut,A toss up,0.25,2018
+LIFECB,Connecticut,Connecticut,Not very likely,0.11,2018
+LIFECB,Connecticut,Connecticut,Not at all likely,0.03,2018
+LIFECB,Connecticut,Connecticut,Don't know,0.04,2018
+LIFECB,Connecticut,Connecticut,Refused,0,2018
+LIFECC,Connecticut,Connecticut,Almost certain,0.02,2018
+LIFECC,Connecticut,Connecticut,Very likely,0.06,2018
+LIFECC,Connecticut,Connecticut,A toss up,0.12,2018
+LIFECC,Connecticut,Connecticut,Not very likely,0.37,2018
+LIFECC,Connecticut,Connecticut,Not at all likely,0.38,2018
+LIFECC,Connecticut,Connecticut,Don't know,0.03,2018
+LIFECC,Connecticut,Connecticut,Refused,0,2018
+LIFECD,Connecticut,Connecticut,Almost certain,0.07,2018
+LIFECD,Connecticut,Connecticut,Very likely,0.2,2018
+LIFECD,Connecticut,Connecticut,A toss up,0.39,2018
+LIFECD,Connecticut,Connecticut,Not very likely,0.2,2018
+LIFECD,Connecticut,Connecticut,Not at all likely,0.08,2018
+LIFECD,Connecticut,Connecticut,Don't know,0.06,2018
+LIFECD,Connecticut,Connecticut,Refused,0,2018
+LIFECF,Connecticut,Connecticut,Almost certain,0.03,2018
+LIFECF,Connecticut,Connecticut,Very likely,0.08,2018
+LIFECF,Connecticut,Connecticut,A toss up,0.22,2018
+LIFECF,Connecticut,Connecticut,Not very likely,0.45,2018
+LIFECF,Connecticut,Connecticut,Not at all likely,0.18,2018
+LIFECF,Connecticut,Connecticut,Don't know,0.04,2018
+LIFECF,Connecticut,Connecticut,Refused,0,2018
+Q19,Connecticut,Connecticut,Excellent,0.23,2018
+Q19,Connecticut,Connecticut,Very good,0.36,2018
+Q19,Connecticut,Connecticut,Good,0.26,2018
+Q19,Connecticut,Connecticut,Fair,0.11,2018
+Q19,Connecticut,Connecticut,Poor,0.03,2018
+Q19,Connecticut,Connecticut,Don't know,0,2018
+Q19,Connecticut,Connecticut,Refused,0,2018
+Q20,Connecticut,Connecticut,Not at all satisfied,0.03,2018
+Q20,Connecticut,Connecticut,Only a little bit satisfied,0.08,2018
+Q20,Connecticut,Connecticut,Somewhat satisfied,0.22,2018
+Q20,Connecticut,Connecticut,Mostly satisfied,0.44,2018
+Q20,Connecticut,Connecticut,Completely satisfied,0.23,2018
+Q20,Connecticut,Connecticut,Don't know,0,2018
+Q20,Connecticut,Connecticut,Refused,0,2018
+Q21,Connecticut,Connecticut,Not at all,0.04,2018
+Q21,Connecticut,Connecticut,Only a little bit,0.08,2018
+Q21,Connecticut,Connecticut,Somewhat,0.19,2018
+Q21,Connecticut,Connecticut,Mostly,0.39,2018
+Q21,Connecticut,Connecticut,Completely,0.3,2018
+Q21,Connecticut,Connecticut,Don't know,0.01,2018
+Q21,Connecticut,Connecticut,Refused,0,2018
+Q22,Connecticut,Connecticut,Not at all,0.44,2018
+Q22,Connecticut,Connecticut,Only a little bit,0.22,2018
+Q22,Connecticut,Connecticut,Somewhat,0.2,2018
+Q22,Connecticut,Connecticut,Mostly,0.07,2018
+Q22,Connecticut,Connecticut,Completely,0.05,2018
+Q22,Connecticut,Connecticut,Don't know,0.01,2018
+Q22,Connecticut,Connecticut,Refused,0,2018
+Q23,Connecticut,Connecticut,Not at all,0.05,2018
+Q23,Connecticut,Connecticut,Only a little bit,0.19,2018
+Q23,Connecticut,Connecticut,Somewhat,0.3,2018
+Q23,Connecticut,Connecticut,Mostly,0.28,2018
+Q23,Connecticut,Connecticut,Completely,0.16,2018
+Q23,Connecticut,Connecticut,Don't know,0,2018
+Q23,Connecticut,Connecticut,Refused,0,2018
+Q23PL,Connecticut,Connecticut,Strongly agree,0.36,2018
+Q23PL,Connecticut,Connecticut,Agree,0.31,2018
+Q23PL,Connecticut,Connecticut,Slightly agree,0.15,2018
+Q23PL,Connecticut,Connecticut,Neither agree nor disagree,0.09,2018
+Q23PL,Connecticut,Connecticut,Slightly disagree,0.04,2018
+Q23PL,Connecticut,Connecticut,Disagree,0.02,2018
+Q23PL,Connecticut,Connecticut,Strongly disagree,0.02,2018
+Q23PL,Connecticut,Connecticut,Don't know,0,2018
+Q23PL,Connecticut,Connecticut,Refused,0,2018
+Q23A,Connecticut,Connecticut,Yes,0.3,2018
+Q23A,Connecticut,Connecticut,No,0.69,2018
+Q23A,Connecticut,Connecticut,Don't know,0,2018
+Q23A,Connecticut,Connecticut,Refused,0.01,2018
+Q23C,Connecticut,Connecticut,Yes,0.1,2018
+Q23C,Connecticut,Connecticut,No,0.89,2018
+Q23C,Connecticut,Connecticut,Don't know,0,2018
+Q23C,Connecticut,Connecticut,Refused,0.01,2018
+Q23D,Connecticut,Connecticut,Yes,0.06,2018
+Q23D,Connecticut,Connecticut,No,0.93,2018
+Q23D,Connecticut,Connecticut,Don't know,0,2018
+Q23D,Connecticut,Connecticut,Refused,0.01,2018
+Q23E,Connecticut,Connecticut,Yes,0.15,2018
+Q23E,Connecticut,Connecticut,No,0.84,2018
+Q23E,Connecticut,Connecticut,Don't know,0,2018
+Q23E,Connecticut,Connecticut,Refused,0.01,2018
+Q23E2,Connecticut,Connecticut,Yes,0.69,2018
+Q23E2,Connecticut,Connecticut,No,0.3,2018
+Q23E2,Connecticut,Connecticut,Don't know,0.01,2018
+Q23E2,Connecticut,Connecticut,Refused,0,2018
+Q23E2,Connecticut,Connecticut,Current Asthma Rate (based on Q23E*23E2),0.1035,2018
+BMIR,Connecticut,Connecticut,Underweight,0.02,2018
+BMIR,Connecticut,Connecticut,Normal weight,0.33,2018
+BMIR,Connecticut,Connecticut,Overweight,0.36,2018
+BMIR,Connecticut,Connecticut,Obese,0.29,2018
+Q26,Connecticut,Connecticut,Yes,0.94,2018
+Q26,Connecticut,Connecticut,No,0.05,2018
+Q26,Connecticut,Connecticut,Don't know,0,2018
+Q26,Connecticut,Connecticut,Refused,0.01,2018
+Q27,Connecticut,Connecticut,Insurance obtained through a current or former employer or union,0.57,2018
+Q27,Connecticut,Connecticut,Insurance purchased directly from an insurance company,0.11,2018
+Q27,Connecticut,Connecticut,Medicare,0.23,2018
+Q27,Connecticut,Connecticut,"Medicaid, Medical Assistance, HUSKY or any kind of government-assistance plan",0.16,2018
+Q27,Connecticut,Connecticut,State Health Insurance Exchange such as Access Health CT or NY State of Health,0.07,2018
+Q27,Connecticut,Connecticut,Any other type of health insurance plan,0.05,2018
+Q27,Connecticut,Connecticut,Don't know,0.01,2018
+Q27,Connecticut,Connecticut,Refused,0.01,2018
+Q28,Connecticut,Connecticut,Yes,0.09,2018
+Q28,Connecticut,Connecticut,No,0.9,2018
+Q28,Connecticut,Connecticut,Don't know,0,2018
+Q28,Connecticut,Connecticut,Refused,0,2018
+Q29,Connecticut,Connecticut,Yes,0.23,2018
+Q29,Connecticut,Connecticut,No,0.77,2018
+Q29,Connecticut,Connecticut,Don't know,0,2018
+Q29,Connecticut,Connecticut,Refused,0,2018
+Q31,Connecticut,Connecticut,Yes,0.09,2018
+Q31,Connecticut,Connecticut,No,0.91,2018
+Q31,Connecticut,Connecticut,Don't know,0,2018
+Q31,Connecticut,Connecticut,Refused,0,2018
+Q32,Connecticut,Connecticut,Yes,0.83,2018
+Q32,Connecticut,Connecticut,No,0.16,2018
+Q32,Connecticut,Connecticut,Don't know,0,2018
+Q32,Connecticut,Connecticut,Refused,0,2018
+Q33,Connecticut,Connecticut,More than one,0.26,2018
+Q33,Connecticut,Connecticut,None at all,0.71,2018
+Q33,Connecticut,Connecticut,Don't know,0.02,2018
+Q33,Connecticut,Connecticut,Refused,0.01,2018
+Q33,Connecticut,Connecticut,No Medical Home (Q32*Q33),0.11359999999999999,2018
+Q34,Connecticut,Connecticut,None,0.73,2018
+Q34,Connecticut,Connecticut,1 to 2,0.22,2018
+Q34,Connecticut,Connecticut,3 or more,0.04,2018
+Q34,Connecticut,Connecticut,Don't know,0,2018
+Q34,Connecticut,Connecticut,Refused,0,2018
+Q35,Connecticut,Connecticut,Within the last 6 months,0.6,2018
+Q35,Connecticut,Connecticut,More than 6 months but less than a year,0.14,2018
+Q35,Connecticut,Connecticut,More than a year but less than two years,0.11,2018
+Q35,Connecticut,Connecticut,More than two years ago,0.13,2018
+Q35,Connecticut,Connecticut,Never have gone to a dentist,0.01,2018
+Q35,Connecticut,Connecticut,Don't know,0,2018
+Q35,Connecticut,Connecticut,Refused,0,2018
+Q37_1,Connecticut,Connecticut,Always,0.39,2018
+Q37_1,Connecticut,Connecticut,Usually,0.31,2018
+Q37_1,Connecticut,Connecticut,Sometimes,0.18,2018
+Q37_1,Connecticut,Connecticut,Rarely,0.06,2018
+Q37_1,Connecticut,Connecticut,Never,0.05,2018
+Q37_1,Connecticut,Connecticut,Don't know,0.01,2018
+Q37_1,Connecticut,Connecticut,Refused,0.01,2018
+Q37_2,Connecticut,Connecticut,Not at all,0.65,2018
+Q37_2,Connecticut,Connecticut,Several days,0.2,2018
+Q37_2,Connecticut,Connecticut,More than half the days,0.07,2018
+Q37_2,Connecticut,Connecticut,Nearly every day,0.06,2018
+Q37_2,Connecticut,Connecticut,Don't know,0.01,2018
+Q37_2,Connecticut,Connecticut,Refused,0.01,2018
+Q37_3,Connecticut,Connecticut,Not at all,0.68,2018
+Q37_3,Connecticut,Connecticut,Several days,0.21,2018
+Q37_3,Connecticut,Connecticut,More than half the days,0.05,2018
+Q37_3,Connecticut,Connecticut,Nearly every day,0.04,2018
+Q37_3,Connecticut,Connecticut,Don't know,0.01,2018
+Q37_3,Connecticut,Connecticut,Refused,0.01,2018
+Q38,Connecticut,Connecticut,None,0.2,2018
+Q38,Connecticut,Connecticut,One,0.08,2018
+Q38,Connecticut,Connecticut,Two,0.14,2018
+Q38,Connecticut,Connecticut,Three,0.19,2018
+Q38,Connecticut,Connecticut,Four,0.11,2018
+Q38,Connecticut,Connecticut,Five,0.11,2018
+Q38,Connecticut,Connecticut,Six,0.04,2018
+Q38,Connecticut,Connecticut,Seven,0.13,2018
+Q38,Connecticut,Connecticut,Don't know,0,2018
+Q38,Connecticut,Connecticut,Refused,0,2018
+Q39,Connecticut,Connecticut,Yes,0.39,2018
+Q39,Connecticut,Connecticut,No,0.61,2018
+Q39,Connecticut,Connecticut,Don't know,0,2018
+Q39,Connecticut,Connecticut,Refused,0,2018
+Q40,Connecticut,Connecticut,Every day,0.25,2018
+Q40,Connecticut,Connecticut,Some days,0.1,2018
+Q40,Connecticut,Connecticut,Not at all,0.64,2018
+Q40,Connecticut,Connecticut,Don't know,0,2018
+Q40,Connecticut,Connecticut,Refused,0,2018
+Q40,Connecticut,Connecticut,Current Smoking Rate (Q39*Q40),0.13649999999999998,2018
+Q42,Connecticut,Connecticut,Yes,0.19,2018
+Q42,Connecticut,Connecticut,No,0.81,2018
+Q42,Connecticut,Connecticut,Don't know,0,2018
+Q42,Connecticut,Connecticut,Refused,0,2018
+Q43,Connecticut,Connecticut,None,0.57,2018
+Q43,Connecticut,Connecticut,One to five,0.19,2018
+Q43,Connecticut,Connecticut,Six to twenty-nine,0.09,2018
+Q43,Connecticut,Connecticut,Everyday,0.12,2018
+Q43,Connecticut,Connecticut,Don't know,0.02,2018
+Q43,Connecticut,Connecticut,Refused,0,2018
+Q43,Connecticut,Connecticut,Vaping Past 30 Days Rate (Q42*Q43),0.07600000000000001,2018
+ALCOHOL,Connecticut,Connecticut,None,0.71,2018
+ALCOHOL,Connecticut,Connecticut,One to five,0.22,2018
+ALCOHOL,Connecticut,Connecticut,Six to ten,0.03,2018
+ALCOHOL,Connecticut,Connecticut,More than ten,0.03,2018
+ALCOHOL,Connecticut,Connecticut,Don't know,0.01,2018
+ALCOHOL,Connecticut,Connecticut,Refused,0.01,2018
+POT1,Connecticut,Connecticut,None,0.87,2018
+POT1,Connecticut,Connecticut,One to five,0.05,2018
+POT1,Connecticut,Connecticut,Six to ten,0.01,2018
+POT1,Connecticut,Connecticut,More than ten,0.06,2018
+POT1,Connecticut,Connecticut,Don't know,0,2018
+POT1,Connecticut,Connecticut,Refused,0.01,2018
+OPIOID2,Connecticut,Connecticut,No,0.68,2018
+OPIOID2,Connecticut,Connecticut,"Yes, one person",0.13,2018
+OPIOID2,Connecticut,Connecticut,"Yes, 2 to 4 people",0.11,2018
+OPIOID2,Connecticut,Connecticut,"Yes, 5 or more people",0.07,2018
+OPIOID2,Connecticut,Connecticut,Don't know,0,2018
+OPIOID2,Connecticut,Connecticut,Refused,0,2018
+OPIOID4,Connecticut,Connecticut,No,0.75,2018
+OPIOID4,Connecticut,Connecticut,"Yes, one person",0.11,2018
+OPIOID4,Connecticut,Connecticut,"Yes, 2 to 4 people",0.09,2018
+OPIOID4,Connecticut,Connecticut,"Yes, 5 or more people",0.04,2018
+OPIOID4,Connecticut,Connecticut,Don't know,0,2018
+OPIOID4,Connecticut,Connecticut,Refused,0,2018
+Q44,Connecticut,Connecticut,Living comfortably,0.33,2018
+Q44,Connecticut,Connecticut,Doing alright,0.34,2018
+Q44,Connecticut,Connecticut,Just getting by,0.21,2018
+Q44,Connecticut,Connecticut,Finding it difficult,0.07,2018
+Q44,Connecticut,Connecticut,Finding it very difficult,0.05,2018
+Q44,Connecticut,Connecticut,Don't know,0,2018
+Q44,Connecticut,Connecticut,Refused,0.01,2018
+Q46,Connecticut,Connecticut,Less than a month,0.2,2018
+Q46,Connecticut,Connecticut,At least one month but less than 2,0.11,2018
+Q46,Connecticut,Connecticut,At least 2 months but less than 6,0.16,2018
+Q46,Connecticut,Connecticut,At least 6 months but less than a year,0.15,2018
+Q46,Connecticut,Connecticut,At least a year but less than 2 years,0.1,2018
+Q46,Connecticut,Connecticut,Two years or more,0.22,2018
+Q46,Connecticut,Connecticut,Don't know,0.04,2018
+Q46,Connecticut,Connecticut,Refused,0.02,2018
+DEBT,Connecticut,Connecticut,Something left over,0.62,2018
+DEBT,Connecticut,Connecticut,Break even,0.17,2018
+DEBT,Connecticut,Connecticut,Be in debt,0.16,2018
+DEBT,Connecticut,Connecticut,Don't know,0.04,2018
+DEBT,Connecticut,Connecticut,Refused,0.02,2018
+Q47,Connecticut,Connecticut,Yes,0.61,2018
+Q47,Connecticut,Connecticut,"No, but would like to work",0.06,2018
+Q47,Connecticut,Connecticut,"No, retired",0.19,2018
+Q47,Connecticut,Connecticut,"No, homemaker",0.04,2018
+Q47,Connecticut,Connecticut,"No, full time student",0.03,2018
+Q47,Connecticut,Connecticut,"No, disabled",0.05,2018
+Q47,Connecticut,Connecticut,"No, other",0.02,2018
+Q47,Connecticut,Connecticut,Refused,0.01,2018
+Q49,Connecticut,Connecticut,Full time,0.75,2018
+Q49,Connecticut,Connecticut,Part time,0.24,2018
+Q49,Connecticut,Connecticut,Other,0.01,2018
+Q49,Connecticut,Connecticut,Refused,0,2018
+Q56,Connecticut,Connecticut,Drive myself,0.81,2018
+Q56,Connecticut,Connecticut,Get a ride with friends or family,0.07,2018
+Q56,Connecticut,Connecticut,Public bus system,0.05,2018
+Q56,Connecticut,Connecticut,Train or railroad,0.01,2018
+Q56,Connecticut,Connecticut,Walk,0.03,2018
+Q56,Connecticut,Connecticut,Bicycle,0.01,2018
+Q56,Connecticut,Connecticut,Take a taxi,0,2018
+Q56,Connecticut,Connecticut,Ride paratransit,0,2018
+Q56,Connecticut,Connecticut,Other,0.01,2018
+Q56,Connecticut,Connecticut,I took no trips last month/Homebound,0.01,2018
+Q56,Connecticut,Connecticut,Don't know,0,2018
+Q56,Connecticut,Connecticut,Refused,0,2018
+Q62,Connecticut,Connecticut,Yes,0.13,2018
+Q62,Connecticut,Connecticut,No,0.87,2018
+Q62,Connecticut,Connecticut,Don't know,0,2018
+Q62,Connecticut,Connecticut,Refused,0,2018
+Q64,Connecticut,Connecticut,Yes,0.08,2018
+Q64,Connecticut,Connecticut,No,0.92,2018
+Q64,Connecticut,Connecticut,Don't know,0,2018
+Q64,Connecticut,Connecticut,Refused,0,2018
+Q64_GAS,Connecticut,Connecticut,Yes,0.1,2018
+Q64_GAS,Connecticut,Connecticut,No,0.89,2018
+Q64_GAS,Connecticut,Connecticut,Don't know,0,2018
+Q64_GAS,Connecticut,Connecticut,Refused,0,2018
+Q65,Connecticut,Connecticut,Yes,0.12,2018
+Q65,Connecticut,Connecticut,No,0.88,2018
+Q65,Connecticut,Connecticut,Don't know,0,2018
+Q65,Connecticut,Connecticut,Refused,0,2018
+Q66,Connecticut,Connecticut,Yes,0.9,2018
+Q66,Connecticut,Connecticut,No,0.09,2018
+Q66,Connecticut,Connecticut,Don't know,0,2018
+Q66,Connecticut,Connecticut,Refused,0.01,2018
+Q68,Connecticut,Connecticut,Yes,0.1,2018
+Q68,Connecticut,Connecticut,No,0.89,2018
+Q68,Connecticut,Connecticut,Don't know,0,2018
+Q68,Connecticut,Connecticut,Refused,0,2018
+Q69,Connecticut,Connecticut,Yes,0.05,2018
+Q69,Connecticut,Connecticut,No,0.95,2018
+Q69,Connecticut,Connecticut,Don't know,0,2018
+Q69,Connecticut,Connecticut,Refused,0,2018
+DISCRIM1,Connecticut,Connecticut,Yes,0.27,2018
+DISCRIM1,Connecticut,Connecticut,No,0.72,2018
+DISCRIM1,Connecticut,Connecticut,Don't know,0.01,2018
+DISCRIM1,Connecticut,Connecticut,Refused,0,2018
+DISCRIM2,Connecticut,Connecticut,Yes,0.11,2018
+DISCRIM2,Connecticut,Connecticut,No,0.88,2018
+DISCRIM2,Connecticut,Connecticut,Don't know,0,2018
+DISCRIM2,Connecticut,Connecticut,Refused,0,2018
+DISCRIM4,Connecticut,Connecticut,Yes,0.04,2018
+DISCRIM4,Connecticut,Connecticut,No,0.95,2018
+DISCRIM4,Connecticut,Connecticut,Don't know,0,2018
+DISCRIM4,Connecticut,Connecticut,Refused,0,2018
+DISCRIM5,Connecticut,Connecticut,Yes,0.1,2018
+DISCRIM5,Connecticut,Connecticut,No,0.88,2018
+DISCRIM5,Connecticut,Connecticut,Don't know,0.01,2018
+DISCRIM5,Connecticut,Connecticut,Refused,0,2018
+Q77,Connecticut,Connecticut,Yes,0.94,2018
+Q77,Connecticut,Connecticut,No,0.06,2018
+Q77,Connecticut,Connecticut,Refused,0,2018
+Q79,Connecticut,Connecticut,Yes,0.88,2018
+Q79,Connecticut,Connecticut,No,0.12,2018
+Q79,Connecticut,Connecticut,Refused,0,2018
+MILITARY,Connecticut,Connecticut,Yes,0.09,2018
+MILITARY,Connecticut,Connecticut,No,0.9,2018
+MILITARY,Connecticut,Connecticut,Refused,0.01,2018
+DISABILITY,Connecticut,Connecticut,Yes,0.16,2018
+DISABILITY,Connecticut,Connecticut,No,0.83,2018
+DISABILITY,Connecticut,Connecticut,Refused,0.01,2018
+SOCI1,Connecticut,Connecticut,Lesbian or Gay,0.02,2018
+SOCI1,Connecticut,Connecticut,"Straight, that is, not gay",0.89,2018
+SOCI1,Connecticut,Connecticut,Bisexual,0.04,2018
+SOCI1,Connecticut,Connecticut,Something else,0.02,2018
+SOCI1,Connecticut,Connecticut,I don't know the answer,0,2018
+SOCI1,Connecticut,Connecticut,Refused,0.03,2018
+SOCI2,Connecticut,Connecticut,"Yes, Transgender male to female",0.003,2018
+SOCI2,Connecticut,Connecticut,"Yes, Transgender female to male",0.002,2018
+SOCI2,Connecticut,Connecticut,"Yes, Transgender, gender nonconforming",0.002,2018
+SOCI2,Connecticut,Connecticut,No,0.969,2018
+SOCI2,Connecticut,Connecticut,Don't know/Not sure,0.003,2018
+SOCI2,Connecticut,Connecticut,Refused,0.02,2018
+Q1,Total,Total,Yes,0.81,2018
+Q1,Total,Total,No,0.18,2018
+Q1,Total,Total,Don't know,0.01,2018
+Q1,Total,Total,Refused,0,2018
+Q2,Total,Total,Much better,0.04,2018
+Q2,Total,Total,Somewhat better,0.1,2018
+Q2,Total,Total,About the same,0.59,2018
+Q2,Total,Total,Somewhat worse,0.23,2018
+Q2,Total,Total,Much worse,0.02,2018
+Q2,Total,Total,Don't know,0,2018
+Q2,Total,Total,Refused,0.01,2018
+Q4A,Total,Total,Excellent,0.07,2018
+Q4A,Total,Total,Good,0.34,2018
+Q4A,Total,Total,Fair,0.33,2018
+Q4A,Total,Total,Poor,0.15,2018
+Q4A,Total,Total,Don't know enough about it in order to say,0.11,2018
+Q4A,Total,Total,Refused,0,2018
+Q4D,Total,Total,Excellent,0.29,2018
+Q4D,Total,Total,Good,0.54,2018
+Q4D,Total,Total,Fair,0.12,2018
+Q4D,Total,Total,Poor,0.03,2018
+Q4D,Total,Total,Don't know enough about it in order to say,0.02,2018
+Q4D,Total,Total,Refused,0,2018
+Q4E,Total,Total,Excellent,0.06,2018
+Q4E,Total,Total,Good,0.36,2018
+Q4E,Total,Total,Fair,0.35,2018
+Q4E,Total,Total,Poor,0.09,2018
+Q4E,Total,Total,Don't know enough about it in order to say,0.14,2018
+Q4E,Total,Total,Refused,0,2018
+Q4F,Total,Total,Excellent,0.2,2018
+Q4F,Total,Total,Good,0.51,2018
+Q4F,Total,Total,Fair,0.17,2018
+Q4F,Total,Total,Poor,0.06,2018
+Q4F,Total,Total,Don't know enough about it in order to say,0.06,2018
+Q4F,Total,Total,Refused,0,2018
+Q4G,Total,Total,Excellent,0.15,2018
+Q4G,Total,Total,Good,0.46,2018
+Q4G,Total,Total,Fair,0.24,2018
+Q4G,Total,Total,Poor,0.11,2018
+Q4G,Total,Total,Don't know enough about it in order to say,0.02,2018
+Q4G,Total,Total,Refused,0.01,2018
+Q4H,Total,Total,Excellent,0.19,2018
+Q4H,Total,Total,Good,0.46,2018
+Q4H,Total,Total,Fair,0.25,2018
+Q4H,Total,Total,Poor,0.06,2018
+Q4H,Total,Total,Don't know enough about it in order to say,0.04,2018
+Q4H,Total,Total,Refused,0,2018
+Q6,Total,Total,Great influence,0.04,2018
+Q6,Total,Total,Moderate influence,0.24,2018
+Q6,Total,Total,A little influence,0.29,2018
+Q6,Total,Total,No influence at all,0.38,2018
+Q6,Total,Total,Don't know,0.04,2018
+Q6,Total,Total,Refused,0,2018
+Q9,Total,Total,Very often,0.89,2018
+Q9,Total,Total,Fairly often,0.02,2018
+Q9,Total,Total,Sometimes,0.04,2018
+Q9,Total,Total,Almost never,0.01,2018
+Q9,Total,Total,Never at all,0.03,2018
+Q9,Total,Total,Don't know,0,2018
+Q9,Total,Total,Refused,0,2018
+Q57,Total,Total,"Single, never married",0.25,2018
+Q57,Total,Total,Married or civil union,0.46,2018
+Q57,Total,Total,Living with partner,0.07,2018
+Q57,Total,Total,Separated,0.01,2018
+Q57,Total,Total,Divorced,0.07,2018
+Q57,Total,Total,Widowed,0.13,2018
+Q57,Total,Total,Refused,0,2018
+Q60,Total,Total,One,0.23,2018
+Q60,Total,Total,Two,0.53,2018
+Q60,Total,Total,Three,0.14,2018
+Q60,Total,Total,Four or more,0.1,2018
+Q60,Total,Total,Refused,0.01,2018
+Q11,Total,Total,I own my home,0.65,2018
+Q11,Total,Total,I rent my home,0.27,2018
+Q11,Total,Total,I live with family or friends who own,0.06,2018
+Q11,Total,Total,I live with family or friends who rent,0,2018
+Q11,Total,Total,Vol: I live in a Retirement Community/Senior Care,0,2018
+Q11,Total,Total,Other,0.01,2018
+Q11,Total,Total,Refused,0.01,2018
+MOVEYEAR,Total,Total,Within the last 3 years,0.21,2018
+MOVEYEAR,Total,Total,4 to 10 years ago,0.28,2018
+MOVEYEAR,Total,Total,11 to 19 years ago,0.2,2018
+MOVEYEAR,Total,Total,20 or more years ago,0.3,2018
+MOVEYEAR,Total,Total,Refused,0.01,2018
+Q17A,Total,Total,Strongly agree,0.36,2018
+Q17A,Total,Total,Somewhat agree,0.32,2018
+Q17A,Total,Total,Somewhat disagree,0.19,2018
+Q17A,Total,Total,Strongly disagree,0.12,2018
+Q17A,Total,Total,Don't know,0,2018
+Q17A,Total,Total,Refused,0.01,2018
+Q17B,Total,Total,Strongly agree,0.38,2018
+Q17B,Total,Total,Somewhat agree,0.24,2018
+Q17B,Total,Total,Somewhat disagree,0.16,2018
+Q17B,Total,Total,Strongly disagree,0.21,2018
+Q17B,Total,Total,Don't know,0,2018
+Q17B,Total,Total,Refused,0.01,2018
+Q17C,Total,Total,Strongly agree,0.24,2018
+Q17C,Total,Total,Somewhat agree,0.29,2018
+Q17C,Total,Total,Somewhat disagree,0.17,2018
+Q17C,Total,Total,Strongly disagree,0.28,2018
+Q17C,Total,Total,Don't know,0.02,2018
+Q17C,Total,Total,Refused,0,2018
+Q17E,Total,Total,Strongly agree,0.28,2018
+Q17E,Total,Total,Somewhat agree,0.34,2018
+Q17E,Total,Total,Somewhat disagree,0.11,2018
+Q17E,Total,Total,Strongly disagree,0.27,2018
+Q17E,Total,Total,Don't know,0,2018
+Q17E,Total,Total,Refused,0,2018
+Q17F,Total,Total,Strongly agree,0.12,2018
+Q17F,Total,Total,Somewhat agree,0.15,2018
+Q17F,Total,Total,Somewhat disagree,0.19,2018
+Q17F,Total,Total,Strongly disagree,0.53,2018
+Q17F,Total,Total,Don't know,0.01,2018
+Q17F,Total,Total,Refused,0.01,2018
+Q17G,Total,Total,Strongly agree,0.38,2018
+Q17G,Total,Total,Somewhat agree,0.46,2018
+Q17G,Total,Total,Somewhat disagree,0.1,2018
+Q17G,Total,Total,Strongly disagree,0.05,2018
+Q17G,Total,Total,Don't know,0.01,2018
+Q17G,Total,Total,Refused,0.01,2018
+Q17H,Total,Total,Strongly agree,0.22,2018
+Q17H,Total,Total,Somewhat agree,0.48,2018
+Q17H,Total,Total,Somewhat disagree,0.13,2018
+Q17H,Total,Total,Strongly disagree,0.13,2018
+Q17H,Total,Total,Don't know,0.04,2018
+Q17H,Total,Total,Refused,0,2018
+Q17I,Total,Total,Strongly agree,0.25,2018
+Q17I,Total,Total,Somewhat agree,0.45,2018
+Q17I,Total,Total,Somewhat disagree,0.14,2018
+Q17I,Total,Total,Strongly disagree,0.13,2018
+Q17I,Total,Total,Don't know,0.03,2018
+Q17I,Total,Total,Refused,0,2018
+LIFECA,Total,Total,Almost certain,0.3,2018
+LIFECA,Total,Total,Very likely,0.47,2018
+LIFECA,Total,Total,A toss up,0.2,2018
+LIFECA,Total,Total,Not very likely,0.02,2018
+LIFECA,Total,Total,Not at all likely,0.01,2018
+LIFECA,Total,Total,Don't know,0.01,2018
+LIFECA,Total,Total,Refused,0,2018
+LIFECB,Total,Total,Almost certain,0.11,2018
+LIFECB,Total,Total,Very likely,0.29,2018
+LIFECB,Total,Total,A toss up,0.37,2018
+LIFECB,Total,Total,Not very likely,0.18,2018
+LIFECB,Total,Total,Not at all likely,0.01,2018
+LIFECB,Total,Total,Don't know,0.04,2018
+LIFECB,Total,Total,Refused,0,2018
+LIFECC,Total,Total,Almost certain,0.04,2018
+LIFECC,Total,Total,Very likely,0.03,2018
+LIFECC,Total,Total,A toss up,0.11,2018
+LIFECC,Total,Total,Not very likely,0.57,2018
+LIFECC,Total,Total,Not at all likely,0.2,2018
+LIFECC,Total,Total,Don't know,0.05,2018
+LIFECC,Total,Total,Refused,0,2018
+LIFECD,Total,Total,Almost certain,0.13,2018
+LIFECD,Total,Total,Very likely,0.23,2018
+LIFECD,Total,Total,A toss up,0.41,2018
+LIFECD,Total,Total,Not very likely,0.15,2018
+LIFECD,Total,Total,Not at all likely,0.03,2018
+LIFECD,Total,Total,Don't know,0.05,2018
+LIFECD,Total,Total,Refused,0,2018
+LIFECF,Total,Total,Almost certain,0.01,2018
+LIFECF,Total,Total,Very likely,0.08,2018
+LIFECF,Total,Total,A toss up,0.35,2018
+LIFECF,Total,Total,Not very likely,0.4,2018
+LIFECF,Total,Total,Not at all likely,0.13,2018
+LIFECF,Total,Total,Don't know,0.03,2018
+LIFECF,Total,Total,Refused,0,2018
+Q19,Total,Total,Excellent,0.19,2018
+Q19,Total,Total,Very good,0.35,2018
+Q19,Total,Total,Good,0.3,2018
+Q19,Total,Total,Fair,0.14,2018
+Q19,Total,Total,Poor,0.02,2018
+Q19,Total,Total,Don't know,0,2018
+Q19,Total,Total,Refused,0,2018
+Q20,Total,Total,Not at all satisfied,0.01,2018
+Q20,Total,Total,Only a little bit satisfied,0.12,2018
+Q20,Total,Total,Somewhat satisfied,0.22,2018
+Q20,Total,Total,Mostly satisfied,0.41,2018
+Q20,Total,Total,Completely satisfied,0.24,2018
+Q20,Total,Total,Don't know,0,2018
+Q20,Total,Total,Refused,0,2018
+Q21,Total,Total,Not at all,0.02,2018
+Q21,Total,Total,Only a little bit,0.15,2018
+Q21,Total,Total,Somewhat,0.18,2018
+Q21,Total,Total,Mostly,0.36,2018
+Q21,Total,Total,Completely,0.28,2018
+Q21,Total,Total,Don't know,0,2018
+Q21,Total,Total,Refused,0.01,2018
+Q22,Total,Total,Not at all,0.46,2018
+Q22,Total,Total,Only a little bit,0.19,2018
+Q22,Total,Total,Somewhat,0.24,2018
+Q22,Total,Total,Mostly,0.07,2018
+Q22,Total,Total,Completely,0.04,2018
+Q22,Total,Total,Don't know,0,2018
+Q22,Total,Total,Refused,0,2018
+Q23,Total,Total,Not at all,0.07,2018
+Q23,Total,Total,Only a little bit,0.19,2018
+Q23,Total,Total,Somewhat,0.4,2018
+Q23,Total,Total,Mostly,0.23,2018
+Q23,Total,Total,Completely,0.12,2018
+Q23,Total,Total,Don't know,0,2018
+Q23,Total,Total,Refused,0,2018
+Q23PL,Total,Total,Strongly agree,0.42,2018
+Q23PL,Total,Total,Agree,0.27,2018
+Q23PL,Total,Total,Slightly agree,0.21,2018
+Q23PL,Total,Total,Neither agree nor disagree,0.06,2018
+Q23PL,Total,Total,Slightly disagree,0.02,2018
+Q23PL,Total,Total,Disagree,0,2018
+Q23PL,Total,Total,Strongly disagree,0.02,2018
+Q23PL,Total,Total,Don't know,0,2018
+Q23PL,Total,Total,Refused,0,2018
+Q23A,Total,Total,Yes,0.35,2018
+Q23A,Total,Total,No,0.65,2018
+Q23A,Total,Total,Don't know,0,2018
+Q23A,Total,Total,Refused,0,2018
+Q23C,Total,Total,Yes,0.13,2018
+Q23C,Total,Total,No,0.86,2018
+Q23C,Total,Total,Don't know,0,2018
+Q23C,Total,Total,Refused,0.01,2018
+Q23D,Total,Total,Yes,0.05,2018
+Q23D,Total,Total,No,0.94,2018
+Q23D,Total,Total,Don't know,0,2018
+Q23D,Total,Total,Refused,0.01,2018
+Q23E,Total,Total,Yes,0.09,2018
+Q23E,Total,Total,No,0.9,2018
+Q23E,Total,Total,Don't know,0,2018
+Q23E,Total,Total,Refused,0.01,2018
+Q23E2,Total,Total,Yes,1,2018
+Q23E2,Total,Total,No,0,2018
+Q23E2,Total,Total,Don't know,0,2018
+Q23E2,Total,Total,Refused,0,2018
+Q23E2,Total,Total,Current Asthma Rate (based on Q23E*23E2),0.09,2018
+BMIR,Total,Total,Underweight,0.01,2018
+BMIR,Total,Total,Normal weight,0.25,2018
+BMIR,Total,Total,Overweight,0.4,2018
+BMIR,Total,Total,Obese,0.34,2018
+Q26,Total,Total,Yes,0.93,2018
+Q26,Total,Total,No,0.05,2018
+Q26,Total,Total,Don't know,0,2018
+Q26,Total,Total,Refused,0.02,2018
+Q27,Total,Total,Insurance obtained through a current or former employer or union,0.65,2018
+Q27,Total,Total,Insurance purchased directly from an insurance company,0.11,2018
+Q27,Total,Total,Medicare,0.26,2018
+Q27,Total,Total,"Medicaid, Medical Assistance, HUSKY or any kind of government-assistance plan",0.05,2018
+Q27,Total,Total,State Health Insurance Exchange such as Access Health CT or NY State of Health,0.01,2018
+Q27,Total,Total,Any other type of health insurance plan,0.04,2018
+Q27,Total,Total,Don't know,0.04,2018
+Q27,Total,Total,Refused,0.01,2018
+Q28,Total,Total,Yes,0.09,2018
+Q28,Total,Total,No,0.9,2018
+Q28,Total,Total,Don't know,0,2018
+Q28,Total,Total,Refused,0.01,2018
+Q29,Total,Total,Yes,0.23,2018
+Q29,Total,Total,No,0.77,2018
+Q29,Total,Total,Don't know,0,2018
+Q29,Total,Total,Refused,0,2018
+Q31,Total,Total,Yes,0.11,2018
+Q31,Total,Total,No,0.89,2018
+Q31,Total,Total,Don't know,0,2018
+Q31,Total,Total,Refused,0,2018
+Q32,Total,Total,Yes,0.86,2018
+Q32,Total,Total,No,0.14,2018
+Q32,Total,Total,Don't know,0.01,2018
+Q32,Total,Total,Refused,0,2018
+Q33,Total,Total,More than one,0.05,2018
+Q33,Total,Total,None at all,0.95,2018
+Q33,Total,Total,Don't know,0,2018
+Q33,Total,Total,Refused,0,2018
+Q33,Total,Total,No Medical Home (Q32*Q33),0.133,2018
+Q34,Total,Total,None,0.68,2018
+Q34,Total,Total,1 to 2,0.27,2018
+Q34,Total,Total,3 or more,0.04,2018
+Q34,Total,Total,Don't know,0,2018
+Q34,Total,Total,Refused,0.01,2018
+Q35,Total,Total,Within the last 6 months,0.54,2018
+Q35,Total,Total,More than 6 months but less than a year,0.15,2018
+Q35,Total,Total,More than a year but less than two years,0.14,2018
+Q35,Total,Total,More than two years ago,0.15,2018
+Q35,Total,Total,Never have gone to a dentist,0.01,2018
+Q35,Total,Total,Don't know,0,2018
+Q35,Total,Total,Refused,0.01,2018
+Q37_1,Total,Total,Always,0.44,2018
+Q37_1,Total,Total,Usually,0.26,2018
+Q37_1,Total,Total,Sometimes,0.19,2018
+Q37_1,Total,Total,Rarely,0.05,2018
+Q37_1,Total,Total,Never,0.02,2018
+Q37_1,Total,Total,Don't know,0.02,2018
+Q37_1,Total,Total,Refused,0,2018
+Q37_2,Total,Total,Not at all,0.66,2018
+Q37_2,Total,Total,Several days,0.19,2018
+Q37_2,Total,Total,More than half the days,0.04,2018
+Q37_2,Total,Total,Nearly every day,0.1,2018
+Q37_2,Total,Total,Don't know,0,2018
+Q37_2,Total,Total,Refused,0,2018
+Q37_3,Total,Total,Not at all,0.67,2018
+Q37_3,Total,Total,Several days,0.2,2018
+Q37_3,Total,Total,More than half the days,0.06,2018
+Q37_3,Total,Total,Nearly every day,0.06,2018
+Q37_3,Total,Total,Don't know,0,2018
+Q37_3,Total,Total,Refused,0.01,2018
+Q38,Total,Total,None,0.23,2018
+Q38,Total,Total,One,0.07,2018
+Q38,Total,Total,Two,0.11,2018
+Q38,Total,Total,Three,0.22,2018
+Q38,Total,Total,Four,0.11,2018
+Q38,Total,Total,Five,0.14,2018
+Q38,Total,Total,Six,0.06,2018
+Q38,Total,Total,Seven,0.06,2018
+Q38,Total,Total,Don't know,0,2018
+Q38,Total,Total,Refused,0,2018
+Q39,Total,Total,Yes,0.51,2018
+Q39,Total,Total,No,0.49,2018
+Q39,Total,Total,Don't know,0,2018
+Q39,Total,Total,Refused,0,2018
+Q40,Total,Total,Every day,0.27,2018
+Q40,Total,Total,Some days,0.1,2018
+Q40,Total,Total,Not at all,0.63,2018
+Q40,Total,Total,Don't know,0,2018
+Q40,Total,Total,Refused,0,2018
+Q40,Total,Total,Current Smoking Rate (Q39*Q40),0.1887,2018
+Q42,Total,Total,Yes,0.25,2018
+Q42,Total,Total,No,0.75,2018
+Q42,Total,Total,Don't know,0,2018
+Q42,Total,Total,Refused,0,2018
+Q43,Total,Total,None,0.47,2018
+Q43,Total,Total,One to five,0.2,2018
+Q43,Total,Total,Six to twenty-nine,0.21,2018
+Q43,Total,Total,Everyday,0.08,2018
+Q43,Total,Total,Don't know,0,2018
+Q43,Total,Total,Refused,0.04,2018
+Q43,Total,Total,Vaping Past 30 Days Rate (Q42*Q43),0.12250000000000001,2018
+ALCOHOL,Total,Total,None,0.67,2018
+ALCOHOL,Total,Total,One to five,0.23,2018
+ALCOHOL,Total,Total,Six to ten,0.05,2018
+ALCOHOL,Total,Total,More than ten,0.05,2018
+ALCOHOL,Total,Total,Don't know,0,2018
+ALCOHOL,Total,Total,Refused,0,2018
+POT1,Total,Total,None,0.96,2018
+POT1,Total,Total,One to five,0,2018
+POT1,Total,Total,Six to ten,0,2018
+POT1,Total,Total,More than ten,0.02,2018
+POT1,Total,Total,Don't know,0,2018
+POT1,Total,Total,Refused,0.02,2018
+OPIOID2,Total,Total,No,0.69,2018
+OPIOID2,Total,Total,"Yes, one person",0.13,2018
+OPIOID2,Total,Total,"Yes, 2 to 4 people",0.12,2018
+OPIOID2,Total,Total,"Yes, 5 or more people",0.05,2018
+OPIOID2,Total,Total,Don't know,0.01,2018
+OPIOID2,Total,Total,Refused,0,2018
+OPIOID4,Total,Total,No,0.79,2018
+OPIOID4,Total,Total,"Yes, one person",0.1,2018
+OPIOID4,Total,Total,"Yes, 2 to 4 people",0.08,2018
+OPIOID4,Total,Total,"Yes, 5 or more people",0.03,2018
+OPIOID4,Total,Total,Don't know,0,2018
+OPIOID4,Total,Total,Refused,0,2018
+Q44,Total,Total,Living comfortably,0.28,2018
+Q44,Total,Total,Doing alright,0.4,2018
+Q44,Total,Total,Just getting by,0.23,2018
+Q44,Total,Total,Finding it difficult,0.07,2018
+Q44,Total,Total,Finding it very difficult,0.02,2018
+Q44,Total,Total,Don't know,0,2018
+Q44,Total,Total,Refused,0.01,2018
+Q46,Total,Total,Less than a month,0.24,2018
+Q46,Total,Total,At least one month but less than 2,0.11,2018
+Q46,Total,Total,At least 2 months but less than 6,0.14,2018
+Q46,Total,Total,At least 6 months but less than a year,0.17,2018
+Q46,Total,Total,At least a year but less than 2 years,0.08,2018
+Q46,Total,Total,Two years or more,0.22,2018
+Q46,Total,Total,Don't know,0.01,2018
+Q46,Total,Total,Refused,0.03,2018
+DEBT,Total,Total,Something left over,0.59,2018
+DEBT,Total,Total,Break even,0.19,2018
+DEBT,Total,Total,Be in debt,0.15,2018
+DEBT,Total,Total,Don't know,0.02,2018
+DEBT,Total,Total,Refused,0.05,2018
+Q47,Total,Total,Yes,0.63,2018
+Q47,Total,Total,"No, but would like to work",0.03,2018
+Q47,Total,Total,"No, retired",0.21,2018
+Q47,Total,Total,"No, homemaker",0.05,2018
+Q47,Total,Total,"No, full time student",0.02,2018
+Q47,Total,Total,"No, disabled",0.06,2018
+Q47,Total,Total,"No, other",0,2018
+Q47,Total,Total,Refused,0.01,2018
+Q49,Total,Total,Full time,0.82,2018
+Q49,Total,Total,Part time,0.18,2018
+Q49,Total,Total,Other,0,2018
+Q49,Total,Total,Refused,0,2018
+Q56,Total,Total,Drive myself,0.85,2018
+Q56,Total,Total,Get a ride with friends or family,0.08,2018
+Q56,Total,Total,Public bus system,0.02,2018
+Q56,Total,Total,Train or railroad,0,2018
+Q56,Total,Total,Walk,0.03,2018
+Q56,Total,Total,Bicycle,0,2018
+Q56,Total,Total,Take a taxi,0,2018
+Q56,Total,Total,Ride paratransit,0,2018
+Q56,Total,Total,Other,0,2018
+Q56,Total,Total,I took no trips last month/Homebound,0.03,2018
+Q56,Total,Total,Don't know,0,2018
+Q56,Total,Total,Refused,0,2018
+Q62,Total,Total,Yes,0.11,2018
+Q62,Total,Total,No,0.88,2018
+Q62,Total,Total,Don't know,0,2018
+Q62,Total,Total,Refused,0.01,2018
+Q64,Total,Total,Yes,0.08,2018
+Q64,Total,Total,No,0.91,2018
+Q64,Total,Total,Don't know,0,2018
+Q64,Total,Total,Refused,0.01,2018
+Q64_GAS,Total,Total,Yes,0.14,2018
+Q64_GAS,Total,Total,No,0.86,2018
+Q64_GAS,Total,Total,Don't know,0,2018
+Q64_GAS,Total,Total,Refused,0,2018
+Q65,Total,Total,Yes,0.1,2018
+Q65,Total,Total,No,0.89,2018
+Q65,Total,Total,Don't know,0,2018
+Q65,Total,Total,Refused,0.01,2018
+Q66,Total,Total,Yes,0.92,2018
+Q66,Total,Total,No,0.06,2018
+Q66,Total,Total,Don't know,0,2018
+Q66,Total,Total,Refused,0.02,2018
+Q68,Total,Total,Yes,0.09,2018
+Q68,Total,Total,No,0.89,2018
+Q68,Total,Total,Don't know,0,2018
+Q68,Total,Total,Refused,0.02,2018
+Q69,Total,Total,Yes,0.05,2018
+Q69,Total,Total,No,0.94,2018
+Q69,Total,Total,Don't know,0,2018
+Q69,Total,Total,Refused,0.01,2018
+DISCRIM1,Total,Total,Yes,0.26,2018
+DISCRIM1,Total,Total,No,0.74,2018
+DISCRIM1,Total,Total,Don't know,0,2018
+DISCRIM1,Total,Total,Refused,0,2018
+DISCRIM2,Total,Total,Yes,0.07,2018
+DISCRIM2,Total,Total,No,0.92,2018
+DISCRIM2,Total,Total,Don't know,0,2018
+DISCRIM2,Total,Total,Refused,0.01,2018
+DISCRIM4,Total,Total,Yes,0.08,2018
+DISCRIM4,Total,Total,No,0.92,2018
+DISCRIM4,Total,Total,Don't know,0,2018
+DISCRIM4,Total,Total,Refused,0,2018
+DISCRIM5,Total,Total,Yes,0.08,2018
+DISCRIM5,Total,Total,No,0.92,2018
+DISCRIM5,Total,Total,Don't know,0,2018
+DISCRIM5,Total,Total,Refused,0,2018
+Q77,Total,Total,Yes,0.92,2018
+Q77,Total,Total,No,0.07,2018
+Q77,Total,Total,Refused,0.01,2018
+Q79,Total,Total,Yes,0.92,2018
+Q79,Total,Total,No,0.07,2018
+Q79,Total,Total,Refused,0.01,2018
+MILITARY,Total,Total,Yes,0.11,2018
+MILITARY,Total,Total,No,0.89,2018
+MILITARY,Total,Total,Refused,0,2018
+DISABILITY,Total,Total,Yes,0.13,2018
+DISABILITY,Total,Total,No,0.87,2018
+DISABILITY,Total,Total,Refused,0,2018
+SOCI1,Total,Total,Lesbian or Gay,0.01,2018
+SOCI1,Total,Total,"Straight, that is, not gay",0.92,2018
+SOCI1,Total,Total,Bisexual,0.02,2018
+SOCI1,Total,Total,Something else,0.01,2018
+SOCI1,Total,Total,I don't know the answer,0.01,2018
+SOCI1,Total,Total,Refused,0.04,2018
+Q1,Gender,Male,Yes,0.78,2018
+Q1,Gender,Male,No,0.22,2018
+Q1,Gender,Male,Don't know,0,2018
+Q1,Gender,Male,Refused,0,2018
+Q2,Gender,Male,Much better,0.07,2018
+Q2,Gender,Male,Somewhat better,0.06,2018
+Q2,Gender,Male,About the same,0.63,2018
+Q2,Gender,Male,Somewhat worse,0.2,2018
+Q2,Gender,Male,Much worse,0.04,2018
+Q2,Gender,Male,Don't know,0,2018
+Q2,Gender,Male,Refused,0.01,2018
+Q4A,Gender,Male,Excellent,0.06,2018
+Q4A,Gender,Male,Good,0.28,2018
+Q4A,Gender,Male,Fair,0.44,2018
+Q4A,Gender,Male,Poor,0.15,2018
+Q4A,Gender,Male,Don't know enough about it in order to say,0.07,2018
+Q4A,Gender,Male,Refused,0,2018
+Q4D,Gender,Male,Excellent,0.23,2018
+Q4D,Gender,Male,Good,0.61,2018
+Q4D,Gender,Male,Fair,0.1,2018
+Q4D,Gender,Male,Poor,0.04,2018
+Q4D,Gender,Male,Don't know enough about it in order to say,0.02,2018
+Q4D,Gender,Male,Refused,0,2018
+Q4E,Gender,Male,Excellent,0.03,2018
+Q4E,Gender,Male,Good,0.28,2018
+Q4E,Gender,Male,Fair,0.44,2018
+Q4E,Gender,Male,Poor,0.13,2018
+Q4E,Gender,Male,Don't know enough about it in order to say,0.12,2018
+Q4E,Gender,Male,Refused,0,2018
+Q4F,Gender,Male,Excellent,0.16,2018
+Q4F,Gender,Male,Good,0.47,2018
+Q4F,Gender,Male,Fair,0.17,2018
+Q4F,Gender,Male,Poor,0.12,2018
+Q4F,Gender,Male,Don't know enough about it in order to say,0.08,2018
+Q4F,Gender,Male,Refused,0,2018
+Q4G,Gender,Male,Excellent,0.18,2018
+Q4G,Gender,Male,Good,0.41,2018
+Q4G,Gender,Male,Fair,0.21,2018
+Q4G,Gender,Male,Poor,0.18,2018
+Q4G,Gender,Male,Don't know enough about it in order to say,0,2018
+Q4G,Gender,Male,Refused,0.02,2018
+Q4H,Gender,Male,Excellent,0.14,2018
+Q4H,Gender,Male,Good,0.41,2018
+Q4H,Gender,Male,Fair,0.36,2018
+Q4H,Gender,Male,Poor,0.06,2018
+Q4H,Gender,Male,Don't know enough about it in order to say,0.03,2018
+Q4H,Gender,Male,Refused,0,2018
+Q6,Gender,Male,Great influence,0.05,2018
+Q6,Gender,Male,Moderate influence,0.18,2018
+Q6,Gender,Male,A little influence,0.36,2018
+Q6,Gender,Male,No influence at all,0.36,2018
+Q6,Gender,Male,Don't know,0.06,2018
+Q6,Gender,Male,Refused,0,2018
+Q9,Gender,Male,Very often,0.93,2018
+Q9,Gender,Male,Fairly often,0,2018
+Q9,Gender,Male,Sometimes,0.04,2018
+Q9,Gender,Male,Almost never,0,2018
+Q9,Gender,Male,Never at all,0.03,2018
+Q9,Gender,Male,Don't know,0,2018
+Q9,Gender,Male,Refused,0,2018
+Q57,Gender,Male,"Single, never married",0.26,2018
+Q57,Gender,Male,Married or civil union,0.53,2018
+Q57,Gender,Male,Living with partner,0.05,2018
+Q57,Gender,Male,Separated,0,2018
+Q57,Gender,Male,Divorced,0.06,2018
+Q57,Gender,Male,Widowed,0.1,2018
+Q57,Gender,Male,Refused,0,2018
+Q60,Gender,Male,One,0.16,2018
+Q60,Gender,Male,Two,0.59,2018
+Q60,Gender,Male,Three,0.16,2018
+Q60,Gender,Male,Four or more,0.07,2018
+Q60,Gender,Male,Refused,0.02,2018
+Q11,Gender,Male,I own my home,0.73,2018
+Q11,Gender,Male,I rent my home,0.13,2018
+Q11,Gender,Male,I live with family or friends who own,0.1,2018
+Q11,Gender,Male,I live with family or friends who rent,0,2018
+Q11,Gender,Male,Vol: I live in a Retirement Community/Senior Care,0,2018
+Q11,Gender,Male,Other,0.01,2018
+Q11,Gender,Male,Refused,0.02,2018
+MOVEYEAR,Gender,Male,Within the last 3 years,0.18,2018
+MOVEYEAR,Gender,Male,4 to 10 years ago,0.3,2018
+MOVEYEAR,Gender,Male,11 to 19 years ago,0.19,2018
+MOVEYEAR,Gender,Male,20 or more years ago,0.32,2018
+MOVEYEAR,Gender,Male,Refused,0.01,2018
+Q17A,Gender,Male,Strongly agree,0.28,2018
+Q17A,Gender,Male,Somewhat agree,0.32,2018
+Q17A,Gender,Male,Somewhat disagree,0.29,2018
+Q17A,Gender,Male,Strongly disagree,0.09,2018
+Q17A,Gender,Male,Don't know,0,2018
+Q17A,Gender,Male,Refused,0.02,2018
+Q17B,Gender,Male,Strongly agree,0.37,2018
+Q17B,Gender,Male,Somewhat agree,0.19,2018
+Q17B,Gender,Male,Somewhat disagree,0.18,2018
+Q17B,Gender,Male,Strongly disagree,0.24,2018
+Q17B,Gender,Male,Don't know,0,2018
+Q17B,Gender,Male,Refused,0.02,2018
+Q17C,Gender,Male,Strongly agree,0.29,2018
+Q17C,Gender,Male,Somewhat agree,0.23,2018
+Q17C,Gender,Male,Somewhat disagree,0.15,2018
+Q17C,Gender,Male,Strongly disagree,0.31,2018
+Q17C,Gender,Male,Don't know,0.01,2018
+Q17C,Gender,Male,Refused,0,2018
+Q17E,Gender,Male,Strongly agree,0.22,2018
+Q17E,Gender,Male,Somewhat agree,0.34,2018
+Q17E,Gender,Male,Somewhat disagree,0.11,2018
+Q17E,Gender,Male,Strongly disagree,0.33,2018
+Q17E,Gender,Male,Don't know,0,2018
+Q17E,Gender,Male,Refused,0,2018
+Q17F,Gender,Male,Strongly agree,0.06,2018
+Q17F,Gender,Male,Somewhat agree,0.12,2018
+Q17F,Gender,Male,Somewhat disagree,0.14,2018
+Q17F,Gender,Male,Strongly disagree,0.67,2018
+Q17F,Gender,Male,Don't know,0,2018
+Q17F,Gender,Male,Refused,0.02,2018
+Q17G,Gender,Male,Strongly agree,0.38,2018
+Q17G,Gender,Male,Somewhat agree,0.45,2018
+Q17G,Gender,Male,Somewhat disagree,0.11,2018
+Q17G,Gender,Male,Strongly disagree,0.02,2018
+Q17G,Gender,Male,Don't know,0.01,2018
+Q17G,Gender,Male,Refused,0.02,2018
+Q17H,Gender,Male,Strongly agree,0.18,2018
+Q17H,Gender,Male,Somewhat agree,0.43,2018
+Q17H,Gender,Male,Somewhat disagree,0.17,2018
+Q17H,Gender,Male,Strongly disagree,0.17,2018
+Q17H,Gender,Male,Don't know,0.04,2018
+Q17H,Gender,Male,Refused,0,2018
+Q17I,Gender,Male,Strongly agree,0.27,2018
+Q17I,Gender,Male,Somewhat agree,0.38,2018
+Q17I,Gender,Male,Somewhat disagree,0.14,2018
+Q17I,Gender,Male,Strongly disagree,0.16,2018
+Q17I,Gender,Male,Don't know,0.04,2018
+Q17I,Gender,Male,Refused,0,2018
+Q19,Gender,Male,Excellent,0.19,2018
+Q19,Gender,Male,Very good,0.3,2018
+Q19,Gender,Male,Good,0.33,2018
+Q19,Gender,Male,Fair,0.17,2018
+Q19,Gender,Male,Poor,0.01,2018
+Q19,Gender,Male,Don't know,0,2018
+Q19,Gender,Male,Refused,0,2018
+Q20,Gender,Male,Not at all satisfied,0.03,2018
+Q20,Gender,Male,Only a little bit satisfied,0.13,2018
+Q20,Gender,Male,Somewhat satisfied,0.22,2018
+Q20,Gender,Male,Mostly satisfied,0.33,2018
+Q20,Gender,Male,Completely satisfied,0.3,2018
+Q20,Gender,Male,Don't know,0,2018
+Q20,Gender,Male,Refused,0,2018
+Q21,Gender,Male,Not at all,0.01,2018
+Q21,Gender,Male,Only a little bit,0.19,2018
+Q21,Gender,Male,Somewhat,0.2,2018
+Q21,Gender,Male,Mostly,0.28,2018
+Q21,Gender,Male,Completely,0.29,2018
+Q21,Gender,Male,Don't know,0,2018
+Q21,Gender,Male,Refused,0.02,2018
+Q22,Gender,Male,Not at all,0.49,2018
+Q22,Gender,Male,Only a little bit,0.14,2018
+Q22,Gender,Male,Somewhat,0.24,2018
+Q22,Gender,Male,Mostly,0.08,2018
+Q22,Gender,Male,Completely,0.04,2018
+Q22,Gender,Male,Don't know,0,2018
+Q22,Gender,Male,Refused,0,2018
+Q23A,Gender,Male,Yes,0.42,2018
+Q23A,Gender,Male,No,0.58,2018
+Q23A,Gender,Male,Don't know,0,2018
+Q23A,Gender,Male,Refused,0,2018
+Q23C,Gender,Male,Yes,0.2,2018
+Q23C,Gender,Male,No,0.78,2018
+Q23C,Gender,Male,Don't know,0,2018
+Q23C,Gender,Male,Refused,0.01,2018
+Q23D,Gender,Male,Yes,0.06,2018
+Q23D,Gender,Male,No,0.93,2018
+Q23D,Gender,Male,Don't know,0,2018
+Q23D,Gender,Male,Refused,0.01,2018
+Q23E,Gender,Male,Yes,0.03,2018
+Q23E,Gender,Male,No,0.96,2018
+Q23E,Gender,Male,Don't know,0,2018
+Q23E,Gender,Male,Refused,0.01,2018
+BMIR,Gender,Male,Underweight,0,2018
+BMIR,Gender,Male,Normal weight,0.14,2018
+BMIR,Gender,Male,Overweight,0.47,2018
+BMIR,Gender,Male,Obese,0.38,2018
+Q26,Gender,Male,Yes,0.91,2018
+Q26,Gender,Male,No,0.07,2018
+Q26,Gender,Male,Don't know,0,2018
+Q26,Gender,Male,Refused,0.02,2018
+Q28,Gender,Male,Yes,0.1,2018
+Q28,Gender,Male,No,0.89,2018
+Q28,Gender,Male,Don't know,0,2018
+Q28,Gender,Male,Refused,0.02,2018
+Q29,Gender,Male,Yes,0.23,2018
+Q29,Gender,Male,No,0.77,2018
+Q29,Gender,Male,Don't know,0,2018
+Q29,Gender,Male,Refused,0,2018
+Q31,Gender,Male,Yes,0.07,2018
+Q31,Gender,Male,No,0.93,2018
+Q31,Gender,Male,Don't know,0,2018
+Q31,Gender,Male,Refused,0,2018
+Q32,Gender,Male,Yes,0.77,2018
+Q32,Gender,Male,No,0.23,2018
+Q32,Gender,Male,Don't know,0,2018
+Q32,Gender,Male,Refused,0,2018
+Q34,Gender,Male,None,0.68,2018
+Q34,Gender,Male,1 to 2,0.24,2018
+Q34,Gender,Male,3 or more,0.06,2018
+Q34,Gender,Male,Don't know,0,2018
+Q34,Gender,Male,Refused,0.02,2018
+Q35,Gender,Male,Within the last 6 months,0.54,2018
+Q35,Gender,Male,More than 6 months but less than a year,0.1,2018
+Q35,Gender,Male,More than a year but less than two years,0.15,2018
+Q35,Gender,Male,More than two years ago,0.19,2018
+Q35,Gender,Male,Never have gone to a dentist,0,2018
+Q35,Gender,Male,Don't know,0,2018
+Q35,Gender,Male,Refused,0.02,2018
+Q37_1,Gender,Male,Always,0.48,2018
+Q37_1,Gender,Male,Usually,0.2,2018
+Q37_1,Gender,Male,Sometimes,0.2,2018
+Q37_1,Gender,Male,Rarely,0.07,2018
+Q37_1,Gender,Male,Never,0.01,2018
+Q37_1,Gender,Male,Don't know,0.04,2018
+Q37_1,Gender,Male,Refused,0,2018
+Q37_2,Gender,Male,Not at all,0.62,2018
+Q37_2,Gender,Male,Several days,0.2,2018
+Q37_2,Gender,Male,More than half the days,0.04,2018
+Q37_2,Gender,Male,Nearly every day,0.14,2018
+Q37_2,Gender,Male,Don't know,0,2018
+Q37_2,Gender,Male,Refused,0,2018
+Q37_3,Gender,Male,Not at all,0.68,2018
+Q37_3,Gender,Male,Several days,0.17,2018
+Q37_3,Gender,Male,More than half the days,0.07,2018
+Q37_3,Gender,Male,Nearly every day,0.06,2018
+Q37_3,Gender,Male,Don't know,0,2018
+Q37_3,Gender,Male,Refused,0.02,2018
+Q38,Gender,Male,None,0.19,2018
+Q38,Gender,Male,One,0.04,2018
+Q38,Gender,Male,Two,0.15,2018
+Q38,Gender,Male,Three,0.23,2018
+Q38,Gender,Male,Four,0.09,2018
+Q38,Gender,Male,Five,0.21,2018
+Q38,Gender,Male,Six,0.06,2018
+Q38,Gender,Male,Seven,0.03,2018
+Q38,Gender,Male,Don't know,0,2018
+Q38,Gender,Male,Refused,0,2018
+Q39,Gender,Male,Yes,0.56,2018
+Q39,Gender,Male,No,0.44,2018
+Q39,Gender,Male,Don't know,0,2018
+Q39,Gender,Male,Refused,0,2018
+Q44,Gender,Male,Living comfortably,0.31,2018
+Q44,Gender,Male,Doing alright,0.34,2018
+Q44,Gender,Male,Just getting by,0.26,2018
+Q44,Gender,Male,Finding it difficult,0.06,2018
+Q44,Gender,Male,Finding it very difficult,0.01,2018
+Q44,Gender,Male,Don't know,0,2018
+Q44,Gender,Male,Refused,0.02,2018
+Q47,Gender,Male,Yes,0.61,2018
+Q47,Gender,Male,"No, but would like to work",0.03,2018
+Q47,Gender,Male,"No, retired",0.24,2018
+Q47,Gender,Male,"No, homemaker",0,2018
+Q47,Gender,Male,"No, full time student",0.03,2018
+Q47,Gender,Male,"No, disabled",0.07,2018
+Q47,Gender,Male,"No, other",0,2018
+Q47,Gender,Male,Refused,0.02,2018
+Q62,Gender,Male,Yes,0.11,2018
+Q62,Gender,Male,No,0.87,2018
+Q62,Gender,Male,Don't know,0,2018
+Q62,Gender,Male,Refused,0.02,2018
+Q64,Gender,Male,Yes,0.09,2018
+Q64,Gender,Male,No,0.89,2018
+Q64,Gender,Male,Don't know,0,2018
+Q64,Gender,Male,Refused,0.02,2018
+Q65,Gender,Male,Yes,0.09,2018
+Q65,Gender,Male,No,0.89,2018
+Q65,Gender,Male,Don't know,0,2018
+Q65,Gender,Male,Refused,0.02,2018
+Q66,Gender,Male,Yes,0.93,2018
+Q66,Gender,Male,No,0.03,2018
+Q66,Gender,Male,Don't know,0,2018
+Q66,Gender,Male,Refused,0.04,2018
+Q68,Gender,Male,Yes,0.06,2018
+Q68,Gender,Male,No,0.91,2018
+Q68,Gender,Male,Don't know,0,2018
+Q68,Gender,Male,Refused,0.04,2018
+Q69,Gender,Male,Yes,0.06,2018
+Q69,Gender,Male,No,0.92,2018
+Q69,Gender,Male,Don't know,0,2018
+Q69,Gender,Male,Refused,0.02,2018
+DISCRIM2,Gender,Male,Yes,0.09,2018
+DISCRIM2,Gender,Male,No,0.88,2018
+DISCRIM2,Gender,Male,Don't know,0,2018
+DISCRIM2,Gender,Male,Refused,0.02,2018
+Q1,Gender,Female,Yes,0.83,2018
+Q1,Gender,Female,No,0.14,2018
+Q1,Gender,Female,Don't know,0.03,2018
+Q1,Gender,Female,Refused,0.01,2018
+Q2,Gender,Female,Much better,0.02,2018
+Q2,Gender,Female,Somewhat better,0.15,2018
+Q2,Gender,Female,About the same,0.56,2018
+Q2,Gender,Female,Somewhat worse,0.26,2018
+Q2,Gender,Female,Much worse,0.01,2018
+Q2,Gender,Female,Don't know,0.01,2018
+Q2,Gender,Female,Refused,0,2018
+Q4A,Gender,Female,Excellent,0.08,2018
+Q4A,Gender,Female,Good,0.39,2018
+Q4A,Gender,Female,Fair,0.24,2018
+Q4A,Gender,Female,Poor,0.14,2018
+Q4A,Gender,Female,Don't know enough about it in order to say,0.15,2018
+Q4A,Gender,Female,Refused,0,2018
+Q4D,Gender,Female,Excellent,0.34,2018
+Q4D,Gender,Female,Good,0.47,2018
+Q4D,Gender,Female,Fair,0.14,2018
+Q4D,Gender,Female,Poor,0.02,2018
+Q4D,Gender,Female,Don't know enough about it in order to say,0.02,2018
+Q4D,Gender,Female,Refused,0,2018
+Q4E,Gender,Female,Excellent,0.08,2018
+Q4E,Gender,Female,Good,0.44,2018
+Q4E,Gender,Female,Fair,0.28,2018
+Q4E,Gender,Female,Poor,0.05,2018
+Q4E,Gender,Female,Don't know enough about it in order to say,0.15,2018
+Q4E,Gender,Female,Refused,0,2018
+Q4F,Gender,Female,Excellent,0.23,2018
+Q4F,Gender,Female,Good,0.55,2018
+Q4F,Gender,Female,Fair,0.17,2018
+Q4F,Gender,Female,Poor,0.01,2018
+Q4F,Gender,Female,Don't know enough about it in order to say,0.03,2018
+Q4F,Gender,Female,Refused,0,2018
+Q4G,Gender,Female,Excellent,0.12,2018
+Q4G,Gender,Female,Good,0.51,2018
+Q4G,Gender,Female,Fair,0.27,2018
+Q4G,Gender,Female,Poor,0.05,2018
+Q4G,Gender,Female,Don't know enough about it in order to say,0.05,2018
+Q4G,Gender,Female,Refused,0.01,2018
+Q4H,Gender,Female,Excellent,0.23,2018
+Q4H,Gender,Female,Good,0.5,2018
+Q4H,Gender,Female,Fair,0.15,2018
+Q4H,Gender,Female,Poor,0.07,2018
+Q4H,Gender,Female,Don't know enough about it in order to say,0.04,2018
+Q4H,Gender,Female,Refused,0.01,2018
+Q6,Gender,Female,Great influence,0.04,2018
+Q6,Gender,Female,Moderate influence,0.3,2018
+Q6,Gender,Female,A little influence,0.24,2018
+Q6,Gender,Female,No influence at all,0.39,2018
+Q6,Gender,Female,Don't know,0.02,2018
+Q6,Gender,Female,Refused,0.01,2018
+Q9,Gender,Female,Very often,0.85,2018
+Q9,Gender,Female,Fairly often,0.05,2018
+Q9,Gender,Female,Sometimes,0.03,2018
+Q9,Gender,Female,Almost never,0.02,2018
+Q9,Gender,Female,Never at all,0.04,2018
+Q9,Gender,Female,Don't know,0.01,2018
+Q9,Gender,Female,Refused,0,2018
+Q57,Gender,Female,"Single, never married",0.24,2018
+Q57,Gender,Female,Married or civil union,0.4,2018
+Q57,Gender,Female,Living with partner,0.08,2018
+Q57,Gender,Female,Separated,0.03,2018
+Q57,Gender,Female,Divorced,0.09,2018
+Q57,Gender,Female,Widowed,0.16,2018
+Q57,Gender,Female,Refused,0.01,2018
+Q60,Gender,Female,One,0.28,2018
+Q60,Gender,Female,Two,0.46,2018
+Q60,Gender,Female,Three,0.12,2018
+Q60,Gender,Female,Four or more,0.13,2018
+Q60,Gender,Female,Refused,0.01,2018
+Q11,Gender,Female,I own my home,0.57,2018
+Q11,Gender,Female,I rent my home,0.39,2018
+Q11,Gender,Female,I live with family or friends who own,0.03,2018
+Q11,Gender,Female,I live with family or friends who rent,0,2018
+Q11,Gender,Female,Vol: I live in a Retirement Community/Senior Care,0.01,2018
+Q11,Gender,Female,Other,0,2018
+Q11,Gender,Female,Refused,0,2018
+MOVEYEAR,Gender,Female,Within the last 3 years,0.24,2018
+MOVEYEAR,Gender,Female,4 to 10 years ago,0.27,2018
+MOVEYEAR,Gender,Female,11 to 19 years ago,0.2,2018
+MOVEYEAR,Gender,Female,20 or more years ago,0.28,2018
+MOVEYEAR,Gender,Female,Refused,0.01,2018
+Q17A,Gender,Female,Strongly agree,0.43,2018
+Q17A,Gender,Female,Somewhat agree,0.32,2018
+Q17A,Gender,Female,Somewhat disagree,0.1,2018
+Q17A,Gender,Female,Strongly disagree,0.15,2018
+Q17A,Gender,Female,Don't know,0,2018
+Q17A,Gender,Female,Refused,0,2018
+Q17B,Gender,Female,Strongly agree,0.39,2018
+Q17B,Gender,Female,Somewhat agree,0.28,2018
+Q17B,Gender,Female,Somewhat disagree,0.14,2018
+Q17B,Gender,Female,Strongly disagree,0.18,2018
+Q17B,Gender,Female,Don't know,0.01,2018
+Q17B,Gender,Female,Refused,0,2018
+Q17C,Gender,Female,Strongly agree,0.18,2018
+Q17C,Gender,Female,Somewhat agree,0.34,2018
+Q17C,Gender,Female,Somewhat disagree,0.19,2018
+Q17C,Gender,Female,Strongly disagree,0.27,2018
+Q17C,Gender,Female,Don't know,0.03,2018
+Q17C,Gender,Female,Refused,0,2018
+Q17E,Gender,Female,Strongly agree,0.33,2018
+Q17E,Gender,Female,Somewhat agree,0.34,2018
+Q17E,Gender,Female,Somewhat disagree,0.11,2018
+Q17E,Gender,Female,Strongly disagree,0.21,2018
+Q17E,Gender,Female,Don't know,0.01,2018
+Q17E,Gender,Female,Refused,0,2018
+Q17F,Gender,Female,Strongly agree,0.17,2018
+Q17F,Gender,Female,Somewhat agree,0.17,2018
+Q17F,Gender,Female,Somewhat disagree,0.23,2018
+Q17F,Gender,Female,Strongly disagree,0.4,2018
+Q17F,Gender,Female,Don't know,0.01,2018
+Q17F,Gender,Female,Refused,0.01,2018
+Q17G,Gender,Female,Strongly agree,0.37,2018
+Q17G,Gender,Female,Somewhat agree,0.46,2018
+Q17G,Gender,Female,Somewhat disagree,0.09,2018
+Q17G,Gender,Female,Strongly disagree,0.06,2018
+Q17G,Gender,Female,Don't know,0.01,2018
+Q17G,Gender,Female,Refused,0,2018
+Q17H,Gender,Female,Strongly agree,0.26,2018
+Q17H,Gender,Female,Somewhat agree,0.53,2018
+Q17H,Gender,Female,Somewhat disagree,0.09,2018
+Q17H,Gender,Female,Strongly disagree,0.1,2018
+Q17H,Gender,Female,Don't know,0.03,2018
+Q17H,Gender,Female,Refused,0,2018
+Q17I,Gender,Female,Strongly agree,0.24,2018
+Q17I,Gender,Female,Somewhat agree,0.52,2018
+Q17I,Gender,Female,Somewhat disagree,0.13,2018
+Q17I,Gender,Female,Strongly disagree,0.09,2018
+Q17I,Gender,Female,Don't know,0.01,2018
+Q17I,Gender,Female,Refused,0,2018
+Q19,Gender,Female,Excellent,0.2,2018
+Q19,Gender,Female,Very good,0.38,2018
+Q19,Gender,Female,Good,0.28,2018
+Q19,Gender,Female,Fair,0.12,2018
+Q19,Gender,Female,Poor,0.02,2018
+Q19,Gender,Female,Don't know,0,2018
+Q19,Gender,Female,Refused,0,2018
+Q20,Gender,Female,Not at all satisfied,0,2018
+Q20,Gender,Female,Only a little bit satisfied,0.11,2018
+Q20,Gender,Female,Somewhat satisfied,0.22,2018
+Q20,Gender,Female,Mostly satisfied,0.48,2018
+Q20,Gender,Female,Completely satisfied,0.18,2018
+Q20,Gender,Female,Don't know,0,2018
+Q20,Gender,Female,Refused,0.01,2018
+Q21,Gender,Female,Not at all,0.03,2018
+Q21,Gender,Female,Only a little bit,0.11,2018
+Q21,Gender,Female,Somewhat,0.17,2018
+Q21,Gender,Female,Mostly,0.43,2018
+Q21,Gender,Female,Completely,0.26,2018
+Q21,Gender,Female,Don't know,0,2018
+Q21,Gender,Female,Refused,0,2018
+Q22,Gender,Female,Not at all,0.42,2018
+Q22,Gender,Female,Only a little bit,0.23,2018
+Q22,Gender,Female,Somewhat,0.23,2018
+Q22,Gender,Female,Mostly,0.06,2018
+Q22,Gender,Female,Completely,0.04,2018
+Q22,Gender,Female,Don't know,0.01,2018
+Q22,Gender,Female,Refused,0.01,2018
+Q23A,Gender,Female,Yes,0.3,2018
+Q23A,Gender,Female,No,0.7,2018
+Q23A,Gender,Female,Don't know,0,2018
+Q23A,Gender,Female,Refused,0,2018
+Q23C,Gender,Female,Yes,0.06,2018
+Q23C,Gender,Female,No,0.93,2018
+Q23C,Gender,Female,Don't know,0,2018
+Q23C,Gender,Female,Refused,0.01,2018
+Q23D,Gender,Female,Yes,0.05,2018
+Q23D,Gender,Female,No,0.95,2018
+Q23D,Gender,Female,Don't know,0,2018
+Q23D,Gender,Female,Refused,0,2018
+Q23E,Gender,Female,Yes,0.14,2018
+Q23E,Gender,Female,No,0.86,2018
+Q23E,Gender,Female,Don't know,0,2018
+Q23E,Gender,Female,Refused,0,2018
+BMIR,Gender,Female,Underweight,0.02,2018
+BMIR,Gender,Female,Normal weight,0.36,2018
+BMIR,Gender,Female,Overweight,0.33,2018
+BMIR,Gender,Female,Obese,0.3,2018
+Q26,Gender,Female,Yes,0.94,2018
+Q26,Gender,Female,No,0.04,2018
+Q26,Gender,Female,Don't know,0.01,2018
+Q26,Gender,Female,Refused,0.02,2018
+Q28,Gender,Female,Yes,0.08,2018
+Q28,Gender,Female,No,0.92,2018
+Q28,Gender,Female,Don't know,0,2018
+Q28,Gender,Female,Refused,0,2018
+Q29,Gender,Female,Yes,0.23,2018
+Q29,Gender,Female,No,0.77,2018
+Q29,Gender,Female,Don't know,0,2018
+Q29,Gender,Female,Refused,0,2018
+Q31,Gender,Female,Yes,0.15,2018
+Q31,Gender,Female,No,0.85,2018
+Q31,Gender,Female,Don't know,0,2018
+Q31,Gender,Female,Refused,0,2018
+Q32,Gender,Female,Yes,0.93,2018
+Q32,Gender,Female,No,0.06,2018
+Q32,Gender,Female,Don't know,0.01,2018
+Q32,Gender,Female,Refused,0,2018
+Q34,Gender,Female,None,0.68,2018
+Q34,Gender,Female,1 to 2,0.29,2018
+Q34,Gender,Female,3 or more,0.03,2018
+Q34,Gender,Female,Don't know,0,2018
+Q34,Gender,Female,Refused,0,2018
+Q35,Gender,Female,Within the last 6 months,0.54,2018
+Q35,Gender,Female,More than 6 months but less than a year,0.21,2018
+Q35,Gender,Female,More than a year but less than two years,0.14,2018
+Q35,Gender,Female,More than two years ago,0.1,2018
+Q35,Gender,Female,Never have gone to a dentist,0.01,2018
+Q35,Gender,Female,Don't know,0,2018
+Q35,Gender,Female,Refused,0,2018
+Q37_1,Gender,Female,Always,0.41,2018
+Q37_1,Gender,Female,Usually,0.32,2018
+Q37_1,Gender,Female,Sometimes,0.19,2018
+Q37_1,Gender,Female,Rarely,0.04,2018
+Q37_1,Gender,Female,Never,0.02,2018
+Q37_1,Gender,Female,Don't know,0.01,2018
+Q37_1,Gender,Female,Refused,0.01,2018
+Q37_2,Gender,Female,Not at all,0.69,2018
+Q37_2,Gender,Female,Several days,0.19,2018
+Q37_2,Gender,Female,More than half the days,0.04,2018
+Q37_2,Gender,Female,Nearly every day,0.06,2018
+Q37_2,Gender,Female,Don't know,0.01,2018
+Q37_2,Gender,Female,Refused,0.01,2018
+Q37_3,Gender,Female,Not at all,0.66,2018
+Q37_3,Gender,Female,Several days,0.22,2018
+Q37_3,Gender,Female,More than half the days,0.05,2018
+Q37_3,Gender,Female,Nearly every day,0.06,2018
+Q37_3,Gender,Female,Don't know,0.01,2018
+Q37_3,Gender,Female,Refused,0,2018
+Q38,Gender,Female,None,0.26,2018
+Q38,Gender,Female,One,0.1,2018
+Q38,Gender,Female,Two,0.09,2018
+Q38,Gender,Female,Three,0.21,2018
+Q38,Gender,Female,Four,0.13,2018
+Q38,Gender,Female,Five,0.07,2018
+Q38,Gender,Female,Six,0.06,2018
+Q38,Gender,Female,Seven,0.09,2018
+Q38,Gender,Female,Don't know,0.01,2018
+Q38,Gender,Female,Refused,0,2018
+Q39,Gender,Female,Yes,0.46,2018
+Q39,Gender,Female,No,0.54,2018
+Q39,Gender,Female,Don't know,0.01,2018
+Q39,Gender,Female,Refused,0,2018
+Q44,Gender,Female,Living comfortably,0.26,2018
+Q44,Gender,Female,Doing alright,0.45,2018
+Q44,Gender,Female,Just getting by,0.19,2018
+Q44,Gender,Female,Finding it difficult,0.08,2018
+Q44,Gender,Female,Finding it very difficult,0.02,2018
+Q44,Gender,Female,Don't know,0,2018
+Q44,Gender,Female,Refused,0,2018
+Q47,Gender,Female,Yes,0.64,2018
+Q47,Gender,Female,"No, but would like to work",0.03,2018
+Q47,Gender,Female,"No, retired",0.18,2018
+Q47,Gender,Female,"No, homemaker",0.09,2018
+Q47,Gender,Female,"No, full time student",0,2018
+Q47,Gender,Female,"No, disabled",0.04,2018
+Q47,Gender,Female,"No, other",0.01,2018
+Q47,Gender,Female,Refused,0.01,2018
+Q62,Gender,Female,Yes,0.11,2018
+Q62,Gender,Female,No,0.89,2018
+Q62,Gender,Female,Don't know,0,2018
+Q62,Gender,Female,Refused,0,2018
+Q64,Gender,Female,Yes,0.07,2018
+Q64,Gender,Female,No,0.92,2018
+Q64,Gender,Female,Don't know,0.01,2018
+Q64,Gender,Female,Refused,0,2018
+Q65,Gender,Female,Yes,0.11,2018
+Q65,Gender,Female,No,0.89,2018
+Q65,Gender,Female,Don't know,0,2018
+Q65,Gender,Female,Refused,0,2018
+Q66,Gender,Female,Yes,0.9,2018
+Q66,Gender,Female,No,0.09,2018
+Q66,Gender,Female,Don't know,0.01,2018
+Q66,Gender,Female,Refused,0.01,2018
+Q68,Gender,Female,Yes,0.13,2018
+Q68,Gender,Female,No,0.87,2018
+Q68,Gender,Female,Don't know,0,2018
+Q68,Gender,Female,Refused,0,2018
+Q69,Gender,Female,Yes,0.04,2018
+Q69,Gender,Female,No,0.96,2018
+Q69,Gender,Female,Don't know,0,2018
+Q69,Gender,Female,Refused,0,2018
+DISCRIM2,Gender,Female,Yes,0.04,2018
+DISCRIM2,Gender,Female,No,0.96,2018
+DISCRIM2,Gender,Female,Don't know,0,2018
+DISCRIM2,Gender,Female,Refused,0,2018
+Q1,Age,Under age 55,Yes,0.81,2018
+Q1,Age,Under age 55,No,0.17,2018
+Q1,Age,Under age 55,Don't know,0.02,2018
+Q1,Age,Under age 55,Refused,0,2018
+Q2,Age,Under age 55,Much better,0.04,2018
+Q2,Age,Under age 55,Somewhat better,0.1,2018
+Q2,Age,Under age 55,About the same,0.54,2018
+Q2,Age,Under age 55,Somewhat worse,0.3,2018
+Q2,Age,Under age 55,Much worse,0.02,2018
+Q2,Age,Under age 55,Don't know,0,2018
+Q2,Age,Under age 55,Refused,0,2018
+Q4A,Age,Under age 55,Excellent,0.03,2018
+Q4A,Age,Under age 55,Good,0.39,2018
+Q4A,Age,Under age 55,Fair,0.29,2018
+Q4A,Age,Under age 55,Poor,0.16,2018
+Q4A,Age,Under age 55,Don't know enough about it in order to say,0.13,2018
+Q4A,Age,Under age 55,Refused,0,2018
+Q4D,Age,Under age 55,Excellent,0.34,2018
+Q4D,Age,Under age 55,Good,0.47,2018
+Q4D,Age,Under age 55,Fair,0.14,2018
+Q4D,Age,Under age 55,Poor,0.03,2018
+Q4D,Age,Under age 55,Don't know enough about it in order to say,0.03,2018
+Q4D,Age,Under age 55,Refused,0,2018
+Q4E,Age,Under age 55,Excellent,0.07,2018
+Q4E,Age,Under age 55,Good,0.38,2018
+Q4E,Age,Under age 55,Fair,0.36,2018
+Q4E,Age,Under age 55,Poor,0.12,2018
+Q4E,Age,Under age 55,Don't know enough about it in order to say,0.07,2018
+Q4E,Age,Under age 55,Refused,0,2018
+Q4F,Age,Under age 55,Excellent,0.23,2018
+Q4F,Age,Under age 55,Good,0.49,2018
+Q4F,Age,Under age 55,Fair,0.17,2018
+Q4F,Age,Under age 55,Poor,0.07,2018
+Q4F,Age,Under age 55,Don't know enough about it in order to say,0.04,2018
+Q4F,Age,Under age 55,Refused,0,2018
+Q4G,Age,Under age 55,Excellent,0.14,2018
+Q4G,Age,Under age 55,Good,0.46,2018
+Q4G,Age,Under age 55,Fair,0.27,2018
+Q4G,Age,Under age 55,Poor,0.11,2018
+Q4G,Age,Under age 55,Don't know enough about it in order to say,0.01,2018
+Q4G,Age,Under age 55,Refused,0,2018
+Q4H,Age,Under age 55,Excellent,0.17,2018
+Q4H,Age,Under age 55,Good,0.46,2018
+Q4H,Age,Under age 55,Fair,0.29,2018
+Q4H,Age,Under age 55,Poor,0.05,2018
+Q4H,Age,Under age 55,Don't know enough about it in order to say,0.03,2018
+Q4H,Age,Under age 55,Refused,0,2018
+Q6,Age,Under age 55,Great influence,0.04,2018
+Q6,Age,Under age 55,Moderate influence,0.27,2018
+Q6,Age,Under age 55,A little influence,0.27,2018
+Q6,Age,Under age 55,No influence at all,0.4,2018
+Q6,Age,Under age 55,Don't know,0.02,2018
+Q6,Age,Under age 55,Refused,0,2018
+Q9,Age,Under age 55,Very often,0.9,2018
+Q9,Age,Under age 55,Fairly often,0.02,2018
+Q9,Age,Under age 55,Sometimes,0.04,2018
+Q9,Age,Under age 55,Almost never,0.02,2018
+Q9,Age,Under age 55,Never at all,0.03,2018
+Q9,Age,Under age 55,Don't know,0,2018
+Q9,Age,Under age 55,Refused,0,2018
+Q57,Age,Under age 55,"Single, never married",0.37,2018
+Q57,Age,Under age 55,Married or civil union,0.43,2018
+Q57,Age,Under age 55,Living with partner,0.11,2018
+Q57,Age,Under age 55,Separated,0.02,2018
+Q57,Age,Under age 55,Divorced,0.04,2018
+Q57,Age,Under age 55,Widowed,0.04,2018
+Q57,Age,Under age 55,Refused,0,2018
+Q60,Age,Under age 55,One,0.13,2018
+Q60,Age,Under age 55,Two,0.58,2018
+Q60,Age,Under age 55,Three,0.16,2018
+Q60,Age,Under age 55,Four or more,0.11,2018
+Q60,Age,Under age 55,Refused,0.02,2018
+Q11,Age,Under age 55,I own my home,0.55,2018
+Q11,Age,Under age 55,I rent my home,0.32,2018
+Q11,Age,Under age 55,I live with family or friends who own,0.11,2018
+Q11,Age,Under age 55,I live with family or friends who rent,0,2018
+Q11,Age,Under age 55,Vol: I live in a Retirement Community/Senior Care,0,2018
+Q11,Age,Under age 55,Other,0,2018
+Q11,Age,Under age 55,Refused,0.02,2018
+MOVEYEAR,Age,Under age 55,Within the last 3 years,0.32,2018
+MOVEYEAR,Age,Under age 55,4 to 10 years ago,0.34,2018
+MOVEYEAR,Age,Under age 55,11 to 19 years ago,0.23,2018
+MOVEYEAR,Age,Under age 55,20 or more years ago,0.12,2018
+MOVEYEAR,Age,Under age 55,Refused,0,2018
+Q17A,Age,Under age 55,Strongly agree,0.4,2018
+Q17A,Age,Under age 55,Somewhat agree,0.35,2018
+Q17A,Age,Under age 55,Somewhat disagree,0.22,2018
+Q17A,Age,Under age 55,Strongly disagree,0.03,2018
+Q17A,Age,Under age 55,Don't know,0,2018
+Q17A,Age,Under age 55,Refused,0,2018
+Q17B,Age,Under age 55,Strongly agree,0.34,2018
+Q17B,Age,Under age 55,Somewhat agree,0.23,2018
+Q17B,Age,Under age 55,Somewhat disagree,0.23,2018
+Q17B,Age,Under age 55,Strongly disagree,0.2,2018
+Q17B,Age,Under age 55,Don't know,0,2018
+Q17B,Age,Under age 55,Refused,0,2018
+Q17C,Age,Under age 55,Strongly agree,0.23,2018
+Q17C,Age,Under age 55,Somewhat agree,0.32,2018
+Q17C,Age,Under age 55,Somewhat disagree,0.21,2018
+Q17C,Age,Under age 55,Strongly disagree,0.24,2018
+Q17C,Age,Under age 55,Don't know,0,2018
+Q17C,Age,Under age 55,Refused,0,2018
+Q17E,Age,Under age 55,Strongly agree,0.32,2018
+Q17E,Age,Under age 55,Somewhat agree,0.33,2018
+Q17E,Age,Under age 55,Somewhat disagree,0.1,2018
+Q17E,Age,Under age 55,Strongly disagree,0.25,2018
+Q17E,Age,Under age 55,Don't know,0,2018
+Q17E,Age,Under age 55,Refused,0,2018
+Q17F,Age,Under age 55,Strongly agree,0.08,2018
+Q17F,Age,Under age 55,Somewhat agree,0.14,2018
+Q17F,Age,Under age 55,Somewhat disagree,0.22,2018
+Q17F,Age,Under age 55,Strongly disagree,0.56,2018
+Q17F,Age,Under age 55,Don't know,0,2018
+Q17F,Age,Under age 55,Refused,0,2018
+Q17G,Age,Under age 55,Strongly agree,0.28,2018
+Q17G,Age,Under age 55,Somewhat agree,0.53,2018
+Q17G,Age,Under age 55,Somewhat disagree,0.15,2018
+Q17G,Age,Under age 55,Strongly disagree,0.05,2018
+Q17G,Age,Under age 55,Don't know,0,2018
+Q17G,Age,Under age 55,Refused,0,2018
+Q17H,Age,Under age 55,Strongly agree,0.17,2018
+Q17H,Age,Under age 55,Somewhat agree,0.5,2018
+Q17H,Age,Under age 55,Somewhat disagree,0.12,2018
+Q17H,Age,Under age 55,Strongly disagree,0.2,2018
+Q17H,Age,Under age 55,Don't know,0.01,2018
+Q17H,Age,Under age 55,Refused,0,2018
+Q17I,Age,Under age 55,Strongly agree,0.21,2018
+Q17I,Age,Under age 55,Somewhat agree,0.44,2018
+Q17I,Age,Under age 55,Somewhat disagree,0.17,2018
+Q17I,Age,Under age 55,Strongly disagree,0.18,2018
+Q17I,Age,Under age 55,Don't know,0,2018
+Q17I,Age,Under age 55,Refused,0,2018
+Q19,Age,Under age 55,Excellent,0.2,2018
+Q19,Age,Under age 55,Very good,0.4,2018
+Q19,Age,Under age 55,Good,0.35,2018
+Q19,Age,Under age 55,Fair,0.04,2018
+Q19,Age,Under age 55,Poor,0.01,2018
+Q19,Age,Under age 55,Don't know,0,2018
+Q19,Age,Under age 55,Refused,0,2018
+Q20,Age,Under age 55,Not at all satisfied,0.02,2018
+Q20,Age,Under age 55,Only a little bit satisfied,0.16,2018
+Q20,Age,Under age 55,Somewhat satisfied,0.16,2018
+Q20,Age,Under age 55,Mostly satisfied,0.45,2018
+Q20,Age,Under age 55,Completely satisfied,0.2,2018
+Q20,Age,Under age 55,Don't know,0,2018
+Q20,Age,Under age 55,Refused,0,2018
+Q21,Age,Under age 55,Not at all,0.01,2018
+Q21,Age,Under age 55,Only a little bit,0.19,2018
+Q21,Age,Under age 55,Somewhat,0.19,2018
+Q21,Age,Under age 55,Mostly,0.37,2018
+Q21,Age,Under age 55,Completely,0.24,2018
+Q21,Age,Under age 55,Don't know,0,2018
+Q21,Age,Under age 55,Refused,0,2018
+Q22,Age,Under age 55,Not at all,0.36,2018
+Q22,Age,Under age 55,Only a little bit,0.22,2018
+Q22,Age,Under age 55,Somewhat,0.29,2018
+Q22,Age,Under age 55,Mostly,0.09,2018
+Q22,Age,Under age 55,Completely,0.04,2018
+Q22,Age,Under age 55,Don't know,0,2018
+Q22,Age,Under age 55,Refused,0,2018
+Q23A,Age,Under age 55,Yes,0.2,2018
+Q23A,Age,Under age 55,No,0.8,2018
+Q23A,Age,Under age 55,Don't know,0,2018
+Q23A,Age,Under age 55,Refused,0,2018
+Q23C,Age,Under age 55,Yes,0.02,2018
+Q23C,Age,Under age 55,No,0.98,2018
+Q23C,Age,Under age 55,Don't know,0,2018
+Q23C,Age,Under age 55,Refused,0,2018
+Q23D,Age,Under age 55,Yes,0.01,2018
+Q23D,Age,Under age 55,No,0.99,2018
+Q23D,Age,Under age 55,Don't know,0,2018
+Q23D,Age,Under age 55,Refused,0,2018
+Q23E,Age,Under age 55,Yes,0.09,2018
+Q23E,Age,Under age 55,No,0.91,2018
+Q23E,Age,Under age 55,Don't know,0,2018
+Q23E,Age,Under age 55,Refused,0,2018
+BMIR,Age,Under age 55,Underweight,0.01,2018
+BMIR,Age,Under age 55,Normal weight,0.31,2018
+BMIR,Age,Under age 55,Overweight,0.39,2018
+BMIR,Age,Under age 55,Obese,0.29,2018
+Q26,Age,Under age 55,Yes,0.9,2018
+Q26,Age,Under age 55,No,0.08,2018
+Q26,Age,Under age 55,Don't know,0,2018
+Q26,Age,Under age 55,Refused,0.01,2018
+Q28,Age,Under age 55,Yes,0.14,2018
+Q28,Age,Under age 55,No,0.86,2018
+Q28,Age,Under age 55,Don't know,0,2018
+Q28,Age,Under age 55,Refused,0,2018
+Q29,Age,Under age 55,Yes,0.31,2018
+Q29,Age,Under age 55,No,0.69,2018
+Q29,Age,Under age 55,Don't know,0,2018
+Q29,Age,Under age 55,Refused,0,2018
+Q31,Age,Under age 55,Yes,0.13,2018
+Q31,Age,Under age 55,No,0.87,2018
+Q31,Age,Under age 55,Don't know,0,2018
+Q31,Age,Under age 55,Refused,0,2018
+Q32,Age,Under age 55,Yes,0.77,2018
+Q32,Age,Under age 55,No,0.22,2018
+Q32,Age,Under age 55,Don't know,0.01,2018
+Q32,Age,Under age 55,Refused,0,2018
+Q34,Age,Under age 55,None,0.74,2018
+Q34,Age,Under age 55,1 to 2,0.25,2018
+Q34,Age,Under age 55,3 or more,0.01,2018
+Q34,Age,Under age 55,Don't know,0,2018
+Q34,Age,Under age 55,Refused,0,2018
+Q35,Age,Under age 55,Within the last 6 months,0.46,2018
+Q35,Age,Under age 55,More than 6 months but less than a year,0.16,2018
+Q35,Age,Under age 55,More than a year but less than two years,0.18,2018
+Q35,Age,Under age 55,More than two years ago,0.17,2018
+Q35,Age,Under age 55,Never have gone to a dentist,0.01,2018
+Q35,Age,Under age 55,Don't know,0,2018
+Q35,Age,Under age 55,Refused,0.02,2018
+Q37_1,Age,Under age 55,Always,0.4,2018
+Q37_1,Age,Under age 55,Usually,0.29,2018
+Q37_1,Age,Under age 55,Sometimes,0.23,2018
+Q37_1,Age,Under age 55,Rarely,0.05,2018
+Q37_1,Age,Under age 55,Never,0,2018
+Q37_1,Age,Under age 55,Don't know,0.03,2018
+Q37_1,Age,Under age 55,Refused,0,2018
+Q37_2,Age,Under age 55,Not at all,0.59,2018
+Q37_2,Age,Under age 55,Several days,0.23,2018
+Q37_2,Age,Under age 55,More than half the days,0.05,2018
+Q37_2,Age,Under age 55,Nearly every day,0.13,2018
+Q37_2,Age,Under age 55,Don't know,0,2018
+Q37_2,Age,Under age 55,Refused,0,2018
+Q37_3,Age,Under age 55,Not at all,0.58,2018
+Q37_3,Age,Under age 55,Several days,0.28,2018
+Q37_3,Age,Under age 55,More than half the days,0.06,2018
+Q37_3,Age,Under age 55,Nearly every day,0.07,2018
+Q37_3,Age,Under age 55,Don't know,0,2018
+Q37_3,Age,Under age 55,Refused,0.02,2018
+Q38,Age,Under age 55,None,0.19,2018
+Q38,Age,Under age 55,One,0.09,2018
+Q38,Age,Under age 55,Two,0.14,2018
+Q38,Age,Under age 55,Three,0.2,2018
+Q38,Age,Under age 55,Four,0.16,2018
+Q38,Age,Under age 55,Five,0.15,2018
+Q38,Age,Under age 55,Six,0.05,2018
+Q38,Age,Under age 55,Seven,0.02,2018
+Q38,Age,Under age 55,Don't know,0,2018
+Q38,Age,Under age 55,Refused,0,2018
+Q39,Age,Under age 55,Yes,0.51,2018
+Q39,Age,Under age 55,No,0.49,2018
+Q39,Age,Under age 55,Don't know,0,2018
+Q39,Age,Under age 55,Refused,0,2018
+Q44,Age,Under age 55,Living comfortably,0.23,2018
+Q44,Age,Under age 55,Doing alright,0.37,2018
+Q44,Age,Under age 55,Just getting by,0.28,2018
+Q44,Age,Under age 55,Finding it difficult,0.1,2018
+Q44,Age,Under age 55,Finding it very difficult,0.01,2018
+Q44,Age,Under age 55,Don't know,0,2018
+Q44,Age,Under age 55,Refused,0.02,2018
+Q47,Age,Under age 55,Yes,0.78,2018
+Q47,Age,Under age 55,"No, but would like to work",0.05,2018
+Q47,Age,Under age 55,"No, retired",0,2018
+Q47,Age,Under age 55,"No, homemaker",0.08,2018
+Q47,Age,Under age 55,"No, full time student",0.03,2018
+Q47,Age,Under age 55,"No, disabled",0.04,2018
+Q47,Age,Under age 55,"No, other",0,2018
+Q47,Age,Under age 55,Refused,0.02,2018
+Q62,Age,Under age 55,Yes,0.12,2018
+Q62,Age,Under age 55,No,0.86,2018
+Q62,Age,Under age 55,Don't know,0,2018
+Q62,Age,Under age 55,Refused,0.02,2018
+Q64,Age,Under age 55,Yes,0.09,2018
+Q64,Age,Under age 55,No,0.89,2018
+Q64,Age,Under age 55,Don't know,0,2018
+Q64,Age,Under age 55,Refused,0.02,2018
+Q65,Age,Under age 55,Yes,0.11,2018
+Q65,Age,Under age 55,No,0.87,2018
+Q65,Age,Under age 55,Don't know,0,2018
+Q65,Age,Under age 55,Refused,0.02,2018
+Q66,Age,Under age 55,Yes,0.91,2018
+Q66,Age,Under age 55,No,0.07,2018
+Q66,Age,Under age 55,Don't know,0,2018
+Q66,Age,Under age 55,Refused,0.02,2018
+Q68,Age,Under age 55,Yes,0.13,2018
+Q68,Age,Under age 55,No,0.85,2018
+Q68,Age,Under age 55,Don't know,0,2018
+Q68,Age,Under age 55,Refused,0.02,2018
+Q69,Age,Under age 55,Yes,0.08,2018
+Q69,Age,Under age 55,No,0.91,2018
+Q69,Age,Under age 55,Don't know,0,2018
+Q69,Age,Under age 55,Refused,0.02,2018
+DISCRIM2,Age,Under age 55,Yes,0.08,2018
+DISCRIM2,Age,Under age 55,No,0.91,2018
+DISCRIM2,Age,Under age 55,Don't know,0,2018
+DISCRIM2,Age,Under age 55,Refused,0.02,2018
+Q1,Age,Age 55 or older,Yes,0.79,2018
+Q1,Age,Age 55 or older,No,0.19,2018
+Q1,Age,Age 55 or older,Don't know,0.01,2018
+Q1,Age,Age 55 or older,Refused,0.01,2018
+Q2,Age,Age 55 or older,Much better,0.04,2018
+Q2,Age,Age 55 or older,Somewhat better,0.11,2018
+Q2,Age,Age 55 or older,About the same,0.66,2018
+Q2,Age,Age 55 or older,Somewhat worse,0.13,2018
+Q2,Age,Age 55 or older,Much worse,0.03,2018
+Q2,Age,Age 55 or older,Don't know,0.01,2018
+Q2,Age,Age 55 or older,Refused,0.02,2018
+Q4A,Age,Age 55 or older,Excellent,0.11,2018
+Q4A,Age,Age 55 or older,Good,0.27,2018
+Q4A,Age,Age 55 or older,Fair,0.4,2018
+Q4A,Age,Age 55 or older,Poor,0.13,2018
+Q4A,Age,Age 55 or older,Don't know enough about it in order to say,0.09,2018
+Q4A,Age,Age 55 or older,Refused,0,2018
+Q4D,Age,Age 55 or older,Excellent,0.22,2018
+Q4D,Age,Age 55 or older,Good,0.64,2018
+Q4D,Age,Age 55 or older,Fair,0.1,2018
+Q4D,Age,Age 55 or older,Poor,0.03,2018
+Q4D,Age,Age 55 or older,Don't know enough about it in order to say,0.01,2018
+Q4D,Age,Age 55 or older,Refused,0,2018
+Q4E,Age,Age 55 or older,Excellent,0.03,2018
+Q4E,Age,Age 55 or older,Good,0.35,2018
+Q4E,Age,Age 55 or older,Fair,0.35,2018
+Q4E,Age,Age 55 or older,Poor,0.04,2018
+Q4E,Age,Age 55 or older,Don't know enough about it in order to say,0.23,2018
+Q4E,Age,Age 55 or older,Refused,0,2018
+Q4F,Age,Age 55 or older,Excellent,0.15,2018
+Q4F,Age,Age 55 or older,Good,0.55,2018
+Q4F,Age,Age 55 or older,Fair,0.18,2018
+Q4F,Age,Age 55 or older,Poor,0.05,2018
+Q4F,Age,Age 55 or older,Don't know enough about it in order to say,0.08,2018
+Q4F,Age,Age 55 or older,Refused,0,2018
+Q4G,Age,Age 55 or older,Excellent,0.16,2018
+Q4G,Age,Age 55 or older,Good,0.47,2018
+Q4G,Age,Age 55 or older,Fair,0.19,2018
+Q4G,Age,Age 55 or older,Poor,0.11,2018
+Q4G,Age,Age 55 or older,Don't know enough about it in order to say,0.04,2018
+Q4G,Age,Age 55 or older,Refused,0.03,2018
+Q4H,Age,Age 55 or older,Excellent,0.21,2018
+Q4H,Age,Age 55 or older,Good,0.45,2018
+Q4H,Age,Age 55 or older,Fair,0.2,2018
+Q4H,Age,Age 55 or older,Poor,0.08,2018
+Q4H,Age,Age 55 or older,Don't know enough about it in order to say,0.05,2018
+Q4H,Age,Age 55 or older,Refused,0.01,2018
+Q6,Age,Age 55 or older,Great influence,0.05,2018
+Q6,Age,Age 55 or older,Moderate influence,0.2,2018
+Q6,Age,Age 55 or older,A little influence,0.33,2018
+Q6,Age,Age 55 or older,No influence at all,0.34,2018
+Q6,Age,Age 55 or older,Don't know,0.06,2018
+Q6,Age,Age 55 or older,Refused,0.01,2018
+Q9,Age,Age 55 or older,Very often,0.88,2018
+Q9,Age,Age 55 or older,Fairly often,0.03,2018
+Q9,Age,Age 55 or older,Sometimes,0.03,2018
+Q9,Age,Age 55 or older,Almost never,0.01,2018
+Q9,Age,Age 55 or older,Never at all,0.05,2018
+Q9,Age,Age 55 or older,Don't know,0.01,2018
+Q9,Age,Age 55 or older,Refused,0,2018
+Q57,Age,Age 55 or older,"Single, never married",0.08,2018
+Q57,Age,Age 55 or older,Married or civil union,0.51,2018
+Q57,Age,Age 55 or older,Living with partner,0.01,2018
+Q57,Age,Age 55 or older,Separated,0.01,2018
+Q57,Age,Age 55 or older,Divorced,0.12,2018
+Q57,Age,Age 55 or older,Widowed,0.26,2018
+Q57,Age,Age 55 or older,Refused,0.01,2018
+Q60,Age,Age 55 or older,One,0.36,2018
+Q60,Age,Age 55 or older,Two,0.45,2018
+Q60,Age,Age 55 or older,Three,0.1,2018
+Q60,Age,Age 55 or older,Four or more,0.08,2018
+Q60,Age,Age 55 or older,Refused,0.01,2018
+Q11,Age,Age 55 or older,I own my home,0.78,2018
+Q11,Age,Age 55 or older,I rent my home,0.2,2018
+Q11,Age,Age 55 or older,I live with family or friends who own,0,2018
+Q11,Age,Age 55 or older,I live with family or friends who rent,0,2018
+Q11,Age,Age 55 or older,Vol: I live in a Retirement Community/Senior Care,0.01,2018
+Q11,Age,Age 55 or older,Other,0.02,2018
+Q11,Age,Age 55 or older,Refused,0,2018
+MOVEYEAR,Age,Age 55 or older,Within the last 3 years,0.07,2018
+MOVEYEAR,Age,Age 55 or older,4 to 10 years ago,0.21,2018
+MOVEYEAR,Age,Age 55 or older,11 to 19 years ago,0.15,2018
+MOVEYEAR,Age,Age 55 or older,20 or more years ago,0.55,2018
+MOVEYEAR,Age,Age 55 or older,Refused,0.02,2018
+Q17A,Age,Age 55 or older,Strongly agree,0.3,2018
+Q17A,Age,Age 55 or older,Somewhat agree,0.28,2018
+Q17A,Age,Age 55 or older,Somewhat disagree,0.15,2018
+Q17A,Age,Age 55 or older,Strongly disagree,0.25,2018
+Q17A,Age,Age 55 or older,Don't know,0,2018
+Q17A,Age,Age 55 or older,Refused,0.02,2018
+Q17B,Age,Age 55 or older,Strongly agree,0.44,2018
+Q17B,Age,Age 55 or older,Somewhat agree,0.26,2018
+Q17B,Age,Age 55 or older,Somewhat disagree,0.06,2018
+Q17B,Age,Age 55 or older,Strongly disagree,0.21,2018
+Q17B,Age,Age 55 or older,Don't know,0.01,2018
+Q17B,Age,Age 55 or older,Refused,0.02,2018
+Q17C,Age,Age 55 or older,Strongly agree,0.25,2018
+Q17C,Age,Age 55 or older,Somewhat agree,0.24,2018
+Q17C,Age,Age 55 or older,Somewhat disagree,0.11,2018
+Q17C,Age,Age 55 or older,Strongly disagree,0.35,2018
+Q17C,Age,Age 55 or older,Don't know,0.05,2018
+Q17C,Age,Age 55 or older,Refused,0,2018
+Q17E,Age,Age 55 or older,Strongly agree,0.21,2018
+Q17E,Age,Age 55 or older,Somewhat agree,0.36,2018
+Q17E,Age,Age 55 or older,Somewhat disagree,0.13,2018
+Q17E,Age,Age 55 or older,Strongly disagree,0.29,2018
+Q17E,Age,Age 55 or older,Don't know,0.01,2018
+Q17E,Age,Age 55 or older,Refused,0,2018
+Q17F,Age,Age 55 or older,Strongly agree,0.18,2018
+Q17F,Age,Age 55 or older,Somewhat agree,0.16,2018
+Q17F,Age,Age 55 or older,Somewhat disagree,0.14,2018
+Q17F,Age,Age 55 or older,Strongly disagree,0.48,2018
+Q17F,Age,Age 55 or older,Don't know,0.02,2018
+Q17F,Age,Age 55 or older,Refused,0.03,2018
+Q17G,Age,Age 55 or older,Strongly agree,0.52,2018
+Q17G,Age,Age 55 or older,Somewhat agree,0.36,2018
+Q17G,Age,Age 55 or older,Somewhat disagree,0.03,2018
+Q17G,Age,Age 55 or older,Strongly disagree,0.04,2018
+Q17G,Age,Age 55 or older,Don't know,0.03,2018
+Q17G,Age,Age 55 or older,Refused,0.02,2018
+Q17H,Age,Age 55 or older,Strongly agree,0.29,2018
+Q17H,Age,Age 55 or older,Somewhat agree,0.46,2018
+Q17H,Age,Age 55 or older,Somewhat disagree,0.14,2018
+Q17H,Age,Age 55 or older,Strongly disagree,0.03,2018
+Q17H,Age,Age 55 or older,Don't know,0.08,2018
+Q17H,Age,Age 55 or older,Refused,0,2018
+Q17I,Age,Age 55 or older,Strongly agree,0.31,2018
+Q17I,Age,Age 55 or older,Somewhat agree,0.47,2018
+Q17I,Age,Age 55 or older,Somewhat disagree,0.1,2018
+Q17I,Age,Age 55 or older,Strongly disagree,0.06,2018
+Q17I,Age,Age 55 or older,Don't know,0.07,2018
+Q17I,Age,Age 55 or older,Refused,0,2018
+Q19,Age,Age 55 or older,Excellent,0.18,2018
+Q19,Age,Age 55 or older,Very good,0.27,2018
+Q19,Age,Age 55 or older,Good,0.24,2018
+Q19,Age,Age 55 or older,Fair,0.28,2018
+Q19,Age,Age 55 or older,Poor,0.03,2018
+Q19,Age,Age 55 or older,Don't know,0,2018
+Q19,Age,Age 55 or older,Refused,0,2018
+Q20,Age,Age 55 or older,Not at all satisfied,0,2018
+Q20,Age,Age 55 or older,Only a little bit satisfied,0.05,2018
+Q20,Age,Age 55 or older,Somewhat satisfied,0.31,2018
+Q20,Age,Age 55 or older,Mostly satisfied,0.34,2018
+Q20,Age,Age 55 or older,Completely satisfied,0.29,2018
+Q20,Age,Age 55 or older,Don't know,0,2018
+Q20,Age,Age 55 or older,Refused,0.01,2018
+Q21,Age,Age 55 or older,Not at all,0.03,2018
+Q21,Age,Age 55 or older,Only a little bit,0.1,2018
+Q21,Age,Age 55 or older,Somewhat,0.17,2018
+Q21,Age,Age 55 or older,Mostly,0.35,2018
+Q21,Age,Age 55 or older,Completely,0.33,2018
+Q21,Age,Age 55 or older,Don't know,0,2018
+Q21,Age,Age 55 or older,Refused,0.02,2018
+Q22,Age,Age 55 or older,Not at all,0.59,2018
+Q22,Age,Age 55 or older,Only a little bit,0.14,2018
+Q22,Age,Age 55 or older,Somewhat,0.16,2018
+Q22,Age,Age 55 or older,Mostly,0.03,2018
+Q22,Age,Age 55 or older,Completely,0.05,2018
+Q22,Age,Age 55 or older,Don't know,0.01,2018
+Q22,Age,Age 55 or older,Refused,0.01,2018
+Q23A,Age,Age 55 or older,Yes,0.58,2018
+Q23A,Age,Age 55 or older,No,0.42,2018
+Q23A,Age,Age 55 or older,Don't know,0,2018
+Q23A,Age,Age 55 or older,Refused,0,2018
+Q23C,Age,Age 55 or older,Yes,0.28,2018
+Q23C,Age,Age 55 or older,No,0.69,2018
+Q23C,Age,Age 55 or older,Don't know,0,2018
+Q23C,Age,Age 55 or older,Refused,0.03,2018
+Q23D,Age,Age 55 or older,Yes,0.11,2018
+Q23D,Age,Age 55 or older,No,0.87,2018
+Q23D,Age,Age 55 or older,Don't know,0,2018
+Q23D,Age,Age 55 or older,Refused,0.02,2018
+Q23E,Age,Age 55 or older,Yes,0.09,2018
+Q23E,Age,Age 55 or older,No,0.89,2018
+Q23E,Age,Age 55 or older,Don't know,0,2018
+Q23E,Age,Age 55 or older,Refused,0.02,2018
+BMIR,Age,Age 55 or older,Underweight,0,2018
+BMIR,Age,Age 55 or older,Normal weight,0.16,2018
+BMIR,Age,Age 55 or older,Overweight,0.41,2018
+BMIR,Age,Age 55 or older,Obese,0.42,2018
+Q26,Age,Age 55 or older,Yes,0.96,2018
+Q26,Age,Age 55 or older,No,0.01,2018
+Q26,Age,Age 55 or older,Don't know,0.01,2018
+Q26,Age,Age 55 or older,Refused,0.02,2018
+Q28,Age,Age 55 or older,Yes,0.03,2018
+Q28,Age,Age 55 or older,No,0.95,2018
+Q28,Age,Age 55 or older,Don't know,0,2018
+Q28,Age,Age 55 or older,Refused,0.02,2018
+Q29,Age,Age 55 or older,Yes,0.11,2018
+Q29,Age,Age 55 or older,No,0.89,2018
+Q29,Age,Age 55 or older,Don't know,0,2018
+Q29,Age,Age 55 or older,Refused,0,2018
+Q31,Age,Age 55 or older,Yes,0.09,2018
+Q31,Age,Age 55 or older,No,0.91,2018
+Q31,Age,Age 55 or older,Don't know,0,2018
+Q31,Age,Age 55 or older,Refused,0,2018
+Q32,Age,Age 55 or older,Yes,0.98,2018
+Q32,Age,Age 55 or older,No,0.02,2018
+Q32,Age,Age 55 or older,Don't know,0,2018
+Q32,Age,Age 55 or older,Refused,0,2018
+Q34,Age,Age 55 or older,None,0.61,2018
+Q34,Age,Age 55 or older,1 to 2,0.29,2018
+Q34,Age,Age 55 or older,3 or more,0.09,2018
+Q34,Age,Age 55 or older,Don't know,0,2018
+Q34,Age,Age 55 or older,Refused,0.02,2018
+Q35,Age,Age 55 or older,Within the last 6 months,0.65,2018
+Q35,Age,Age 55 or older,More than 6 months but less than a year,0.14,2018
+Q35,Age,Age 55 or older,More than a year but less than two years,0.1,2018
+Q35,Age,Age 55 or older,More than two years ago,0.11,2018
+Q35,Age,Age 55 or older,Never have gone to a dentist,0,2018
+Q35,Age,Age 55 or older,Don't know,0,2018
+Q35,Age,Age 55 or older,Refused,0,2018
+Q37_1,Age,Age 55 or older,Always,0.5,2018
+Q37_1,Age,Age 55 or older,Usually,0.23,2018
+Q37_1,Age,Age 55 or older,Sometimes,0.14,2018
+Q37_1,Age,Age 55 or older,Rarely,0.06,2018
+Q37_1,Age,Age 55 or older,Never,0.04,2018
+Q37_1,Age,Age 55 or older,Don't know,0.02,2018
+Q37_1,Age,Age 55 or older,Refused,0.01,2018
+Q37_2,Age,Age 55 or older,Not at all,0.75,2018
+Q37_2,Age,Age 55 or older,Several days,0.15,2018
+Q37_2,Age,Age 55 or older,More than half the days,0.03,2018
+Q37_2,Age,Age 55 or older,Nearly every day,0.06,2018
+Q37_2,Age,Age 55 or older,Don't know,0.01,2018
+Q37_2,Age,Age 55 or older,Refused,0.01,2018
+Q37_3,Age,Age 55 or older,Not at all,0.8,2018
+Q37_3,Age,Age 55 or older,Several days,0.08,2018
+Q37_3,Age,Age 55 or older,More than half the days,0.06,2018
+Q37_3,Age,Age 55 or older,Nearly every day,0.05,2018
+Q37_3,Age,Age 55 or older,Don't know,0.01,2018
+Q37_3,Age,Age 55 or older,Refused,0,2018
+Q38,Age,Age 55 or older,None,0.28,2018
+Q38,Age,Age 55 or older,One,0.04,2018
+Q38,Age,Age 55 or older,Two,0.08,2018
+Q38,Age,Age 55 or older,Three,0.26,2018
+Q38,Age,Age 55 or older,Four,0.03,2018
+Q38,Age,Age 55 or older,Five,0.12,2018
+Q38,Age,Age 55 or older,Six,0.08,2018
+Q38,Age,Age 55 or older,Seven,0.12,2018
+Q38,Age,Age 55 or older,Don't know,0.01,2018
+Q38,Age,Age 55 or older,Refused,0,2018
+Q39,Age,Age 55 or older,Yes,0.51,2018
+Q39,Age,Age 55 or older,No,0.48,2018
+Q39,Age,Age 55 or older,Don't know,0.01,2018
+Q39,Age,Age 55 or older,Refused,0,2018
+Q44,Age,Age 55 or older,Living comfortably,0.36,2018
+Q44,Age,Age 55 or older,Doing alright,0.44,2018
+Q44,Age,Age 55 or older,Just getting by,0.15,2018
+Q44,Age,Age 55 or older,Finding it difficult,0.03,2018
+Q44,Age,Age 55 or older,Finding it very difficult,0.03,2018
+Q44,Age,Age 55 or older,Don't know,0,2018
+Q44,Age,Age 55 or older,Refused,0,2018
+Q47,Age,Age 55 or older,Yes,0.41,2018
+Q47,Age,Age 55 or older,"No, but would like to work",0,2018
+Q47,Age,Age 55 or older,"No, retired",0.49,2018
+Q47,Age,Age 55 or older,"No, homemaker",0,2018
+Q47,Age,Age 55 or older,"No, full time student",0,2018
+Q47,Age,Age 55 or older,"No, disabled",0.08,2018
+Q47,Age,Age 55 or older,"No, other",0.01,2018
+Q47,Age,Age 55 or older,Refused,0.01,2018
+Q62,Age,Age 55 or older,Yes,0.1,2018
+Q62,Age,Age 55 or older,No,0.9,2018
+Q62,Age,Age 55 or older,Don't know,0,2018
+Q62,Age,Age 55 or older,Refused,0,2018
+Q64,Age,Age 55 or older,Yes,0.05,2018
+Q64,Age,Age 55 or older,No,0.94,2018
+Q64,Age,Age 55 or older,Don't know,0.01,2018
+Q64,Age,Age 55 or older,Refused,0,2018
+Q65,Age,Age 55 or older,Yes,0.08,2018
+Q65,Age,Age 55 or older,No,0.92,2018
+Q65,Age,Age 55 or older,Don't know,0,2018
+Q65,Age,Age 55 or older,Refused,0,2018
+Q66,Age,Age 55 or older,Yes,0.92,2018
+Q66,Age,Age 55 or older,No,0.04,2018
+Q66,Age,Age 55 or older,Don't know,0.01,2018
+Q66,Age,Age 55 or older,Refused,0.03,2018
+Q68,Age,Age 55 or older,Yes,0.05,2018
+Q68,Age,Age 55 or older,No,0.93,2018
+Q68,Age,Age 55 or older,Don't know,0,2018
+Q68,Age,Age 55 or older,Refused,0.02,2018
+Q69,Age,Age 55 or older,Yes,0.02,2018
+Q69,Age,Age 55 or older,No,0.98,2018
+Q69,Age,Age 55 or older,Don't know,0,2018
+Q69,Age,Age 55 or older,Refused,0,2018
+DISCRIM2,Age,Age 55 or older,Yes,0.06,2018
+DISCRIM2,Age,Age 55 or older,No,0.94,2018
+DISCRIM2,Age,Age 55 or older,Don't know,0,2018
+DISCRIM2,Age,Age 55 or older,Refused,0,2018
+Q1,Education,High school or less,Yes,0.83,2018
+Q1,Education,High school or less,No,0.12,2018
+Q1,Education,High school or less,Don't know,0.04,2018
+Q1,Education,High school or less,Refused,0.01,2018
+Q2,Education,High school or less,Much better,0.02,2018
+Q2,Education,High school or less,Somewhat better,0.07,2018
+Q2,Education,High school or less,About the same,0.64,2018
+Q2,Education,High school or less,Somewhat worse,0.23,2018
+Q2,Education,High school or less,Much worse,0,2018
+Q2,Education,High school or less,Don't know,0.01,2018
+Q2,Education,High school or less,Refused,0.02,2018
+Q4A,Education,High school or less,Excellent,0.06,2018
+Q4A,Education,High school or less,Good,0.36,2018
+Q4A,Education,High school or less,Fair,0.39,2018
+Q4A,Education,High school or less,Poor,0.13,2018
+Q4A,Education,High school or less,Don't know enough about it in order to say,0.06,2018
+Q4A,Education,High school or less,Refused,0,2018
+Q4D,Education,High school or less,Excellent,0.24,2018
+Q4D,Education,High school or less,Good,0.55,2018
+Q4D,Education,High school or less,Fair,0.13,2018
+Q4D,Education,High school or less,Poor,0.04,2018
+Q4D,Education,High school or less,Don't know enough about it in order to say,0.03,2018
+Q4D,Education,High school or less,Refused,0,2018
+Q4E,Education,High school or less,Excellent,0.02,2018
+Q4E,Education,High school or less,Good,0.51,2018
+Q4E,Education,High school or less,Fair,0.26,2018
+Q4E,Education,High school or less,Poor,0.09,2018
+Q4E,Education,High school or less,Don't know enough about it in order to say,0.11,2018
+Q4E,Education,High school or less,Refused,0,2018
+Q4F,Education,High school or less,Excellent,0.26,2018
+Q4F,Education,High school or less,Good,0.53,2018
+Q4F,Education,High school or less,Fair,0.11,2018
+Q4F,Education,High school or less,Poor,0.05,2018
+Q4F,Education,High school or less,Don't know enough about it in order to say,0.04,2018
+Q4F,Education,High school or less,Refused,0,2018
+Q4G,Education,High school or less,Excellent,0.14,2018
+Q4G,Education,High school or less,Good,0.5,2018
+Q4G,Education,High school or less,Fair,0.25,2018
+Q4G,Education,High school or less,Poor,0.05,2018
+Q4G,Education,High school or less,Don't know enough about it in order to say,0.03,2018
+Q4G,Education,High school or less,Refused,0.04,2018
+Q4H,Education,High school or less,Excellent,0.14,2018
+Q4H,Education,High school or less,Good,0.46,2018
+Q4H,Education,High school or less,Fair,0.24,2018
+Q4H,Education,High school or less,Poor,0.07,2018
+Q4H,Education,High school or less,Don't know enough about it in order to say,0.08,2018
+Q4H,Education,High school or less,Refused,0.01,2018
+Q6,Education,High school or less,Great influence,0.1,2018
+Q6,Education,High school or less,Moderate influence,0.25,2018
+Q6,Education,High school or less,A little influence,0.3,2018
+Q6,Education,High school or less,No influence at all,0.33,2018
+Q6,Education,High school or less,Don't know,0.01,2018
+Q6,Education,High school or less,Refused,0,2018
+Q9,Education,High school or less,Very often,0.79,2018
+Q9,Education,High school or less,Fairly often,0.02,2018
+Q9,Education,High school or less,Sometimes,0.07,2018
+Q9,Education,High school or less,Almost never,0.03,2018
+Q9,Education,High school or less,Never at all,0.07,2018
+Q9,Education,High school or less,Don't know,0.01,2018
+Q9,Education,High school or less,Refused,0,2018
+Q57,Education,High school or less,"Single, never married",0.32,2018
+Q57,Education,High school or less,Married or civil union,0.38,2018
+Q57,Education,High school or less,Living with partner,0.05,2018
+Q57,Education,High school or less,Separated,0.01,2018
+Q57,Education,High school or less,Divorced,0.09,2018
+Q57,Education,High school or less,Widowed,0.14,2018
+Q57,Education,High school or less,Refused,0.01,2018
+Q60,Education,High school or less,One,0.26,2018
+Q60,Education,High school or less,Two,0.36,2018
+Q60,Education,High school or less,Three,0.28,2018
+Q60,Education,High school or less,Four or more,0.09,2018
+Q60,Education,High school or less,Refused,0,2018
+Q11,Education,High school or less,I own my home,0.57,2018
+Q11,Education,High school or less,I rent my home,0.28,2018
+Q11,Education,High school or less,I live with family or friends who own,0.13,2018
+Q11,Education,High school or less,I live with family or friends who rent,0,2018
+Q11,Education,High school or less,Vol: I live in a Retirement Community/Senior Care,0.01,2018
+Q11,Education,High school or less,Other,0,2018
+Q11,Education,High school or less,Refused,0,2018
+MOVEYEAR,Education,High school or less,Within the last 3 years,0.18,2018
+MOVEYEAR,Education,High school or less,4 to 10 years ago,0.26,2018
+MOVEYEAR,Education,High school or less,11 to 19 years ago,0.13,2018
+MOVEYEAR,Education,High school or less,20 or more years ago,0.41,2018
+MOVEYEAR,Education,High school or less,Refused,0.01,2018
+Q17A,Education,High school or less,Strongly agree,0.42,2018
+Q17A,Education,High school or less,Somewhat agree,0.27,2018
+Q17A,Education,High school or less,Somewhat disagree,0.18,2018
+Q17A,Education,High school or less,Strongly disagree,0.1,2018
+Q17A,Education,High school or less,Don't know,0,2018
+Q17A,Education,High school or less,Refused,0.03,2018
+Q17B,Education,High school or less,Strongly agree,0.48,2018
+Q17B,Education,High school or less,Somewhat agree,0.22,2018
+Q17B,Education,High school or less,Somewhat disagree,0.12,2018
+Q17B,Education,High school or less,Strongly disagree,0.15,2018
+Q17B,Education,High school or less,Don't know,0,2018
+Q17B,Education,High school or less,Refused,0.03,2018
+Q17C,Education,High school or less,Strongly agree,0.28,2018
+Q17C,Education,High school or less,Somewhat agree,0.32,2018
+Q17C,Education,High school or less,Somewhat disagree,0.22,2018
+Q17C,Education,High school or less,Strongly disagree,0.18,2018
+Q17C,Education,High school or less,Don't know,0,2018
+Q17C,Education,High school or less,Refused,0,2018
+Q17E,Education,High school or less,Strongly agree,0.19,2018
+Q17E,Education,High school or less,Somewhat agree,0.45,2018
+Q17E,Education,High school or less,Somewhat disagree,0.08,2018
+Q17E,Education,High school or less,Strongly disagree,0.28,2018
+Q17E,Education,High school or less,Don't know,0,2018
+Q17E,Education,High school or less,Refused,0,2018
+Q17F,Education,High school or less,Strongly agree,0.08,2018
+Q17F,Education,High school or less,Somewhat agree,0.08,2018
+Q17F,Education,High school or less,Somewhat disagree,0.18,2018
+Q17F,Education,High school or less,Strongly disagree,0.64,2018
+Q17F,Education,High school or less,Don't know,0,2018
+Q17F,Education,High school or less,Refused,0.03,2018
+Q17G,Education,High school or less,Strongly agree,0.47,2018
+Q17G,Education,High school or less,Somewhat agree,0.43,2018
+Q17G,Education,High school or less,Somewhat disagree,0.03,2018
+Q17G,Education,High school or less,Strongly disagree,0.02,2018
+Q17G,Education,High school or less,Don't know,0.02,2018
+Q17G,Education,High school or less,Refused,0.03,2018
+Q17H,Education,High school or less,Strongly agree,0.28,2018
+Q17H,Education,High school or less,Somewhat agree,0.51,2018
+Q17H,Education,High school or less,Somewhat disagree,0.14,2018
+Q17H,Education,High school or less,Strongly disagree,0.03,2018
+Q17H,Education,High school or less,Don't know,0.04,2018
+Q17H,Education,High school or less,Refused,0,2018
+Q17I,Education,High school or less,Strongly agree,0.25,2018
+Q17I,Education,High school or less,Somewhat agree,0.52,2018
+Q17I,Education,High school or less,Somewhat disagree,0.15,2018
+Q17I,Education,High school or less,Strongly disagree,0.02,2018
+Q17I,Education,High school or less,Don't know,0.07,2018
+Q17I,Education,High school or less,Refused,0,2018
+Q19,Education,High school or less,Excellent,0.16,2018
+Q19,Education,High school or less,Very good,0.29,2018
+Q19,Education,High school or less,Good,0.33,2018
+Q19,Education,High school or less,Fair,0.2,2018
+Q19,Education,High school or less,Poor,0.02,2018
+Q19,Education,High school or less,Don't know,0,2018
+Q19,Education,High school or less,Refused,0,2018
+Q20,Education,High school or less,Not at all satisfied,0,2018
+Q20,Education,High school or less,Only a little bit satisfied,0.12,2018
+Q20,Education,High school or less,Somewhat satisfied,0.34,2018
+Q20,Education,High school or less,Mostly satisfied,0.32,2018
+Q20,Education,High school or less,Completely satisfied,0.22,2018
+Q20,Education,High school or less,Don't know,0,2018
+Q20,Education,High school or less,Refused,0,2018
+Q21,Education,High school or less,Not at all,0.03,2018
+Q21,Education,High school or less,Only a little bit,0.22,2018
+Q21,Education,High school or less,Somewhat,0.17,2018
+Q21,Education,High school or less,Mostly,0.41,2018
+Q21,Education,High school or less,Completely,0.14,2018
+Q21,Education,High school or less,Don't know,0,2018
+Q21,Education,High school or less,Refused,0.03,2018
+Q22,Education,High school or less,Not at all,0.36,2018
+Q22,Education,High school or less,Only a little bit,0.21,2018
+Q22,Education,High school or less,Somewhat,0.23,2018
+Q22,Education,High school or less,Mostly,0.13,2018
+Q22,Education,High school or less,Completely,0.05,2018
+Q22,Education,High school or less,Don't know,0.01,2018
+Q22,Education,High school or less,Refused,0.01,2018
+Q23A,Education,High school or less,Yes,0.43,2018
+Q23A,Education,High school or less,No,0.57,2018
+Q23A,Education,High school or less,Don't know,0,2018
+Q23A,Education,High school or less,Refused,0,2018
+Q23C,Education,High school or less,Yes,0.09,2018
+Q23C,Education,High school or less,No,0.89,2018
+Q23C,Education,High school or less,Don't know,0,2018
+Q23C,Education,High school or less,Refused,0.02,2018
+Q23D,Education,High school or less,Yes,0.07,2018
+Q23D,Education,High school or less,No,0.9,2018
+Q23D,Education,High school or less,Don't know,0,2018
+Q23D,Education,High school or less,Refused,0.02,2018
+Q23E,Education,High school or less,Yes,0.12,2018
+Q23E,Education,High school or less,No,0.86,2018
+Q23E,Education,High school or less,Don't know,0,2018
+Q23E,Education,High school or less,Refused,0.02,2018
+Q26,Education,High school or less,Yes,0.94,2018
+Q26,Education,High school or less,No,0.02,2018
+Q26,Education,High school or less,Don't know,0.01,2018
+Q26,Education,High school or less,Refused,0.03,2018
+Q28,Education,High school or less,Yes,0.1,2018
+Q28,Education,High school or less,No,0.88,2018
+Q28,Education,High school or less,Don't know,0,2018
+Q28,Education,High school or less,Refused,0.03,2018
+Q29,Education,High school or less,Yes,0.21,2018
+Q29,Education,High school or less,No,0.79,2018
+Q29,Education,High school or less,Don't know,0,2018
+Q29,Education,High school or less,Refused,0,2018
+Q31,Education,High school or less,Yes,0.1,2018
+Q31,Education,High school or less,No,0.9,2018
+Q31,Education,High school or less,Don't know,0,2018
+Q31,Education,High school or less,Refused,0,2018
+Q32,Education,High school or less,Yes,0.92,2018
+Q32,Education,High school or less,No,0.08,2018
+Q32,Education,High school or less,Don't know,0,2018
+Q32,Education,High school or less,Refused,0,2018
+Q34,Education,High school or less,None,0.68,2018
+Q34,Education,High school or less,1 to 2,0.28,2018
+Q34,Education,High school or less,3 or more,0.01,2018
+Q34,Education,High school or less,Don't know,0,2018
+Q34,Education,High school or less,Refused,0.03,2018
+Q35,Education,High school or less,Within the last 6 months,0.55,2018
+Q35,Education,High school or less,More than 6 months but less than a year,0.12,2018
+Q35,Education,High school or less,More than a year but less than two years,0.12,2018
+Q35,Education,High school or less,More than two years ago,0.2,2018
+Q35,Education,High school or less,Never have gone to a dentist,0,2018
+Q35,Education,High school or less,Don't know,0,2018
+Q35,Education,High school or less,Refused,0,2018
+Q37_1,Education,High school or less,Always,0.34,2018
+Q37_1,Education,High school or less,Usually,0.16,2018
+Q37_1,Education,High school or less,Sometimes,0.31,2018
+Q37_1,Education,High school or less,Rarely,0.09,2018
+Q37_1,Education,High school or less,Never,0.04,2018
+Q37_1,Education,High school or less,Don't know,0.04,2018
+Q37_1,Education,High school or less,Refused,0,2018
+Q37_2,Education,High school or less,Not at all,0.59,2018
+Q37_2,Education,High school or less,Several days,0.26,2018
+Q37_2,Education,High school or less,More than half the days,0.07,2018
+Q37_2,Education,High school or less,Nearly every day,0.07,2018
+Q37_2,Education,High school or less,Don't know,0,2018
+Q37_2,Education,High school or less,Refused,0.01,2018
+Q37_3,Education,High school or less,Not at all,0.58,2018
+Q37_3,Education,High school or less,Several days,0.18,2018
+Q37_3,Education,High school or less,More than half the days,0.12,2018
+Q37_3,Education,High school or less,Nearly every day,0.11,2018
+Q37_3,Education,High school or less,Don't know,0.01,2018
+Q37_3,Education,High school or less,Refused,0,2018
+Q38,Education,High school or less,None,0.34,2018
+Q38,Education,High school or less,One,0.08,2018
+Q38,Education,High school or less,Two,0.11,2018
+Q38,Education,High school or less,Three,0.16,2018
+Q38,Education,High school or less,Four,0,2018
+Q38,Education,High school or less,Five,0.17,2018
+Q38,Education,High school or less,Six,0.04,2018
+Q38,Education,High school or less,Seven,0.09,2018
+Q38,Education,High school or less,Don't know,0.01,2018
+Q38,Education,High school or less,Refused,0,2018
+Q39,Education,High school or less,Yes,0.52,2018
+Q39,Education,High school or less,No,0.48,2018
+Q39,Education,High school or less,Don't know,0,2018
+Q39,Education,High school or less,Refused,0,2018
+Q44,Education,High school or less,Living comfortably,0.25,2018
+Q44,Education,High school or less,Doing alright,0.38,2018
+Q44,Education,High school or less,Just getting by,0.26,2018
+Q44,Education,High school or less,Finding it difficult,0.07,2018
+Q44,Education,High school or less,Finding it very difficult,0.05,2018
+Q44,Education,High school or less,Don't know,0,2018
+Q44,Education,High school or less,Refused,0,2018
+Q47,Education,High school or less,Yes,0.42,2018
+Q47,Education,High school or less,"No, but would like to work",0.05,2018
+Q47,Education,High school or less,"No, retired",0.31,2018
+Q47,Education,High school or less,"No, homemaker",0.1,2018
+Q47,Education,High school or less,"No, full time student",0.05,2018
+Q47,Education,High school or less,"No, disabled",0.07,2018
+Q47,Education,High school or less,"No, other",0,2018
+Q47,Education,High school or less,Refused,0,2018
+Q62,Education,High school or less,Yes,0.15,2018
+Q62,Education,High school or less,No,0.85,2018
+Q62,Education,High school or less,Don't know,0,2018
+Q62,Education,High school or less,Refused,0,2018
+Q64,Education,High school or less,Yes,0.04,2018
+Q64,Education,High school or less,No,0.96,2018
+Q64,Education,High school or less,Don't know,0,2018
+Q64,Education,High school or less,Refused,0,2018
+Q65,Education,High school or less,Yes,0.15,2018
+Q65,Education,High school or less,No,0.85,2018
+Q65,Education,High school or less,Don't know,0,2018
+Q65,Education,High school or less,Refused,0,2018
+Q66,Education,High school or less,Yes,0.85,2018
+Q66,Education,High school or less,No,0.12,2018
+Q66,Education,High school or less,Don't know,0.01,2018
+Q66,Education,High school or less,Refused,0.03,2018
+Q68,Education,High school or less,Yes,0.02,2018
+Q68,Education,High school or less,No,0.95,2018
+Q68,Education,High school or less,Don't know,0,2018
+Q68,Education,High school or less,Refused,0.03,2018
+Q69,Education,High school or less,Yes,0.03,2018
+Q69,Education,High school or less,No,0.97,2018
+Q69,Education,High school or less,Don't know,0,2018
+Q69,Education,High school or less,Refused,0,2018
+DISCRIM2,Education,High school or less,Yes,0.02,2018
+DISCRIM2,Education,High school or less,No,0.98,2018
+DISCRIM2,Education,High school or less,Don't know,0,2018
+DISCRIM2,Education,High school or less,Refused,0,2018
+Q1,Education,Some college or higher,Yes,0.81,2018
+Q1,Education,Some college or higher,No,0.19,2018
+Q1,Education,Some college or higher,Don't know,0,2018
+Q1,Education,Some college or higher,Refused,0,2018
+Q2,Education,Some college or higher,Much better,0.05,2018
+Q2,Education,Some college or higher,Somewhat better,0.12,2018
+Q2,Education,Some college or higher,About the same,0.58,2018
+Q2,Education,Some college or higher,Somewhat worse,0.23,2018
+Q2,Education,Some college or higher,Much worse,0.02,2018
+Q2,Education,Some college or higher,Don't know,0,2018
+Q2,Education,Some college or higher,Refused,0,2018
+Q4A,Education,Some college or higher,Excellent,0.07,2018
+Q4A,Education,Some college or higher,Good,0.33,2018
+Q4A,Education,Some college or higher,Fair,0.3,2018
+Q4A,Education,Some college or higher,Poor,0.16,2018
+Q4A,Education,Some college or higher,Don't know enough about it in order to say,0.14,2018
+Q4A,Education,Some college or higher,Refused,0,2018
+Q4D,Education,Some college or higher,Excellent,0.32,2018
+Q4D,Education,Some college or higher,Good,0.54,2018
+Q4D,Education,Some college or higher,Fair,0.12,2018
+Q4D,Education,Some college or higher,Poor,0.02,2018
+Q4D,Education,Some college or higher,Don't know enough about it in order to say,0,2018
+Q4D,Education,Some college or higher,Refused,0,2018
+Q4E,Education,Some college or higher,Excellent,0.07,2018
+Q4E,Education,Some college or higher,Good,0.3,2018
+Q4E,Education,Some college or higher,Fair,0.39,2018
+Q4E,Education,Some college or higher,Poor,0.09,2018
+Q4E,Education,Some college or higher,Don't know enough about it in order to say,0.15,2018
+Q4E,Education,Some college or higher,Refused,0,2018
+Q4F,Education,Some college or higher,Excellent,0.17,2018
+Q4F,Education,Some college or higher,Good,0.51,2018
+Q4F,Education,Some college or higher,Fair,0.2,2018
+Q4F,Education,Some college or higher,Poor,0.07,2018
+Q4F,Education,Some college or higher,Don't know enough about it in order to say,0.05,2018
+Q4F,Education,Some college or higher,Refused,0,2018
+Q4G,Education,Some college or higher,Excellent,0.16,2018
+Q4G,Education,Some college or higher,Good,0.45,2018
+Q4G,Education,Some college or higher,Fair,0.22,2018
+Q4G,Education,Some college or higher,Poor,0.14,2018
+Q4G,Education,Some college or higher,Don't know enough about it in order to say,0.02,2018
+Q4G,Education,Some college or higher,Refused,0,2018
+Q4H,Education,Some college or higher,Excellent,0.22,2018
+Q4H,Education,Some college or higher,Good,0.45,2018
+Q4H,Education,Some college or higher,Fair,0.26,2018
+Q4H,Education,Some college or higher,Poor,0.06,2018
+Q4H,Education,Some college or higher,Don't know enough about it in order to say,0.02,2018
+Q4H,Education,Some college or higher,Refused,0,2018
+Q6,Education,Some college or higher,Great influence,0.02,2018
+Q6,Education,Some college or higher,Moderate influence,0.24,2018
+Q6,Education,Some college or higher,A little influence,0.29,2018
+Q6,Education,Some college or higher,No influence at all,0.39,2018
+Q6,Education,Some college or higher,Don't know,0.05,2018
+Q6,Education,Some college or higher,Refused,0.01,2018
+Q9,Education,Some college or higher,Very often,0.93,2018
+Q9,Education,Some college or higher,Fairly often,0.03,2018
+Q9,Education,Some college or higher,Sometimes,0.02,2018
+Q9,Education,Some college or higher,Almost never,0,2018
+Q9,Education,Some college or higher,Never at all,0.02,2018
+Q9,Education,Some college or higher,Don't know,0,2018
+Q9,Education,Some college or higher,Refused,0,2018
+Q57,Education,Some college or higher,"Single, never married",0.2,2018
+Q57,Education,Some college or higher,Married or civil union,0.51,2018
+Q57,Education,Some college or higher,Living with partner,0.08,2018
+Q57,Education,Some college or higher,Separated,0.02,2018
+Q57,Education,Some college or higher,Divorced,0.07,2018
+Q57,Education,Some college or higher,Widowed,0.13,2018
+Q57,Education,Some college or higher,Refused,0,2018
+Q60,Education,Some college or higher,One,0.21,2018
+Q60,Education,Some college or higher,Two,0.61,2018
+Q60,Education,Some college or higher,Three,0.07,2018
+Q60,Education,Some college or higher,Four or more,0.1,2018
+Q60,Education,Some college or higher,Refused,0.01,2018
+Q11,Education,Some college or higher,I own my home,0.69,2018
+Q11,Education,Some college or higher,I rent my home,0.27,2018
+Q11,Education,Some college or higher,I live with family or friends who own,0.03,2018
+Q11,Education,Some college or higher,I live with family or friends who rent,0,2018
+Q11,Education,Some college or higher,Vol: I live in a Retirement Community/Senior Care,0,2018
+Q11,Education,Some college or higher,Other,0.01,2018
+Q11,Education,Some college or higher,Refused,0,2018
+MOVEYEAR,Education,Some college or higher,Within the last 3 years,0.23,2018
+MOVEYEAR,Education,Some college or higher,4 to 10 years ago,0.3,2018
+MOVEYEAR,Education,Some college or higher,11 to 19 years ago,0.22,2018
+MOVEYEAR,Education,Some college or higher,20 or more years ago,0.24,2018
+MOVEYEAR,Education,Some college or higher,Refused,0.01,2018
+Q17A,Education,Some college or higher,Strongly agree,0.33,2018
+Q17A,Education,Some college or higher,Somewhat agree,0.33,2018
+Q17A,Education,Some college or higher,Somewhat disagree,0.2,2018
+Q17A,Education,Some college or higher,Strongly disagree,0.13,2018
+Q17A,Education,Some college or higher,Don't know,0,2018
+Q17A,Education,Some college or higher,Refused,0,2018
+Q17B,Education,Some college or higher,Strongly agree,0.32,2018
+Q17B,Education,Some college or higher,Somewhat agree,0.25,2018
+Q17B,Education,Some college or higher,Somewhat disagree,0.19,2018
+Q17B,Education,Some college or higher,Strongly disagree,0.24,2018
+Q17B,Education,Some college or higher,Don't know,0.01,2018
+Q17B,Education,Some college or higher,Refused,0,2018
+Q17C,Education,Some college or higher,Strongly agree,0.2,2018
+Q17C,Education,Some college or higher,Somewhat agree,0.28,2018
+Q17C,Education,Some college or higher,Somewhat disagree,0.15,2018
+Q17C,Education,Some college or higher,Strongly disagree,0.34,2018
+Q17C,Education,Some college or higher,Don't know,0.03,2018
+Q17C,Education,Some college or higher,Refused,0,2018
+Q17E,Education,Some college or higher,Strongly agree,0.31,2018
+Q17E,Education,Some college or higher,Somewhat agree,0.29,2018
+Q17E,Education,Some college or higher,Somewhat disagree,0.13,2018
+Q17E,Education,Some college or higher,Strongly disagree,0.26,2018
+Q17E,Education,Some college or higher,Don't know,0,2018
+Q17E,Education,Some college or higher,Refused,0,2018
+Q17F,Education,Some college or higher,Strongly agree,0.14,2018
+Q17F,Education,Some college or higher,Somewhat agree,0.17,2018
+Q17F,Education,Some college or higher,Somewhat disagree,0.19,2018
+Q17F,Education,Some college or higher,Strongly disagree,0.48,2018
+Q17F,Education,Some college or higher,Don't know,0.01,2018
+Q17F,Education,Some college or higher,Refused,0.01,2018
+Q17G,Education,Some college or higher,Strongly agree,0.34,2018
+Q17G,Education,Some college or higher,Somewhat agree,0.46,2018
+Q17G,Education,Some college or higher,Somewhat disagree,0.14,2018
+Q17G,Education,Some college or higher,Strongly disagree,0.06,2018
+Q17G,Education,Some college or higher,Don't know,0.01,2018
+Q17G,Education,Some college or higher,Refused,0,2018
+Q17H,Education,Some college or higher,Strongly agree,0.19,2018
+Q17H,Education,Some college or higher,Somewhat agree,0.48,2018
+Q17H,Education,Some college or higher,Somewhat disagree,0.13,2018
+Q17H,Education,Some college or higher,Strongly disagree,0.17,2018
+Q17H,Education,Some college or higher,Don't know,0.03,2018
+Q17H,Education,Some college or higher,Refused,0,2018
+Q17I,Education,Some college or higher,Strongly agree,0.26,2018
+Q17I,Education,Some college or higher,Somewhat agree,0.43,2018
+Q17I,Education,Some college or higher,Somewhat disagree,0.12,2018
+Q17I,Education,Some college or higher,Strongly disagree,0.18,2018
+Q17I,Education,Some college or higher,Don't know,0.01,2018
+Q17I,Education,Some college or higher,Refused,0,2018
+Q19,Education,Some college or higher,Excellent,0.21,2018
+Q19,Education,Some college or higher,Very good,0.38,2018
+Q19,Education,Some college or higher,Good,0.3,2018
+Q19,Education,Some college or higher,Fair,0.1,2018
+Q19,Education,Some college or higher,Poor,0.01,2018
+Q19,Education,Some college or higher,Don't know,0,2018
+Q19,Education,Some college or higher,Refused,0,2018
+Q20,Education,Some college or higher,Not at all satisfied,0.02,2018
+Q20,Education,Some college or higher,Only a little bit satisfied,0.12,2018
+Q20,Education,Some college or higher,Somewhat satisfied,0.15,2018
+Q20,Education,Some college or higher,Mostly satisfied,0.46,2018
+Q20,Education,Some college or higher,Completely satisfied,0.25,2018
+Q20,Education,Some college or higher,Don't know,0,2018
+Q20,Education,Some college or higher,Refused,0.01,2018
+Q21,Education,Some college or higher,Not at all,0.02,2018
+Q21,Education,Some college or higher,Only a little bit,0.12,2018
+Q21,Education,Some college or higher,Somewhat,0.17,2018
+Q21,Education,Some college or higher,Mostly,0.34,2018
+Q21,Education,Some college or higher,Completely,0.34,2018
+Q21,Education,Some college or higher,Don't know,0,2018
+Q21,Education,Some college or higher,Refused,0,2018
+Q22,Education,Some college or higher,Not at all,0.51,2018
+Q22,Education,Some college or higher,Only a little bit,0.17,2018
+Q22,Education,Some college or higher,Somewhat,0.24,2018
+Q22,Education,Some college or higher,Mostly,0.04,2018
+Q22,Education,Some college or higher,Completely,0.04,2018
+Q22,Education,Some college or higher,Don't know,0,2018
+Q22,Education,Some college or higher,Refused,0,2018
+Q23A,Education,Some college or higher,Yes,0.31,2018
+Q23A,Education,Some college or higher,No,0.69,2018
+Q23A,Education,Some college or higher,Don't know,0,2018
+Q23A,Education,Some college or higher,Refused,0,2018
+Q23C,Education,Some college or higher,Yes,0.15,2018
+Q23C,Education,Some college or higher,No,0.84,2018
+Q23C,Education,Some college or higher,Don't know,0,2018
+Q23C,Education,Some college or higher,Refused,0.01,2018
+Q23D,Education,Some college or higher,Yes,0.04,2018
+Q23D,Education,Some college or higher,No,0.96,2018
+Q23D,Education,Some college or higher,Don't know,0,2018
+Q23D,Education,Some college or higher,Refused,0,2018
+Q23E,Education,Some college or higher,Yes,0.07,2018
+Q23E,Education,Some college or higher,No,0.93,2018
+Q23E,Education,Some college or higher,Don't know,0,2018
+Q23E,Education,Some college or higher,Refused,0,2018
+Q26,Education,Some college or higher,Yes,0.93,2018
+Q26,Education,Some college or higher,No,0.06,2018
+Q26,Education,Some college or higher,Don't know,0,2018
+Q26,Education,Some college or higher,Refused,0.01,2018
+Q28,Education,Some college or higher,Yes,0.07,2018
+Q28,Education,Some college or higher,No,0.93,2018
+Q28,Education,Some college or higher,Don't know,0,2018
+Q28,Education,Some college or higher,Refused,0,2018
+Q29,Education,Some college or higher,Yes,0.23,2018
+Q29,Education,Some college or higher,No,0.77,2018
+Q29,Education,Some college or higher,Don't know,0,2018
+Q29,Education,Some college or higher,Refused,0,2018
+Q31,Education,Some college or higher,Yes,0.12,2018
+Q31,Education,Some college or higher,No,0.88,2018
+Q31,Education,Some college or higher,Don't know,0,2018
+Q31,Education,Some college or higher,Refused,0,2018
+Q32,Education,Some college or higher,Yes,0.84,2018
+Q32,Education,Some college or higher,No,0.15,2018
+Q32,Education,Some college or higher,Don't know,0.01,2018
+Q32,Education,Some college or higher,Refused,0,2018
+Q34,Education,Some college or higher,None,0.68,2018
+Q34,Education,Some college or higher,1 to 2,0.27,2018
+Q34,Education,Some college or higher,3 or more,0.06,2018
+Q34,Education,Some college or higher,Don't know,0,2018
+Q34,Education,Some college or higher,Refused,0,2018
+Q35,Education,Some college or higher,Within the last 6 months,0.54,2018
+Q35,Education,Some college or higher,More than 6 months but less than a year,0.17,2018
+Q35,Education,Some college or higher,More than a year but less than two years,0.16,2018
+Q35,Education,Some college or higher,More than two years ago,0.12,2018
+Q35,Education,Some college or higher,Never have gone to a dentist,0.01,2018
+Q35,Education,Some college or higher,Don't know,0,2018
+Q35,Education,Some college or higher,Refused,0,2018
+Q37_1,Education,Some college or higher,Always,0.5,2018
+Q37_1,Education,Some college or higher,Usually,0.32,2018
+Q37_1,Education,Some college or higher,Sometimes,0.14,2018
+Q37_1,Education,Some college or higher,Rarely,0.04,2018
+Q37_1,Education,Some college or higher,Never,0.01,2018
+Q37_1,Education,Some college or higher,Don't know,0,2018
+Q37_1,Education,Some college or higher,Refused,0.01,2018
+Q37_2,Education,Some college or higher,Not at all,0.7,2018
+Q37_2,Education,Some college or higher,Several days,0.17,2018
+Q37_2,Education,Some college or higher,More than half the days,0.03,2018
+Q37_2,Education,Some college or higher,Nearly every day,0.1,2018
+Q37_2,Education,Some college or higher,Don't know,0.01,2018
+Q37_2,Education,Some college or higher,Refused,0,2018
+Q37_3,Education,Some college or higher,Not at all,0.72,2018
+Q37_3,Education,Some college or higher,Several days,0.21,2018
+Q37_3,Education,Some college or higher,More than half the days,0.03,2018
+Q37_3,Education,Some college or higher,Nearly every day,0.04,2018
+Q37_3,Education,Some college or higher,Don't know,0,2018
+Q37_3,Education,Some college or higher,Refused,0,2018
+Q38,Education,Some college or higher,None,0.17,2018
+Q38,Education,Some college or higher,One,0.07,2018
+Q38,Education,Some college or higher,Two,0.12,2018
+Q38,Education,Some college or higher,Three,0.26,2018
+Q38,Education,Some college or higher,Four,0.16,2018
+Q38,Education,Some college or higher,Five,0.11,2018
+Q38,Education,Some college or higher,Six,0.07,2018
+Q38,Education,Some college or higher,Seven,0.05,2018
+Q38,Education,Some college or higher,Don't know,0,2018
+Q38,Education,Some college or higher,Refused,0,2018
+Q39,Education,Some college or higher,Yes,0.49,2018
+Q39,Education,Some college or higher,No,0.5,2018
+Q39,Education,Some college or higher,Don't know,0.01,2018
+Q39,Education,Some college or higher,Refused,0,2018
+Q44,Education,Some college or higher,Living comfortably,0.3,2018
+Q44,Education,Some college or higher,Doing alright,0.42,2018
+Q44,Education,Some college or higher,Just getting by,0.21,2018
+Q44,Education,Some college or higher,Finding it difficult,0.07,2018
+Q44,Education,Some college or higher,Finding it very difficult,0,2018
+Q44,Education,Some college or higher,Don't know,0,2018
+Q44,Education,Some college or higher,Refused,0,2018
+Q47,Education,Some college or higher,Yes,0.74,2018
+Q47,Education,Some college or higher,"No, but would like to work",0.02,2018
+Q47,Education,Some college or higher,"No, retired",0.16,2018
+Q47,Education,Some college or higher,"No, homemaker",0.02,2018
+Q47,Education,Some college or higher,"No, full time student",0,2018
+Q47,Education,Some college or higher,"No, disabled",0.05,2018
+Q47,Education,Some college or higher,"No, other",0.01,2018
+Q47,Education,Some college or higher,Refused,0.01,2018
+Q62,Education,Some college or higher,Yes,0.09,2018
+Q62,Education,Some college or higher,No,0.91,2018
+Q62,Education,Some college or higher,Don't know,0,2018
+Q62,Education,Some college or higher,Refused,0,2018
+Q64,Education,Some college or higher,Yes,0.09,2018
+Q64,Education,Some college or higher,No,0.9,2018
+Q64,Education,Some college or higher,Don't know,0.01,2018
+Q64,Education,Some college or higher,Refused,0,2018
+Q65,Education,Some college or higher,Yes,0.07,2018
+Q65,Education,Some college or higher,No,0.93,2018
+Q65,Education,Some college or higher,Don't know,0,2018
+Q65,Education,Some college or higher,Refused,0,2018
+Q66,Education,Some college or higher,Yes,0.96,2018
+Q66,Education,Some college or higher,No,0.03,2018
+Q66,Education,Some college or higher,Don't know,0,2018
+Q66,Education,Some college or higher,Refused,0.01,2018
+Q68,Education,Some college or higher,Yes,0.13,2018
+Q68,Education,Some college or higher,No,0.87,2018
+Q68,Education,Some college or higher,Don't know,0,2018
+Q68,Education,Some college or higher,Refused,0,2018
+Q69,Education,Some college or higher,Yes,0.06,2018
+Q69,Education,Some college or higher,No,0.94,2018
+Q69,Education,Some college or higher,Don't know,0,2018
+Q69,Education,Some college or higher,Refused,0,2018
+DISCRIM2,Education,Some college or higher,Yes,0.09,2018
+DISCRIM2,Education,Some college or higher,No,0.91,2018
+DISCRIM2,Education,Some college or higher,Don't know,0,2018
+DISCRIM2,Education,Some college or higher,Refused,0,2018
+Q1,Income,<$75K,Yes,0.8,2018
+Q1,Income,<$75K,No,0.19,2018
+Q1,Income,<$75K,Don't know,0,2018
+Q1,Income,<$75K,Refused,0.01,2018
+Q2,Income,<$75K,Much better,0.04,2018
+Q2,Income,<$75K,Somewhat better,0.09,2018
+Q2,Income,<$75K,About the same,0.57,2018
+Q2,Income,<$75K,Somewhat worse,0.25,2018
+Q2,Income,<$75K,Much worse,0.02,2018
+Q2,Income,<$75K,Don't know,0.01,2018
+Q2,Income,<$75K,Refused,0.02,2018
+Q4A,Income,<$75K,Excellent,0.07,2018
+Q4A,Income,<$75K,Good,0.42,2018
+Q4A,Income,<$75K,Fair,0.24,2018
+Q4A,Income,<$75K,Poor,0.18,2018
+Q4A,Income,<$75K,Don't know enough about it in order to say,0.09,2018
+Q4A,Income,<$75K,Refused,0,2018
+Q4D,Income,<$75K,Excellent,0.26,2018
+Q4D,Income,<$75K,Good,0.52,2018
+Q4D,Income,<$75K,Fair,0.13,2018
+Q4D,Income,<$75K,Poor,0.06,2018
+Q4D,Income,<$75K,Don't know enough about it in order to say,0.02,2018
+Q4D,Income,<$75K,Refused,0,2018
+Q4E,Income,<$75K,Excellent,0.08,2018
+Q4E,Income,<$75K,Good,0.36,2018
+Q4E,Income,<$75K,Fair,0.37,2018
+Q4E,Income,<$75K,Poor,0.07,2018
+Q4E,Income,<$75K,Don't know enough about it in order to say,0.12,2018
+Q4E,Income,<$75K,Refused,0,2018
+Q4F,Income,<$75K,Excellent,0.2,2018
+Q4F,Income,<$75K,Good,0.57,2018
+Q4F,Income,<$75K,Fair,0.12,2018
+Q4F,Income,<$75K,Poor,0.08,2018
+Q4F,Income,<$75K,Don't know enough about it in order to say,0.03,2018
+Q4F,Income,<$75K,Refused,0,2018
+Q4G,Income,<$75K,Excellent,0.13,2018
+Q4G,Income,<$75K,Good,0.56,2018
+Q4G,Income,<$75K,Fair,0.17,2018
+Q4G,Income,<$75K,Poor,0.09,2018
+Q4G,Income,<$75K,Don't know enough about it in order to say,0.05,2018
+Q4G,Income,<$75K,Refused,0.01,2018
+Q4H,Income,<$75K,Excellent,0.19,2018
+Q4H,Income,<$75K,Good,0.55,2018
+Q4H,Income,<$75K,Fair,0.14,2018
+Q4H,Income,<$75K,Poor,0.07,2018
+Q4H,Income,<$75K,Don't know enough about it in order to say,0.04,2018
+Q4H,Income,<$75K,Refused,0.01,2018
+Q6,Income,<$75K,Great influence,0.04,2018
+Q6,Income,<$75K,Moderate influence,0.28,2018
+Q6,Income,<$75K,A little influence,0.27,2018
+Q6,Income,<$75K,No influence at all,0.35,2018
+Q6,Income,<$75K,Don't know,0.06,2018
+Q6,Income,<$75K,Refused,0,2018
+Q9,Income,<$75K,Very often,0.88,2018
+Q9,Income,<$75K,Fairly often,0.01,2018
+Q9,Income,<$75K,Sometimes,0.07,2018
+Q9,Income,<$75K,Almost never,0.01,2018
+Q9,Income,<$75K,Never at all,0.03,2018
+Q9,Income,<$75K,Don't know,0.01,2018
+Q9,Income,<$75K,Refused,0,2018
+Q57,Income,<$75K,"Single, never married",0.21,2018
+Q57,Income,<$75K,Married or civil union,0.45,2018
+Q57,Income,<$75K,Living with partner,0.08,2018
+Q57,Income,<$75K,Separated,0.03,2018
+Q57,Income,<$75K,Divorced,0.08,2018
+Q57,Income,<$75K,Widowed,0.15,2018
+Q57,Income,<$75K,Refused,0,2018
+Q60,Income,<$75K,One,0.28,2018
+Q60,Income,<$75K,Two,0.55,2018
+Q60,Income,<$75K,Three,0.11,2018
+Q60,Income,<$75K,Four or more,0.07,2018
+Q60,Income,<$75K,Refused,0,2018
+Q11,Income,<$75K,I own my home,0.63,2018
+Q11,Income,<$75K,I rent my home,0.34,2018
+Q11,Income,<$75K,I live with family or friends who own,0.02,2018
+Q11,Income,<$75K,I live with family or friends who rent,0,2018
+Q11,Income,<$75K,Vol: I live in a Retirement Community/Senior Care,0.01,2018
+Q11,Income,<$75K,Other,0,2018
+Q11,Income,<$75K,Refused,0,2018
+MOVEYEAR,Income,<$75K,Within the last 3 years,0.26,2018
+MOVEYEAR,Income,<$75K,4 to 10 years ago,0.35,2018
+MOVEYEAR,Income,<$75K,11 to 19 years ago,0.14,2018
+MOVEYEAR,Income,<$75K,20 or more years ago,0.24,2018
+MOVEYEAR,Income,<$75K,Refused,0.01,2018
+Q17A,Income,<$75K,Strongly agree,0.41,2018
+Q17A,Income,<$75K,Somewhat agree,0.32,2018
+Q17A,Income,<$75K,Somewhat disagree,0.17,2018
+Q17A,Income,<$75K,Strongly disagree,0.1,2018
+Q17A,Income,<$75K,Don't know,0,2018
+Q17A,Income,<$75K,Refused,0,2018
+Q17B,Income,<$75K,Strongly agree,0.34,2018
+Q17B,Income,<$75K,Somewhat agree,0.33,2018
+Q17B,Income,<$75K,Somewhat disagree,0.13,2018
+Q17B,Income,<$75K,Strongly disagree,0.2,2018
+Q17B,Income,<$75K,Don't know,0,2018
+Q17B,Income,<$75K,Refused,0,2018
+Q17C,Income,<$75K,Strongly agree,0.23,2018
+Q17C,Income,<$75K,Somewhat agree,0.26,2018
+Q17C,Income,<$75K,Somewhat disagree,0.16,2018
+Q17C,Income,<$75K,Strongly disagree,0.32,2018
+Q17C,Income,<$75K,Don't know,0.02,2018
+Q17C,Income,<$75K,Refused,0,2018
+Q17E,Income,<$75K,Strongly agree,0.26,2018
+Q17E,Income,<$75K,Somewhat agree,0.41,2018
+Q17E,Income,<$75K,Somewhat disagree,0.13,2018
+Q17E,Income,<$75K,Strongly disagree,0.19,2018
+Q17E,Income,<$75K,Don't know,0.01,2018
+Q17E,Income,<$75K,Refused,0,2018
+Q17F,Income,<$75K,Strongly agree,0.16,2018
+Q17F,Income,<$75K,Somewhat agree,0.17,2018
+Q17F,Income,<$75K,Somewhat disagree,0.14,2018
+Q17F,Income,<$75K,Strongly disagree,0.53,2018
+Q17F,Income,<$75K,Don't know,0,2018
+Q17F,Income,<$75K,Refused,0,2018
+Q17G,Income,<$75K,Strongly agree,0.33,2018
+Q17G,Income,<$75K,Somewhat agree,0.53,2018
+Q17G,Income,<$75K,Somewhat disagree,0.05,2018
+Q17G,Income,<$75K,Strongly disagree,0.07,2018
+Q17G,Income,<$75K,Don't know,0.02,2018
+Q17G,Income,<$75K,Refused,0,2018
+Q17H,Income,<$75K,Strongly agree,0.23,2018
+Q17H,Income,<$75K,Somewhat agree,0.54,2018
+Q17H,Income,<$75K,Somewhat disagree,0.06,2018
+Q17H,Income,<$75K,Strongly disagree,0.1,2018
+Q17H,Income,<$75K,Don't know,0.06,2018
+Q17H,Income,<$75K,Refused,0,2018
+Q17I,Income,<$75K,Strongly agree,0.23,2018
+Q17I,Income,<$75K,Somewhat agree,0.51,2018
+Q17I,Income,<$75K,Somewhat disagree,0.1,2018
+Q17I,Income,<$75K,Strongly disagree,0.12,2018
+Q17I,Income,<$75K,Don't know,0.05,2018
+Q17I,Income,<$75K,Refused,0,2018
+Q19,Income,<$75K,Excellent,0.19,2018
+Q19,Income,<$75K,Very good,0.31,2018
+Q19,Income,<$75K,Good,0.28,2018
+Q19,Income,<$75K,Fair,0.19,2018
+Q19,Income,<$75K,Poor,0.03,2018
+Q19,Income,<$75K,Don't know,0,2018
+Q19,Income,<$75K,Refused,0,2018
+Q20,Income,<$75K,Not at all satisfied,0,2018
+Q20,Income,<$75K,Only a little bit satisfied,0.09,2018
+Q20,Income,<$75K,Somewhat satisfied,0.31,2018
+Q20,Income,<$75K,Mostly satisfied,0.4,2018
+Q20,Income,<$75K,Completely satisfied,0.2,2018
+Q20,Income,<$75K,Don't know,0,2018
+Q20,Income,<$75K,Refused,0,2018
+Q21,Income,<$75K,Not at all,0.03,2018
+Q21,Income,<$75K,Only a little bit,0.13,2018
+Q21,Income,<$75K,Somewhat,0.17,2018
+Q21,Income,<$75K,Mostly,0.38,2018
+Q21,Income,<$75K,Completely,0.28,2018
+Q21,Income,<$75K,Don't know,0,2018
+Q21,Income,<$75K,Refused,0,2018
+Q22,Income,<$75K,Not at all,0.53,2018
+Q22,Income,<$75K,Only a little bit,0.17,2018
+Q22,Income,<$75K,Somewhat,0.22,2018
+Q22,Income,<$75K,Mostly,0.06,2018
+Q22,Income,<$75K,Completely,0.02,2018
+Q22,Income,<$75K,Don't know,0,2018
+Q22,Income,<$75K,Refused,0.01,2018
+Q23A,Income,<$75K,Yes,0.38,2018
+Q23A,Income,<$75K,No,0.62,2018
+Q23A,Income,<$75K,Don't know,0,2018
+Q23A,Income,<$75K,Refused,0,2018
+Q23C,Income,<$75K,Yes,0.16,2018
+Q23C,Income,<$75K,No,0.82,2018
+Q23C,Income,<$75K,Don't know,0,2018
+Q23C,Income,<$75K,Refused,0.02,2018
+Q23D,Income,<$75K,Yes,0.08,2018
+Q23D,Income,<$75K,No,0.91,2018
+Q23D,Income,<$75K,Don't know,0,2018
+Q23D,Income,<$75K,Refused,0.02,2018
+Q23E,Income,<$75K,Yes,0.1,2018
+Q23E,Income,<$75K,No,0.88,2018
+Q23E,Income,<$75K,Don't know,0,2018
+Q23E,Income,<$75K,Refused,0.02,2018
+BMIR,Income,<$75K,Underweight,0.02,2018
+BMIR,Income,<$75K,Normal weight,0.15,2018
+BMIR,Income,<$75K,Overweight,0.47,2018
+BMIR,Income,<$75K,Obese,0.37,2018
+Q26,Income,<$75K,Yes,0.89,2018
+Q26,Income,<$75K,No,0.1,2018
+Q26,Income,<$75K,Don't know,0.01,2018
+Q26,Income,<$75K,Refused,0,2018
+Q28,Income,<$75K,Yes,0.12,2018
+Q28,Income,<$75K,No,0.88,2018
+Q28,Income,<$75K,Don't know,0,2018
+Q28,Income,<$75K,Refused,0,2018
+Q29,Income,<$75K,Yes,0.2,2018
+Q29,Income,<$75K,No,0.8,2018
+Q29,Income,<$75K,Don't know,0,2018
+Q29,Income,<$75K,Refused,0,2018
+Q31,Income,<$75K,Yes,0.17,2018
+Q31,Income,<$75K,No,0.83,2018
+Q31,Income,<$75K,Don't know,0,2018
+Q31,Income,<$75K,Refused,0,2018
+Q32,Income,<$75K,Yes,0.87,2018
+Q32,Income,<$75K,No,0.11,2018
+Q32,Income,<$75K,Don't know,0.01,2018
+Q32,Income,<$75K,Refused,0,2018
+Q34,Income,<$75K,None,0.66,2018
+Q34,Income,<$75K,1 to 2,0.32,2018
+Q34,Income,<$75K,3 or more,0.02,2018
+Q34,Income,<$75K,Don't know,0,2018
+Q34,Income,<$75K,Refused,0,2018
+Q35,Income,<$75K,Within the last 6 months,0.52,2018
+Q35,Income,<$75K,More than 6 months but less than a year,0.19,2018
+Q35,Income,<$75K,More than a year but less than two years,0.08,2018
+Q35,Income,<$75K,More than two years ago,0.2,2018
+Q35,Income,<$75K,Never have gone to a dentist,0.02,2018
+Q35,Income,<$75K,Don't know,0,2018
+Q35,Income,<$75K,Refused,0,2018
+Q37_1,Income,<$75K,Always,0.39,2018
+Q37_1,Income,<$75K,Usually,0.29,2018
+Q37_1,Income,<$75K,Sometimes,0.2,2018
+Q37_1,Income,<$75K,Rarely,0.06,2018
+Q37_1,Income,<$75K,Never,0.03,2018
+Q37_1,Income,<$75K,Don't know,0.03,2018
+Q37_1,Income,<$75K,Refused,0,2018
+Q37_2,Income,<$75K,Not at all,0.66,2018
+Q37_2,Income,<$75K,Several days,0.19,2018
+Q37_2,Income,<$75K,More than half the days,0.08,2018
+Q37_2,Income,<$75K,Nearly every day,0.06,2018
+Q37_2,Income,<$75K,Don't know,0.01,2018
+Q37_2,Income,<$75K,Refused,0.01,2018
+Q37_3,Income,<$75K,Not at all,0.71,2018
+Q37_3,Income,<$75K,Several days,0.19,2018
+Q37_3,Income,<$75K,More than half the days,0.04,2018
+Q37_3,Income,<$75K,Nearly every day,0.07,2018
+Q37_3,Income,<$75K,Don't know,0,2018
+Q37_3,Income,<$75K,Refused,0,2018
+Q38,Income,<$75K,None,0.2,2018
+Q38,Income,<$75K,One,0.08,2018
+Q38,Income,<$75K,Two,0.12,2018
+Q38,Income,<$75K,Three,0.22,2018
+Q38,Income,<$75K,Four,0.1,2018
+Q38,Income,<$75K,Five,0.13,2018
+Q38,Income,<$75K,Six,0.08,2018
+Q38,Income,<$75K,Seven,0.08,2018
+Q38,Income,<$75K,Don't know,0,2018
+Q38,Income,<$75K,Refused,0,2018
+Q39,Income,<$75K,Yes,0.63,2018
+Q39,Income,<$75K,No,0.37,2018
+Q39,Income,<$75K,Don't know,0,2018
+Q39,Income,<$75K,Refused,0,2018
+Q44,Income,<$75K,Living comfortably,0.16,2018
+Q44,Income,<$75K,Doing alright,0.47,2018
+Q44,Income,<$75K,Just getting by,0.23,2018
+Q44,Income,<$75K,Finding it difficult,0.11,2018
+Q44,Income,<$75K,Finding it very difficult,0.04,2018
+Q44,Income,<$75K,Don't know,0,2018
+Q44,Income,<$75K,Refused,0,2018
+Q47,Income,<$75K,Yes,0.56,2018
+Q47,Income,<$75K,"No, but would like to work",0.02,2018
+Q47,Income,<$75K,"No, retired",0.26,2018
+Q47,Income,<$75K,"No, homemaker",0.09,2018
+Q47,Income,<$75K,"No, full time student",0,2018
+Q47,Income,<$75K,"No, disabled",0.07,2018
+Q47,Income,<$75K,"No, other",0.01,2018
+Q47,Income,<$75K,Refused,0,2018
+Q62,Income,<$75K,Yes,0.15,2018
+Q62,Income,<$75K,No,0.85,2018
+Q62,Income,<$75K,Don't know,0,2018
+Q62,Income,<$75K,Refused,0,2018
+Q64,Income,<$75K,Yes,0.13,2018
+Q64,Income,<$75K,No,0.87,2018
+Q64,Income,<$75K,Don't know,0,2018
+Q64,Income,<$75K,Refused,0,2018
+Q65,Income,<$75K,Yes,0.12,2018
+Q65,Income,<$75K,No,0.88,2018
+Q65,Income,<$75K,Don't know,0,2018
+Q65,Income,<$75K,Refused,0,2018
+Q66,Income,<$75K,Yes,0.91,2018
+Q66,Income,<$75K,No,0.09,2018
+Q66,Income,<$75K,Don't know,0,2018
+Q66,Income,<$75K,Refused,0,2018
+Q68,Income,<$75K,Yes,0.11,2018
+Q68,Income,<$75K,No,0.89,2018
+Q68,Income,<$75K,Don't know,0,2018
+Q68,Income,<$75K,Refused,0,2018
+Q69,Income,<$75K,Yes,0.08,2018
+Q69,Income,<$75K,No,0.92,2018
+Q69,Income,<$75K,Don't know,0,2018
+Q69,Income,<$75K,Refused,0,2018
+DISCRIM2,Income,<$75K,Yes,0.09,2018
+DISCRIM2,Income,<$75K,No,0.91,2018
+DISCRIM2,Income,<$75K,Don't know,0,2018
+DISCRIM2,Income,<$75K,Refused,0,2018
+Q1,Income,$75K+,Yes,0.84,2018
+Q1,Income,$75K+,No,0.15,2018
+Q1,Income,$75K+,Don't know,0.01,2018
+Q1,Income,$75K+,Refused,0,2018
+Q2,Income,$75K+,Much better,0.05,2018
+Q2,Income,$75K+,Somewhat better,0.12,2018
+Q2,Income,$75K+,About the same,0.61,2018
+Q2,Income,$75K+,Somewhat worse,0.21,2018
+Q2,Income,$75K+,Much worse,0,2018
+Q2,Income,$75K+,Don't know,0,2018
+Q2,Income,$75K+,Refused,0,2018
+Q4A,Income,$75K+,Excellent,0.04,2018
+Q4A,Income,$75K+,Good,0.35,2018
+Q4A,Income,$75K+,Fair,0.42,2018
+Q4A,Income,$75K+,Poor,0.07,2018
+Q4A,Income,$75K+,Don't know enough about it in order to say,0.12,2018
+Q4A,Income,$75K+,Refused,0,2018
+Q4D,Income,$75K+,Excellent,0.32,2018
+Q4D,Income,$75K+,Good,0.57,2018
+Q4D,Income,$75K+,Fair,0.12,2018
+Q4D,Income,$75K+,Poor,0,2018
+Q4D,Income,$75K+,Don't know enough about it in order to say,0,2018
+Q4D,Income,$75K+,Refused,0,2018
+Q4E,Income,$75K+,Excellent,0.04,2018
+Q4E,Income,$75K+,Good,0.36,2018
+Q4E,Income,$75K+,Fair,0.38,2018
+Q4E,Income,$75K+,Poor,0.13,2018
+Q4E,Income,$75K+,Don't know enough about it in order to say,0.09,2018
+Q4E,Income,$75K+,Refused,0,2018
+Q4F,Income,$75K+,Excellent,0.16,2018
+Q4F,Income,$75K+,Good,0.51,2018
+Q4F,Income,$75K+,Fair,0.27,2018
+Q4F,Income,$75K+,Poor,0,2018
+Q4F,Income,$75K+,Don't know enough about it in order to say,0.05,2018
+Q4F,Income,$75K+,Refused,0,2018
+Q4G,Income,$75K+,Excellent,0.18,2018
+Q4G,Income,$75K+,Good,0.44,2018
+Q4G,Income,$75K+,Fair,0.3,2018
+Q4G,Income,$75K+,Poor,0.08,2018
+Q4G,Income,$75K+,Don't know enough about it in order to say,0,2018
+Q4G,Income,$75K+,Refused,0,2018
+Q4H,Income,$75K+,Excellent,0.18,2018
+Q4H,Income,$75K+,Good,0.37,2018
+Q4H,Income,$75K+,Fair,0.37,2018
+Q4H,Income,$75K+,Poor,0.06,2018
+Q4H,Income,$75K+,Don't know enough about it in order to say,0.02,2018
+Q4H,Income,$75K+,Refused,0,2018
+Q6,Income,$75K+,Great influence,0.04,2018
+Q6,Income,$75K+,Moderate influence,0.21,2018
+Q6,Income,$75K+,A little influence,0.34,2018
+Q6,Income,$75K+,No influence at all,0.41,2018
+Q6,Income,$75K+,Don't know,0,2018
+Q6,Income,$75K+,Refused,0,2018
+Q9,Income,$75K+,Very often,0.9,2018
+Q9,Income,$75K+,Fairly often,0.05,2018
+Q9,Income,$75K+,Sometimes,0.01,2018
+Q9,Income,$75K+,Almost never,0.03,2018
+Q9,Income,$75K+,Never at all,0.02,2018
+Q9,Income,$75K+,Don't know,0,2018
+Q9,Income,$75K+,Refused,0,2018
+Q57,Income,$75K+,"Single, never married",0.24,2018
+Q57,Income,$75K+,Married or civil union,0.56,2018
+Q57,Income,$75K+,Living with partner,0.09,2018
+Q57,Income,$75K+,Separated,0,2018
+Q57,Income,$75K+,Divorced,0.04,2018
+Q57,Income,$75K+,Widowed,0.07,2018
+Q57,Income,$75K+,Refused,0.01,2018
+Q60,Income,$75K+,One,0.12,2018
+Q60,Income,$75K+,Two,0.58,2018
+Q60,Income,$75K+,Three,0.22,2018
+Q60,Income,$75K+,Four or more,0.08,2018
+Q60,Income,$75K+,Refused,0,2018
+Q11,Income,$75K+,I own my home,0.58,2018
+Q11,Income,$75K+,I rent my home,0.25,2018
+Q11,Income,$75K+,I live with family or friends who own,0.15,2018
+Q11,Income,$75K+,I live with family or friends who rent,0,2018
+Q11,Income,$75K+,Vol: I live in a Retirement Community/Senior Care,0,2018
+Q11,Income,$75K+,Other,0.02,2018
+Q11,Income,$75K+,Refused,0,2018
+MOVEYEAR,Income,$75K+,Within the last 3 years,0.23,2018
+MOVEYEAR,Income,$75K+,4 to 10 years ago,0.27,2018
+MOVEYEAR,Income,$75K+,11 to 19 years ago,0.23,2018
+MOVEYEAR,Income,$75K+,20 or more years ago,0.26,2018
+MOVEYEAR,Income,$75K+,Refused,0,2018
+Q17A,Income,$75K+,Strongly agree,0.33,2018
+Q17A,Income,$75K+,Somewhat agree,0.34,2018
+Q17A,Income,$75K+,Somewhat disagree,0.2,2018
+Q17A,Income,$75K+,Strongly disagree,0.13,2018
+Q17A,Income,$75K+,Don't know,0,2018
+Q17A,Income,$75K+,Refused,0,2018
+Q17B,Income,$75K+,Strongly agree,0.35,2018
+Q17B,Income,$75K+,Somewhat agree,0.2,2018
+Q17B,Income,$75K+,Somewhat disagree,0.22,2018
+Q17B,Income,$75K+,Strongly disagree,0.23,2018
+Q17B,Income,$75K+,Don't know,0,2018
+Q17B,Income,$75K+,Refused,0,2018
+Q17C,Income,$75K+,Strongly agree,0.25,2018
+Q17C,Income,$75K+,Somewhat agree,0.32,2018
+Q17C,Income,$75K+,Somewhat disagree,0.21,2018
+Q17C,Income,$75K+,Strongly disagree,0.22,2018
+Q17C,Income,$75K+,Don't know,0,2018
+Q17C,Income,$75K+,Refused,0,2018
+Q17E,Income,$75K+,Strongly agree,0.35,2018
+Q17E,Income,$75K+,Somewhat agree,0.25,2018
+Q17E,Income,$75K+,Somewhat disagree,0.11,2018
+Q17E,Income,$75K+,Strongly disagree,0.3,2018
+Q17E,Income,$75K+,Don't know,0,2018
+Q17E,Income,$75K+,Refused,0,2018
+Q17F,Income,$75K+,Strongly agree,0.09,2018
+Q17F,Income,$75K+,Somewhat agree,0.13,2018
+Q17F,Income,$75K+,Somewhat disagree,0.2,2018
+Q17F,Income,$75K+,Strongly disagree,0.58,2018
+Q17F,Income,$75K+,Don't know,0,2018
+Q17F,Income,$75K+,Refused,0,2018
+Q17G,Income,$75K+,Strongly agree,0.38,2018
+Q17G,Income,$75K+,Somewhat agree,0.44,2018
+Q17G,Income,$75K+,Somewhat disagree,0.16,2018
+Q17G,Income,$75K+,Strongly disagree,0.03,2018
+Q17G,Income,$75K+,Don't know,0,2018
+Q17G,Income,$75K+,Refused,0,2018
+Q17H,Income,$75K+,Strongly agree,0.15,2018
+Q17H,Income,$75K+,Somewhat agree,0.51,2018
+Q17H,Income,$75K+,Somewhat disagree,0.22,2018
+Q17H,Income,$75K+,Strongly disagree,0.13,2018
+Q17H,Income,$75K+,Don't know,0,2018
+Q17H,Income,$75K+,Refused,0,2018
+Q17I,Income,$75K+,Strongly agree,0.16,2018
+Q17I,Income,$75K+,Somewhat agree,0.54,2018
+Q17I,Income,$75K+,Somewhat disagree,0.17,2018
+Q17I,Income,$75K+,Strongly disagree,0.13,2018
+Q17I,Income,$75K+,Don't know,0,2018
+Q17I,Income,$75K+,Refused,0,2018
+Q19,Income,$75K+,Excellent,0.2,2018
+Q19,Income,$75K+,Very good,0.37,2018
+Q19,Income,$75K+,Good,0.38,2018
+Q19,Income,$75K+,Fair,0.04,2018
+Q19,Income,$75K+,Poor,0.01,2018
+Q19,Income,$75K+,Don't know,0,2018
+Q19,Income,$75K+,Refused,0,2018
+Q20,Income,$75K+,Not at all satisfied,0.04,2018
+Q20,Income,$75K+,Only a little bit satisfied,0.18,2018
+Q20,Income,$75K+,Somewhat satisfied,0.1,2018
+Q20,Income,$75K+,Mostly satisfied,0.41,2018
+Q20,Income,$75K+,Completely satisfied,0.27,2018
+Q20,Income,$75K+,Don't know,0,2018
+Q20,Income,$75K+,Refused,0,2018
+Q21,Income,$75K+,Not at all,0,2018
+Q21,Income,$75K+,Only a little bit,0.2,2018
+Q21,Income,$75K+,Somewhat,0.19,2018
+Q21,Income,$75K+,Mostly,0.37,2018
+Q21,Income,$75K+,Completely,0.24,2018
+Q21,Income,$75K+,Don't know,0,2018
+Q21,Income,$75K+,Refused,0,2018
+Q22,Income,$75K+,Not at all,0.34,2018
+Q22,Income,$75K+,Only a little bit,0.2,2018
+Q22,Income,$75K+,Somewhat,0.29,2018
+Q22,Income,$75K+,Mostly,0.11,2018
+Q22,Income,$75K+,Completely,0.06,2018
+Q22,Income,$75K+,Don't know,0,2018
+Q22,Income,$75K+,Refused,0,2018
+Q23A,Income,$75K+,Yes,0.29,2018
+Q23A,Income,$75K+,No,0.71,2018
+Q23A,Income,$75K+,Don't know,0,2018
+Q23A,Income,$75K+,Refused,0,2018
+Q23C,Income,$75K+,Yes,0.11,2018
+Q23C,Income,$75K+,No,0.89,2018
+Q23C,Income,$75K+,Don't know,0,2018
+Q23C,Income,$75K+,Refused,0,2018
+Q23D,Income,$75K+,Yes,0.03,2018
+Q23D,Income,$75K+,No,0.97,2018
+Q23D,Income,$75K+,Don't know,0,2018
+Q23D,Income,$75K+,Refused,0,2018
+Q23E,Income,$75K+,Yes,0.09,2018
+Q23E,Income,$75K+,No,0.91,2018
+Q23E,Income,$75K+,Don't know,0,2018
+Q23E,Income,$75K+,Refused,0,2018
+BMIR,Income,$75K+,Underweight,0,2018
+BMIR,Income,$75K+,Normal weight,0.35,2018
+BMIR,Income,$75K+,Overweight,0.37,2018
+BMIR,Income,$75K+,Obese,0.28,2018
+Q26,Income,$75K+,Yes,1,2018
+Q26,Income,$75K+,No,0,2018
+Q26,Income,$75K+,Don't know,0,2018
+Q26,Income,$75K+,Refused,0,2018
+Q28,Income,$75K+,Yes,0.06,2018
+Q28,Income,$75K+,No,0.94,2018
+Q28,Income,$75K+,Don't know,0,2018
+Q28,Income,$75K+,Refused,0,2018
+Q29,Income,$75K+,Yes,0.25,2018
+Q29,Income,$75K+,No,0.75,2018
+Q29,Income,$75K+,Don't know,0,2018
+Q29,Income,$75K+,Refused,0,2018
+Q31,Income,$75K+,Yes,0.09,2018
+Q31,Income,$75K+,No,0.91,2018
+Q31,Income,$75K+,Don't know,0,2018
+Q31,Income,$75K+,Refused,0,2018
+Q32,Income,$75K+,Yes,0.81,2018
+Q32,Income,$75K+,No,0.19,2018
+Q32,Income,$75K+,Don't know,0,2018
+Q32,Income,$75K+,Refused,0,2018
+Q34,Income,$75K+,None,0.71,2018
+Q34,Income,$75K+,1 to 2,0.22,2018
+Q34,Income,$75K+,3 or more,0.07,2018
+Q34,Income,$75K+,Don't know,0,2018
+Q34,Income,$75K+,Refused,0,2018
+Q35,Income,$75K+,Within the last 6 months,0.57,2018
+Q35,Income,$75K+,More than 6 months but less than a year,0.14,2018
+Q35,Income,$75K+,More than a year but less than two years,0.17,2018
+Q35,Income,$75K+,More than two years ago,0.12,2018
+Q35,Income,$75K+,Never have gone to a dentist,0,2018
+Q35,Income,$75K+,Don't know,0,2018
+Q35,Income,$75K+,Refused,0,2018
+Q37_1,Income,$75K+,Always,0.42,2018
+Q37_1,Income,$75K+,Usually,0.31,2018
+Q37_1,Income,$75K+,Sometimes,0.22,2018
+Q37_1,Income,$75K+,Rarely,0.05,2018
+Q37_1,Income,$75K+,Never,0,2018
+Q37_1,Income,$75K+,Don't know,0,2018
+Q37_1,Income,$75K+,Refused,0,2018
+Q37_2,Income,$75K+,Not at all,0.67,2018
+Q37_2,Income,$75K+,Several days,0.22,2018
+Q37_2,Income,$75K+,More than half the days,0,2018
+Q37_2,Income,$75K+,Nearly every day,0.11,2018
+Q37_2,Income,$75K+,Don't know,0,2018
+Q37_2,Income,$75K+,Refused,0,2018
+Q37_3,Income,$75K+,Not at all,0.59,2018
+Q37_3,Income,$75K+,Several days,0.25,2018
+Q37_3,Income,$75K+,More than half the days,0.1,2018
+Q37_3,Income,$75K+,Nearly every day,0.05,2018
+Q37_3,Income,$75K+,Don't know,0,2018
+Q37_3,Income,$75K+,Refused,0,2018
+Q38,Income,$75K+,None,0.22,2018
+Q38,Income,$75K+,One,0.04,2018
+Q38,Income,$75K+,Two,0.11,2018
+Q38,Income,$75K+,Three,0.26,2018
+Q38,Income,$75K+,Four,0.12,2018
+Q38,Income,$75K+,Five,0.15,2018
+Q38,Income,$75K+,Six,0.07,2018
+Q38,Income,$75K+,Seven,0.04,2018
+Q38,Income,$75K+,Don't know,0,2018
+Q38,Income,$75K+,Refused,0,2018
+Q39,Income,$75K+,Yes,0.43,2018
+Q39,Income,$75K+,No,0.56,2018
+Q39,Income,$75K+,Don't know,0.01,2018
+Q39,Income,$75K+,Refused,0,2018
+Q44,Income,$75K+,Living comfortably,0.33,2018
+Q44,Income,$75K+,Doing alright,0.36,2018
+Q44,Income,$75K+,Just getting by,0.29,2018
+Q44,Income,$75K+,Finding it difficult,0.03,2018
+Q44,Income,$75K+,Finding it very difficult,0,2018
+Q44,Income,$75K+,Don't know,0,2018
+Q44,Income,$75K+,Refused,0,2018
+Q47,Income,$75K+,Yes,0.71,2018
+Q47,Income,$75K+,"No, but would like to work",0.06,2018
+Q47,Income,$75K+,"No, retired",0.09,2018
+Q47,Income,$75K+,"No, homemaker",0.03,2018
+Q47,Income,$75K+,"No, full time student",0.04,2018
+Q47,Income,$75K+,"No, disabled",0.06,2018
+Q47,Income,$75K+,"No, other",0,2018
+Q47,Income,$75K+,Refused,0,2018
+Q62,Income,$75K+,Yes,0.07,2018
+Q62,Income,$75K+,No,0.93,2018
+Q62,Income,$75K+,Don't know,0,2018
+Q62,Income,$75K+,Refused,0,2018
+Q64,Income,$75K+,Yes,0.03,2018
+Q64,Income,$75K+,No,0.97,2018
+Q64,Income,$75K+,Don't know,0,2018
+Q64,Income,$75K+,Refused,0,2018
+Q65,Income,$75K+,Yes,0.07,2018
+Q65,Income,$75K+,No,0.93,2018
+Q65,Income,$75K+,Don't know,0,2018
+Q65,Income,$75K+,Refused,0,2018
+Q66,Income,$75K+,Yes,0.96,2018
+Q66,Income,$75K+,No,0.04,2018
+Q66,Income,$75K+,Don't know,0,2018
+Q66,Income,$75K+,Refused,0,2018
+Q68,Income,$75K+,Yes,0.11,2018
+Q68,Income,$75K+,No,0.89,2018
+Q68,Income,$75K+,Don't know,0,2018
+Q68,Income,$75K+,Refused,0,2018
+Q69,Income,$75K+,Yes,0.04,2018
+Q69,Income,$75K+,No,0.96,2018
+Q69,Income,$75K+,Don't know,0,2018
+Q69,Income,$75K+,Refused,0,2018
+DISCRIM2,Income,$75K+,Yes,0.05,2018
+DISCRIM2,Income,$75K+,No,0.95,2018
+DISCRIM2,Income,$75K+,Don't know,0,2018
+DISCRIM2,Income,$75K+,Refused,0,2018

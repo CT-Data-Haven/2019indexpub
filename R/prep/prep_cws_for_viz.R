@@ -2,7 +2,7 @@ source(file.path("R", "packages.R"))
 library(jsonlite)
 
 cws_wide <- read_csv(file.path("output_data", "cws", "wide", "cws_2018_all_geos_wide.csv")) %>%
-  filter(name %in% c("connecticut", "fairfield_county", "greater_hartford", "greater_new_haven", "valley"))
+  filter(name %in% c("Connecticut", "Fairfield County", "Greater Hartford", "Greater New Haven", "Valley", "Greater New London", "Greater Waterbury"))
 
 # json structure:
 # new_haven: {
@@ -16,7 +16,7 @@ group_order <- c("Total",
                  "Ages 18-34", "Ages 35-49", "Ages 50-64", "Ages 65+", 
                  "White", "Black", "Latino", "Non-white", 
                  "High school or less", "Some college or Associate's", "Bachelor's or higher", 
-                 "<$15K", "$15K-$30K", "$30K-$50K", "$50K-$75K", "$75K-$100K", "$100K-$200K", "$200K+")
+                 "<$15K", "$15K-$30K", "<$30K", "$30K-$50K", "$50K-$75K", "$30K-$75K", "$75K+", "$75K-$100K", "$100K-$200K", "$200K+")
 
 cws_split <- cws_wide %>%
   mutate_at(vars(name, category, group), as_factor) %>%

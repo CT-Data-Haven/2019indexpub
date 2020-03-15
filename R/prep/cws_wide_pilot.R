@@ -191,7 +191,8 @@ out$no_bank_account <- cws_split$no_bank_account %>%
 
 # bunch of questions with yes
 # food, housing, utility insecurity, discrim
-y_qs <- c("food_insecurity", "housing_insecurity", "utility_insecurity", "discrim_in_workplace", "discrim_by_police", "discrim_getting_service", "discrim_in_housing", "discrim_in_healthcare")
+# added 3/14: reasons for missing care
+y_qs <- c("food_insecurity", "housing_insecurity", "utility_insecurity", "discrim_in_workplace", "discrim_by_police", "discrim_getting_service", "discrim_in_housing", "discrim_in_healthcare", "cost", "insurance_not_accepted", "insurance_wont_pay", "appt_not_soon_enough", "open_hrs", "busy", "caregiving", "not_serious_enough")
 out[y_qs] <- cws_split[y_qs] %>%
   map(collapse_response, list(yes = "Yes"))
 rm(y_qs)

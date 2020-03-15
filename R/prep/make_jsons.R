@@ -29,6 +29,7 @@ srvy_meta <- googlesheets4::sheets_find("surveyq") %>%
   pull(id) %>%
   googlesheets4::read_sheet() %>%
   mutate(display = coalesce(display, clean_titles(question))) %>%
+  mutate(topic = as.factor(topic) %>% fct_relevel("health_risk_factors", "healthcare_access")) %>%
   arrange(topic, display) %>%
   group_by(topic) %>%
   mutate(code = make_abbr(topic) %>% paste0(row_number())) %>%
