@@ -2,12 +2,12 @@ source(file.path("R", "packages.R"))
 source(file.path("R", "utils", "cws_read_functions.R"))
 # source(file.path("R", "prep", "anti_xtab.R"))
 
-survey_year <- 2018
+survey_year <- 2015
 
 named_paths <- list.files(file.path("input_data", "crosstabs", survey_year), pattern = str_glue("^DataHaven{survey_year}.+\\.xlsx?$"), full.names = T) %>%
   name_paths()
 
-cws_read <- suppressWarnings(imap(named_paths, read_cws)) %>%
+cws_read <- suppressWarnings(imap(named_paths, read_cws, year = survey_year)) %>%
   map(mutate, year = survey_year)
 
 # there are some oddball categories & groups on regions e.g. EHHD has EHHD Total instead of Total

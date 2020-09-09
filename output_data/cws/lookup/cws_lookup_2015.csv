@@ -1,0 +1,109 @@
+code,question
+Q1,are you satisfied with the city or area where you live
+Q2,as a place to live is the city or area where you live getting much better getting somewhat better re
+Q3A,how responsive local government is to the needs of residents
+Q3B,the availability of the goods and services that meet your needs
+Q3C,the job done by the police to keep residents safe
+Q3D,the ability of residents to obtain suitable employment
+Q3E,as a place to raise children
+Q3F,the condition of public parks and other public recreational facilities
+Q4,over the past 12 months have you volunteered for or through an organization or helped out as a volun
+Q5,how would you describe your ability to influence localgovernment decision making would you say that 
+Q6,are you registered to vote
+Q7,during the past 12 months how often have you utilized arts and cultural resources within the area su
+Q8,do you have access to a car when you need it would you say you have access
+Q9,how long have you lived at your current address would that be
+Q10,do you own your home rent or something else
+Q11,do you live in a subsidized apartment or are you receiving rental assistance through either a state 
+Q12,when you think about your present residence would you say you are very satisfied somewhat satisfied 
+Q13,thinking ahead 10 years from now do you think that you will be living in the exact same house or apa
+Q14,if dont think they will be living in same houseapartment in 10 years 10 years from now do you think 
+Q15,if dont think they will be living in same houseapartment in 10 years and plan to own a home when do 
+Q16A,many stores banks markets or places to go are within easy walking distance of my home
+Q16B,there are safe sidewalks and crosswalks on most of the streets in my neighborhood
+Q16C,there are places to bicycle in or near my neighborhood that are safe from traffic such as on the str
+Q16D,my neighborhood has several free or low cost recreation facilities such as parks playgrounds public 
+Q16E,i do not feel safe to go on walks in my neighborhood at night
+Q16F,people in this neighborhood can be trusted
+Q16G,children and youth in my town generally have the positive role models they need around here
+Q17,if the fire station closest to your home was going to be closed down by your city or town how likely
+Q18,the next set of questions are about your health how would you rate your overall health would you say
+Q19,overall how satisfied are you with your life nowadays
+Q20,overall how happy did you feel yesterday
+Q21,overall how anxious did you feel yesterday
+Q22,overall to what extent do you have the time you need to do things that you really enjoy
+Q23A,high blood pressure or hypertension
+Q23B,high cholesterol
+Q23C,diabetes
+Q23C1,a test of a one c measures the average level of blood sugar over the past three months about how man
+Q23D,heart disease or have you ever had a heart attack
+Q23E,asthma
+Q23E1,during the past 30 days how often have you used a prescription asthma inhaler during an asthma attac
+Q23F,that you experienced a stroke
+BMI,
+Q26,do you have health insurance
+Q27,what type of health insurance do you have
+Q28,during the past 12 months was there any time when you didnt get the medical care you needed
+Q29,and was there any time during the past 12 months when you put off or postponed getting medical care 
+Q30A,you were worried about the cost
+Q30B,the doctor or hospital wouldnt accept your health insurance
+Q30C,your health plan wouldnt pay for the treatment
+Q30D,you couldnt get an appointment soon enough
+Q30E,you couldnt get there when the doctors office or clinic was open
+Q30F,you were too busy with work or other commitments to take the time
+Q30G,you didnt think the problem was serious enough
+Q30O,any other reason
+Q31,during the past 12 months was there any time you needed prescription medicines but didnt get them be
+Q32,do you have one person or place you think of as your personal doctor or health care provider
+Q33,if do not have personal doctorhealth care provider is that because you have more than one personal d
+Q34,in the past 12 months how many times did you receive care in a hospital emergency room
+Q35,when was the last time you were seen by a dentist was it
+Q36,during the last month how often have you been bothered by feeling down depressed or hopeless would y
+Q37,do you have relatives or friends who you can count on to help you when you need them or not
+Q38,in an average week how many days per week do you exercise
+Q39,in the past 12 months have you ever felt like you needed to cut down on your drinking or drug use
+Q40,have you smoked at least 100 cigarettes in your entire life 100 cigarettes = approximately 5 packs
+Q41,do you currently smoke cigarettes every day some days or not at all
+Q42,during the past 12 months have you stopped smoking cigarettes for 24 hours or longer because you wer
+Q43,have you ever tried using vapor or vape pens electronic cigarettes or ecigarettes such as blu vuse e
+Q44,during the past 30 days on how many days did you use these
+Q45,how well would you say you are managing financially these days would you say you are
+Q46,think of your parents when they were your age would you say you are better off financially than they
+Q47,if you lost all your current sources of household income including your paycheck public assistance o
+Q48,have you had a paid job in the last 30 days
+Q49,for how long have you not had a paid job
+Q50,during this time has your job been full time or part time
+Q51,if had paid parttime job in last 30 days are you working parttime by choice or would you rather have
+Q52,in total how many hours per week do you work at paying jobs
+Q53,over the past 5 years was there ever a time when you were out of work and looking for a job
+Q54,does your current job pay more less or about the same as your last job
+Q55,do you feel you have both the education and training necessary to get ahead in your job or career or
+Q56,do you feel you have both the education and training necessary to get the kind of job you want or do
+Q57,what is your primary means of transportation to work school or the place where you spend most of you
+Q58,how many minutes does it usually take to get from home to work one way
+Q59,what is your marital status
+Q60,how many children under the age of 18 are living in household
+Q61,how many children living in the household have not yet started kindergarten
+Q62,what is the number of adults 18 and older including yourself living in the household
+Q63,which of these devices do you have
+Q64,have there been times in the past 12 months when you did not have enough money to buy food that you 
+Q65,how often did this happen almost every month some months but not every month or in only 1 or 2 month
+Q66,in the last 12 months have you not had enough money to provide adequate shelter or housing for you o
+Q67,in the past 12 months did you stay home when you needed or wanted to go someplace because you had no
+Q68,in the last 12 months have you held a checking or savings account
+Q69,in the last 12 months have you obtained any of the following financial products from somewhere that 
+Q70,in the past 12 months have you had anyone deliberately vandalize try to steal or steal any property 
+Q71,in the past 12 months have you had an experience in which someone attacked you tried to take somethi
+Q72,how many times did this happen to you in the last 12 months
+Q73,were you physically injured in any way
+Q74,did you receive medical attention from a doctor or nurse for any of these injuries
+Q75,did it get reported to the police in any way
+Q76,did the police take any actions such as visiting the scene making a report looking for a suspect fil
+Q77,if attacked in the past 12 months reported to police and police took actions what actions were taken
+Q78,if attacked in the past 12 months reported to police and police took actions how satisfied were you 
+Q79,thinking of any of the experiences in which you were attacked or threatened did any of them involve 
+Q80,is english the primary language spoken in your home
+Q81,what language is the primary language spoken in your home
+Q82,were you born in united states
+Q83,many people in our community that we have talked to today are not currently us citizens some have gr
+Q84,how many years have you lived in the united states

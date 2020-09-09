@@ -19,8 +19,8 @@ name_paths <- function(paths) {
 }
 
 # from named path, read_xtabs, start cleaning levels
-read_cws <- function(path, region) {
-  rd <- read_xtabs(path) %>% 
+read_cws <- function(path, region, year = 2018) {
+  rd <- read_xtabs(path, year = year) %>% 
       mutate(x3 = str_replace(x3, "(CRCOG|CCF)", "Total") %>%
                str_remove(" Region")) %>%
       xtab2df()

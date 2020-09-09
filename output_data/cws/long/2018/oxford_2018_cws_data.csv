@@ -1,0 +1,396 @@
+code,category,group,response,value,year
+Q1,Total,Total,Yes,0.86,2018
+Q1,Total,Total,No,0.14,2018
+Q1,Total,Total,Don't know,0,2018
+Q1,Total,Total,Refused,0,2018
+Q2,Total,Total,Much better,0.08,2018
+Q2,Total,Total,Somewhat better,0.28,2018
+Q2,Total,Total,About the same,0.48,2018
+Q2,Total,Total,Somewhat worse,0.1,2018
+Q2,Total,Total,Much worse,0.06,2018
+Q2,Total,Total,Don't know,0.01,2018
+Q2,Total,Total,Refused,0,2018
+Q4A,Total,Total,Excellent,0.14,2018
+Q4A,Total,Total,Good,0.42,2018
+Q4A,Total,Total,Fair,0.26,2018
+Q4A,Total,Total,Poor,0.13,2018
+Q4A,Total,Total,Don't know enough about it in order to say,0.05,2018
+Q4A,Total,Total,Refused,0,2018
+Q4D,Total,Total,Excellent,0.31,2018
+Q4D,Total,Total,Good,0.51,2018
+Q4D,Total,Total,Fair,0.14,2018
+Q4D,Total,Total,Poor,0.02,2018
+Q4D,Total,Total,Don't know enough about it in order to say,0.01,2018
+Q4D,Total,Total,Refused,0,2018
+Q4E,Total,Total,Excellent,0.07,2018
+Q4E,Total,Total,Good,0.42,2018
+Q4E,Total,Total,Fair,0.29,2018
+Q4E,Total,Total,Poor,0.09,2018
+Q4E,Total,Total,Don't know enough about it in order to say,0.12,2018
+Q4E,Total,Total,Refused,0.01,2018
+Q4F,Total,Total,Excellent,0.38,2018
+Q4F,Total,Total,Good,0.46,2018
+Q4F,Total,Total,Fair,0.11,2018
+Q4F,Total,Total,Poor,0.02,2018
+Q4F,Total,Total,Don't know enough about it in order to say,0.02,2018
+Q4F,Total,Total,Refused,0.01,2018
+Q4G,Total,Total,Excellent,0.22,2018
+Q4G,Total,Total,Good,0.59,2018
+Q4G,Total,Total,Fair,0.13,2018
+Q4G,Total,Total,Poor,0.05,2018
+Q4G,Total,Total,Don't know enough about it in order to say,0.02,2018
+Q4G,Total,Total,Refused,0,2018
+Q4H,Total,Total,Excellent,0.3,2018
+Q4H,Total,Total,Good,0.5,2018
+Q4H,Total,Total,Fair,0.16,2018
+Q4H,Total,Total,Poor,0.04,2018
+Q4H,Total,Total,Don't know enough about it in order to say,0,2018
+Q4H,Total,Total,Refused,0,2018
+Q6,Total,Total,Great influence,0.09,2018
+Q6,Total,Total,Moderate influence,0.32,2018
+Q6,Total,Total,A little influence,0.33,2018
+Q6,Total,Total,No influence at all,0.24,2018
+Q6,Total,Total,Don't know,0.03,2018
+Q6,Total,Total,Refused,0,2018
+Q9,Total,Total,Very often,0.92,2018
+Q9,Total,Total,Fairly often,0.02,2018
+Q9,Total,Total,Sometimes,0.02,2018
+Q9,Total,Total,Almost never,0,2018
+Q9,Total,Total,Never at all,0.05,2018
+Q9,Total,Total,Don't know,0,2018
+Q9,Total,Total,Refused,0,2018
+Q57,Total,Total,"Single, never married",0.24,2018
+Q57,Total,Total,Married or civil union,0.53,2018
+Q57,Total,Total,Living with partner,0.05,2018
+Q57,Total,Total,Separated,0,2018
+Q57,Total,Total,Divorced,0.13,2018
+Q57,Total,Total,Widowed,0.05,2018
+Q57,Total,Total,Refused,0,2018
+Q60,Total,Total,One,0.21,2018
+Q60,Total,Total,Two,0.5,2018
+Q60,Total,Total,Three,0.18,2018
+Q60,Total,Total,Four or more,0.1,2018
+Q60,Total,Total,Refused,0.01,2018
+Q11,Total,Total,I own my home,0.72,2018
+Q11,Total,Total,I rent my home,0.15,2018
+Q11,Total,Total,I live with family or friends who own,0.09,2018
+Q11,Total,Total,I live with family or friends who rent,0.01,2018
+Q11,Total,Total,Vol: I live in a Retirement Community/Senior Care,0,2018
+Q11,Total,Total,Other,0,2018
+Q11,Total,Total,Refused,0.03,2018
+MOVEYEAR,Total,Total,Within the last 3 years,0.16,2018
+MOVEYEAR,Total,Total,4 to 10 years ago,0.27,2018
+MOVEYEAR,Total,Total,11 to 19 years ago,0.25,2018
+MOVEYEAR,Total,Total,20 or more years ago,0.3,2018
+MOVEYEAR,Total,Total,Refused,0.02,2018
+Q17A,Total,Total,Strongly agree,0.13,2018
+Q17A,Total,Total,Somewhat agree,0.17,2018
+Q17A,Total,Total,Somewhat disagree,0.17,2018
+Q17A,Total,Total,Strongly disagree,0.51,2018
+Q17A,Total,Total,Don't know,0.01,2018
+Q17A,Total,Total,Refused,0.01,2018
+Q17A,Total,Total,Summary: Strongly agree/Somewhat agree,0.30000000000000004,2018
+Q17B,Total,Total,Strongly agree,0.11,2018
+Q17B,Total,Total,Somewhat agree,0.22,2018
+Q17B,Total,Total,Somewhat disagree,0.09,2018
+Q17B,Total,Total,Strongly disagree,0.57,2018
+Q17B,Total,Total,Don't know,0.01,2018
+Q17B,Total,Total,Refused,0.01,2018
+Q17B,Total,Total,Summary: Strongly agree/Somewhat agree,0.33,2018
+Q17C,Total,Total,Strongly agree,0.27,2018
+Q17C,Total,Total,Somewhat agree,0.29,2018
+Q17C,Total,Total,Somewhat disagree,0.13,2018
+Q17C,Total,Total,Strongly disagree,0.29,2018
+Q17C,Total,Total,Don't know,0.02,2018
+Q17C,Total,Total,Refused,0.01,2018
+Q17C,Total,Total,Summary: Strongly agree/Somewhat agree,0.56,2018
+Q17E,Total,Total,Strongly agree,0.24,2018
+Q17E,Total,Total,Somewhat agree,0.4,2018
+Q17E,Total,Total,Somewhat disagree,0.08,2018
+Q17E,Total,Total,Strongly disagree,0.25,2018
+Q17E,Total,Total,Don't know,0.02,2018
+Q17E,Total,Total,Refused,0,2018
+Q17E,Total,Total,Summary: Strongly agree/Somewhat agree,0.64,2018
+Q17F,Total,Total,Strongly agree,0.15,2018
+Q17F,Total,Total,Somewhat agree,0.11,2018
+Q17F,Total,Total,Somewhat disagree,0.22,2018
+Q17F,Total,Total,Strongly disagree,0.51,2018
+Q17F,Total,Total,Don't know,0.01,2018
+Q17F,Total,Total,Refused,0,2018
+Q17F,Total,Total,Summary: Strongly agree/Somewhat agree,0.26,2018
+Q17G,Total,Total,Strongly agree,0.57,2018
+Q17G,Total,Total,Somewhat agree,0.34,2018
+Q17G,Total,Total,Somewhat disagree,0.04,2018
+Q17G,Total,Total,Strongly disagree,0.03,2018
+Q17G,Total,Total,Don't know,0.02,2018
+Q17G,Total,Total,Refused,0,2018
+Q17G,Total,Total,Summary: Strongly agree/Somewhat agree,0.9099999999999999,2018
+Q17H,Total,Total,Strongly agree,0.39,2018
+Q17H,Total,Total,Somewhat agree,0.43,2018
+Q17H,Total,Total,Somewhat disagree,0.1,2018
+Q17H,Total,Total,Strongly disagree,0.03,2018
+Q17H,Total,Total,Don't know,0.06,2018
+Q17H,Total,Total,Refused,0,2018
+Q17H,Total,Total,Summary: Strongly agree/Somewhat agree,0.8200000000000001,2018
+Q17I,Total,Total,Strongly agree,0.41,2018
+Q17I,Total,Total,Somewhat agree,0.34,2018
+Q17I,Total,Total,Somewhat disagree,0.16,2018
+Q17I,Total,Total,Strongly disagree,0.07,2018
+Q17I,Total,Total,Don't know,0.03,2018
+Q17I,Total,Total,Refused,0,2018
+Q17I,Total,Total,Summary: Strongly agree/Somewhat agree,0.75,2018
+Q19,Total,Total,Excellent,0.24,2018
+Q19,Total,Total,Very good,0.31,2018
+Q19,Total,Total,Good,0.32,2018
+Q19,Total,Total,Fair,0.06,2018
+Q19,Total,Total,Poor,0.05,2018
+Q19,Total,Total,Don't know,0.02,2018
+Q19,Total,Total,Refused,0,2018
+Q20,Total,Total,Not at all satisfied,0.02,2018
+Q20,Total,Total,Only a little bit satisfied,0.09,2018
+Q20,Total,Total,Somewhat satisfied,0.21,2018
+Q20,Total,Total,Mostly satisfied,0.42,2018
+Q20,Total,Total,Completely satisfied,0.25,2018
+Q20,Total,Total,Don't know,0,2018
+Q20,Total,Total,Refused,0,2018
+Q21,Total,Total,Not at all,0.03,2018
+Q21,Total,Total,Only a little bit,0.08,2018
+Q21,Total,Total,Somewhat,0.24,2018
+Q21,Total,Total,Mostly,0.34,2018
+Q21,Total,Total,Completely,0.31,2018
+Q21,Total,Total,Don't know,0.01,2018
+Q21,Total,Total,Refused,0,2018
+Q22,Total,Total,Not at all,0.46,2018
+Q22,Total,Total,Only a little bit,0.25,2018
+Q22,Total,Total,Somewhat,0.18,2018
+Q22,Total,Total,Mostly,0.06,2018
+Q22,Total,Total,Completely,0.02,2018
+Q22,Total,Total,Don't know,0.03,2018
+Q22,Total,Total,Refused,0.01,2018
+Q23A,Total,Total,Yes,0.28,2018
+Q23A,Total,Total,No,0.72,2018
+Q23A,Total,Total,Don't know,0,2018
+Q23A,Total,Total,Refused,0,2018
+Q23C,Total,Total,Yes,0.07,2018
+Q23C,Total,Total,No,0.92,2018
+Q23C,Total,Total,Don't know,0,2018
+Q23C,Total,Total,Refused,0.01,2018
+Q23D,Total,Total,Yes,0.05,2018
+Q23D,Total,Total,No,0.92,2018
+Q23D,Total,Total,Don't know,0.02,2018
+Q23D,Total,Total,Refused,0.01,2018
+Q23E,Total,Total,Yes,0.16,2018
+Q23E,Total,Total,No,0.83,2018
+Q23E,Total,Total,Don't know,0,2018
+Q23E,Total,Total,Refused,0.01,2018
+Q23E2,Total,Total,Yes,0.93,2018
+Q23E2,Total,Total,No,0.07,2018
+Q23E2,Total,Total,Don't know,0,2018
+Q23E2,Total,Total,Refused,0,2018
+Q23E2,Total,Total,Asthma Rate,0.14880000000000002,2018
+BMIR,Total,Total,Underweight,0.05,2018
+BMIR,Total,Total,Normal weight,0.38,2018
+BMIR,Total,Total,Overweight,0.35,2018
+BMIR,Total,Total,Obese,0.23,2018
+Q26,Total,Total,Yes,0.94,2018
+Q26,Total,Total,No,0.06,2018
+Q26,Total,Total,Don't know,0,2018
+Q26,Total,Total,Refused,0,2018
+Q27,Total,Total,Insurance obtained through a current or former employer or union,0.61,2018
+Q27,Total,Total,Insurance purchased directly from an insurance company,0.1,2018
+Q27,Total,Total,Medicare,0.1,2018
+Q27,Total,Total,"Medicaid, Medical Assistance, HUSKY or any kind of government-assistance plan",0.12,2018
+Q27,Total,Total,State Health Insurance Exchange such as Access Health CT or NY State of Health,0.01,2018
+Q27,Total,Total,Any other type of health insurance plan,0.08,2018
+Q27,Total,Total,Don't know,0,2018
+Q27,Total,Total,Refused,0.04,2018
+Q28,Total,Total,Yes,0.03,2018
+Q28,Total,Total,No,0.97,2018
+Q28,Total,Total,Don't know,0,2018
+Q28,Total,Total,Refused,0,2018
+Q29,Total,Total,Yes,0.19,2018
+Q29,Total,Total,No,0.81,2018
+Q29,Total,Total,Don't know,0,2018
+Q29,Total,Total,Refused,0,2018
+Q31,Total,Total,Yes,0.11,2018
+Q31,Total,Total,No,0.89,2018
+Q31,Total,Total,Don't know,0,2018
+Q31,Total,Total,Refused,0,2018
+Q32,Total,Total,Yes,0.84,2018
+Q32,Total,Total,No,0.16,2018
+Q32,Total,Total,Don't know,0,2018
+Q32,Total,Total,Refused,0,2018
+Q33,Total,Total,More than one,0.29,2018
+Q33,Total,Total,None at all,0.71,2018
+Q33,Total,Total,Don't know,0,2018
+Q33,Total,Total,Refused,0,2018
+Q34,Total,Total,None,0.74,2018
+Q34,Total,Total,1 to 2,0.24,2018
+Q34,Total,Total,3 or more,0.02,2018
+Q34,Total,Total,Don't know,0,2018
+Q34,Total,Total,Refused,0,2018
+Q35,Total,Total,Within the last 6 months,0.62,2018
+Q35,Total,Total,More than 6 months but less than a year,0.14,2018
+Q35,Total,Total,More than a year but less than two years,0.07,2018
+Q35,Total,Total,More than two years ago,0.15,2018
+Q35,Total,Total,Never have gone to a dentist,0.02,2018
+Q35,Total,Total,Don't know,0,2018
+Q35,Total,Total,Refused,0.01,2018
+Q37_1,Total,Total,Always,0.5,2018
+Q37_1,Total,Total,Usually,0.27,2018
+Q37_1,Total,Total,Sometimes,0.14,2018
+Q37_1,Total,Total,Rarely,0.03,2018
+Q37_1,Total,Total,Never,0.05,2018
+Q37_1,Total,Total,Don't know,0,2018
+Q37_1,Total,Total,Refused,0,2018
+Q37_2,Total,Total,Not at all,0.63,2018
+Q37_2,Total,Total,Several days,0.16,2018
+Q37_2,Total,Total,More than half the days,0.12,2018
+Q37_2,Total,Total,Nearly every day,0.07,2018
+Q37_2,Total,Total,Don't know,0,2018
+Q37_2,Total,Total,Refused,0.03,2018
+Q37_3,Total,Total,Not at all,0.71,2018
+Q37_3,Total,Total,Several days,0.14,2018
+Q37_3,Total,Total,More than half the days,0.06,2018
+Q37_3,Total,Total,Nearly every day,0.06,2018
+Q37_3,Total,Total,Don't know,0,2018
+Q37_3,Total,Total,Refused,0.03,2018
+Q38,Total,Total,None,0.23,2018
+Q38,Total,Total,One,0.05,2018
+Q38,Total,Total,Two,0.11,2018
+Q38,Total,Total,Three,0.21,2018
+Q38,Total,Total,Four,0.09,2018
+Q38,Total,Total,Five,0.11,2018
+Q38,Total,Total,Six,0.06,2018
+Q38,Total,Total,Seven,0.12,2018
+Q38,Total,Total,Don't know,0,2018
+Q38,Total,Total,Refused,0.03,2018
+Q39,Total,Total,Yes,0.43,2018
+Q39,Total,Total,No,0.57,2018
+Q39,Total,Total,Don't know,0,2018
+Q39,Total,Total,Refused,0,2018
+Q40,Total,Total,Every day,0.32,2018
+Q40,Total,Total,Some days,0,2018
+Q40,Total,Total,Not at all,0.68,2018
+Q40,Total,Total,Don't know,0,2018
+Q40,Total,Total,Refused,0,2018
+Q40,Total,Total,Smoking Rate,0.1376,2018
+Q42,Total,Total,Yes,0.18,2018
+Q42,Total,Total,No,0.82,2018
+Q42,Total,Total,Don't know,0,2018
+Q42,Total,Total,Refused,0,2018
+Q43,Total,Total,None,0.46,2018
+Q43,Total,Total,One to five,0.34,2018
+Q43,Total,Total,Six to twenty-nine,0,2018
+Q43,Total,Total,Everyday,0.19,2018
+Q43,Total,Total,Don't know,0,2018
+Q43,Total,Total,Refused,0,2018
+ALCOHOL,Total,Total,None,0.77,2018
+ALCOHOL,Total,Total,One to five,0.2,2018
+ALCOHOL,Total,Total,Six to ten,0.02,2018
+ALCOHOL,Total,Total,More than ten,0,2018
+ALCOHOL,Total,Total,Don't know,0.01,2018
+ALCOHOL,Total,Total,Refused,0,2018
+POT1,Total,Total,None,0.95,2018
+POT1,Total,Total,One to five,0,2018
+POT1,Total,Total,Six to ten,0,2018
+POT1,Total,Total,More than ten,0.05,2018
+POT1,Total,Total,Don't know,0,2018
+POT1,Total,Total,Refused,0,2018
+OPIOID2,Total,Total,No,0.58,2018
+OPIOID2,Total,Total,"Yes, one person",0.22,2018
+OPIOID2,Total,Total,"Yes, 2 to 4 people",0.14,2018
+OPIOID2,Total,Total,"Yes, 5 or more people",0.06,2018
+OPIOID2,Total,Total,Don't know,0,2018
+OPIOID2,Total,Total,Refused,0,2018
+OPIOID4,Total,Total,No,0.67,2018
+OPIOID4,Total,Total,"Yes, one person",0.19,2018
+OPIOID4,Total,Total,"Yes, 2 to 4 people",0.1,2018
+OPIOID4,Total,Total,"Yes, 5 or more people",0.04,2018
+OPIOID4,Total,Total,Don't know,0,2018
+OPIOID4,Total,Total,Refused,0,2018
+Q44,Total,Total,Living comfortably,0.38,2018
+Q44,Total,Total,Doing alright,0.39,2018
+Q44,Total,Total,Just getting by,0.15,2018
+Q44,Total,Total,Finding it difficult,0.04,2018
+Q44,Total,Total,Finding it very difficult,0.02,2018
+Q44,Total,Total,Don't know,0.01,2018
+Q44,Total,Total,Refused,0.01,2018
+Q47,Total,Total,Yes,0.57,2018
+Q47,Total,Total,"No, but would like to work",0.06,2018
+Q47,Total,Total,"No, retired",0.22,2018
+Q47,Total,Total,"No, homemaker",0.08,2018
+Q47,Total,Total,"No, full time student",0,2018
+Q47,Total,Total,"No, disabled",0.03,2018
+Q47,Total,Total,"No, other",0.04,2018
+Q47,Total,Total,Refused,0,2018
+Q49,Total,Total,Full time,0.8,2018
+Q49,Total,Total,Part time,0.2,2018
+Q49,Total,Total,Other,0,2018
+Q49,Total,Total,Refused,0,2018
+Q56,Total,Total,Drive myself,0.87,2018
+Q56,Total,Total,Get a ride with friends or family,0.06,2018
+Q56,Total,Total,Public bus system,0.03,2018
+Q56,Total,Total,Train or railroad,0,2018
+Q56,Total,Total,Walk,0.02,2018
+Q56,Total,Total,Bicycle,0,2018
+Q56,Total,Total,Take a taxi,0,2018
+Q56,Total,Total,Ride paratransit,0,2018
+Q56,Total,Total,Other,0.01,2018
+Q56,Total,Total,I took no trips last month/Homebound,0,2018
+Q56,Total,Total,Don't know,0.01,2018
+Q56,Total,Total,Refused,0,2018
+Q62,Total,Total,Yes,0.07,2018
+Q62,Total,Total,No,0.93,2018
+Q62,Total,Total,Don't know,0,2018
+Q62,Total,Total,Refused,0,2018
+Q64,Total,Total,Yes,0.07,2018
+Q64,Total,Total,No,0.93,2018
+Q64,Total,Total,Don't know,0,2018
+Q64,Total,Total,Refused,0,2018
+Q64_GAS,Total,Total,Yes,0.02,2018
+Q64_GAS,Total,Total,No,0.98,2018
+Q64_GAS,Total,Total,Don't know,0,2018
+Q64_GAS,Total,Total,Refused,0,2018
+Q65,Total,Total,Yes,0.09,2018
+Q65,Total,Total,No,0.91,2018
+Q65,Total,Total,Don't know,0,2018
+Q65,Total,Total,Refused,0,2018
+Q66,Total,Total,Yes,0.94,2018
+Q66,Total,Total,No,0.05,2018
+Q66,Total,Total,Don't know,0,2018
+Q66,Total,Total,Refused,0.01,2018
+Q68,Total,Total,Yes,0.14,2018
+Q68,Total,Total,No,0.86,2018
+Q68,Total,Total,Don't know,0,2018
+Q68,Total,Total,Refused,0,2018
+Q69,Total,Total,Yes,0.03,2018
+Q69,Total,Total,No,0.97,2018
+Q69,Total,Total,Don't know,0,2018
+Q69,Total,Total,Refused,0,2018
+DISCRIM2,Total,Total,Yes,0.07,2018
+DISCRIM2,Total,Total,No,0.93,2018
+DISCRIM2,Total,Total,Don't know,0,2018
+DISCRIM2,Total,Total,Refused,0,2018
+DISCRIM5,Total,Total,Yes,0.04,2018
+DISCRIM5,Total,Total,No,0.96,2018
+DISCRIM5,Total,Total,Don't know,0,2018
+DISCRIM5,Total,Total,Refused,0,2018
+Q77,Total,Total,Yes,0.99,2018
+Q77,Total,Total,No,0.01,2018
+Q77,Total,Total,Refused,0,2018
+Q79,Total,Total,Yes,0.96,2018
+Q79,Total,Total,No,0.04,2018
+Q79,Total,Total,Refused,0,2018
+SOCI1,Total,Total,Lesbian or Gay,0.01,2018
+SOCI1,Total,Total,"Straight, that is, not gay",0.9,2018
+SOCI1,Total,Total,Bisexual,0.04,2018
+SOCI1,Total,Total,Something else,0,2018
+SOCI1,Total,Total,I don't know the answer,0,2018
+SOCI1,Total,Total,Refused,0.04,2018
+SOCI2,Total,Total,"Yes, Transgender male to female",0,2018
+SOCI2,Total,Total,"Yes, Transgender female to male",0,2018
+SOCI2,Total,Total,"Yes, Transgender, gender nonconforming",0.006,2018
+SOCI2,Total,Total,No,0.976,2018
+SOCI2,Total,Total,Don't know/Not sure,0,2018
+SOCI2,Total,Total,Refused,0.018,2018

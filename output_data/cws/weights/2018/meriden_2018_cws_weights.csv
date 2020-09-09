@@ -1,0 +1,16 @@
+group,weight,year
+Male,0.47,2018
+Female,0.53,2018
+Under age 55,0.65,2018
+Age 55 or older,0.35,2018
+White,0.66,2018
+Not white,0.33,2018
+High school or less,0.27,2018
+Some college or Associate's,0.34,2018
+Bachelor's or higher,0.37,2018
+<$30K,0.23,2018
+$30K-$75K,0.32,2018
+$75K+,0.35,2018
+Yes,0.36,2018
+No,0.64,2018
+Total,1,2018

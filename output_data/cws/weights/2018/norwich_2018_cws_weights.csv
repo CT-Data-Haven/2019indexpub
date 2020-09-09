@@ -1,0 +1,14 @@
+group,weight,year
+Male,0.5,2018
+Female,0.5,2018
+Under age 55,0.66,2018
+Age 55 or older,0.33,2018
+High School or less,0.4,2018
+Some college or Associate's,0.3,2018
+Bachelor's or higher,0.31,2018
+<$30K,0.32,2018
+$30K-$75K,0.32,2018
+$75K+,0.24,2018
+Yes,0.44,2018
+No,0.56,2018
+Total,1,2018

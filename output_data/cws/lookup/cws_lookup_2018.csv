@@ -1,13 +1,13 @@
 code,question
 Q1,are you satisfied with the city or area where you live
-Q2,as a place to live is the city or area where you live getting much better getting somewhat better remaining about the sa
+Q2,as a place to live is the city or area where you live getting much better getting somewhat better re
 Q4A,how responsive local government is to the needs of residents
 Q4D,the job done by the police to keep residents safe
 Q4E,the ability of residents to obtain suitable employment
 Q4F,as a place to raise children
 Q4G,the condition of public parks and other public recreational facilities
 Q4H,the availability of affordable highquality fruits and vegetables
-Q6,how would you describe your ability to influence localgovernment decision making would you say that you have great influ
+Q6,how would you describe your ability to influence localgovernment decision making would you say that 
 Q9,do you have access to a car when you need it would you say you have access
 Q57,now tell us more about yourself what is your marital status
 Q60,what is the number of adults 18 and older including yourself living in the household
@@ -15,8 +15,8 @@ Q11,do you own your home rent or something else
 MOVEYEAR,in what year did you move into your current home
 Q17A,many stores banks markets or places to go are within easy walking distance of my home
 Q17B,there are safe sidewalks and crosswalks on most of the streets in my neighborhood
-Q17C,there are places to bicycle in or near my neighborhood that are safe from traffic such as on the street or on special la
-Q17E,my neighborhood has several free or low cost recreation facilities such as parks playgrounds public swimming pools etc
+Q17C,there are places to bicycle in or near my neighborhood that are safe from traffic such as on the str
+Q17E,my neighborhood has several free or low cost recreation facilities such as parks playgrounds public 
 Q17F,i do not feel safe to go on walks in my neighborhood at night
 Q17G,people in this neighborhood can be trusted
 Q17H,children and youth in my town generally have the positive role models they need around here
@@ -26,12 +26,12 @@ LIFECB,get a job with opportunities for advancement
 LIFECC,be in a gang
 LIFECD,abuse drugs or alcohol
 LIFECF,get arrested for a felony
-Q19,the next set of questions are about your health how would you rate your overall health would you say your health is exce
+Q19,the next set of questions are about your health how would you rate your overall health would you say
 Q20,overall how satisfied are you with your life nowadays
 Q21,overall how happy did you feel yesterday
 Q22,overall how anxious did you feel yesterday
 Q23,overall to what extent do you have the time you need to do things that you really enjoy
-Q23PL,how strongly do you agree with this statement i lead a purposeful and meaningful life do you strongly agree agree slight
+Q23PL,how strongly do you agree with this statement i lead a purposeful and meaningful life do you strongl
 Q23A,high blood pressure or hypertension
 Q23C,diabetes
 Q23D,heart disease or have you ever had a heart attack
@@ -41,8 +41,8 @@ BMIR,bmi based on height and weight
 Q26,do you have health insurance
 Q27,what type of health insurance do you have
 Q28,during the past 12 months was there any time when you didnt get the medical care you needed
-Q29,and was there any time during the past 12 months when you put off or postponed getting medical care you thought you need
-Q31,during the past 12 months was there any time you needed prescription medicines but didnt get them because you couldnt af
+Q29,and was there any time during the past 12 months when you put off or postponed getting medical care 
+Q31,during the past 12 months was there any time you needed prescription medicines but didnt get them be
 Q32,do you have one person or place you think of as your personal doctor or health care provider
 Q33,is that because you have more than one personal doctor or none at all
 Q34,in the past 12 months how many times did you receive care in a hospital emergency room
@@ -53,58 +53,57 @@ Q37_3,feeling down depressed or hopeless
 Q38,in an average week how many days per week do you exercise
 Q39,have you smoked at least 100 cigarettes in your entire life
 Q40,do you currently smoke cigarettes every day some days or not at all
-Q42,have you ever tried using vapor or vape pens electronic cigarettes or ecigarettes such as blu vuse even just one time in
-Q43,if used vapor or vape pens electronic cigarettes or ecigarettes during the past 30 days on how many days did you use the
-ALCOHOL,considering all types of alcoholic beverages how many times during the past 30 days did you have <4 women 5 men> or more
+Q42,have you ever tried using vapor or vape pens electronic cigarettes or ecigarettes such as blu vuse e
+Q43,if used vapor or vape pens electronic cigarettes or ecigarettes during the past 30 days on how many 
+ALCOHOL,considering all types of alcoholic beverages how many times during the past 30 days did you have <5 
 POT1,during the past 30 days on how many days did you use marijuana or cannabis
-OPIOID2,i have a few questions about prescription painkillers when we ask about prescription painkillers we mean strong ones som
+OPIOID2,i have a few questions about prescription painkillers when we ask about prescription painkillers we 
 OPIOID4,do you personally know anyone who has ever died from an opioid overdose
-Q44,on another topic how well would you say you are managing financially these days would you say you are
-Q46,if you lost all your current sources of household income including your paycheck public assistance or other forms of inc
-DEBT,suppose you and others in your household were to sell all of your major possessions including your home turn all of your
+Q44,on another topic how well would you say you are managing financially these days would you say you ar
+Q46,if you lost all your current sources of household income including your paycheck public assistance o
+DEBT,suppose you and others in your household were to sell all of your major possessions including your h
 Q47,have you had a paid job in the last 30 days
 Q49,during this time has your job been full time or part time
-Q56,what is your primary means of transportation to work school or the place where you spend most of your time outside of ho
-Q62,have there been times in the past 12 months when you did not have enough money to buy food that you or your family neede
-Q64,in the last 12 months have you not had enough money to provide adequate shelter or housing for you or your family
-Q64_GAS,in the last 12 months has the electric gas oil or water company threatened to shut off services in your home
-Q65,in the past 12 months did you stay home when you needed or wanted to go someplace because you had no access to reliable 
+Q56,what is your primary means of transportation to work school or the place where you spend most of you
+Q62,have there been times in the past 12 months when you did not have enough money to buy food that you 
+Q64,in the last 12 months have you not had enough money to provide adequate shelter or housing for you o
+Q64_GAS,in the last 12 months has the electric gas oil or water company threatened to shut off services in y
+Q65,in the past 12 months did you stay home when you needed or wanted to go someplace because you had no
 Q66,in the last 12 months have you held a checking or savings account
-Q68,in the past 12 months have you had anyone deliberately vandalize try to steal or steal any property that you own or anyo
-Q69,in the past 12 months have you had an experience in which someone attacked you tried to take something from you by force
-DISCRIM1,at any time in your life have you ever been unfairly fired unfairly denied a promotion or raise or not hired for a job f
-DISCRIM2,have you ever been unfairly stopped searched questioned physically threatened or abused by the police
-DISCRIM4,have you ever been unfairly prevented from moving into a neighborhood because the landlord or a realtor refused to sell 
-DISCRIM5,when seeking health care have you ever been treated with less respect or received services that were not as good as what
+Q68,in the past 12 months have you had anyone deliberately vandalize try to steal or steal any property 
+Q69,in the past 12 months have you had an experience in which someone attacked you tried to take somethi
+DISCRIM1,at any time in your life have you ever been unfairly fired unfairly denied a promotion or raise or n
+DISCRIM2,have you ever been unfairly stopped searched questioned physically threatened or abused by the polic
+DISCRIM4,have you ever been unfairly prevented from moving into a neighborhood because the landlord or a real
+DISCRIM5,when seeking health care have you ever been treated with less respect or received services that were
 Q77,is english the primary language spoken in your home
 Q79,were you born in the united states
-MILITARY,have you ever served on active duty in the united states armed forces either in the regular military or in a national gu
-DISABILITY,does any disability handicap or chronic disease keep you from participating fully in work school housework or other acti
-SOCI1,the next two questions are about sexual orientation and gender identity which of the following best represents how you t
+MILITARY,have you ever served on active duty in the united states armed forces either in the regular military
+DISABILITY,does any disability handicap or chronic disease keep you from participating fully in work school hou
+SOCI1,the next two questions are about sexual orientation and gender identity which of the following best 
 SOCI2,do you consider yourself to be transgender
-Q5,over the past 12 months have you volunteered for or through an organization or helped out as a volunteer to address need
-Q8,during the past 12 months how often have you utilized arts and cultural resources within the area such as concerts museu
-CHILDCARE,if living with children who have not yet started kindergarten how easy or hard do you think it is to find child care for
-Q12,do you live in a subsidized apartment or are you receiving rental assistance through either a state or federal program
+Q5,over the past 12 months have you volunteered for or through an organization or helped out as a volun
+Q8,during the past 12 months how often have you utilized arts and cultural resources within the area su
+CHILDCARE,if living with children who have not yet started kindergarten how easy or hard do you think it is to
+Q12,do you live in a subsidized apartment or are you receiving rental assistance through either a state 
 RECENTMOVE,where were you living just before you moved to your current home in <year>
-RENTPREVST,did you own your previous home that you moved from in <year>
-RENTEVICTx1,were you or a person you were staying with evicted from the home you moved from in <year>
-RENTEVICTx2,did you own your previous home that you moved from in <year>
+RENTPREVST,if moved since 2016 and currently do not own a home did you own your previous home that you moved fr
+RENTEVICT,if moved since 2016 currently do not own a home and previously rented a home an eviction is when you
 RENTEVICTRA,received an eviction notice
 RENTEVICTRAB,your landlord told you or a person you were staying with to leave
-RENTEVICTRC,you or a person you were staying with missed a rent payment and thought that if you didnt move you would be evicted
-RENTMOVEOT,if moved since 2016 currently own or rent a home and not evicted please tell me which of the following reasons contribut
-Q13R1,in the past 12 months have you experienced any problems with your house or apartment that you felt needed to be fixed su
+RENTEVICTRC,you or a person you were staying with missed a rent payment and thought that if you didnt move you w
+RENTMOVEOT,if moved since 2016 currently own or rent a home and not evicted please tell me which of the followi
+Q13R1,in the past 12 months have you experienced any problems with your house or apartment that you felt n
 Q13R2,did you contact your landlord about the problem that needed to be fixed
 Q13R3,how much difficulty did you have trying to get them to fix the probem
 Q14R1,do you expect to purchase a home in the next 5 years
-Q14R2,if not own home and probably or definitely expect to purchase home in next 5 years how likely is it that that home will 
-Q15,do you think your current home has the physical features it needs to be suitable and convenient as a place to grow older
-Q18,if the fire station closest to your home was going to be closed down by your city or town how likely is it that neighbor
+Q14R2,if not own home and probably or definitely expect to purchase home in next 5 years how likely is it 
+Q15,do you think your current home has the physical features it needs to be suitable and convenient as a
+Q18,if the fire station closest to your home was going to be closed down by your city or town how likely
 Q23A1,do you take medication prescribed for you for this condition on a regular basis
-Q23C1,a test of a one c measures the average level of blood sugar over the past three months about how many times in the past 
-Q23E3,during the past 12 months how many times did you visit an emergency room or urgent care center because of your asthma
-Q23E1,during the past 30 days how often have you used a prescription asthma inhaler during an asthma attack to stop it
+Q23C1,a test of a one c measures the average level of blood sugar over the past three months about how man
+Q23E3,during the past 12 months how many times did you visit an emergency room or urgent care center becau
+Q23E1,during the past 30 days how often have you used a prescription asthma inhaler during an asthma attac
 BMI,bmi based on height and weight
 Q30A,you were worried about the cost
 Q30B,the doctor or hospital wouldnt accept your health insurance
@@ -114,22 +113,22 @@ Q30E,you couldnt get there when the doctors office or clinic was open
 Q30F,you were too busy with work or other commitments to take the time
 Q30H,you didnt have time because of caregiving obligations
 Q30G,you didnt think the problem was serious enough
-Q31_1,during the past 12 months was there any time you altered the way you take your prescription medicines such as taking onl
+Q31_1,during the past 12 months was there any time you altered the way you take your prescription medicine
 Q37,do you have relatives or friends who you can count on to help you when you need them or not
 POT2,when you used marijuana or cannabis during the past 30 days was it usually
-OPIOID2_1,who do you know that has struggled with this at any point during the past 3 years is it
-OPIOID4_1,who do you know that has ever died from an opioid overdose is it
-Q45,think of your parents when they were your age would you say you are better off financially than they were or not
+OPIOID2_1,who do you know that has struggled with this at any point during the past 3 years is it yesno to eac
+OPIOID4_1,who do you know that has ever died from an opioid overdose is it yesno to each
+Q45,think of your parents when they were your age would you say you are better off financially than they
 Q48,for how long have you not had a paid job
 Q50,are you working parttime by choice or would you rather have a fulltime job
-Q61,which of these devices do you have
-Q63,how often did this happen almost every month some months but not every month or in only 1 or 2 months
-Q65_1,in the past 12 months did you ever stay home from a doctors appointment or a visit to a health care provider because you
-DISCRIM1_2,what do you think is the main reason for these experiences
-DISCRIM1_1,how many times did this happen to you during the past 3 years
-DISCRIM2_2,what do you think is the main reason for these experiences
-DISCRIM2_1,how many times did this happen to you during the past 3 years
-DISCRIM2_3,when this happened during the past 3 years where did this happen
+Q61,which of these devices do you have yesno to each
+Q63,how often did this happen almost every month some months but not every month or in only 1 or 2 month
+Q65_1,in the past 12 months did you ever stay home from a doctors appointment or a visit to a health care 
+DISCRIM1_2,if unfairly fired unfairly denied a promotion or raise or not hired for a job for unfair reasons wha
+DISCRIM1_1,if unfairly fired unfairly denied a promotion or raise or not hired for a job for unfair reasons how
+DISCRIM2_2,if unfairly stopped searched questioned physically threatened or abused by the police what do you th
+DISCRIM2_1,if unfairly stopped searched questioned physically threatened or abused by the police how many times
+DISCRIM2_3,if unfairly stopped searched questioned physically threatened or abused by the police when this happ
 DISCRIM5_2,what do you think is the main reason for these experiences
 DISCRIM5_1,how many times did this happen to you during the past 3 years
 DISCRIM5_3,when this happened during the past 3 years where did this happen
@@ -137,35 +136,34 @@ Q78,what language is the primary language spoken in your home
 Q80,how many years have you lived in the united states
 Q4B,the availability of the goods and services that meet your needs
 Q58,how many children under the age of 18 are living in your household
-OWNRECEMOV,please tell me which of the following are reasons that you moved to your current home in <year>
+OWNRECEMOV,please tell me which of the following are reasons that you moved to your current home in <moveyear>
 RENTEVICTRB,your landlord told you or a person you were staying with to leave
-RENTFORECLAx1,bank took possession of your home in foreclosure
-RENTFORECLAx2,missed mortgage payments and thought that if you didnt move the bank would foreclose on your home
+RENTFORECLA,if moved since 2016 currently do not own a home and previously owned a home bank took possession of 
 RENTFORECLB,received a notice from the bank that they planned to foreclose
-HIV1,the next few questions are about the national health problem of hiv the virus that causes aids please remember that your
+HIV1,the next few questions are about the national health problem of hiv the virus that causes aids pleas
 HIV2,have you been offered an hiv test in the past year ie 12 months by your doctor
-HIV3,i am going to read you a list when i am done please tell me if any of the situations apply to you during the past year y
+HIV3,i am going to read you a list when i am done please tell me if any of the situations apply to you du
 Q51,in total how many hours per week do you work at paying jobs
 Q52,over the past 5 years was there ever a time when you were out of work and looking for a job
 Q53,does your current job pay more less or about the same as your last job
-Q54,do you feel you have both the education and training necessary to get ahead in your job or career or do you need either 
-Q55,do you feel you have both the education and training necessary to get the kind of job you want or do you need either mor
+Q54,do you feel you have both the education and training necessary to get ahead in your job or career or
+Q55,do you feel you have both the education and training necessary to get the kind of job you want or do
 Q56NEW,how many minutes does it usually take to get from home to work one way
 Q70,how many times did this happen to you in the last 12 months
 Q71,were you physically injured in any way
 Q72,did you receive medical attention from a doctor or nurse for any of these injuries
 Q73,did it get reported to the police in any way
-Q74,did the police take any actions such as visiting the scene making a report looking for a suspect filing any charges maki
-Q77NEW,thinking of any of the experiences in which you were attacked or threatened did any of them involve someone that you kno
-DISCRIM3,have you ever received service from someone such as a plumber car mechanic or other service provider that was worse than
+Q74,did the police take any actions such as visiting the scene making a report looking for a suspect fil
+Q77NEW,thinking of any of the experiences in which you were attacked or threatened did any of them involve 
+DISCRIM3,have you ever received service from someone such as a plumber car mechanic or other service provider
 DISCRIM3_2,what do you think is the main reason for these experiences
 DISCRIM3_1,how many times did this happen to you during the past 3 years
 DISCRIM4_2,what do you think is the main reason for these experiences
 DISCRIM4_1,how many times did this happen to you during the past 3 years
-ENROLLED,if age is 1834 are you currently enrolled in any school college or other posthigh school educational program that will l
-NOCOLLEGE1,if age is 1834 did not enroll in college previously and not currently enrolled which of the following are reasons why yo
-SOMECOLLEG,if age is 1834 enrolled in college previously but did not complete a college degree and not currently enrolled which of 
-TRANSG1,we have a few additional questions about your experiences with doctors or health care providers do you feel that your pr
-TRANSG2,if transgender and transg1yes why do you feel that your primary health care provider does provide transgender inclusive 
-TRANSG3,if transgender and transg1no why do you feel that your primary health care provider does not provide transgender inclusi
-TRANSG4,was there ever a time in the past 12 months when you needed to see a doctor or other health care provider but did not be
+ENROLLED,if age is 1834 are you currently enrolled in any school college or other posthigh school educational
+NOCOLLEGE1,if age is 1834 did not enroll in college previously and not currently enrolled which of the followin
+SOMECOLLEG,if age is 1834 enrolled in college previously but did not complete a college degree and not currentl
+TRANSG1,we have a few additional questions about your experiences with doctors or health care providers do y
+TRANSG2,if transgender and transg1=yes why do you feel that your primary health care provider does provide t
+TRANSG3,if transgender and transg1=no why do you feel that your primary health care provider does not provid
+TRANSG4,was there ever a time in the past 12 months when you needed to see a doctor or other health care pro

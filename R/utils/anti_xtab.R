@@ -44,10 +44,11 @@ question_codes <- function(.data, col, pattern) {
     # no standalone codes --> separate codes and questions using pattern
     anti_pattern <- pattern %>%
       stringr::str_remove("\\$") %>%
-      sprintf("(?<=%s)\\b", .)
+      sprintf("(%s)[\\.\\s]+(.+$)", .)
     .data %>%
       dplyr::mutate(q = str_remove_all(q, "\\.")) %>%
-      tidyr::separate(q, into = c("code", "q"), sep = anti_pattern, fill = "left") %>%
+      # tidyr::separate(q, into = c("code", "q"), sep = anti_pattern, fill = "left") %>%
+      tidyr::extract(q, into = c("code", "q"), regex = anti_pattern) %>%
       dplyr::mutate(q = str_trim(q)) %>%
       dplyr::filter(!is.na(code)) %>%
       dplyr::select(q_number, code, q) %>%
@@ -170,7 +171,7 @@ read_xtabs <- function(path, col_names = F, name_prefix = "x", until = "Nature o
 }
 
 read_weights <- function(path, marker = "Nature of the [Ss]ample") {
-  data <- readxl::read_excel(path, col_names = F, .name_repair = "minimal") %>%
+  data <- readxl::read_excel(path, col_names = FALSE) %>%
     rlang::set_names(paste0("x", 1:ncol(.)))
   first_col <- rlang::sym(names(data)[1])
 
