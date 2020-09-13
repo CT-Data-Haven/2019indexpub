@@ -132,22 +132,24 @@ out$less_than_2mo_savings <- cws_split$less_than_2mo_savings %>%
 
 # taking out underemployment since I always screw it up
 # underemployment: (no job + (part time x want full time x working)) / labor force
-# unemployed <- cws_split$underemp1 %>%
-#   collapse_response(list(working = "Yes", unemployed = "No, but would like to work"), nons = NULL)
-# labor_force <- cws_split$underemp1 %>%
-#   collapse_response(list(labor_force = c("Yes", "No, but would like to work")), nons = NULL)
-# part_time <- cws_split$underemp2 %>% 
-#   collapse_response(list(parttime = "Part time"), nons = "Refused")
-# prefer_ft <- cws_split$underemp3 %>%
-#   collapse_response(list(prefer_ft = "Rather have a full time job"), nons = "Refused")
-# 
-# out$underemployment <- lst(labor_force, unemployed, part_time, prefer_ft) %>%
-#   map(spread, key = response, value) %>%
-#   map(select, -code, -indicator) %>%
-#   reduce(inner_join, by = c("name", "category", "group", "year")) %>%
-#   mutate(value = (unemployed + (working * parttime * prefer_ft)) / labor_force) %>%
-#   select(name, category, group, year, value)
-# rm(unemployed, labor_force, part_time, prefer_ft)
+
+unemployed <- cws_split$underemp1 %>%
+  collapse_response(list(working = "Yes", unemployed = "No, but would like to work"), nons = NULL)
+labor_force <- cws_split$underemp1 %>%
+  collapse_response(list(labor_force = c("Yes", "No, but would like to work")), nons = NULL)
+part_time <- cws_split$underemp2 %>%
+  collapse_response(list(parttime = "Part time"), nons = "Refused")
+prefer_ft <- cws_split$underemp3 %>%
+  collapse_response(list(prefer_ft = "Rather have a full time job"), nons = "Refused")
+
+
+out$underemployment <- lst(labor_force, unemployed, part_time, prefer_ft) %>%
+  map(spread, key = response, value) %>%
+  map(select, -code, -indicator) %>%
+  reduce(inner_join, by = c("name", "category", "group", "year")) %>%
+  mutate(value = (unemployed + (working * parttime * prefer_ft)) / labor_force) %>%
+  select(name, category, group, year, value) 
+rm(unemployed, labor_force, part_time, prefer_ft)
 
 # no bank account: no
 out$no_bank_account <- cws_split$no_bank_account %>%
