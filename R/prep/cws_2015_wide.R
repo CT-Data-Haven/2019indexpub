@@ -5,10 +5,14 @@ source(file.path("R", "utils", "anti_xtab.R"))
 source(file.path("R", "utils", "cws_read_functions.R"))
 
 # google sheet of which indicators to include with their headings & codes
-
+# collapse less than HS + HS so groups match 2018 data
 lookup <- read_csv("https://docs.google.com/spreadsheets/d/1UY6slMipfH_XouWhlefe0pA_gBwtHGJlzvtu7gUsk8A/export?format=csv&gid=434948615") %>%
   filter(!is.na(indicator)) %>%
   mutate(indicator = as_factor(indicator))
+
+wts <- list.files(file.path("output_data", "cws", "weights", "2015"), full.names = TRUE) %>%
+  set_names(str_extract, "(?<=\\/)([\\w\\d]+)(?=_\\d{4})") %>%
+  map_dfr(read_csv, .id = "name")
 
 cws_read <- list.files(file.path("output_data", "cws", "long", "2015"), "*.csv", full.names = TRUE) %>%
   set_names(~str_match_all(., "/([\\w\\d]+)_2015") %>% map_chr(2)) %>%
@@ -16,7 +20,13 @@ cws_read <- list.files(file.path("output_data", "cws", "long", "2015"), "*.csv",
   inner_join(lookup %>% select(indicator, code), by = "code") %>%
   filter(!str_detect(response, "(Summary|\\*|based on)") | indicator == "obesity") %>%
   filter(category != "Race/Ethnicity" | group %in% c("White", "Black", "Latino")) %>%
-  mutate_at(vars(category, group), as_factor)
+  left_join(wts, by = c("name", "group", "year")) %>%
+  mutate(across(c(category:group, response), as_factor),
+         weight = replace_na(weight, 1),
+         group = fct_collapse(group, "High school or less" = c("Less than high school", "High school"))) %>%
+  group_by(across(c(-value, -weight))) %>%
+  summarise(value = weighted.mean(value, weight)) %>%
+  ungroup()
 
 
 
@@ -130,7 +140,6 @@ out$financial_insecurity <- cws_split$financial_insecurity %>%
 out$less_than_2mo_savings <- cws_split$less_than_2mo_savings %>%
   collapse_response(list(less_than_2 = c("Less than a month", "At least one month but less than 2")))
 
-# taking out underemployment since I always screw it up
 # underemployment: (no job + (part time x want full time x working)) / labor force
 
 unemployed <- cws_split$underemp1 %>%
